@@ -15,7 +15,9 @@ df = pd.read_csv("finalrecycling.csv")
 
 app = dash.Dash(__name__)
 
-blackbold={'color':'black', 'font-weight': 'bold'} #To achieve the correct styling, plaase download the css file
+blackbold={'color':'black', 'font-weight': 'bold'} 
+# to achieve the correct styling, download the assets folder with the css file and paste 
+# them into the same python directory where you're runnig your recylcing.py code
 
 app.layout = html.Div([
 #---------------------------------------------------------------
