@@ -1,0 +1,788 @@
+name_location,website,boro,address_area,latitude,longitude,type,color,hov_txt
+Mary Mitchell Center ,http://themarymitchellfyc.org/,Bronx,"2007 Mapes Ave, Bronx 10460",40.844772,-73.887226,compost,#ff00ff,"compost<br>Name: Mary Mitchell Center <br>Address: 2007 Mapes Ave, Bronx 10460"
+Bronx Borough Hall Greenmarket,http://www.grownyc.org/compost/locations,Bronx,"Grand Concourse and 161 St, Bronx, NY, 10451",40.8269197,-73.9225039,compost,#ff00ff,"compost<br>Name: Bronx Borough Hall Greenmarket<br>Address: Grand Concourse and 161 St, Bronx, NY, 10451"
+Compost drop off BronxWorks ,http://www.grownyc.org/compost/locations,Bronx,1130 Grand Concourse,40.8326398,-73.9187735,compost,#ff00ff,compost<br>Name: Compost drop off BronxWorks <br>Address: 1130 Grand Concourse
+"Learn it, Grow it, Eat it Youthmarket",http://www.grownyc.org/compost/locations,Bronx,McKinley Sq. at 169th St. & Boston Road,40.8312021,-73.9004133,compost,#ff00ff,"compost<br>Name: Learn it, Grow it, Eat it Youthmarket<br>Address: McKinley Sq. at 169th St. & Boston Road"
+Parkchester Greenmarket,http://www.grownyc.org/compost/locations,Bronx,"White Plains Rd & Westchester Ave, Bronx, NY 10472",40.833022,-73.8627284,compost,#ff00ff,"compost<br>Name: Parkchester Greenmarket<br>Address: White Plains Rd & Westchester Ave, Bronx, NY 10472"
+Poe Park Greenmarket,http://www.grownyc.org/compost/locations,Bronx,"E. 192 St. btwn Grand Concourse and Valentine, Bronx, NY, 10468",40.8641072,-73.8950656,compost,#ff00ff,"compost<br>Name: Poe Park Greenmarket<br>Address: E. 192 St. btwn Grand Concourse and Valentine, Bronx, NY, 10468"
+Compost drop off Lehman College,http://www.lehman.edu/administration/sustainability/food-scrap-drop-off.php,Bronx,Lehman Quad near Shuster Hall,40.8745635,-73.8916183,compost,#ff00ff,compost<br>Name: Compost drop off Lehman College<br>Address: Lehman Quad near Shuster Hall
+Compost drop off 170 Farmstand,https://newsettlement.org/food/170farmstand/,Bronx,Townsend Ave & 170 St,40.839961,-73.916663,compost,#ff00ff,compost<br>Name: Compost drop off 170 Farmstand<br>Address: Townsend Ave & 170 St
+Kelly Street Garden,https://www.facebook.com/kellyst.garden/,Bronx,924 Kelly Street,40.820403,-73.895686,compost,#ff00ff,compost<br>Name: Kelly Street Garden<br>Address: 924 Kelly Street
+Project H.O.P.E. Fresh Food Box,https://www.grownyc.org/compost/locations,Bronx,854 Hunts Point Ave,40.818032,-73.888644,compost,#ff00ff,compost<br>Name: Project H.O.P.E. Fresh Food Box<br>Address: 854 Hunts Point Ave
+Compost drop off We Stay-Nos Quedamos ,https://www.grownyc.org/compost/locations,Bronx,754 Melrose Avenue,40.82127,-73.91537,compost,#ff00ff,compost<br>Name: Compost drop off We Stay-Nos Quedamos <br>Address: 754 Melrose Avenue
+La Familia Verde Farmer's Market,https://www.grownyc.org/compost/locations; http://www.lafamiliaverde.org/,Bronx,"E Tremont Ave, between Lafontaine and Arthur Aves, Bronx 10457",40.846452,-73.894096,compost,#ff00ff,"compost<br>Name: La Familia Verde Farmer's Market<br>Address: E Tremont Ave, between Lafontaine and Arthur Aves, Bronx 10457"
+Compost drop off Burnside Ave,https://www.grownyc.org/compost-go,Bronx,"Burnside Ave, Jerome Ave - SW Corner",40.8534,-73.9077,compost,#ff00ff,"compost<br>Name: Compost drop off Burnside Ave<br>Address: Burnside Ave, Jerome Ave - SW Corner"
+Compost on-the-go,https://www.grownyc.org/compost-go,Bronx,"138th, Brook Ave - NW Corner",40.80766,-73.9193,compost,#ff00ff,"compost<br>Name: Compost on-the-go<br>Address: 138th, Brook Ave - NW Corner"
+Compost on-the-go,https://www.grownyc.org/compost-go,Bronx,"149th St, Melrose, & 3rd Ave - N Corner",40.81622,-73.9176,compost,#ff00ff,"compost<br>Name: Compost on-the-go<br>Address: 149th St, Melrose, & 3rd Ave - N Corner"
+Compost on-the-go,https://www.grownyc.org/compost-go,Bronx,"161st, River Ave - NE Corner",40.82805,-73.9257,compost,#ff00ff,"compost<br>Name: Compost on-the-go<br>Address: 161st, River Ave - NE Corner"
+Compost on-the-go,https://www.grownyc.org/compost-go,Bronx,"Grand Concourse, 149th Street - SE Corner",40.81844,-73.9272,compost,#ff00ff,"compost<br>Name: Compost on-the-go<br>Address: Grand Concourse, 149th Street - SE Corner"
+Compost drop off Fordham Road,https://www.grownyc.org/compost-go,Bronx,E Fordham Road & Jerome Ave - SE Corner,40.862707,-73.901042,compost,#ff00ff,compost<br>Name: Compost drop off Fordham Road<br>Address: E Fordham Road & Jerome Ave - SE Corner
+Fordham Plaza Greenmarket,https://www.grownyc.org/greenmarket/bronx/fordham,Bronx,E Fordham Rd btw Webster Ave & Third Ave - S,40.86115,-73.8908,compost,#ff00ff,compost<br>Name: Fordham Plaza Greenmarket<br>Address: E Fordham Rd btw Webster Ave & Third Ave - S
+Bainbridge Avenue Community Garden,,Bronx,"2980 Bainbridge Avenue, Bronx, NY 10458",40.87094,-73.883947,compost,#ff00ff,"compost<br>Name: Bainbridge Avenue Community Garden<br>Address: 2980 Bainbridge Avenue, Bronx, NY 10458"
+Compost drop off Brook Park,,Bronx,494 East 141 St.,40.80948,-73.918294,compost,#ff00ff,compost<br>Name: Compost drop off Brook Park<br>Address: 494 East 141 St.
+Meg's Community Garden in Dewitt Clinton High School Campus,,Bronx,100 West Mosholu Parkway,40.881233,-73.887583,compost,#ff00ff,compost<br>Name: Meg's Community Garden in Dewitt Clinton High School Campus<br>Address: 100 West Mosholu Parkway
+New Roots Community Farm,,Bronx,670 Grand Concourse,40.82135,-73.924049,compost,#ff00ff,compost<br>Name: New Roots Community Farm<br>Address: 670 Grand Concourse
+St. Augustine Food Pantry,,Bronx,1168 Franklin Ave,40.829353,-73.903424,compost,#ff00ff,compost<br>Name: St. Augustine Food Pantry<br>Address: 1168 Franklin Ave
+East 4th Street Community Garden,http://eastfourthstreetgarden.tumblr.com/,Brooklyn,173 East 4th Street,40.648502,-73.976416,compost,#ff00ff,compost<br>Name: East 4th Street Community Garden<br>Address: 173 East 4th Street
+Red Hook Community Farm,http://www.added-value.org/compost,Brooklyn,Otsego Street and Beard Street,40.6722226,-74.0109856,compost,#ff00ff,compost<br>Name: Red Hook Community Farm<br>Address: Otsego Street and Beard Street
+Compost drop off Big Reuse Brooklyn,http://www.bigreuse.org/compost/drop-off-list/,Brooklyn,"69 9th St, Brooklyn, NY, 11215",40.673815,-73.9949411,compost,#ff00ff,"compost<br>Name: Compost drop off Big Reuse Brooklyn<br>Address: 69 9th St, Brooklyn, NY, 11215"
+Brooklyn Borough Hall Greenmarket ,http://www.grownyc.org/compost/locations,Brooklyn,"Court St & Montague St, Brooklyn, NY 11201",40.6937566,-73.9904735,compost,#ff00ff,"compost<br>Name: Brooklyn Borough Hall Greenmarket <br>Address: Court St & Montague St, Brooklyn, NY 11201"
+Carroll Gardens Greenmarket,http://www.grownyc.org/compost/locations,Brooklyn,"Carroll St. btwn Smith & Court Sts, Brooklyn, NY 11231",40.680852,-73.9955995,compost,#ff00ff,"compost<br>Name: Carroll Gardens Greenmarket<br>Address: Carroll St. btwn Smith & Court Sts, Brooklyn, NY 11231"
+Cortelyou Greenmarket,http://www.grownyc.org/compost/locations,Brooklyn,"Cortelyou Rd at Rugby Rd, Brooklyn, NY, 11226",40.6408302,-73.9652999,compost,#ff00ff,"compost<br>Name: Cortelyou Greenmarket<br>Address: Cortelyou Rd at Rugby Rd, Brooklyn, NY, 11226"
+Fort Greene Greenmarket,http://www.grownyc.org/compost/locations,Brooklyn,"Washington Park between Willoughby Avenue & Dekalb Avenue, Brooklyn, NY 11201",40.69132,-73.9735,compost,#ff00ff,"compost<br>Name: Fort Greene Greenmarket<br>Address: Washington Park between Willoughby Avenue & Dekalb Avenue, Brooklyn, NY 11201"
+Grand Army Plaza Greenmarket,http://www.grownyc.org/compost/locations,Brooklyn,"Prospect Park West & Plaza Street West, Brooklyn, 11238",40.6726424,-73.9704304,compost,#ff00ff,"compost<br>Name: Grand Army Plaza Greenmarket<br>Address: Prospect Park West & Plaza Street West, Brooklyn, 11238"
+McCarren Park Greenmarket,http://www.grownyc.org/compost/locations,Brooklyn,"Union Ave at Driggs Ave,Brooklyn,NY,11222",40.720471,-73.952713,compost,#ff00ff,"compost<br>Name: McCarren Park Greenmarket<br>Address: Union Ave at Driggs Ave,Brooklyn,NY,11222"
+Park Church Co-op,http://www.parkchurchcoop.org,Brooklyn,"Park Church Co-op, 129 Russell Street Brooklyn",40.725018,-73.94472,compost,#ff00ff,"compost<br>Name: Park Church Co-op<br>Address: Park Church Co-op, 129 Russell Street Brooklyn"
+Bay View Houses Farm,https://ucceny.org/enyf/,Brooklyn,5955 Shore Parkway,40.633663,-73.885955,compost,#ff00ff,compost<br>Name: Bay View Houses Farm<br>Address: 5955 Shore Parkway
+Pink Houses Community Farm,https://ucceny.org/enyf/,Brooklyn,1257 Loring Avenue,40.66809,-73.865533,compost,#ff00ff,compost<br>Name: Pink Houses Community Farm<br>Address: 1257 Loring Avenue
+UCC Youth Farm,https://ucceny.org/enyf/,Brooklyn,613 New Lots Avenue,40.66496,-73.886675,compost,#ff00ff,compost<br>Name: UCC Youth Farm<br>Address: 613 New Lots Avenue
+Compost drop off Parkside,https://www.grownyc.org/greenmarket/brooklyn/parkside,Brooklyn,"Ocean Ave & Parkside Ave, Brooklyn, NY 11226",40.65507,-73.96169,compost,#ff00ff,"compost<br>Name: Compost drop off Parkside<br>Address: Ocean Ave & Parkside Ave, Brooklyn, NY 11226"
+462 Halsey Community Farm Fresh Food Box,http://www.462halsey.com/compost/,Brooklyn,462 Halsey Street,40.683282,-73.935667,compost,#ff00ff,compost<br>Name: 462 Halsey Community Farm Fresh Food Box<br>Address: 462 Halsey Street
+Prospect Heights Community Farm,https://www.phcfarm.com/gardening-info/composting/,Brooklyn,252 St. Marks Ave,40.678196,-73.967427,compost,#ff00ff,compost<br>Name: Prospect Heights Community Farm<br>Address: 252 St. Marks Ave
+"Q Gardens Community Farm, Inc.",https://www.qgardens.org,Brooklyn,"58 E 18th St, Brooklyn, NY 11226",40.650381,-73.963432,compost,#ff00ff,"compost<br>Name: Q Gardens Community Farm, Inc.<br>Address: 58 E 18th St, Brooklyn, NY 11226"
+Bushwick Grows! Community Garden,https://www.riseboro.org/rb/health/bushwick_cooks/bushwick-grows-community-farm/,Brooklyn,1474 Gates Ave,40.697523,-73.913913,compost,#ff00ff,compost<br>Name: Bushwick Grows! Community Garden<br>Address: 1474 Gates Ave
+Wyckoff Farmhouse Museum,https://wyckoffmuseum.org/,Brooklyn,5816 Clarendon Rd,40.644516,-73.920387,compost,#ff00ff,compost<br>Name: Wyckoff Farmhouse Museum<br>Address: 5816 Clarendon Rd
+Essex Community Garden,,Brooklyn,3030 Fulton Street,40.680355,-73.882995,compost,#ff00ff,compost<br>Name: Essex Community Garden<br>Address: 3030 Fulton Street
+Imani Garden,,Brooklyn,1680 Pacific Street,40.676782,-73.932943,compost,#ff00ff,compost<br>Name: Imani Garden<br>Address: 1680 Pacific Street
+Irving Square Park,,Brooklyn,Corner of Halsey and Knickerbocker,40.6929796,-73.9081621,compost,#ff00ff,compost<br>Name: Irving Square Park<br>Address: Corner of Halsey and Knickerbocker
+Phoenix Community Garden,,Brooklyn,20 Somers Street,40.678708,-73.911357,compost,#ff00ff,compost<br>Name: Phoenix Community Garden<br>Address: 20 Somers Street
+Bryant Park,http://bryantpark.org/programs/waste-sorting-concierge,Manhattan,6th Avenue and 41st Sreet,40.753588,-73.983233,compost,#ff00ff,compost<br>Name: Bryant Park<br>Address: 6th Avenue and 41st Sreet
+Pleasant Village Community Garden,http://m.facebook.com/pleasantvillagecommunitygarden,Manhattan,342 Pleasant Ave,40.79667,-73.931728,compost,#ff00ff,compost<br>Name: Pleasant Village Community Garden<br>Address: 342 Pleasant Ave
+Roosevelt Island under the Helix,http://www.bigreuse.org/compost/drop-off-list/,Manhattan,543 West Main Street at the Chapel of the Good Shepherd,40.761706,-73.950244,compost,#ff00ff,compost<br>Name: Roosevelt Island under the Helix<br>Address: 543 West Main Street at the Chapel of the Good Shepherd
+Compost drop off 175th Street Greenmarket ,http://www.grownyc.org/compost/locations,Manhattan,"175th Street between Wadsworth Avenue and Broadway, New York, NY",40.8461084,-73.9381243,compost,#ff00ff,"compost<br>Name: Compost drop off 175th Street Greenmarket <br>Address: 175th Street between Wadsworth Avenue and Broadway, New York, NY"
+Compost drop off 79th St Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,Columbus Avenue and 79th Street,40.7819529,-73.9754869,compost,#ff00ff,compost<br>Name: Compost drop off 79th St Greenmarket<br>Address: Columbus Avenue and 79th Street
+Compost drop off 82nd St Greenmarket [St. Stevens],http://www.grownyc.org/compost/locations,Manhattan,82nd Street between 1st and York Avenues,40.7742982,-73.9512624,compost,#ff00ff,compost<br>Name: Compost drop off 82nd St Greenmarket [St. Stevens]<br>Address: 82nd Street between 1st and York Avenues
+Compost drop off 97th Street Greenmarket ,http://www.grownyc.org/compost/locations,Manhattan,"97th St between Columbus & Amsterdam, Manhattan",40.7941768,-73.9684124,compost,#ff00ff,"compost<br>Name: Compost drop off 97th Street Greenmarket <br>Address: 97th St between Columbus & Amsterdam, Manhattan"
+Abingdon Square Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,"West 12 Street and 8 Avenue,New York,NY,10014",40.7375462,-74.0048128,compost,#ff00ff,"compost<br>Name: Abingdon Square Greenmarket<br>Address: West 12 Street and 8 Avenue,New York,NY,10014"
+Bowling Green Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,"Broadway at Battery Place,New York,NY, 10004",40.704594,-74.0142515,compost,#ff00ff,"compost<br>Name: Bowling Green Greenmarket<br>Address: Broadway at Battery Place,New York,NY, 10004"
+Columbia University Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,"Broadway at West 114 St,New York,NY,10025",40.8067454,-73.9649594,compost,#ff00ff,"compost<br>Name: Columbia University Greenmarket<br>Address: Broadway at West 114 St,New York,NY,10025"
+Compost on-the-go Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,10th Avenue & West 57th Street,40.76911,-73.98855,compost,#ff00ff,compost<br>Name: Compost on-the-go Greenmarket<br>Address: 10th Avenue & West 57th Street
+Compost on-the-go Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,"1st Ave between 92nd and 93rd St,New York,NY,10128",40.7810344,-73.9463184,compost,#ff00ff,"compost<br>Name: Compost on-the-go Greenmarket<br>Address: 1st Ave between 92nd and 93rd St,New York,NY,10128"
+Fort Washington Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,"168th Street at Fort Washington,New York,NY 10032",40.8421716,-73.942289,compost,#ff00ff,"compost<br>Name: Fort Washington Greenmarket<br>Address: 168th Street at Fort Washington,New York,NY 10032"
+Inwood Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,"Isham St at Cooper,New York,NY, 10034",40.8690103,-73.9203259,compost,#ff00ff,"compost<br>Name: Inwood Greenmarket<br>Address: Isham St at Cooper,New York,NY, 10034"
+Mount Sinai Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,"East 99th St at Madison,New York,NY, 10029",40.7891821,-73.9527316,compost,#ff00ff,"compost<br>Name: Mount Sinai Greenmarket<br>Address: East 99th St at Madison,New York,NY, 10029"
+Tompkins Square Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,"E 7th St & Avenue A, New York, NY 10009",40.7260554,-73.9835429,compost,#ff00ff,"compost<br>Name: Tompkins Square Greenmarket<br>Address: E 7th St & Avenue A, New York, NY 10009"
+Tucker Square Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,"Columbus Ave & W 66th St, New York, NY 10023",40.7736069,-73.9815795,compost,#ff00ff,"compost<br>Name: Tucker Square Greenmarket<br>Address: Columbus Ave & W 66th St, New York, NY 10023"
+Union Square Greenmarket,http://www.grownyc.org/compost/locations,Manhattan,"E 17th St & Union Square E, New York, NY",40.737098,-73.9903523,compost,#ff00ff,"compost<br>Name: Union Square Greenmarket<br>Address: E 17th St & Union Square E, New York, NY"
+Lenox Hill Neighborhood House Fresh Food Box,http://www.grownyc.org/greenmarketco/foodbox,Manhattan,1st Avenue Between 70th St and 71st St,40.7670054,-73.9578326,compost,#ff00ff,compost<br>Name: Lenox Hill Neighborhood House Fresh Food Box<br>Address: 1st Avenue Between 70th St and 71st St
+Uptown Grand Central Fresh Food Box,http://www.grownyc.org/greenmarketco/foodbox,Manhattan,"125th Street at Park Avenue, outside the Metro-North Station",40.8051411,-73.9391249,compost,#ff00ff,"compost<br>Name: Uptown Grand Central Fresh Food Box<br>Address: 125th Street at Park Avenue, outside the Metro-North Station"
+Harlem Grown,http://www.harlemgrown.org/,Manhattan,118 W 134th St,40.81428,-73.942834,compost,#ff00ff,compost<br>Name: Harlem Grown<br>Address: 118 W 134th St
+Compost drop off 127 Street & Malcolm X,http://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,Manhattan,77 West 127th Street between Malcolm X Boulevard and 5th Ave,40.808388,-73.943251,compost,#ff00ff,compost<br>Name: Compost drop off 127 Street & Malcolm X<br>Address: 77 West 127th Street between Malcolm X Boulevard and 5th Ave
+M'Finda Kalunga Garden,http://www.mkgarden.org,Manhattan,Rivington and Forsyth,40.721086,-73.991718,compost,#ff00ff,compost<br>Name: M'Finda Kalunga Garden<br>Address: Rivington and Forsyth
+Compost drop off Swindler Cove,http://www.nyrp.org,Manhattan,3703 10th Avenue,40.857341,-73.922111,compost,#ff00ff,compost<br>Name: Compost drop off Swindler Cove<br>Address: 3703 10th Avenue
+East Side Outside Community Garden,http://www.reclaimedorganics.org/QTVMZ/garden,Manhattan,415 East 11th St,40.729165,-73.983435,compost,#ff00ff,compost<br>Name: East Side Outside Community Garden<br>Address: 415 East 11th St
+Hamilton Heights Green Youth Market,https://brotherhood-sistersol.org/,Manhattan,512 West 143rd Street,40.824415,-73.94918,compost,#ff00ff,compost<br>Name: Hamilton Heights Green Youth Market<br>Address: 512 West 143rd Street
+"Earth Matter, Compost Learning Center",https://earthmatter.org/nyc-compost-project/,Manhattan,"Urban Farm, Governors Island",40.6894501,-74.016792,compost,#ff00ff,"compost<br>Name: Earth Matter, Compost Learning Center<br>Address: Urban Farm, Governors Island"
+Governors Islands Zero Waste Stations,https://earthmatter.org/nyc-compost-project/,Manhattan,Several locations throughout Governors Island,40.6894506,-74.0167913,compost,#ff00ff,compost<br>Name: Governors Islands Zero Waste Stations<br>Address: Several locations throughout Governors Island
+Compost drop off Church of the Holy Apostles,https://holyapostlessoupkitchen.org,Manhattan,296 Ninth Avenue,40.749509,-73.998096,compost,#ff00ff,compost<br>Name: Compost drop off Church of the Holy Apostles<br>Address: 296 Ninth Avenue
+Hudson Blvd Park,https://hudsonriverpark.org/explore-the-park/community-compost-program,Manhattan,5 Hudson Blvd East,40.755588,-73.999721,compost,#ff00ff,compost<br>Name: Hudson Blvd Park<br>Address: 5 Hudson Blvd East
+Morris- Jumel Community Garden,https://morrisjumelcommunitygarden.wordpress.com/,Manhattan,455-457 West 162nd Street,40.835828,-73.938621,compost,#ff00ff,compost<br>Name: Morris- Jumel Community Garden<br>Address: 455-457 West 162nd Street
+Compost drop off 14th Street Y,https://www.14streety.org/about-us/sustainability/,Manhattan,344 E 14th Street,40.731506,-73.983427,compost,#ff00ff,compost<br>Name: Compost drop off 14th Street Y<br>Address: 344 E 14th Street
+B'nai Jeshurun Community House,https://www.bj.org,Manhattan,270 West 89th Street,40.790645,-73.97599,compost,#ff00ff,compost<br>Name: B'nai Jeshurun Community House<br>Address: 270 West 89th Street
+Lydia's Magic Garden,https://www.facebook.com/lydiasmagicgarden/,Manhattan,"1665 Park Avenue, Manhattan 10035, between 117th and 118th Streets",40.800146,-73.94233,compost,#ff00ff,"compost<br>Name: Lydia's Magic Garden<br>Address: 1665 Park Avenue, Manhattan 10035, between 117th and 118th Streets"
+Tribeca Greenmarket Compost on-the-go,https://www.grownyc.org/compost/locations,Manhattan,"Greenwich Street at Chambers Street,New York,NY",40.7162918,-74.0109403,compost,#ff00ff,"compost<br>Name: Tribeca Greenmarket Compost on-the-go<br>Address: Greenwich Street at Chambers Street,New York,NY"
+Compost drop off Cathedral Parkway (110th St) ,https://www.grownyc.org/compost-go,Manhattan,110th & Central Park West - SW Corner,40.800867,-73.958284,compost,#ff00ff,compost<br>Name: Compost drop off Cathedral Parkway (110th St) <br>Address: 110th & Central Park West - SW Corner
+Compost drop off Central Park North (110th St),https://www.grownyc.org/compost-go,Manhattan,"110th, St. Nicholas, & Malcolm X - NW Corner (Public Plaza)",40.7984,-73.9526,compost,#ff00ff,"compost<br>Name: Compost drop off Central Park North (110th St)<br>Address: 110th, St. Nicholas, & Malcolm X - NW Corner (Public Plaza)"
+Compost drop off City College,https://www.grownyc.org/compost-go,Manhattan,Broadway & Hamilton Place - N (Montefiore Square),40.82099,-73.9543,compost,#ff00ff,compost<br>Name: Compost drop off City College<br>Address: Broadway & Hamilton Place - N (Montefiore Square)
+Compost on-the-go,https://www.grownyc.org/compost-go,Manhattan,116th & Lexington Ave - NW Corner,40.798786,-73.941698,compost,#ff00ff,compost<br>Name: Compost on-the-go<br>Address: 116th & Lexington Ave - NW Corner
+Compost on-the-go,https://www.grownyc.org/compost-go,Manhattan,145th & Edgecombe Ave - NE Corner (Jackie Robinson Park Entrance),40.82404,-73.9446,compost,#ff00ff,compost<br>Name: Compost on-the-go<br>Address: 145th & Edgecombe Ave - NE Corner (Jackie Robinson Park Entrance)
+Compost on-the-go,https://www.grownyc.org/compost-go,Manhattan,"157th, Broadway, Riverside Drive (Ilka Tanya Payan Park)",40.83404,-73.9452,compost,#ff00ff,"compost<br>Name: Compost on-the-go<br>Address: 157th, Broadway, Riverside Drive (Ilka Tanya Payan Park)"
+Compost on-the-go,https://www.grownyc.org/compost-go,Manhattan,96th Street & Lexington Ave - SE Corner (Samuel Seabury Playground),40.78579,-73.9508,compost,#ff00ff,compost<br>Name: Compost on-the-go<br>Address: 96th Street & Lexington Ave - SE Corner (Samuel Seabury Playground)
+Compost on-the-go,https://www.grownyc.org/compost-go,Manhattan,"Broadway, Riverside Drive, Dyckman Street (Anne Loftus Playground/Fort Tyron Park Entrance)",40.86532,-73.928,compost,#ff00ff,"compost<br>Name: Compost on-the-go<br>Address: Broadway, Riverside Drive, Dyckman Street (Anne Loftus Playground/Fort Tyron Park Entrance)"
+Compost on-the-go,https://www.grownyc.org/compost-go,Manhattan,Fort Washington Ave btw. 183rd & 185th - W (Bennett Park Entrance),40.85295,-73.9376,compost,#ff00ff,compost<br>Name: Compost on-the-go<br>Address: Fort Washington Ave btw. 183rd & 185th - W (Bennett Park Entrance)
+Dag Hammarskjold Plaza Greenmarket,https://www.grownyc.org/compost-go,Manhattan,"East 47 St at 2 Ave,New York,NY, 10017",40.7529921,-73.9698797,compost,#ff00ff,"compost<br>Name: Dag Hammarskjold Plaza Greenmarket<br>Address: East 47 St at 2 Ave,New York,NY, 10017"
+Hudson River Park's 14th Street Park at 10th Ave.,https://www.hudsonriverpark.org/,Manhattan,14th Street Park at southwest corner of 15th St. and 10th Ave,40.742827,-74.0078384,compost,#ff00ff,compost<br>Name: Hudson River Park's 14th Street Park at 10th Ave.<br>Address: 14th Street Park at southwest corner of 15th St. and 10th Ave
+Hudson River Park's Chelsea Waterside Park,https://www.hudsonriverpark.org/,Manhattan,Chelsea Waterside Park at 23rd St. and 11th Ave entrance,40.7489842,-74.0071142,compost,#ff00ff,compost<br>Name: Hudson River Park's Chelsea Waterside Park<br>Address: Chelsea Waterside Park at 23rd St. and 11th Ave entrance
+Hudson River Park's Pier,https://www.hudsonriverpark.org/,Manhattan,Pier 76 at 12th Ave between 30th St and 33rd St in Hudson River Park's Compost Center,40.756032,-74.006046,compost,#ff00ff,compost<br>Name: Hudson River Park's Pier<br>Address: Pier 76 at 12th Ave between 30th St and 33rd St in Hudson River Park's Compost Center
+Hudson River Park's Pier 25 at N. Moore St.,https://www.hudsonriverpark.org/,Manhattan,Pier 25 at N. Moore St. near kid's playground,40.7202214,-74.0128434,compost,#ff00ff,compost<br>Name: Hudson River Park's Pier 25 at N. Moore St.<br>Address: Pier 25 at N. Moore St. near kid's playground
+Hudson River Park's Pier 40 at W. Houston St.,https://www.hudsonriverpark.org/,Manhattan,Pier 40 at Houston St. near dog park,40.7298117,-74.0110087,compost,#ff00ff,compost<br>Name: Hudson River Park's Pier 40 at W. Houston St.<br>Address: Pier 40 at Houston St. near dog park
+Hudson River Park's Pier 51 at Horatio St.,https://www.hudsonriverpark.org/,Manhattan,Pier 51 at Horatio St. near comfort station,40.738228,-74.0104549,compost,#ff00ff,compost<br>Name: Hudson River Park's Pier 51 at Horatio St.<br>Address: Pier 51 at Horatio St. near comfort station
+Hudson River Park's Pier 84 at W. 44th St.,https://www.hudsonriverpark.org/,Manhattan,Pier 84 at W. 44th St. near dog park,40.7634686,-74.0002584,compost,#ff00ff,compost<br>Name: Hudson River Park's Pier 84 at W. 44th St.<br>Address: Pier 84 at W. 44th St. near dog park
+La Plaza Cultural Community Garden,https://www.laplazacultural.com,Manhattan,674 East 9th Street,40.725357,-73.978278,compost,#ff00ff,compost<br>Name: La Plaza Cultural Community Garden<br>Address: 674 East 9th Street
+Commuter Composting at 23rd Street C/E,https://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,Manhattan,"West 23rd Street and 8th Avenue (SW corner), New York, NY 10011",40.7452994,-73.9984832,compost,#ff00ff,"compost<br>Name: Commuter Composting at 23rd Street C/E<br>Address: West 23rd Street and 8th Avenue (SW corner), New York, NY 10011"
+Commuter Composting at Christopher Street,https://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,Manhattan,7th Avenue and Christopher St - SW Corner,40.733512,-74.002956,compost,#ff00ff,compost<br>Name: Commuter Composting at Christopher Street<br>Address: 7th Avenue and Christopher St - SW Corner
+Commuter Composting at East Broadway & Rutgers Street,https://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,Manhattan,"East Broadway & Rutgers Street (SE corner), Manhattan",40.7140565,-73.9902176,compost,#ff00ff,"compost<br>Name: Commuter Composting at East Broadway & Rutgers Street<br>Address: East Broadway & Rutgers Street (SE corner), Manhattan"
+Commuter Composting at Grand Street & Clinton Street,https://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,Manhattan,"Grand Street & Clinton Street (SW corner), Manhattan",40.7159955,-73.986664,compost,#ff00ff,"compost<br>Name: Commuter Composting at Grand Street & Clinton Street<br>Address: Grand Street & Clinton Street (SW corner), Manhattan"
+Commuter Composting Hudson Square,https://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,Manhattan,6th Avenue & Spring Street -NE Corner,40.7255273,-74.0040577,compost,#ff00ff,compost<br>Name: Commuter Composting Hudson Square<br>Address: 6th Avenue & Spring Street -NE Corner
+East River Park Compost Yard,https://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,Manhattan,East River Park Compost Park,40.71102,-73.97905,compost,#ff00ff,compost<br>Name: East River Park Compost Yard<br>Address: East River Park Compost Park
+LES Ecology Center Garden,https://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,Manhattan,213 E. 7th St,40.724479,-73.979718,compost,#ff00ff,compost<br>Name: LES Ecology Center Garden<br>Address: 213 E. 7th St
+West Village Commuter Composting,https://www.lesecologycenter.org/programs/compost/compost-drop-off-locations/,Manhattan,6th Avenue and Waverly Place - SE Corner,40.732811,-74.000091,compost,#ff00ff,compost<br>Name: West Village Commuter Composting<br>Address: 6th Avenue and Waverly Place - SE Corner
+Carmen Pabon del Amanecer Community Garden,,Manhattan,115 Avenue C,40.724502,-73.97874,compost,#ff00ff,compost<br>Name: Carmen Pabon del Amanecer Community Garden<br>Address: 115 Avenue C
+Commuter Composting at 1st Ave and 1st St.,,Manhattan,First Avenue between Houston and First Street (west side),40.7231069,-73.988458,compost,#ff00ff,compost<br>Name: Commuter Composting at 1st Ave and 1st St.<br>Address: First Avenue between Houston and First Street (west side)
+Dorothy K. McGowan Memorial Garden,,Manhattan,513 West 158th Street,40.833952,-73.941736,compost,#ff00ff,compost<br>Name: Dorothy K. McGowan Memorial Garden<br>Address: 513 West 158th Street
+El Sol Brilliante- Children's Garden,,Manhattan,544 East 12th St,40.728081,-73.979214,compost,#ff00ff,compost<br>Name: El Sol Brilliante- Children's Garden<br>Address: 544 East 12th St
+Garden of Love,,Manhattan,302 West 116 Street,40.804574,-73.955533,compost,#ff00ff,compost<br>Name: Garden of Love<br>Address: 302 West 116 Street
+Mobilization for Change Community Garden,,Manhattan,955 Columbus Ave,40.799721,-73.962101,compost,#ff00ff,compost<br>Name: Mobilization for Change Community Garden<br>Address: 955 Columbus Ave
+Peach Tree Garden,,Manhattan,236 East 2nd Street,40.721531,-73.982075,compost,#ff00ff,compost<br>Name: Peach Tree Garden<br>Address: 236 East 2nd Street
+The Herb Garden,,Manhattan,180 East 111th Street,40.794912,-73.943148,compost,#ff00ff,compost<br>Name: The Herb Garden<br>Address: 180 East 111th Street
+William B. Washington Memorial Garden,,Manhattan,321 West 126th Street,40.811641,-73.950521,compost,#ff00ff,compost<br>Name: William B. Washington Memorial Garden<br>Address: 321 West 126th Street
+Queens County Farm Museum,http://queensfarm.org/,Queens,73-50 Little Neck Parkway,40.748406,-73.721002,compost,#ff00ff,compost<br>Name: Queens County Farm Museum<br>Address: 73-50 Little Neck Parkway
+Commuter Composting at Vernon Jackson 7,http://www.bigreuse.org/compost/drop-off-list/,Queens,"Vernon Blvd & 50th Ave, Long Island City, NY 11101",40.7427437,-73.9541298,compost,#ff00ff,"compost<br>Name: Commuter Composting at Vernon Jackson 7<br>Address: Vernon Blvd & 50th Ave, Long Island City, NY 11101"
+Commuter Drop-Off,http://www.bigreuse.org/compost/drop-off-list/,Queens,"22-75 31st St, Astoria, NY 11102",40.774513,-73.912463,compost,#ff00ff,"compost<br>Name: Commuter Drop-Off<br>Address: 22-75 31st St, Astoria, NY 11102"
+Commuter Drop-Off,http://www.bigreuse.org/compost/drop-off-list/,Queens,"28-60 31st St, Astoria, NY 11102",40.767066,-73.921406,compost,#ff00ff,"compost<br>Name: Commuter Drop-Off<br>Address: 28-60 31st St, Astoria, NY 11102"
+Forest Hills Greenmarket,http://www.bigreuse.org/compost/drop-off-list/,Queens,"South side of Queens Blvd at 70th Avenue, Queens",40.7222304,-73.8467632,compost,#ff00ff,"compost<br>Name: Forest Hills Greenmarket<br>Address: South side of Queens Blvd at 70th Avenue, Queens"
+Jackson Heights Greenmarket,http://www.bigreuse.org/compost/drop-off-list/,Queens,"34th Ave at 77th St,Queens,NY,11372",40.7532152,-73.8896812,compost,#ff00ff,"compost<br>Name: Jackson Heights Greenmarket<br>Address: 34th Ave at 77th St,Queens,NY,11372"
+Queens Library at Broadway,http://www.bigreuse.org/compost/drop-off-list/,Queens,"40-20 Broadway, Long Island City, NY, 11103",40.7584821,-73.9186052,compost,#ff00ff,"compost<br>Name: Queens Library at Broadway<br>Address: 40-20 Broadway, Long Island City, NY, 11103"
+Queens Library at Steinway,http://www.bigreuse.org/compost/drop-off-list/,Queens,"21-45 31st St, Astoria, NY 11105",40.7769984,-73.9096802,compost,#ff00ff,"compost<br>Name: Queens Library at Steinway<br>Address: 21-45 31st St, Astoria, NY 11105"
+Socrates Sculpture Park,http://www.bigreuse.org/compost/drop-off-list/,Queens,"Broadway & Vernon Blvd, Queens, NY 11106",40.7675822,-73.9359557,compost,#ff00ff,"compost<br>Name: Socrates Sculpture Park<br>Address: Broadway & Vernon Blvd, Queens, NY 11106"
+Sunnyside Greenmarket,http://www.bigreuse.org/compost/drop-off-list/,Queens,"Skillman Ave at 43rd St,Queens,NY,11104",40.7468806,-73.9208078,compost,#ff00ff,"compost<br>Name: Sunnyside Greenmarket<br>Address: Skillman Ave at 43rd St,Queens,NY,11104"
+Edgemere Farm,http://www.edgemerefarm.org/,Queens,385 Beach 45th St,40.595401,-73.776541,compost,#ff00ff,compost<br>Name: Edgemere Farm<br>Address: 385 Beach 45th St
+Flushing Greenmarket,http://www.grownyc.org/compost/locations,Queens,"Maple Playground, Maple Avenue and Kissena Boulevard, Flushing",40.7562501,-73.8258451,compost,#ff00ff,"compost<br>Name: Flushing Greenmarket<br>Address: Maple Playground, Maple Avenue and Kissena Boulevard, Flushing"
+Compost drop off Corona Greenmarket,http://www.grownyc.org/greenmarket/queens/corona,Queens,"Corona Plaza, Roosevelt Ave at 103 Street, Queens",40.7497177,-73.8626075,compost,#ff00ff,"compost<br>Name: Compost drop off Corona Greenmarket<br>Address: Corona Plaza, Roosevelt Ave at 103 Street, Queens"
+JH Scraps,http://www.jhbg.org/2012/12/23/jh-scraps-a-community-composting-project,Queens,35-20 69th Street,40.74983,-73.896438,compost,#ff00ff,compost<br>Name: JH Scraps<br>Address: 35-20 69th Street
+Compost drop off 63rd Dr. M/R,https://queensbotanical.org,Queens,"96-14 Queens Blvd, Rego Park, NY 11374",40.7295998,-73.8616452,compost,#ff00ff,"compost<br>Name: Compost drop off 63rd Dr. M/R<br>Address: 96-14 Queens Blvd, Rego Park, NY 11374"
+Compost drop off Grand Ave Newtown M/R,https://queensbotanical.org,Queens,"86-51 Broadway, Elmhurst, NY 11373",40.7373468,-73.877195,compost,#ff00ff,"compost<br>Name: Compost drop off Grand Ave Newtown M/R<br>Address: 86-51 Broadway, Elmhurst, NY 11373"
+Queens Botanical Garden Drop-Off,https://queensbotanical.org,Queens,"42-80 Crommelin Avenue, Flushing, NY 11355, Parking Garden at QBG",40.75197,-73.830325,compost,#ff00ff,"compost<br>Name: Queens Botanical Garden Drop-Off<br>Address: 42-80 Crommelin Avenue, Flushing, NY 11355, Parking Garden at QBG"
+Compost drop off Brooklyn Grange,https://www.brooklyngrangefarm.com,Queens,37-19 Northern Blvd Roof,40.752149,-73.925454,compost,#ff00ff,compost<br>Name: Compost drop off Brooklyn Grange<br>Address: 37-19 Northern Blvd Roof
+Hellgate Farm,https://www.hellgatefarm.com/,Queens,14-33 30th Drive,40.768942,-73.929913,compost,#ff00ff,compost<br>Name: Hellgate Farm<br>Address: 14-33 30th Drive
+Rockaway Waterfront Alliance R.I.S.E.,https://www.rwalliance.org,Queens,5803 Rockaway Beach Blvd.,40.591961,-73.788284,compost,#ff00ff,compost<br>Name: Rockaway Waterfront Alliance R.I.S.E.<br>Address: 5803 Rockaway Beach Blvd.
+Commuter Composting at 21st Street F train,,Queens,NW Corner of 21st street at 41st Ave,40.754084,-73.94267,compost,#ff00ff,compost<br>Name: Commuter Composting at 21st Street F train<br>Address: NW Corner of 21st street at 41st Ave
+Commuter Composting at Grand Street & Clinton Street ,,Queens,Briarwood E/F Subway Station Entrance (North side of Queens Boulevard),40.7096804,-73.8190304,compost,#ff00ff,compost<br>Name: Commuter Composting at Grand Street & Clinton Street <br>Address: Briarwood E/F Subway Station Entrance (North side of Queens Boulevard)
+Commuter Composting at Kew Gardens E/F,,Queens,"Kew Gardens Road between 80 Road and 81 Avenue, Kew Gardens, 11415",40.7132717,-73.8299268,compost,#ff00ff,"compost<br>Name: Commuter Composting at Kew Gardens E/F<br>Address: Kew Gardens Road between 80 Road and 81 Avenue, Kew Gardens, 11415"
+St. James Compost,,Queens,86-02 Broadway,40.738397,-73.877742,compost,#ff00ff,compost<br>Name: St. James Compost<br>Address: 86-02 Broadway
+The Compost Collective,,Queens,73-24 Yellowstone Blvd.,40.717411,-73.857513,compost,#ff00ff,compost<br>Name: The Compost Collective<br>Address: 73-24 Yellowstone Blvd.
+Snug Harbor Cultural Center & Botanical Garden,http://snug-harbor.org/compost/,Staten Island,Compost Demonstration Site at Snug Harbor Cultural Center & Botanical Garden 1000 Richmond Terrace,40.641672,-74.101624,compost,#ff00ff,compost<br>Name: Snug Harbor Cultural Center & Botanical Garden<br>Address: Compost Demonstration Site at Snug Harbor Cultural Center & Botanical Garden 1000 Richmond Terrace
+St. George Greenmarket,http://www.grownyc.org/compost/locations,Staten Island,"St Marks Pl & Hyatt St Staten Island, NY 10301",40.6415864,-74.0779094,compost,#ff00ff,"compost<br>Name: St. George Greenmarket<br>Address: St Marks Pl & Hyatt St Staten Island, NY 10301"
+Staten Island Mall Greenmarket,http://www.grownyc.org/compost/locations,Staten Island,"Staten Island Mall, Marsh Ave & Ring Rd, Staten Island, NY 10314",40.5834232,-74.1629698,compost,#ff00ff,"compost<br>Name: Staten Island Mall Greenmarket<br>Address: Staten Island Mall, Marsh Ave & Ring Rd, Staten Island, NY 10314"
+Olivet Heavenly Harvest,https://www.facebook.com/pg/Olivet-Heavenly-Harvest-304779173301345/about/,Staten Island,97 Myrtle Avenue,40.630312,-74.115754,compost,#ff00ff,compost<br>Name: Olivet Heavenly Harvest<br>Address: 97 Myrtle Avenue
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Bronx,1294 SOUTHERN BLVD BRONX NY 10459,40.8306088,-73.891455,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 1294 SOUTHERN BLVD BRONX NY 10459
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Bronx,2359 JEROME AVE BRONX NY 10468,40.860358,-73.9030775,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 2359 JEROME AVE BRONX NY 10468
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Bronx,2582 3 AVE BRONX NY 10454,40.8114884,-73.9257636,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 2582 3 AVE BRONX NY 10454
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Bronx,4109 PARK AVE BRONX NY 10457,40.845553,-73.901079,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 4109 PARK AVE BRONX NY 10457
+BEST BUY,http://www.bestbuy.com/recycle,Bronx,402 E FORDHAM RD BRONX NY 10458,40.8608912,-73.8913166,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 402 E FORDHAM RD BRONX NY 10458
+BEST BUY,http://www.bestbuy.com/recycle,Bronx,610 EXTERIOR ST BRONX NY 10451,40.8219403,-73.9301166,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 610 EXTERIOR ST BRONX NY 10451
+STAPLES,http://www.staples.com/recycle,Bronx,2040 WHITE PLAINS RD BRONX NY 10462,40.8518616,-73.8674386,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 2040 WHITE PLAINS RD BRONX NY 10462
+STAPLES,http://www.staples.com/recycle,Bronx,330-340 BAYCHESTER AVE BRONX NY 10475,40.8677019,-73.8286649,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 330-340 BAYCHESTER AVE BRONX NY 10475
+STAPLES,http://www.staples.com/recycle,Bronx,5680 BROADWAY BRONX NY 10463,40.8810804,-73.9023443,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 5680 BROADWAY BRONX NY 10463
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Bronx,361 E 149 ST BRONX NY 10455,40.816877,-73.918804,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 361 E 149 ST BRONX NY 10455
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Brooklyn,176 BEDFORD AVE BROOKLYN NY 11211,40.7180048,-73.9575848,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 176 BEDFORD AVE BROOKLYN NY 11211
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Brooklyn,22 QUINCY ST BROOKLYN NY 11238,40.6855509,-73.960619,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 22 QUINCY ST BROOKLYN NY 11238
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Brooklyn,3718 NOSTRAND AVE BROOKLYN NY 11235,40.592733,-73.940786,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 3718 NOSTRAND AVE BROOKLYN NY 11235
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Brooklyn,436 ATLANTIC AVE BROOKLYN NY 11217,40.6863101,-73.9838984,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 436 ATLANTIC AVE BROOKLYN NY 11217
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Brooklyn,6822 3 AVE BROOKLYN NY 11220,40.6362001,-74.0260663,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 6822 3 AVE BROOKLYN NY 11220
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Brooklyn,981 MANHATTAN AVE BROOKLYN NY 11222,40.7326092,-73.9549618,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 981 MANHATTAN AVE BROOKLYN NY 11222
+BEST BUY,http://www.bestbuy.com/recycle,Brooklyn,369 GATEWAY DR BROOKLYN NY 11239,40.651344,-73.873167,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 369 GATEWAY DR BROOKLYN NY 11239
+BEST BUY,http://www.bestbuy.com/recycle,Brooklyn,5102 AVE U BROOKLYN NY 11234,40.6098192,-73.9216133,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 5102 AVE U BROOKLYN NY 11234
+BEST BUY,http://www.bestbuy.com/recycle,Brooklyn,625 ATLANTIC AVE BROOKLYN NY 11217,40.6838452,-73.9754325,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 625 ATLANTIC AVE BROOKLYN NY 11217
+BEST BUY,http://www.bestbuy.com/recycle,Brooklyn,8923 BAY PKWY BROOKLYN NY 11214,40.5936458,-73.9989895,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 8923 BAY PKWY BROOKLYN NY 11214
+STAPLES,http://www.staples.com/recycle,Brooklyn,1011 FLATBUSH AVE BROOKLYN NY 11226,40.6467058,-73.9578905,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 1011 FLATBUSH AVE BROOKLYN NY 11226
+STAPLES,http://www.staples.com/recycle,Brooklyn,1760 UTICA AVE BROOKLYN NY 11234,40.6295254,-73.928339,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 1760 UTICA AVE BROOKLYN NY 11234
+STAPLES,http://www.staples.com/recycle,Brooklyn,1880 CONEY ISLAND AVE BROOKLYN NY 11230,40.6118064,-73.9630824,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 1880 CONEY ISLAND AVE BROOKLYN NY 11230
+STAPLES,http://www.staples.com/recycle,Brooklyn,1949 STILLWELL BROOKLYN NY 11223,40.5990083,-73.9852812,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 1949 STILLWELL BROOKLYN NY 11223
+STAPLES,http://www.staples.com/recycle,Brooklyn,2892 OCEAN AVE BROOKLYN NY 11235,40.5908736,-73.9503307,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 2892 OCEAN AVE BROOKLYN NY 11235
+STAPLES,http://www.staples.com/recycle,Brooklyn,348 4 AVE BROOKLYN NY 11215,40.6741737,-73.9868727,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 348 4 AVE BROOKLYN NY 11215
+STAPLES,http://www.staples.com/recycle,Brooklyn,409 GATEWAY DRIVE BROOKLYN NY 11239,40.6539242,-73.8732584,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 409 GATEWAY DRIVE BROOKLYN NY 11239
+STAPLES,http://www.staples.com/recycle,Brooklyn,535 MORGAN AVE BROOKLYN NY 11222,40.7226339,-73.9393371,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 535 MORGAN AVE BROOKLYN NY 11222
+STAPLES,http://www.staples.com/recycle,Brooklyn,9319 5 AVE BROOKLYN NY 11209,40.6166088,-74.0300263,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 9319 5 AVE BROOKLYN NY 11209
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Brooklyn,1100 FULTON ST BROOKLYN NY 11238,40.681119,-73.956988,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 1100 FULTON ST BROOKLYN NY 11238
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Brooklyn,258 LIVINGSTON ST BROOKLYN NY 11201,40.6887457,-73.9842131,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 258 LIVINGSTON ST BROOKLYN NY 11201
+LOWER EAST SIDE ECOLOGY CENTER,https://www.lesecologycenter.org/programs/ewaste/ewaste-faq/,Brooklyn,469 PRESIDENT ST BROOKLYN NY 11215,40.678631,-73.987452,electronics,#0000ff,electronics<br>Name: LOWER EAST SIDE ECOLOGY CENTER<br>Address: 469 PRESIDENT ST BROOKLYN NY 11215
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Manhattan,112 4 AVE NEW YORK NY 10003,40.7326047,-73.9903344,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 112 4 AVE NEW YORK NY 10003
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Manhattan,208 8 AVE NEW YORK NY 10011,40.743678,-73.999235,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 208 8 AVE NEW YORK NY 10011
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Manhattan,212 E 23 ST NEW YORK NY 10010,40.738365,-73.9824462,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 212 E 23 ST NEW YORK NY 10010
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Manhattan,26 E 125 ST NEW YORK NY 10035,40.8056313,-73.9413695,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 26 E 125 ST NEW YORK NY 10035
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Manhattan,268 W 96 ST NEW YORK NY 10025,40.794759,-73.972784,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 268 W 96 ST NEW YORK NY 10025
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Manhattan,536 W 46 ST NEW YORK NY 10036,40.762665,-73.995377,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 536 W 46 ST NEW YORK NY 10036
+BEST BUY,http://www.bestbuy.com/recycle,Manhattan,1280 LEXINGTON AVE NEW YORK NY 10028,40.7798872,-73.9557037,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 1280 LEXINGTON AVE NEW YORK NY 10028
+BEST BUY,http://www.bestbuy.com/recycle,Manhattan,1880 BROADWAY NEW YORK NY 10023,40.7700779,-73.981592,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 1880 BROADWAY NEW YORK NY 10023
+BEST BUY,http://www.bestbuy.com/recycle,Manhattan,52 E 14 ST NEW YORK NY 10003,40.7344091,-73.9904346,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 52 E 14 ST NEW YORK NY 10003
+BEST BUY,http://www.bestbuy.com/recycle,Manhattan,529 5 AVE NEW YORK NY 10017,40.7544351,-73.9796913,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 529 5 AVE NEW YORK NY 10017
+BEST BUY,http://www.bestbuy.com/recycle,Manhattan,60 W 23 ST NEW YORK NY 10010,40.7423606,-73.9923849,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 60 W 23 ST NEW YORK NY 10010
+BEST BUY,http://www.bestbuy.com/recycle,Manhattan,622 BROADWAY NEW YORK NY 10012,40.725747,-73.9959279,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 622 BROADWAY NEW YORK NY 10012
+STAPLES,http://www.staples.com/recycle,Manhattan,105 W 125 ST NEW YORK NY 10027,40.8083328,-73.945866,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 105 W 125 ST NEW YORK NY 10027
+STAPLES,http://www.staples.com/recycle,Manhattan,1065 6 AVE NEW YORK NY 10018,40.7539257,-73.9854091,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 1065 6 AVE NEW YORK NY 10018
+STAPLES,http://www.staples.com/recycle,Manhattan,1293-1311 BROADWAY NEW YORK NY 10001,40.7495369,-73.988499,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 1293-1311 BROADWAY NEW YORK NY 10001
+STAPLES,http://www.staples.com/recycle,Manhattan,16 E 34 ST NEW YORK NY 10016,40.7478754,-73.9837462,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 16 E 34 ST NEW YORK NY 10016
+STAPLES,http://www.staples.com/recycle,Manhattan,2248 BROADWAY NEW YORK NY 10024,40.7848159,-73.9788032,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 2248 BROADWAY NEW YORK NY 10024
+STAPLES,http://www.staples.com/recycle,Manhattan,390 6 AVE NEW YORK NY 10011,40.7331767,-73.9995147,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 390 6 AVE NEW YORK NY 10011
+STAPLES,http://www.staples.com/recycle,Manhattan,425 PARK AVE NEW YORK NY 10022,40.7604408,-73.9710375,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 425 PARK AVE NEW YORK NY 10022
+STAPLES,http://www.staples.com/recycle,Manhattan,4320 BROADWAY NEW YORK NY 10033,40.852244,-73.934254,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 4320 BROADWAY NEW YORK NY 10033
+STAPLES,http://www.staples.com/recycle,Manhattan,442 5 AVE NEW YORK NY 10018,40.7519146,-73.9825561,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 442 5 AVE NEW YORK NY 10018
+STAPLES,http://www.staples.com/recycle,Manhattan,500 8 AVE NEW YORK NY 10018,40.7530426,-73.9924445,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 500 8 AVE NEW YORK NY 10018
+STAPLES,http://www.staples.com/recycle,Manhattan,574 2 AVE NEW YORK NY 10016,40.7430749,-73.9765721,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 574 2 AVE NEW YORK NY 10016
+STAPLES,http://www.staples.com/recycle,Manhattan,5-9 UNION SQUARE W NEW YORK NY 10003,40.7354498,-73.9915753,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 5-9 UNION SQUARE W NEW YORK NY 10003
+STAPLES,http://www.staples.com/recycle,Manhattan,641 6 AVE NEW YORK NY 10011,40.7407266,-73.9948313,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 641 6 AVE NEW YORK NY 10011
+STAPLES,http://www.staples.com/recycle,Manhattan,675 3 AVE NEW YORK NY 10017,40.7509006,-73.973911,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 675 3 AVE NEW YORK NY 10017
+STAPLES,http://www.staples.com/recycle,Manhattan,769 BROADWAY NEW YORK NY 10003,40.7311383,-73.9923455,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 769 BROADWAY NEW YORK NY 10003
+STAPLES,http://www.staples.com/recycle,Manhattan,776 8 AVE NEW YORK NY 10036,40.7604799,-73.98709,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 776 8 AVE NEW YORK NY 10036
+GOODWILL GREENWICH VILLAGE BOUTIQUE,https://www.goodwillnynj.org/donate-goods,Manhattan,44 W 8 ST NEW YORK NY 10011,40.732951,-73.998643,electronics,#0000ff,electronics<br>Name: GOODWILL GREENWICH VILLAGE BOUTIQUE<br>Address: 44 W 8 ST NEW YORK NY 10011
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Manhattan,103 W 25 ST NEW YORK NY 10001,40.7444737,-73.9921732,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 103 W 25 ST NEW YORK NY 10001
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Manhattan,157 W 72 ST NEW YORK NY 10023,40.778473,-73.980571,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 157 W 72 ST NEW YORK NY 10023
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Manhattan,1704 2 AVE NEW YORK NY 10128,40.7793,-73.950294,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 1704 2 AVE NEW YORK NY 10128
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Manhattan,217 W 79 ST NEW YORK NY 10024,40.783755,-73.979007,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 217 W 79 ST NEW YORK NY 10024
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Manhattan,2196 5 AVE NEW YORK NY 10037,40.812497,-73.938164,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 2196 5 AVE NEW YORK NY 10037
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Manhattan,220 E 23 ST NEW YORK NY 10010,40.7382752,-73.9822849,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 220 E 23 ST NEW YORK NY 10010
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Manhattan,2231 3 AVE NEW YORK NY 10035,40.801328,-73.937068,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 2231 3 AVE NEW YORK NY 10035
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Manhattan,512 181 ST NEW YORK NY 10033,40.848289,-73.931997,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 512 181 ST NEW YORK NY 10033
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Queens,14815 ARCHER AVE JAMAICA NY 11435,40.70127,-73.805563,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 14815 ARCHER AVE JAMAICA NY 11435
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Queens,3402 STEINWAY ST LONG ISLAND CITY NY 11101,40.7566145,-73.9212251,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 3402 STEINWAY ST LONG ISLAND CITY NY 11101
+SALVATION ARMY THRIFT STORE,http://satruck.org/donate-goods,Queens,3911 61 ST WOODSIDE NY 11377,40.746743,-73.9026954,electronics,#0000ff,electronics<br>Name: SALVATION ARMY THRIFT STORE<br>Address: 3911 61 ST WOODSIDE NY 11377
+BEST BUY,http://www.bestbuy.com/recycle,Queens,13107 40 RD FLUSHING NY 11354,40.7575281,-73.8356912,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 13107 40 RD FLUSHING NY 11354
+BEST BUY,http://www.bestbuy.com/recycle,Queens,5001 NORTHERN BLVD LONG ISLAND CITY NY 11101,40.7534523,-73.9121271,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 5001 NORTHERN BLVD LONG ISLAND CITY NY 11101
+BEST BUY,http://www.bestbuy.com/recycle,Queens,8801 QUEENS BLVD ELMHURST NY 11373,40.7353074,-73.8747611,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 8801 QUEENS BLVD ELMHURST NY 11373
+STAPLES,http://www.staples.com/recycle,Queens,10234 ATLANTIC AVE OZONE PARK NY 11416,40.6897907,-73.841335,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 10234 ATLANTIC AVE OZONE PARK NY 11416
+STAPLES,http://www.staples.com/recycle,Queens,10716 71 AVE FOREST HILLS NY 11375,40.720443,-73.844168,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 10716 71 AVE FOREST HILLS NY 11375
+STAPLES,http://www.staples.com/recycle,Queens,13401 20 AVE COLLEGE POINT NY 11356,40.7821272,-73.8347154,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 13401 20 AVE COLLEGE POINT NY 11356
+STAPLES,http://www.staples.com/recycle,Queens,20934 NORTHERN BLVD BAYSIDE NY 11361,40.7590732,-73.772986,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 20934 NORTHERN BLVD BAYSIDE NY 11361
+STAPLES,http://www.staples.com/recycle,Queens,2441 31 ST ASTORIA NY 11102,40.7702468,-73.9179077,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 2441 31 ST ASTORIA NY 11102
+STAPLES,http://www.staples.com/recycle,Queens,5110 BROADWAY WOODSIDE NY 11377,40.7538623,-73.9089981,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 5110 BROADWAY WOODSIDE NY 11377
+STAPLES,http://www.staples.com/recycle,Queens,5812 QUEENS BLVD WOODSIDE NY 11377,40.7411879,-73.9070126,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 5812 QUEENS BLVD WOODSIDE NY 11377
+STAPLES,http://www.staples.com/recycle,Queens,6040 FRESH POND RD MASPETH NY 11378,40.7158271,-73.9018412,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 6040 FRESH POND RD MASPETH NY 11378
+STAPLES,http://www.staples.com/recycle,Queens,6135 JUNCTION BLVD REGO PARK NY 11374,40.7333304,-73.8635717,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 6135 JUNCTION BLVD REGO PARK NY 11374
+STAPLES,http://www.staples.com/recycle,Queens,9030 METROPOLITAN AVE REGO PARK NY 11374,40.7116062,-73.8581226,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 9030 METROPOLITAN AVE REGO PARK NY 11374
+STAPLES,http://www.staples.com/recycle,Queens,9130 VAN WYCK EXPY RICHMOND HILL NY 11418,40.6989379,-73.8150529,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 9130 VAN WYCK EXPY RICHMOND HILL NY 11418
+STAPLES,http://www.staples.com/recycle,Queens,9318 ROOSEVELT AVE JACKSON HEIGHTS NY 11372,40.748528,-73.873001,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 9318 ROOSEVELT AVE JACKSON HEIGHTS NY 11372
+GOODWILL OUTLET CENTER,https://www.goodwillnynj.org/donate-goods,Queens,4747 VAN DAM ST LONG ISLAND CITY NY 11101,40.7415286,-73.9337864,electronics,#0000ff,electronics<br>Name: GOODWILL OUTLET CENTER<br>Address: 4747 VAN DAM ST LONG ISLAND CITY NY 11101
+GOODWILL THRIFT SHOP,https://www.goodwillnynj.org/donate-goods,Queens,3236 STEINWAY ST ASTORIA NY 11103,40.7581531,-73.919959,electronics,#0000ff,electronics<br>Name: GOODWILL THRIFT SHOP<br>Address: 3236 STEINWAY ST ASTORIA NY 11103
+BEST BUY,http://www.bestbuy.com/recycle,Staten Island,2795 RICHMOND AVE STATEN ISLAND NY 10314,40.5769947,-74.1674401,electronics,#0000ff,electronics<br>Name: BEST BUY<br>Address: 2795 RICHMOND AVE STATEN ISLAND NY 10314
+STAPLES,http://www.staples.com/recycle,Staten Island,1520 FOREST AVE STATEN ISLAND NY 10302,40.623861,-74.1391954,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 1520 FOREST AVE STATEN ISLAND NY 10302
+STAPLES,http://www.staples.com/recycle,Staten Island,1885 HYLAN BLVD STATEN ISLAND NY 10306,40.5838147,-74.0962032,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 1885 HYLAN BLVD STATEN ISLAND NY 10306
+STAPLES,http://www.staples.com/recycle,Staten Island,2535 RICHMOND AVE STATEN ISLAND NY 10314,40.5742785,-74.1694432,electronics,#0000ff,electronics<br>Name: STAPLES<br>Address: 2535 RICHMOND AVE STATEN ISLAND NY 10314
+DSNY Special Waste Drop-Off Site,https://www1.nyc.gov/assets/dsny/site/services/harmful-products/special-waste-drop-offs,Bronx,Hunts Point Ave,40.80306136,-73.87485887,hazardous waste recycling,#FF0000,hazardous waste recycling<br>Name: DSNY Special Waste Drop-Off Site<br>Address: Hunts Point Ave
+DSNY Special Waste Drop-Off Site,https://www1.nyc.gov/assets/dsny/site/services/harmful-products/special-waste-drop-offs,Brooklyn,459 N. Henry St,40.73565554,-73.94613805,hazardous waste recycling,#FF0000,hazardous waste recycling<br>Name: DSNY Special Waste Drop-Off Site<br>Address: 459 N. Henry St
+DSNY Special Waste Drop-Off Site,https://www1.nyc.gov/assets/dsny/site/services/harmful-products/special-waste-drop-offs,Manhattan,South St & Pike St,40.70990701,-73.99232338,hazardous waste recycling,#FF0000,hazardous waste recycling<br>Name: DSNY Special Waste Drop-Off Site<br>Address: South St & Pike St
+DSNY Special Waste Drop-Off Site,https://www1.nyc.gov/assets/dsny/site/services/harmful-products/special-waste-drop-offs,Queens,120-15 31 Ave,40.77100135,-73.84714946,hazardous waste recycling,#FF0000,hazardous waste recycling<br>Name: DSNY Special Waste Drop-Off Site<br>Address: 120-15 31 Ave
+DSNY Special Waste Drop-Off Site,https://www1.nyc.gov/assets/dsny/site/services/harmful-products/special-waste-drop-offs,Staten Island,1000 West Service Rd,40.57012962,-74.19481927,hazardous waste recycling,#FF0000,hazardous waste recycling<br>Name: DSNY Special Waste Drop-Off Site<br>Address: 1000 West Service Rd
+Target,,Manhattan,"517 E 117th St New York, NY 10035",40.795386,-73.9310222,plastic bag recycling,#00ff00,"plastic bag recycling<br>Name: Target<br>Address: 517 E 117th St New York, NY 10035"
+Barnes and Noble,,Manhattan,"2289 Broadway, New York, NY 10024",40.7862449,-73.978733,plastic bag recycling,#00ff00,"plastic bag recycling<br>Name: Barnes and Noble<br>Address: 2289 Broadway, New York, NY 10024"
+227th St. Plgd,,Bronx,E 227 St/Bronx River Pkway,40.89084899,-73.86422392,public recycling bin,#824100,public recycling bin<br>Name: 227th St. Plgd<br>Address: E 227 St/Bronx River Pkway
+Allerton Ballfields,,Bronx,Allerton Ave & Moshulu Pkway,40.84889079,-73.87712839,public recycling bin,#824100,public recycling bin<br>Name: Allerton Ballfields<br>Address: Allerton Ave & Moshulu Pkway
+Arthur Ave & E 187 St,,Bronx,Arthur Ave & 187 St,40.85557,-73.887565,public recycling bin,#824100,public recycling bin<br>Name: Arthur Ave & E 187 St<br>Address: Arthur Ave & 187 St
+Barstow Mansion,,Bronx,"895 Shore Road, Pelham Bay Park",40.871864,-73.805549,public recycling bin,#824100,"public recycling bin<br>Name: Barstow Mansion<br>Address: 895 Shore Road, Pelham Bay Park"
+Bradley Playground,,Bronx,2001-2017 Bronx Park E,40.851889,-73.868549,public recycling bin,#824100,public recycling bin<br>Name: Bradley Playground<br>Address: 2001-2017 Bronx Park E
+Bronx Botanical Gardens,,Bronx,Visitors Service Center,40.861526,-73.880659,public recycling bin,#824100,public recycling bin<br>Name: Bronx Botanical Gardens<br>Address: Visitors Service Center
+Bronx Botanical Gardens,,Bronx,Visitors Service Center,40.860755,-73.880423,public recycling bin,#824100,public recycling bin<br>Name: Bronx Botanical Gardens<br>Address: Visitors Service Center
+Bronx Botanical Gardens,,Bronx,Visitors Service Center,40.859644,-73.880472,public recycling bin,#824100,public recycling bin<br>Name: Bronx Botanical Gardens<br>Address: Visitors Service Center
+Bronx Botanical Gardens,,Bronx,Visitors Service Center,40.862602,-73.880171,public recycling bin,#824100,public recycling bin<br>Name: Bronx Botanical Gardens<br>Address: Visitors Service Center
+Bronx County Courthouse,,Bronx,161 ST/Grand Concourse,40.826939,-73.922314,public recycling bin,#824100,public recycling bin<br>Name: Bronx County Courthouse<br>Address: 161 ST/Grand Concourse
+Bronx County Courthouse,,Bronx,161 ST/Grand Concourse,40.826627,-73.922447,public recycling bin,#824100,public recycling bin<br>Name: Bronx County Courthouse<br>Address: 161 ST/Grand Concourse
+Bronx Park,,Bronx,Lydig Ave & Bronx Park E,40.854322,-73.869764,public recycling bin,#824100,public recycling bin<br>Name: Bronx Park<br>Address: Lydig Ave & Bronx Park E
+Bronx Park Playground at Lydig,,Bronx,Lydig Ave & Bronx Park E,40.854445,-73.869863,public recycling bin,#824100,public recycling bin<br>Name: Bronx Park Playground at Lydig<br>Address: Lydig Ave & Bronx Park E
+Bronx Zoo,,Bronx,Cafeteria,40.850017,-73.880035,public recycling bin,#824100,public recycling bin<br>Name: Bronx Zoo<br>Address: Cafeteria
+Bronx Zoo,,Bronx,Entrance to Cafeteria,40.84976,-73.880055,public recycling bin,#824100,public recycling bin<br>Name: Bronx Zoo<br>Address: Entrance to Cafeteria
+Bryant Hill Community Garden,,Bronx,Bryant Avenue Bet. Seneca and Garrison Aves.,40.819933,-73.887069,public recycling bin,#824100,public recycling bin<br>Name: Bryant Hill Community Garden<br>Address: Bryant Avenue Bet. Seneca and Garrison Aves.
+Burke Bridge,,Bronx,Burke Bridge,40.871706,-73.872741,public recycling bin,#824100,public recycling bin<br>Name: Burke Bridge<br>Address: Burke Bridge
+College of Mt. St. Vincent,,Bronx,In front of Alumnae Hall,40.911295,-73.907652,public recycling bin,#824100,public recycling bin<br>Name: College of Mt. St. Vincent<br>Address: In front of Alumnae Hall
+College of Mt. St. Vincent,,Bronx,In front of Cardinal Spellman Hall,40.911236,-73.90791,public recycling bin,#824100,public recycling bin<br>Name: College of Mt. St. Vincent<br>Address: In front of Cardinal Spellman Hall
+Concrete Plant Park,,Bronx,Bronx River bet. Westchster Av and Bruckner Blvd,40.825217,-73.88546,public recycling bin,#824100,public recycling bin<br>Name: Concrete Plant Park<br>Address: Bronx River bet. Westchster Av and Bruckner Blvd
+Crotona Park ,,Bronx,1700 Crotona Ave,40.840115,-73.895513,public recycling bin,#824100,public recycling bin<br>Name: Crotona Park <br>Address: 1700 Crotona Ave
+Crotona Park ,,Bronx,1700 Crotona Ave,40.835226,-73.895652,public recycling bin,#824100,public recycling bin<br>Name: Crotona Park <br>Address: 1700 Crotona Ave
+Crotona Park ,,Bronx,1700 Crotona Ave,40.84133,-73.892702,public recycling bin,#824100,public recycling bin<br>Name: Crotona Park <br>Address: 1700 Crotona Ave
+Crotona Park ,,Bronx,1700 Crotona Ave,40.840876,-73.898206,public recycling bin,#824100,public recycling bin<br>Name: Crotona Park <br>Address: 1700 Crotona Ave
+Crotona Park ,,Bronx,1700 Crotona Ave,40.838351,-73.893566,public recycling bin,#824100,public recycling bin<br>Name: Crotona Park <br>Address: 1700 Crotona Ave
+Crotona Park ,,Bronx,1700 Crotona Ave,40.841123,-73.898056,public recycling bin,#824100,public recycling bin<br>Name: Crotona Park <br>Address: 1700 Crotona Ave
+E 174 St & Manor Ave,,Bronx,174 St & Manor Ave,40.83377,-73.877453,public recycling bin,#824100,public recycling bin<br>Name: E 174 St & Manor Ave<br>Address: 174 St & Manor Ave
+E 176 St & Marmion Ave,,Bronx,176 St & Marmion Ave,40.841444,-73.888487,public recycling bin,#824100,public recycling bin<br>Name: E 176 St & Marmion Ave<br>Address: 176 St & Marmion Ave
+E Gun Hill Rd & Bronxwood Ave,,Bronx,Gun Hill Rd & Bronxwood Ave,40.875553,-73.860526,public recycling bin,#824100,public recycling bin<br>Name: E Gun Hill Rd & Bronxwood Ave<br>Address: Gun Hill Rd & Bronxwood Ave
+E Tremont Ave & Bruckner Blvd,,Bronx,Tremont Ave & Bruckner Blvd,40.833109,-73.828285,public recycling bin,#824100,public recycling bin<br>Name: E Tremont Ave & Bruckner Blvd<br>Address: Tremont Ave & Bruckner Blvd
+E Tremont Ave & University Ave,,Bronx,Tremont Ave & University Ave,40.85042,-73.915529,public recycling bin,#824100,public recycling bin<br>Name: E Tremont Ave & University Ave<br>Address: Tremont Ave & University Ave
+Echo Park,,Bronx,315 Echo Pl,40.849292,-73.902175,public recycling bin,#824100,public recycling bin<br>Name: Echo Park<br>Address: 315 Echo Pl
+Edith Community Garden,,Bronx,836 Elton Avenue ,40.822893,-73.91266,public recycling bin,#824100,public recycling bin<br>Name: Edith Community Garden<br>Address: 836 Elton Avenue 
+El Flamboyan,,Bronx,Tinton Avenue @ E. 150th Street ,40.813663,-73.905898,public recycling bin,#824100,public recycling bin<br>Name: El Flamboyan<br>Address: Tinton Avenue @ E. 150th Street 
+Family Group Garden,,Bronx,419 East 158th Street ,40.82201,-73.914009,public recycling bin,#824100,public recycling bin<br>Name: Family Group Garden<br>Address: 419 East 158th Street 
+Fordham University,,Bronx,Grand Concourse West & Fordham Rd,40.862402,-73.897174,public recycling bin,#824100,public recycling bin<br>Name: Fordham University<br>Address: Grand Concourse West & Fordham Rd
+Fordham University,,Bronx,Kingsbridge Rd & Fordham Rd,40.861948,-73.893726,public recycling bin,#824100,public recycling bin<br>Name: Fordham University<br>Address: Kingsbridge Rd & Fordham Rd
+Fordham University,,Bronx,Main Entrance (Kazimiroff Blvd),40.861379,-73.881414,public recycling bin,#824100,public recycling bin<br>Name: Fordham University<br>Address: Main Entrance (Kazimiroff Blvd)
+Fordham University,,Bronx,Side Entrance (E Fordham Rd & 3 Ave),40.861267,-73.89014,public recycling bin,#824100,public recycling bin<br>Name: Fordham University<br>Address: Side Entrance (E Fordham Rd & 3 Ave)
+French Charley Playground,,Bronx,"E 204 St, W/S Bronx Park",40.869996,-73.876238,public recycling bin,#824100,"public recycling bin<br>Name: French Charley Playground<br>Address: E 204 St, W/S Bronx Park"
+Hornaday Community Garden (volky Flower Garden),,Bronx,851 Hornaday Avenue,40.847026,-73.882534,public recycling bin,#824100,public recycling bin<br>Name: Hornaday Community Garden (volky Flower Garden)<br>Address: 851 Hornaday Avenue
+HUB 3rd Ave,,Bronx,3 Ave & 149 St,40.816171,-73.917594,public recycling bin,#824100,public recycling bin<br>Name: HUB 3rd Ave<br>Address: 3 Ave & 149 St
+Hunt's Point,,Bronx,Hunt's Point Ave Btwn. Spofford Ave & Bryant Ave,40.814213,-73.885886,public recycling bin,#824100,public recycling bin<br>Name: Hunt's Point<br>Address: Hunt's Point Ave Btwn. Spofford Ave & Bryant Ave
+Hunt's point Riverside Park- Plgd - Parks,,Bronx,Lafayette Ave & Edgewater Rd,40.817471,-73.882622,public recycling bin,#824100,public recycling bin<br>Name: Hunt's point Riverside Park- Plgd - Parks<br>Address: Lafayette Ave & Edgewater Rd
+Isla Verde Garden,,Bronx,625 Wales Avenue ,40.81484,-73.90691,public recycling bin,#824100,public recycling bin<br>Name: Isla Verde Garden<br>Address: 625 Wales Avenue 
+Jardin de las Rosas,,Bronx,15 Buchanan Place,40.858005,-73.90485,public recycling bin,#824100,public recycling bin<br>Name: Jardin de las Rosas<br>Address: 15 Buchanan Place
+Joyce Kilmer,,Bronx,E 164 St Btwn. Grand Concourse & Walton Ave,40.829632,-73.921933,public recycling bin,#824100,public recycling bin<br>Name: Joyce Kilmer<br>Address: E 164 St Btwn. Grand Concourse & Walton Ave
+Joyce Kilmer,,Bronx,E 164 St Btwn. Grand Concourse & Walton Ave,40.827502,-73.923062,public recycling bin,#824100,public recycling bin<br>Name: Joyce Kilmer<br>Address: E 164 St Btwn. Grand Concourse & Walton Ave
+Kingsbridge Heights Community Center,,Bronx,3101 Kingsbridge Ave,40.877667,-73.90062,public recycling bin,#824100,public recycling bin<br>Name: Kingsbridge Heights Community Center<br>Address: 3101 Kingsbridge Ave
+Las Casitas Communitiy Garden,,Bronx,1126-1140 Woodycrest Avenue ,40.835694,-73.925664,public recycling bin,#824100,public recycling bin<br>Name: Las Casitas Communitiy Garden<br>Address: 1126-1140 Woodycrest Avenue 
+Little Green Garden (3) Large lower expanse,,Bronx,E 160th St and Elton Ave,40.82297053,-73.91288322,public recycling bin,#824100,public recycling bin<br>Name: Little Green Garden (3) Large lower expanse<br>Address: E 160th St and Elton Ave
+Mill Pond,,Bronx,Mill Pond Park,40.8229924,-73.93189254,public recycling bin,#824100,public recycling bin<br>Name: Mill Pond<br>Address: Mill Pond Park
+Mullaly,,Bronx,E 165 St Btwn. Jerome Ave & River Ave,40.834258,-73.923392,public recycling bin,#824100,public recycling bin<br>Name: Mullaly<br>Address: E 165 St Btwn. Jerome Ave & River Ave
+Mullaly,,Bronx,E 165 St Btwn. Jerome Ave & River Ave,40.831466,-73.923947,public recycling bin,#824100,public recycling bin<br>Name: Mullaly<br>Address: E 165 St Btwn. Jerome Ave & River Ave
+Muskrat Playground,,Bronx,Bronx Park,40.84155572,-73.87752267,public recycling bin,#824100,public recycling bin<br>Name: Muskrat Playground<br>Address: Bronx Park
+New Hoe Avenue Garden,,Bronx,"E/S Hoe Ave., S/O/ Aldus Street ",40.822711,-73.890242,public recycling bin,#824100,"public recycling bin<br>Name: New Hoe Avenue Garden<br>Address: E/S Hoe Ave., S/O/ Aldus Street "
+Niles Triangle,,Bronx,Bronx Park,40.889428,-73.864356,public recycling bin,#824100,public recycling bin<br>Name: Niles Triangle<br>Address: Bronx Park
+Noble Playground,,Bronx,Noble Ave Btwn. Bronx River Ave & E 177 St,40.836706,-73.872355,public recycling bin,#824100,public recycling bin<br>Name: Noble Playground<br>Address: Noble Ave Btwn. Bronx River Ave & E 177 St
+Nursery,,Bronx,Van Cortlandt Park,40.90208,-73.868519,public recycling bin,#824100,public recycling bin<br>Name: Nursery<br>Address: Van Cortlandt Park
+Olinville,,Bronx,Bronx Blvd & E 219 St,40.884079,-73.866996,public recycling bin,#824100,public recycling bin<br>Name: Olinville<br>Address: Bronx Blvd & E 219 St
+"Orchard Beach picnic areas, Pelham playground",,Bronx,Orchard Beach,40.866292,-73.794774,public recycling bin,#824100,"public recycling bin<br>Name: Orchard Beach picnic areas, Pelham playground<br>Address: Orchard Beach"
+"Orchard Beach picnic areas, Pelham playground",,Bronx,Orchard Beach,40.867984,-73.793396,public recycling bin,#824100,"public recycling bin<br>Name: Orchard Beach picnic areas, Pelham playground<br>Address: Orchard Beach"
+"Orchard Beach picnic areas, Pelham playground",,Bronx,Orchard Beach,40.868802,-73.792261,public recycling bin,#824100,"public recycling bin<br>Name: Orchard Beach picnic areas, Pelham playground<br>Address: Orchard Beach"
+"Orchard Beach picnic areas, Pelham playground",,Bronx,Orchard Beach,40.869068,-73.792558,public recycling bin,#824100,"public recycling bin<br>Name: Orchard Beach picnic areas, Pelham playground<br>Address: Orchard Beach"
+"Orchard Beach picnic areas, Pelham playground",,Bronx,Orchard Beach,40.872275,-73.797323,public recycling bin,#824100,"public recycling bin<br>Name: Orchard Beach picnic areas, Pelham playground<br>Address: Orchard Beach"
+Owen Dolan,,Bronx,2551 Westchester Ave,40.840504,-73.842668,public recycling bin,#824100,public recycling bin<br>Name: Owen Dolan<br>Address: 2551 Westchester Ave
+Owen Dolan,,Bronx,2551 Westchester Ave,40.840626,-73.843231,public recycling bin,#824100,public recycling bin<br>Name: Owen Dolan<br>Address: 2551 Westchester Ave
+P.O. Serrano,,Bronx,Olmstead Ave Btwn Turnbull Ave & Lafayette Ave ,40.82366,-73.850766,public recycling bin,#824100,public recycling bin<br>Name: P.O. Serrano<br>Address: Olmstead Ave Btwn Turnbull Ave & Lafayette Ave 
+Pearly Gates,,Bronx,St. Peter's Ave at Tratman Ave ,40.838797,-73.845791,public recycling bin,#824100,public recycling bin<br>Name: Pearly Gates<br>Address: St. Peter's Ave at Tratman Ave 
+"Pelham Bay  Ball field, north picnic area",,Bronx,Pelham Bay Park,40.851723,-73.824697,public recycling bin,#824100,"public recycling bin<br>Name: Pelham Bay  Ball field, north picnic area<br>Address: Pelham Bay Park"
+"Pelham Bay picnic, running track",,Bronx,Pelham Bay Park,40.849069,-73.822954,public recycling bin,#824100,"public recycling bin<br>Name: Pelham Bay picnic, running track<br>Address: Pelham Bay Park"
+Quarry Ballfield- Parks,,Bronx,"E 181 St, oak Tree Pl Btwn. Quarry Rd & Hughes Ave",40.850274,-73.88992,public recycling bin,#824100,"public recycling bin<br>Name: Quarry Ballfield- Parks<br>Address: E 181 St, oak Tree Pl Btwn. Quarry Rd & Hughes Ave"
+River Garden,,Bronx,1086 East 180th Street,40.841884,-73.876389,public recycling bin,#824100,public recycling bin<br>Name: River Garden<br>Address: 1086 East 180th Street
+River Park,,Bronx,E 180 St & Boston Rd,40.842795,-73.877694,public recycling bin,#824100,public recycling bin<br>Name: River Park<br>Address: E 180 St & Boston Rd
+Riverdale Neighborhood House,,Bronx,5521 Mosholu Ave,40.903281,-73.903612,public recycling bin,#824100,public recycling bin<br>Name: Riverdale Neighborhood House<br>Address: 5521 Mosholu Ave
+Rosehill Park- Parks,,Bronx,Webster Ave & E Fordham Rd,40.861953,-73.890736,public recycling bin,#824100,public recycling bin<br>Name: Rosehill Park- Parks<br>Address: Webster Ave & E Fordham Rd
+Rosewood- Parks,,Bronx,Bronx River Pkwy & Rosewood St,40.873199,-73.87052,public recycling bin,#824100,public recycling bin<br>Name: Rosewood- Parks<br>Address: Bronx River Pkwy & Rosewood St
+Sachkera Plgd – Parks,,Bronx,W Gunhill Rd & Knox Pl ,40.883881,-73.881691,public recycling bin,#824100,public recycling bin<br>Name: Sachkera Plgd – Parks<br>Address: W Gunhill Rd & Knox Pl 
+Seton Falls Park,,Bronx,3800 Baychester Ave,40.885219,-73.840474,public recycling bin,#824100,public recycling bin<br>Name: Seton Falls Park<br>Address: 3800 Baychester Ave
+Seton Falls Park,,Bronx,E 223 St & De Reimer Ave,40.888353,-73.840908,public recycling bin,#824100,public recycling bin<br>Name: Seton Falls Park<br>Address: E 223 St & De Reimer Ave
+Skate Park at Allerton,,Bronx,Bronx Park East Btwn Britton St & Allerton Ave ,40.865657,-73.850613,public recycling bin,#824100,public recycling bin<br>Name: Skate Park at Allerton<br>Address: Bronx Park East Btwn Britton St & Allerton Ave 
+Skyview Shopping Plaza,,Bronx,Skyview Shopping Plaza (Riverdale Ave & 259 St),40.906878,-73.904143,public recycling bin,#824100,public recycling bin<br>Name: Skyview Shopping Plaza<br>Address: Skyview Shopping Plaza (Riverdale Ave & 259 St)
+Soundview Parks,,Bronx,Lafayette Ave Btwn Colgate Ave & Boynton Ave ,40.819113,-73.878003,public recycling bin,#824100,public recycling bin<br>Name: Soundview Parks<br>Address: Lafayette Ave Btwn Colgate Ave & Boynton Ave 
+Soundview Parks,,Bronx,Metcalf Ave Btwn Lafayette Ave & Seward Ave ,40.819274,-73.870418,public recycling bin,#824100,public recycling bin<br>Name: Soundview Parks<br>Address: Metcalf Ave Btwn Lafayette Ave & Seward Ave 
+Soundview Parks,,Bronx,Metcalf Ave Btwn Seward Ave & Randall Ave,40.817335,-73.870322,public recycling bin,#824100,public recycling bin<br>Name: Soundview Parks<br>Address: Metcalf Ave Btwn Seward Ave & Randall Ave
+Soundview Parks,,Bronx,Soundview Park,40.816505,-73.872564,public recycling bin,#824100,public recycling bin<br>Name: Soundview Parks<br>Address: Soundview Park
+Southern Blvd & E 173 St,,Bronx,Southern Blvd & 173 St,40.835694,-73.888776,public recycling bin,#824100,public recycling bin<br>Name: Southern Blvd & E 173 St<br>Address: Southern Blvd & 173 St
+Southwest Plgd Parks,,Bronx,Van Cortlandt Park,40.886538,-73.898453,public recycling bin,#824100,public recycling bin<br>Name: Southwest Plgd Parks<br>Address: Van Cortlandt Park
+Spuyton Duyvil plgd,,Bronx,Seton Park,40.887313,-73.916308,public recycling bin,#824100,public recycling bin<br>Name: Spuyton Duyvil plgd<br>Address: Seton Park
+St. James ,,Bronx,E 193 St,40.866089,-73.896967,public recycling bin,#824100,public recycling bin<br>Name: St. James <br>Address: E 193 St
+St. James ,,Bronx,Jerome Ave,40.865469,-73.898571,public recycling bin,#824100,public recycling bin<br>Name: St. James <br>Address: Jerome Ave
+St. James ,,Bronx,Jerome Ave,40.864779,-73.899257,public recycling bin,#824100,public recycling bin<br>Name: St. James <br>Address: Jerome Ave
+St. Mary's ,,Bronx,St. Anns Ave & E 145 St,40.811712,-73.914339,public recycling bin,#824100,public recycling bin<br>Name: St. Mary's <br>Address: St. Anns Ave & E 145 St
+St. Mary's ,,Bronx,St. Anns Ave & E 145 St,40.811588,-73.914342,public recycling bin,#824100,public recycling bin<br>Name: St. Mary's <br>Address: St. Anns Ave & E 145 St
+Sunflower Garden/Girasol,,Bronx,639 E. 137th Street,40.80531601,-73.91533212,public recycling bin,#824100,public recycling bin<br>Name: Sunflower Garden/Girasol<br>Address: 639 E. 137th Street
+"Van Cortlandt  ballfield, tennis and picnic",,Bronx,Broadway & Putnam Trail,40.887317,-73.899006,public recycling bin,#824100,"public recycling bin<br>Name: Van Cortlandt  ballfield, tennis and picnic<br>Address: Broadway & Putnam Trail"
+"Van Cortlandt  ballfield, tennis and picnic",,Bronx,Broadway & Van Cortlandt Park 242 St,40.888933,-73.898324,public recycling bin,#824100,"public recycling bin<br>Name: Van Cortlandt  ballfield, tennis and picnic<br>Address: Broadway & Van Cortlandt Park 242 St"
+"Van Cortlandt  ballfield, tennis and picnic",,Bronx,Van Cortlandt Park,40.888224,-73.896655,public recycling bin,#824100,"public recycling bin<br>Name: Van Cortlandt  ballfield, tennis and picnic<br>Address: Van Cortlandt Park"
+Van Cortlandt Park ,,Bronx,Van Cortlandt Park,40.890172,-73.896375,public recycling bin,#824100,public recycling bin<br>Name: Van Cortlandt Park <br>Address: Van Cortlandt Park
+Van Cortlandt Stadium,,Bronx,Van Cortlandt Park,40.888255,-73.897777,public recycling bin,#824100,public recycling bin<br>Name: Van Cortlandt Stadium<br>Address: Van Cortlandt Park
+Van Cortlandt Stadium,,Bronx,Van Cortlandt Park,40.889096,-73.892278,public recycling bin,#824100,public recycling bin<br>Name: Van Cortlandt Stadium<br>Address: Van Cortlandt Park
+Virginia Park,,Bronx,Cross Bronx Expwy Service Rd,40.833505,-73.86232,public recycling bin,#824100,public recycling bin<br>Name: Virginia Park<br>Address: Cross Bronx Expwy Service Rd
+Vogue Community Garden,,Bronx,431 E. 156th Street,40.82057088,-73.91403138,public recycling bin,#824100,public recycling bin<br>Name: Vogue Community Garden<br>Address: 431 E. 156th Street
+Waring Plgd,,Bronx,"Waring Ave, Bronx Park E",40.860641,-73.871488,public recycling bin,#824100,"public recycling bin<br>Name: Waring Plgd<br>Address: Waring Ave, Bronx Park E"
+Watson & Gleason,,Bronx,Noble Ave Btwn Watson Ave & Gleason Ave,40.828933,-73.869326,public recycling bin,#824100,public recycling bin<br>Name: Watson & Gleason<br>Address: Noble Ave Btwn Watson Ave & Gleason Ave
+West Bronx Rec. Ctr,,Bronx,1527 Jesup Ave,40.844147,-73.918886,public recycling bin,#824100,public recycling bin<br>Name: West Bronx Rec. Ctr<br>Address: 1527 Jesup Ave
+Woodlawn Tennis,,Bronx,Van Cortlandt Park,40.895803,-73.87943,public recycling bin,#824100,public recycling bin<br>Name: Woodlawn Tennis<br>Address: Van Cortlandt Park
+A Better Community Garden,,Brooklyn,762-764 Herkimer Place/13-21 Hunterfly,40.677973,-73.928171,public recycling bin,#824100,public recycling bin<br>Name: A Better Community Garden<br>Address: 762-764 Herkimer Place/13-21 Hunterfly
+Asser Levy,,Brooklyn,Seaside Park,40.57519,-73.971342,public recycling bin,#824100,public recycling bin<br>Name: Asser Levy<br>Address: Seaside Park
+Asser Levy,,Brooklyn,Seaside Park,40.575239,-73.971889,public recycling bin,#824100,public recycling bin<br>Name: Asser Levy<br>Address: Seaside Park
+Bay Ridge,,Brooklyn,5 Ave & Bay Ridge Pkwy,40.629573,-74.022532,public recycling bin,#824100,public recycling bin<br>Name: Bay Ridge<br>Address: 5 Ave & Bay Ridge Pkwy
+Bensonhurst,,Brooklyn,Bensohurst Park,40.596833,-73.9994,public recycling bin,#824100,public recycling bin<br>Name: Bensonhurst<br>Address: Bensohurst Park
+Boerum,,Brooklyn,Boerum Park,40.68463,-73.990234,public recycling bin,#824100,public recycling bin<br>Name: Boerum<br>Address: Boerum Park
+Brooklyn War Memorial,,Brooklyn,Brooklyn War Memorial,40.696536,-73.990675,public recycling bin,#824100,public recycling bin<br>Name: Brooklyn War Memorial<br>Address: Brooklyn War Memorial
+Brower,,Brooklyn,Park Pl Btwn Brooklyn Ave & Kingston Ave,40.673811,-73.943717,public recycling bin,#824100,public recycling bin<br>Name: Brower<br>Address: Park Pl Btwn Brooklyn Ave & Kingston Ave
+Brownsville Rec Ctr,,Brooklyn,1555 Linden Blvd,40.656762,-73.90247,public recycling bin,#824100,public recycling bin<br>Name: Brownsville Rec Ctr<br>Address: 1555 Linden Blvd
+Bushwick Inlet Field,,Brooklyn,Bushwick Inlet Park,40.722315,-73.961527,public recycling bin,#824100,public recycling bin<br>Name: Bushwick Inlet Field<br>Address: Bushwick Inlet Park
+Cadman Plaza,,Brooklyn,Brooklyn War Memorial,40.697327,-73.990337,public recycling bin,#824100,public recycling bin<br>Name: Cadman Plaza<br>Address: Brooklyn War Memorial
+Cadman Plaza,,Brooklyn,Korean War Veterans Plaze,40.695873,-73.990218,public recycling bin,#824100,public recycling bin<br>Name: Cadman Plaza<br>Address: Korean War Veterans Plaze
+Carroll Park,,Brooklyn,Carroll St,40.680946,-73.995481,public recycling bin,#824100,public recycling bin<br>Name: Carroll Park<br>Address: Carroll St
+Carroll Park,,Brooklyn,President St,40.681307,-73.995212,public recycling bin,#824100,public recycling bin<br>Name: Carroll Park<br>Address: President St
+City Line Park,,Brooklyn,Fountain Ave,40.679442,-73.876233,public recycling bin,#824100,public recycling bin<br>Name: City Line Park<br>Address: Fountain Ave
+Cobble hill park,,Brooklyn,Clinton St Btwn Congress St & Verandah Pl,40.68829,-73.996136,public recycling bin,#824100,public recycling bin<br>Name: Cobble hill park<br>Address: Clinton St Btwn Congress St & Verandah Pl
+Columbus Park,,Brooklyn,Columbus Park,40.694143,-73.989791,public recycling bin,#824100,public recycling bin<br>Name: Columbus Park<br>Address: Columbus Park
+Commodore Berry,,Brooklyn,Commodore Berry,40.697793,-73.978653,public recycling bin,#824100,public recycling bin<br>Name: Commodore Berry<br>Address: Commodore Berry
+Cuyler Gore Park,,Brooklyn,Greene Ave,40.685861,-73.972638,public recycling bin,#824100,public recycling bin<br>Name: Cuyler Gore Park<br>Address: Greene Ave
+David Marcus Plgd,,Brooklyn,Avenue P Btwn 4 St & 5 St,40.610033,-73.96952,public recycling bin,#824100,public recycling bin<br>Name: David Marcus Plgd<br>Address: Avenue P Btwn 4 St & 5 St
+Dumbo Brooklyn Heights,,Brooklyn,Church Ave & Flatbush Ave,40.65021,-73.958798,public recycling bin,#824100,public recycling bin<br>Name: Dumbo Brooklyn Heights<br>Address: Church Ave & Flatbush Ave
+FAB,,Brooklyn,Fulton St & Lafayette/Greene/S Oxford,40.687093,-73.976238,public recycling bin,#824100,public recycling bin<br>Name: FAB<br>Address: Fulton St & Lafayette/Greene/S Oxford
+FAB,,Brooklyn,Putnam Triangle,40.682556,-73.961975,public recycling bin,#824100,public recycling bin<br>Name: FAB<br>Address: Putnam Triangle
+FAB ,,Brooklyn,Fulton & Lafayette ,40.687072,-73.976557,public recycling bin,#824100,public recycling bin<br>Name: FAB <br>Address: Fulton & Lafayette 
+FAB ,,Brooklyn,Lafayette & South Portland Ave,40.687208,-73.974621,public recycling bin,#824100,public recycling bin<br>Name: FAB <br>Address: Lafayette & South Portland Ave
+Fort Greene ,,Brooklyn,Washington Park & Dekalb Ave,40.689818,-73.9732,public recycling bin,#824100,public recycling bin<br>Name: Fort Greene <br>Address: Washington Park & Dekalb Ave
+Fort Hamilton Sr. Center,,Brooklyn,9941 Fort Hamilton Pkwy,40.613322,-74.030067,public recycling bin,#824100,public recycling bin<br>Name: Fort Hamilton Sr. Center<br>Address: 9941 Fort Hamilton Pkwy
+Good Shepheard's Community Group,,Brooklyn,555-557 Shepherd Ave.,40.67073271,-73.87967557,public recycling bin,#824100,public recycling bin<br>Name: Good Shepheard's Community Group<br>Address: 555-557 Shepherd Ave.
+Gregory's Garden (P.S. 158 Memorial Garden,,Brooklyn,"444,448 Warwich Avenue",40.672659,-73.885742,public recycling bin,#824100,"public recycling bin<br>Name: Gregory's Garden (P.S. 158 Memorial Garden<br>Address: 444,448 Warwich Avenue"
+Hands  & Hearts(New Lots Urban Farm),,Brooklyn,New Lots Ave at Alabama Avenue,40.66101,-73.895627,public recycling bin,#824100,public recycling bin<br>Name: Hands  & Hearts(New Lots Urban Farm)<br>Address: New Lots Ave at Alabama Avenue
+Harry Chapin Plgd,,Brooklyn,Hillside Park,40.700784,-73.995146,public recycling bin,#824100,public recycling bin<br>Name: Harry Chapin Plgd<br>Address: Hillside Park
+Herbal Garden,,Brooklyn,582-590 Glenmore Ave.,40.674221,-73.888573,public recycling bin,#824100,public recycling bin<br>Name: Herbal Garden<br>Address: 582-590 Glenmore Ave.
+JJ Byrne,,Brooklyn,4 St Btwn 4 Ave & 5 Ave,40.67269,-73.984796,public recycling bin,#824100,public recycling bin<br>Name: JJ Byrne<br>Address: 4 St Btwn 4 Ave & 5 Ave
+JJ Byrne,,Brooklyn,4 St Btwn 4 Ave & 5 Ave,40.673262,-73.984332,public recycling bin,#824100,public recycling bin<br>Name: JJ Byrne<br>Address: 4 St Btwn 4 Ave & 5 Ave
+Kaiser ,,Brooklyn,Neptune Ave,40.578225,-73.994834,public recycling bin,#824100,public recycling bin<br>Name: Kaiser <br>Address: Neptune Ave
+Kelly,,Brooklyn,Kelly Memorial Playground,40.603519,-73.957375,public recycling bin,#824100,public recycling bin<br>Name: Kelly<br>Address: Kelly Memorial Playground
+Korean War Vet ,,Brooklyn,Cadman Plaza,40.695719,-73.990256,public recycling bin,#824100,public recycling bin<br>Name: Korean War Vet <br>Address: Cadman Plaza
+Manhattan Beach +BBQ,,Brooklyn,Oriental Blvd,40.577672,-73.944616,public recycling bin,#824100,public recycling bin<br>Name: Manhattan Beach +BBQ<br>Address: Oriental Blvd
+Manhattan Beach +BBQ,,Brooklyn,Oriental Blvd,40.577211,-73.946587,public recycling bin,#824100,public recycling bin<br>Name: Manhattan Beach +BBQ<br>Address: Oriental Blvd
+Marine Park ,,Brooklyn,Marine Park,40.604085,-73.930703,public recycling bin,#824100,public recycling bin<br>Name: Marine Park <br>Address: Marine Park
+McCarren Park ,,Brooklyn,Bedford Ave ,40.721612,-73.953668,public recycling bin,#824100,public recycling bin<br>Name: McCarren Park <br>Address: Bedford Ave 
+McCarren Park ,,Brooklyn,Bedford Ave ,40.721535,-73.954114,public recycling bin,#824100,public recycling bin<br>Name: McCarren Park <br>Address: Bedford Ave 
+McCarren Park ,,Brooklyn,Bedford Ave ,40.72173,-73.953298,public recycling bin,#824100,public recycling bin<br>Name: McCarren Park <br>Address: Bedford Ave 
+McCarren Park ,,Brooklyn,Berry St,40.721933,-73.955283,public recycling bin,#824100,public recycling bin<br>Name: McCarren Park <br>Address: Berry St
+McCarren Park ,,Brooklyn,Driggs Ave,40.720622,-73.952488,public recycling bin,#824100,public recycling bin<br>Name: McCarren Park <br>Address: Driggs Ave
+McCarren Park ,,Brooklyn,Driggs Ave & Lorimer St,40.721653,-73.950305,public recycling bin,#824100,public recycling bin<br>Name: McCarren Park <br>Address: Driggs Ave & Lorimer St
+McCarren Park ,,Brooklyn,McCarren Park,40.719973,-73.952215,public recycling bin,#824100,public recycling bin<br>Name: McCarren Park <br>Address: McCarren Park
+McCarren Park ,,Brooklyn,N 12 St,40.721075,-73.955512,public recycling bin,#824100,public recycling bin<br>Name: McCarren Park <br>Address: N 12 St
+McGorlick Park,,Brooklyn,McGorlick Park,40.724446,-73.943326,public recycling bin,#824100,public recycling bin<br>Name: McGorlick Park<br>Address: McGorlick Park
+Metropolitan Rec Ctr ,,Brooklyn,261 Bedford Ave,40.715086,-73.960546,public recycling bin,#824100,public recycling bin<br>Name: Metropolitan Rec Ctr <br>Address: 261 Bedford Ave
+Metrotech,,Brooklyn,Willoughby St & Bridge St,40.692165,-73.985247,public recycling bin,#824100,public recycling bin<br>Name: Metrotech<br>Address: Willoughby St & Bridge St
+Mt. Prospect plgd,,Brooklyn,Mt. Prospect Park,40.67207,-73.96598,public recycling bin,#824100,public recycling bin<br>Name: Mt. Prospect plgd<br>Address: Mt. Prospect Park
+Myrtle Ave BID,,Brooklyn,Myrtle Ave & Adelphi St,40.693222,-73.971887,public recycling bin,#824100,public recycling bin<br>Name: Myrtle Ave BID<br>Address: Myrtle Ave & Adelphi St
+Myrtle Ave BID,,Brooklyn,Myrtle Ave & Ashland Pl,40.693473,-73.979168,public recycling bin,#824100,public recycling bin<br>Name: Myrtle Ave BID<br>Address: Myrtle Ave & Ashland Pl
+Myrtle Ave BID,,Brooklyn,Myrtle Ave & Clinton Ave,40.693127,-73.96879,public recycling bin,#824100,public recycling bin<br>Name: Myrtle Ave BID<br>Address: Myrtle Ave & Clinton Ave
+Myrtle Ave BID,,Brooklyn,Myrtle Ave & Hall St,40.693456,-73.965908,public recycling bin,#824100,public recycling bin<br>Name: Myrtle Ave BID<br>Address: Myrtle Ave & Hall St
+N. 5th St. pier,,Brooklyn,N. 5th St. pier,40.720628,-73.965524,public recycling bin,#824100,public recycling bin<br>Name: N. 5th St. pier<br>Address: N. 5th St. pier
+New Vision Garden,,Brooklyn,590-594 Schenck Avenue,40.6659,-73.887172,public recycling bin,#824100,public recycling bin<br>Name: New Vision Garden<br>Address: 590-594 Schenck Avenue
+Owl's Head,,Brooklyn,Owl's Head,40.639285,-74.031909,public recycling bin,#824100,public recycling bin<br>Name: Owl's Head<br>Address: Owl's Head
+Palato plgd,,Brooklyn,Manhattan Beach Park,40.577492,-73.946325,public recycling bin,#824100,public recycling bin<br>Name: Palato plgd<br>Address: Manhattan Beach Park
+Park Slope,,Brooklyn,7 Ave & 6 St,40.668797,-73.980144,public recycling bin,#824100,public recycling bin<br>Name: Park Slope<br>Address: 7 Ave & 6 St
+Park Slope Playground ,,Brooklyn,Berkeley Lincoln Playground ,40.676639,-73.978903,public recycling bin,#824100,public recycling bin<br>Name: Park Slope Playground <br>Address: Berkeley Lincoln Playground 
+Pierrepont Park,,Brooklyn,Pierrepon St,40.696389,-73.99734,public recycling bin,#824100,public recycling bin<br>Name: Pierrepont Park<br>Address: Pierrepon St
+Prospect Park ,,Brooklyn,Ocean Ave,40.660478,-73.963187,public recycling bin,#824100,public recycling bin<br>Name: Prospect Park <br>Address: Ocean Ave
+Prospect Park ,,Brooklyn,Ocean Ave,40.655183,-73.962214,public recycling bin,#824100,public recycling bin<br>Name: Prospect Park <br>Address: Ocean Ave
+Prospect Park ,,Brooklyn,Prospect Park West,40.664608,-73.976666,public recycling bin,#824100,public recycling bin<br>Name: Prospect Park <br>Address: Prospect Park West
+Prospect Park ,,Brooklyn,Prospect Park West,40.66132,-73.979593,public recycling bin,#824100,public recycling bin<br>Name: Prospect Park <br>Address: Prospect Park West
+Red Gate Garden,,Brooklyn,604 Marcy Avenue,40.693761,-73.948972,public recycling bin,#824100,public recycling bin<br>Name: Red Gate Garden<br>Address: 604 Marcy Avenue
+Red Hook Park,,Brooklyn,Red Hook Park,40.677265,-74.008353,public recycling bin,#824100,public recycling bin<br>Name: Red Hook Park<br>Address: Red Hook Park
+Salt marsh,,Brooklyn,3301 Avenue U,40.604374,-73.930741,public recycling bin,#824100,public recycling bin<br>Name: Salt marsh<br>Address: 3301 Avenue U
+Shore Road Plgd,,Brooklyn,Shore Rd Park,40.617506,-74.040033,public recycling bin,#824100,public recycling bin<br>Name: Shore Road Plgd<br>Address: Shore Rd Park
+South Oxport ,,Brooklyn,Oxport Playground,40.697746,-73.976199,public recycling bin,#824100,public recycling bin<br>Name: South Oxport <br>Address: Oxport Playground
+Squibb Park,,Brooklyn,Btwn Furman St & Columbia Heights,40.701079,-73.995307,public recycling bin,#824100,public recycling bin<br>Name: Squibb Park<br>Address: Btwn Furman St & Columbia Heights
+St. John Cantius,,Brooklyn,476-484 New Jersey Avenue,40.667491,-73.89384,public recycling bin,#824100,public recycling bin<br>Name: St. John Cantius<br>Address: 476-484 New Jersey Avenue
+St. John's ,,Brooklyn,St. John's Park,40.673754,-73.934855,public recycling bin,#824100,public recycling bin<br>Name: St. John's <br>Address: St. John's Park
+St. Nicholas-Olive Street Garden,,Brooklyn,21-25 Olive Street ,40.713316,-73.938974,public recycling bin,#824100,public recycling bin<br>Name: St. Nicholas-Olive Street Garden<br>Address: 21-25 Olive Street 
+Starret City,,Brooklyn,1344 Pennsylvania Avenue,40.650143,-73.884372,public recycling bin,#824100,public recycling bin<br>Name: Starret City<br>Address: 1344 Pennsylvania Avenue
+Sternberg Park,,Brooklyn,Boerum St,40.705616,-73.947172,public recycling bin,#824100,public recycling bin<br>Name: Sternberg Park<br>Address: Boerum St
+Sternberg Park,,Brooklyn,Lorimer St,40.706315,-73.948025,public recycling bin,#824100,public recycling bin<br>Name: Sternberg Park<br>Address: Lorimer St
+Sunset Park,,Brooklyn,5 Ave & 44 St,40.648468,-74.006771,public recycling bin,#824100,public recycling bin<br>Name: Sunset Park<br>Address: 5 Ave & 44 St
+Ten Eyck Houses,,Brooklyn,15-17 Ten Eyck Street,40.709648,-73.950166,public recycling bin,#824100,public recycling bin<br>Name: Ten Eyck Houses<br>Address: 15-17 Ten Eyck Street
+"Triple Relaxation, Reflection, Revenue (Victoria Garden)",,Brooklyn,613 Hendrix Street ,40.666548,-73.887691,public recycling bin,#824100,"public recycling bin<br>Name: Triple Relaxation, Reflection, Revenue (Victoria Garden)<br>Address: 613 Hendrix Street "
+UCC Youth Farm-East New York Farms,,Brooklyn,613 Schenck Avenue ,40.665324,-73.886769,public recycling bin,#824100,public recycling bin<br>Name: UCC Youth Farm-East New York Farms<br>Address: 613 Schenck Avenue 
+Underhill Playground,,Brooklyn,Underhill Ave & Prospect Pl,40.676766,-73.965902,public recycling bin,#824100,public recycling bin<br>Name: Underhill Playground<br>Address: Underhill Ave & Prospect Pl
+Underwood Playground,,Brooklyn,Underwood Park,40.688204,-73.966559,public recycling bin,#824100,public recycling bin<br>Name: Underwood Playground<br>Address: Underwood Park
+Upon the Rock,,Brooklyn,2556 Pitkin Avenue.,40.674329,-73.877867,public recycling bin,#824100,public recycling bin<br>Name: Upon the Rock<br>Address: 2556 Pitkin Avenue.
+Vernon (Throop Avenue Block Assoc.),,Brooklyn,253 Throop Avenue,40.695221,-73.943264,public recycling bin,#824100,public recycling bin<br>Name: Vernon (Throop Avenue Block Assoc.)<br>Address: 253 Throop Avenue
+Welcome Home,,Brooklyn,681 Halsey Street,40.684658,-73.925222,public recycling bin,#824100,public recycling bin<br>Name: Welcome Home<br>Address: 681 Halsey Street
+Dumbo Brooklyn Heights,,Brooklyn,Front St & Jay St,40.70238,-73.986553,public recycling bin,#824100,public recycling bin<br>Name: Dumbo Brooklyn Heights<br>Address: Front St & Jay St
+Dumbo Brooklyn Heights,,Brooklyn,Front St & Main St,40.702631,-73.990641,public recycling bin,#824100,public recycling bin<br>Name: Dumbo Brooklyn Heights<br>Address: Front St & Main St
+Dumbo Brooklyn Heights,,Brooklyn,Front St & Washington St,40.702573,-73.989752,public recycling bin,#824100,public recycling bin<br>Name: Dumbo Brooklyn Heights<br>Address: Front St & Washington St
+FAB,,Brooklyn,Fulton & Washington Ave ,40.68293,-73.964596,public recycling bin,#824100,public recycling bin<br>Name: FAB<br>Address: Fulton & Washington Ave 
+FAB ,,Brooklyn,Fulton & Clinton Ave ,40.683557,-73.966797,public recycling bin,#824100,public recycling bin<br>Name: FAB <br>Address: Fulton & Clinton Ave 
+1 Centre Street,,Manhattan,1 Centre Street,40.712187,-74.005701,public recycling bin,#824100,public recycling bin<br>Name: 1 Centre Street<br>Address: 1 Centre Street
+100 Centre St,,Manhattan,100 Centre St,40.715827,-74.000488,public recycling bin,#824100,public recycling bin<br>Name: 100 Centre St<br>Address: 100 Centre St
+100 Centre Street ,,Manhattan,100 Centre Street (South Entrance),40.715923,-74.001448,public recycling bin,#824100,public recycling bin<br>Name: 100 Centre Street <br>Address: 100 Centre Street (South Entrance)
+100 Gold Street,,Manhattan,100 Gold Street,40.71045,-74.003755,public recycling bin,#824100,public recycling bin<br>Name: 100 Gold Street<br>Address: 100 Gold Street
+111 Centre St,,Manhattan,111 Centre St,40.716396,-74.001359,public recycling bin,#824100,public recycling bin<br>Name: 111 Centre St<br>Address: 111 Centre St
+115 Chrystie St,,Manhattan,115 Chrystie St (Outside Main Entrance),40.718605,-73.993763,public recycling bin,#824100,public recycling bin<br>Name: 115 Chrystie St<br>Address: 115 Chrystie St (Outside Main Entrance)
+125 St. BID,,Manhattan,125 St & Lenox Ave,40.807945,-73.945623,public recycling bin,#824100,public recycling bin<br>Name: 125 St. BID<br>Address: 125 St & Lenox Ave
+137 Centre Street ,,Manhattan,137 Centre St (Centre St & White St),40.716941,-74.000816,public recycling bin,#824100,public recycling bin<br>Name: 137 Centre Street <br>Address: 137 Centre St (Centre St & White St)
+2 Lafayette St ,,Manhattan,2 Lafayette St (Lafayette St & Reade St),40.713608,-74.003619,public recycling bin,#824100,public recycling bin<br>Name: 2 Lafayette St <br>Address: 2 Lafayette St (Lafayette St & Reade St)
+22 Reade St,,Manhattan,22 Reade St (Reade St & Elk St),40.714023,-74.004472,public recycling bin,#824100,public recycling bin<br>Name: 22 Reade St<br>Address: 22 Reade St (Reade St & Elk St)
+280 Broadway,,Manhattan,Broadway Btwn Reade St & Chambers St,40.714399,-74.006131,public recycling bin,#824100,public recycling bin<br>Name: 280 Broadway<br>Address: Broadway Btwn Reade St & Chambers St
+346 Broadway,,Manhattan,346 Broadway,40.716827,-74.004185,public recycling bin,#824100,public recycling bin<br>Name: 346 Broadway<br>Address: 346 Broadway
+34th St,,Manhattan,34 St & 7 Ave,40.750901,-73.990843,public recycling bin,#824100,public recycling bin<br>Name: 34th St<br>Address: 34 St & 7 Ave
+49-51 Chambers Street ,,Manhattan,49-51 Chambers Street (Outside Main Entrance),40.71368,-74.005513,public recycling bin,#824100,public recycling bin<br>Name: 49-51 Chambers Street <br>Address: 49-51 Chambers Street (Outside Main Entrance)
+60 Lafayette St,,Manhattan,60 Lafayette St,40.716458,-74.002467,public recycling bin,#824100,public recycling bin<br>Name: 60 Lafayette St<br>Address: 60 Lafayette St
+60 Lafayette St,,Manhattan,60 Lafayette St (Lafayette & Leonard),40.716158,-74.002555,public recycling bin,#824100,public recycling bin<br>Name: 60 Lafayette St<br>Address: 60 Lafayette St (Lafayette & Leonard)
+6BC Botanical Garden,,Manhattan,624-628 E. 6th Street ,40.723831,-73.980677,public recycling bin,#824100,public recycling bin<br>Name: 6BC Botanical Garden<br>Address: 624-628 E. 6th Street 
+80 Centre St,,Manhattan,80 Centre St,40.715387,-74.001773,public recycling bin,#824100,public recycling bin<br>Name: 80 Centre St<br>Address: 80 Centre St
+96th St Train Station,,Manhattan,96 St & Lexington Ave,40.785787,-73.951092,public recycling bin,#824100,public recycling bin<br>Name: 96th St Train Station<br>Address: 96 St & Lexington Ave
+96th St Train Station,,Manhattan,96 St & Lexington Ave,40.785717,-73.950922,public recycling bin,#824100,public recycling bin<br>Name: 96th St Train Station<br>Address: 96 St & Lexington Ave
+Al Smith Rec Ctr,,Manhattan,80 Catherine St,40.710412,-73.996979,public recycling bin,#824100,public recycling bin<br>Name: Al Smith Rec Ctr<br>Address: 80 Catherine St
+Asser Levy Rec Ctr,,Manhattan,384 Asser Levy Pl,40.736271,-73.975508,public recycling bin,#824100,public recycling bin<br>Name: Asser Levy Rec Ctr<br>Address: 384 Asser Levy Pl
+Battery Park - DSNY Partnership,,Manhattan,Battery Park ,40.704592,-74.016957,public recycling bin,#824100,public recycling bin<br>Name: Battery Park - DSNY Partnership<br>Address: Battery Park 
+Battery Park City,,Manhattan,Battery Park City,40.711576,-74.016051,public recycling bin,#824100,public recycling bin<br>Name: Battery Park City<br>Address: Battery Park City
+Battery Park City,,Manhattan,Battery Park City,40.705075,-74.017115,public recycling bin,#824100,public recycling bin<br>Name: Battery Park City<br>Address: Battery Park City
+Battery Park City,,Manhattan,Battery Park City,40.711565,-74.015853,public recycling bin,#824100,public recycling bin<br>Name: Battery Park City<br>Address: Battery Park City
+Bayard St & Baxter St,,Manhattan,100 Centre Street,40.716092,-74.000134,public recycling bin,#824100,public recycling bin<br>Name: Bayard St & Baxter St<br>Address: 100 Centre Street
+Bellevue South,,Manhattan,Mt. Carmel Pl Btwn E 26 St & E 28 St,40.739982,-73.978053,public recycling bin,#824100,public recycling bin<br>Name: Bellevue South<br>Address: Mt. Carmel Pl Btwn E 26 St & E 28 St
+Bennett Park,,Manhattan,Bennett Park,40.852856,-73.938098,public recycling bin,#824100,public recycling bin<br>Name: Bennett Park<br>Address: Bennett Park
+Bleecker St. Playground,,Manhattan,W 11 St Btwn Hudson St & Bleecker St,40.736401,-74.005572,public recycling bin,#824100,public recycling bin<br>Name: Bleecker St. Playground<br>Address: W 11 St Btwn Hudson St & Bleecker St
+Broadway & Murray St,,Manhattan,Outside Entrance,40.712939,-74.007262,public recycling bin,#824100,public recycling bin<br>Name: Broadway & Murray St<br>Address: Outside Entrance
+Broadway & Park Place,,Manhattan,Outside Plaza Entrance,40.71248,-74.007642,public recycling bin,#824100,public recycling bin<br>Name: Broadway & Park Place<br>Address: Outside Plaza Entrance
+Bryant Park,,Manhattan,Bryant Park,40.754391,-73.983402,public recycling bin,#824100,public recycling bin<br>Name: Bryant Park<br>Address: Bryant Park
+Bryant Park - Bryant Park Corp.,,Manhattan,Bryant Park,40.753954,-73.984092,public recycling bin,#824100,public recycling bin<br>Name: Bryant Park - Bryant Park Corp.<br>Address: Bryant Park
+Carl Shurz,,Manhattan,Carl Shurz Park,40.77453,-73.943837,public recycling bin,#824100,public recycling bin<br>Name: Carl Shurz<br>Address: Carl Shurz Park
+Carrie McCracken Garden/TRUCE,,Manhattan,143-145 St. Nicholas Avenue ,40.804559,-73.952985,public recycling bin,#824100,public recycling bin<br>Name: Carrie McCracken Garden/TRUCE<br>Address: 143-145 St. Nicholas Avenue 
+Centre St & Chambers St,,Manhattan,31 Chambers Street,40.712796,-74.004816,public recycling bin,#824100,public recycling bin<br>Name: Centre St & Chambers St<br>Address: 31 Chambers Street
+Chelsea Park,,Manhattan,Chelsea Park,40.749849,-74.000856,public recycling bin,#824100,public recycling bin<br>Name: Chelsea Park<br>Address: Chelsea Park
+Chelsea Rec Center,,Manhattan,430 W 25 St,40.748355,-74.002007,public recycling bin,#824100,public recycling bin<br>Name: Chelsea Rec Center<br>Address: 430 W 25 St
+Chelsea Waterside Park Field,,Manhattan,Hudson River Park ,40.749349,-74.007351,public recycling bin,#824100,public recycling bin<br>Name: Chelsea Waterside Park Field<br>Address: Hudson River Park 
+Chelsea Waterside Park Playground,,Manhattan,Hudson River Park ,40.749318,-74.006981,public recycling bin,#824100,public recycling bin<br>Name: Chelsea Waterside Park Playground<br>Address: Hudson River Park 
+City Hall Park ,,Manhattan,City Hall Park ,40.711834,-74.007124,public recycling bin,#824100,public recycling bin<br>Name: City Hall Park <br>Address: City Hall Park 
+City Hall Park ,,Manhattan,City Hall Park ,40.712806,-74.004808,public recycling bin,#824100,public recycling bin<br>Name: City Hall Park <br>Address: City Hall Park 
+City Hall Park ,,Manhattan,City Hall Park ,40.712897,-74.007269,public recycling bin,#824100,public recycling bin<br>Name: City Hall Park <br>Address: City Hall Park 
+City Hall Park ,,Manhattan,City Hall Park ,40.712517,-74.007573,public recycling bin,#824100,public recycling bin<br>Name: City Hall Park <br>Address: City Hall Park 
+Coleman Square Playground,,Manhattan,Coleman Square Playground,40.710746,-73.993819,public recycling bin,#824100,public recycling bin<br>Name: Coleman Square Playground<br>Address: Coleman Square Playground
+Colonel Young,,Manhattan,Colonel Charles Young Playground,40.819645,-73.936417,public recycling bin,#824100,public recycling bin<br>Name: Colonel Young<br>Address: Colonel Charles Young Playground
+Columbus Park - DSNY Partnership,,Manhattan,Columbus Park,40.71475,-74.000096,public recycling bin,#824100,public recycling bin<br>Name: Columbus Park - DSNY Partnership<br>Address: Columbus Park
+Courtyard West ,,Manhattan,Hudson River Park ,40.732377,-74.010735,public recycling bin,#824100,public recycling bin<br>Name: Courtyard West <br>Address: Hudson River Park 
+Crack is Wack,,Manhattan,Harlem River Dr & 2 Ave ,40.804284,-73.931744,public recycling bin,#824100,public recycling bin<br>Name: Crack is Wack<br>Address: Harlem River Dr & 2 Ave 
+Desalvio,,Manhattan,DeSalvio Playground,40.721757,-73.996052,public recycling bin,#824100,public recycling bin<br>Name: Desalvio<br>Address: DeSalvio Playground
+DSNY Main Office -Worth St,,Manhattan,Centre Street,40.71511,-74.002359,public recycling bin,#824100,public recycling bin<br>Name: DSNY Main Office -Worth St<br>Address: Centre Street
+DSNY Main Office -Worth St,,Manhattan,Lafayette Street,40.715356,-74.002985,public recycling bin,#824100,public recycling bin<br>Name: DSNY Main Office -Worth St<br>Address: Lafayette Street
+Each One Teach One,,Manhattan,Lexington Ave & E 129 St,40.807191,-73.934751,public recycling bin,#824100,public recycling bin<br>Name: Each One Teach One<br>Address: Lexington Ave & E 129 St
+East River Park- DSNY partnership,,Manhattan,East River Bikeway,40.716205,-73.975494,public recycling bin,#824100,public recycling bin<br>Name: East River Park- DSNY partnership<br>Address: East River Bikeway
+Fashion BID,,Manhattan,57 St & Lexington Ave,40.760842,-73.969307,public recycling bin,#824100,public recycling bin<br>Name: Fashion BID<br>Address: 57 St & Lexington Ave
+Fashion BID,,Manhattan,Broadway Btwn 39 St & 40 St,40.753938,-73.986947,public recycling bin,#824100,public recycling bin<br>Name: Fashion BID<br>Address: Broadway Btwn 39 St & 40 St
+Father Dumo Square,,Manhattan,Father Demo Square,40.730225,-74.002246,public recycling bin,#824100,public recycling bin<br>Name: Father Dumo Square<br>Address: Father Demo Square
+Foley Square - DSNY Partnership,,Manhattan,"Foley Square, Duane St",40.714357,-74.003085,public recycling bin,#824100,"public recycling bin<br>Name: Foley Square - DSNY Partnership<br>Address: Foley Square, Duane St"
+Foley Square - DSNY Partnership,,Manhattan,"Foley Square, Worth St",40.715167,-74.002599,public recycling bin,#824100,"public recycling bin<br>Name: Foley Square - DSNY Partnership<br>Address: Foley Square, Worth St"
+Fred Johnson,,Manhattan,7 Ave Btwn 150 St & 151 St,40.824847,-73.935623,public recycling bin,#824100,public recycling bin<br>Name: Fred Johnson<br>Address: 7 Ave Btwn 150 St & 151 St
+Grand Central,,Manhattan,42 St & Lexington Ave,40.751692,-73.975975,public recycling bin,#824100,public recycling bin<br>Name: Grand Central<br>Address: 42 St & Lexington Ave
+Greenwich & Murray,,Manhattan,270 Greenwich Street,40.715109,-74.011382,public recycling bin,#824100,public recycling bin<br>Name: Greenwich & Murray<br>Address: 270 Greenwich Street
+Hamilton Fish,,Manhattan,Hamilton Fish Park,40.719937,-73.981432,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish<br>Address: Hamilton Fish Park
+Hamilton Fish Recreation Center,,Manhattan,East River Bikeway,40.716618,-73.975256,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: East River Bikeway
+Hamilton Fish Recreation Center,,Manhattan,East River Bikeway,40.717499,-73.974858,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: East River Bikeway
+Hamilton Fish Recreation Center,,Manhattan,East River Bikeway,40.718372,-73.974674,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: East River Bikeway
+Hamilton Fish Recreation Center,,Manhattan,East River Bikeway,40.718888,-73.974598,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: East River Bikeway
+Hamilton Fish Recreation Center,,Manhattan,East River Bikeway,40.719832,-73.974488,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: East River Bikeway
+Hamilton Fish Recreation Center,,Manhattan,East River Bikeway,40.721303,-73.974323,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: East River Bikeway
+Hamilton Fish Recreation Center,,Manhattan,East River Bikeway,40.722911,-73.973828,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: East River Bikeway
+Hamilton Fish Recreation Center,,Manhattan,East River Bikeway,40.723896,-73.973184,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: East River Bikeway
+Hamilton Fish Recreation Center,,Manhattan,East River Bikeway,40.724113,-73.973016,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: East River Bikeway
+Hamilton Fish Recreation Center,,Manhattan,East River Bikeway,40.725238,-73.972364,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: East River Bikeway
+Hamilton Fish Recreation Center,,Manhattan,Pitt St,40.720057,-73.981636,public recycling bin,#824100,public recycling bin<br>Name: Hamilton Fish Recreation Center<br>Address: Pitt St
+Hansboro,,Manhattan,35 W 134 St,40.812748,-73.939317,public recycling bin,#824100,public recycling bin<br>Name: Hansboro<br>Address: 35 W 134 St
+Harlem RBI – Community Group,,Manhattan,333 E 100 St,40.78613,-73.943294,public recycling bin,#824100,public recycling bin<br>Name: Harlem RBI – Community Group<br>Address: 333 E 100 St
+Harlem River Ballfield,,Manhattan,Harlem River Park,40.806036,-73.934206,public recycling bin,#824100,public recycling bin<br>Name: Harlem River Ballfield<br>Address: Harlem River Park
+Harrison St Basketball Court,,Manhattan,Hudson River Park ,40.718742,-74.013092,public recycling bin,#824100,public recycling bin<br>Name: Harrison St Basketball Court<br>Address: Hudson River Park 
+High Line Park,,Manhattan,High Line Park,40.74085,-74.008056,public recycling bin,#824100,public recycling bin<br>Name: High Line Park<br>Address: High Line Park
+High Line Park,,Manhattan,High Line Park,40.743298,-74.007034,public recycling bin,#824100,public recycling bin<br>Name: High Line Park<br>Address: High Line Park
+High Line Park,,Manhattan,Washington St & Gansevoort St,40.739465,-74.008162,public recycling bin,#824100,public recycling bin<br>Name: High Line Park<br>Address: Washington St & Gansevoort St
+Highbridge,,Manhattan,Washington Bridge,40.847983,-73.929251,public recycling bin,#824100,public recycling bin<br>Name: Highbridge<br>Address: Washington Bridge
+Highline Entrance+Park,,Manhattan,W 20 St,40.746041,-74.006109,public recycling bin,#824100,public recycling bin<br>Name: Highline Entrance+Park<br>Address: W 20 St
+Hudson River Park,,Manhattan,14 St Park,40.742795,-74.008033,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: 14 St Park
+Hudson River Park,,Manhattan,60 Centre Street,40.714666,-74.002176,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: 60 Centre Street
+Hudson River Park,,Manhattan,Battery Park Entrance (State St & Water St),40.702411,-74.012879,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Battery Park Entrance (State St & Water St)
+Hudson River Park,,Manhattan,Essex St & Delancy St,40.70235,-74.014393,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Essex St & Delancy St
+Hudson River Park,,Manhattan,Hudson River Park,40.731457,-74.010973,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Hudson River Park
+Hudson River Park,,Manhattan,Pier 40 Courtyard & Tunel,40.728833,-74.011899,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Pier 40 Courtyard & Tunel
+Hudson River Park,,Manhattan,Pier 51 Playground,40.738145,-74.010417,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Pier 51 Playground
+Hudson River Park,,Manhattan,Pier 62 Garden Area,40.748684,-74.008825,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Pier 62 Garden Area
+Hudson River Park,,Manhattan,Pier 62 Skate Park,40.748507,-74.009283,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Pier 62 Skate Park
+Hudson River Park,,Manhattan,Pier 66 Seating Area,40.751987,-74.008443,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Pier 66 Seating Area
+Hudson River Park,,Manhattan,Pier 84 (43 St Bike Shop),40.762839,-74.001011,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Pier 84 (43 St Bike Shop)
+Hudson River Park,,Manhattan,Pier 95,40.770381,-73.995824,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Pier 95
+Hudson River Park,,Manhattan,Tennis Courts,40.727097,-74.011512,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: Tennis Courts
+Hudson River Park,,Manhattan,White Hall Ferry Terminal (Indoor & Outdoor),40.701307,-74.011998,public recycling bin,#824100,public recycling bin<br>Name: Hudson River Park<br>Address: White Hall Ferry Terminal (Indoor & Outdoor)
+Imagination Playground,,Manhattan,Imagination Playground,40.706124,-74.004217,public recycling bin,#824100,public recycling bin<br>Name: Imagination Playground<br>Address: Imagination Playground
+Inwood Dyckman fields,,Manhattan,Inwood Hill Park,40.87126,-73.930765,public recycling bin,#824100,public recycling bin<br>Name: Inwood Dyckman fields<br>Address: Inwood Hill Park
+Inwood Dyckman fields,,Manhattan,Inwood Hill Park,40.872594,-73.930199,public recycling bin,#824100,public recycling bin<br>Name: Inwood Dyckman fields<br>Address: Inwood Hill Park
+Inwood Hill,,Manhattan,Inwood Hill Park,40.867338,-73.929011,public recycling bin,#824100,public recycling bin<br>Name: Inwood Hill<br>Address: Inwood Hill Park
+Inwood Hill Nature Center,,Manhattan,218 St & Indian Rd,40.87303,-73.918427,public recycling bin,#824100,public recycling bin<br>Name: Inwood Hill Nature Center<br>Address: 218 St & Indian Rd
+J. Hood Wright,,Manhattan,Jay Hood Wright Park,40.84637,-73.940825,public recycling bin,#824100,public recycling bin<br>Name: J. Hood Wright<br>Address: Jay Hood Wright Park
+J. Hood Wright,,Manhattan,Jay Hood Wright Park,40.84696,-73.940028,public recycling bin,#824100,public recycling bin<br>Name: J. Hood Wright<br>Address: Jay Hood Wright Park
+Jackie Robinson,,Manhattan,89 Bradhurst Ave,40.824297,-73.942288,public recycling bin,#824100,public recycling bin<br>Name: Jackie Robinson<br>Address: 89 Bradhurst Ave
+Jackson Square,,Manhattan,Jackson Square,40.738952,-74.002882,public recycling bin,#824100,public recycling bin<br>Name: Jackson Square<br>Address: Jackson Square
+Jacob Javits Playground,,Manhattan,Fort Tyron Park,40.859226,-73.934552,public recycling bin,#824100,public recycling bin<br>Name: Jacob Javits Playground<br>Address: Fort Tyron Park
+Jacob Schiff,,Manhattan,Jacob Schiff Playground ,40.820071,-73.952107,public recycling bin,#824100,public recycling bin<br>Name: Jacob Schiff<br>Address: Jacob Schiff Playground 
+John Jay Park,,Manhattan,John Jay Park,40.769445,-73.949898,public recycling bin,#824100,public recycling bin<br>Name: John Jay Park<br>Address: John Jay Park
+"Life Spire (CRMD, Inc.)",,Manhattan,2015 Lexington Avenue ,40.802588,-73.938468,public recycling bin,#824100,"public recycling bin<br>Name: Life Spire (CRMD, Inc.)<br>Address: 2015 Lexington Avenue "
+Lincoln Square,,Manhattan,Broadway & 63 St ,40.771372,-73.982072,public recycling bin,#824100,public recycling bin<br>Name: Lincoln Square<br>Address: Broadway & 63 St 
+Lincoln Square,,Manhattan,Broadway & 66 St,40.773715,-73.981957,public recycling bin,#824100,public recycling bin<br>Name: Lincoln Square<br>Address: Broadway & 66 St
+Maggie's Garden,,Manhattan,1547 Lexington Ave,40.828677,-73.948059,public recycling bin,#824100,public recycling bin<br>Name: Maggie's Garden<br>Address: 1547 Lexington Ave
+McCaffry Plgd – Parks,,Manhattan,W 43 St Btwn 8 & 9 Ave,40.758977,-73.991396,public recycling bin,#824100,public recycling bin<br>Name: McCaffry Plgd – Parks<br>Address: W 43 St Btwn 8 & 9 Ave
+Mobilization for Change Community Garden,,Manhattan,955 Columbus Avenue ,40.799707,-73.962203,public recycling bin,#824100,public recycling bin<br>Name: Mobilization for Change Community Garden<br>Address: 955 Columbus Avenue 
+Morningside Park,,Manhattan,Morningside Ave,40.80413,-73.958298,public recycling bin,#824100,public recycling bin<br>Name: Morningside Park<br>Address: Morningside Ave
+Morningside Park,,Manhattan,Morningside Dr,40.801921,-73.960854,public recycling bin,#824100,public recycling bin<br>Name: Morningside Park<br>Address: Morningside Dr
+Morningside Park,,Manhattan,W 113 St,40.803133,-73.958336,public recycling bin,#824100,public recycling bin<br>Name: Morningside Park<br>Address: W 113 St
+Morningside Park,,Manhattan,W 116 St,40.805621,-73.958455,public recycling bin,#824100,public recycling bin<br>Name: Morningside Park<br>Address: W 116 St
+Morris Jumel Ecological Garden,,Manhattan,455-457 W 162nd Street ,40.835708,-73.939122,public recycling bin,#824100,public recycling bin<br>Name: Morris Jumel Ecological Garden<br>Address: 455-457 W 162nd Street 
+Museum of Natural History/Planitarium,,Manhattan,Central Park West,40.780558,-73.972924,public recycling bin,#824100,public recycling bin<br>Name: Museum of Natural History/Planitarium<br>Address: Central Park West
+Museum of Natural History/Planitarium,,Manhattan,W 78 St & Columbus Ave,40.781265,-73.975927,public recycling bin,#824100,public recycling bin<br>Name: Museum of Natural History/Planitarium<br>Address: W 78 St & Columbus Ave
+Museum of Natural History/Planitarium,,Manhattan,W 79 St & Columbus Ave,40.781936,-73.97542,public recycling bin,#824100,public recycling bin<br>Name: Museum of Natural History/Planitarium<br>Address: W 79 St & Columbus Ave
+Museum of Natural History/Planitarium,,Manhattan,W 81 St Loop,40.782175,-73.972256,public recycling bin,#824100,public recycling bin<br>Name: Museum of Natural History/Planitarium<br>Address: W 81 St Loop
+Museum of Natural History/Planitarium,,Manhattan,W 81 St Loop,40.782666,-73.973215,public recycling bin,#824100,public recycling bin<br>Name: Museum of Natural History/Planitarium<br>Address: W 81 St Loop
+Our Little Green Acres (Garden Eight),,Manhattan,275-277 W. 122nd St.,40.808183,-73.95205,public recycling bin,#824100,public recycling bin<br>Name: Our Little Green Acres (Garden Eight)<br>Address: 275-277 W. 122nd St.
+Park Row & Beekman Street,,Manhattan,Outside Plaza  Entrance,40.711826,-74.007142,public recycling bin,#824100,public recycling bin<br>Name: Park Row & Beekman Street<br>Address: Outside Plaza  Entrance
+Parks Council Success Garden- P.S. 175 I.S. 275,,Manhattan,116-122 West 134th Street ,40.814478,-73.943498,public recycling bin,#824100,public recycling bin<br>Name: Parks Council Success Garden- P.S. 175 I.S. 275<br>Address: 116-122 West 134th Street 
+Payson Playground,,Manhattan,Inwood Hill Park,40.867205,-73.929121,public recycling bin,#824100,public recycling bin<br>Name: Payson Playground<br>Address: Inwood Hill Park
+Pelham Fritz,,Manhattan,18 Mount Morris Park,40.805463,-73.946284,public recycling bin,#824100,public recycling bin<br>Name: Pelham Fritz<br>Address: 18 Mount Morris Park
+Pier 25,,Manhattan,"Pier 25 West End, Hudson River Park",40.720478,-74.016223,public recycling bin,#824100,"public recycling bin<br>Name: Pier 25<br>Address: Pier 25 West End, Hudson River Park"
+Pier 25 Mini Golf & Skate Park,,Manhattan,Hudson River Park ,40.720176,-74.013949,public recycling bin,#824100,public recycling bin<br>Name: Pier 25 Mini Golf & Skate Park<br>Address: Hudson River Park 
+Pier 25 Playground,,Manhattan,"Pier 25 Playground West Gate, Hudson River Park",40.719714,-74.012943,public recycling bin,#824100,"public recycling bin<br>Name: Pier 25 Playground<br>Address: Pier 25 Playground West Gate, Hudson River Park"
+Pier 40,,Manhattan,"Pier 40 Courtyard & Tunnel, Hudson River Park",40.72917,-74.011317,public recycling bin,#824100,"public recycling bin<br>Name: Pier 40<br>Address: Pier 40 Courtyard & Tunnel, Hudson River Park"
+Pier 40 Dog Run,,Manhattan,"Pier 40, Hudson River Park",40.73038,-74.011005,public recycling bin,#824100,"public recycling bin<br>Name: Pier 40 Dog Run<br>Address: Pier 40, Hudson River Park"
+Pier 40 Roof,,Manhattan,"Pier 40, Hudson River Park",40.728828,-74.011903,public recycling bin,#824100,"public recycling bin<br>Name: Pier 40 Roof<br>Address: Pier 40, Hudson River Park"
+Pier 45,,Manhattan,Hudson River Park ,40.732971,-74.010875,public recycling bin,#824100,public recycling bin<br>Name: Pier 45<br>Address: Hudson River Park 
+Pier 57,,Manhattan,Hudson River Park ,40.74341,-74.009,public recycling bin,#824100,public recycling bin<br>Name: Pier 57<br>Address: Hudson River Park 
+Pier 84 (44 St Park Building),,Manhattan,Hudson River Park ,40.763247,-74.000042,public recycling bin,#824100,public recycling bin<br>Name: Pier 84 (44 St Park Building)<br>Address: Hudson River Park 
+Pleasant Village Community Garden,,Manhattan,342-353 Pleasant Ave./502 E. 119th Street,40.796609,-73.931602,public recycling bin,#824100,public recycling bin<br>Name: Pleasant Village Community Garden<br>Address: 342-353 Pleasant Ave./502 E. 119th Street
+Promenade South,,Manhattan,Hudson River Park ,40.707656,-74.015976,public recycling bin,#824100,public recycling bin<br>Name: Promenade South<br>Address: Hudson River Park 
+Rec Center  54,,Manhattan,E 54 St Btwn 1 Ave & 2 Ave,40.756564,-73.965043,public recycling bin,#824100,public recycling bin<br>Name: Rec Center  54<br>Address: E 54 St Btwn 1 Ave & 2 Ave
+Riverside Park- Plgd @ 83rd St.,,Manhattan,Riverside Park,40.787059,-73.982257,public recycling bin,#824100,public recycling bin<br>Name: Riverside Park- Plgd @ 83rd St.<br>Address: Riverside Park
+Rucker Park-parks,,Manhattan,155 St & Frederick Douglass Blvd,40.829744,-73.936431,public recycling bin,#824100,public recycling bin<br>Name: Rucker Park-parks<br>Address: 155 St & Frederick Douglass Blvd
+Sara D. Roosevelt,,Manhattan,Chrystie St,40.721035,-73.991596,public recycling bin,#824100,public recycling bin<br>Name: Sara D. Roosevelt<br>Address: Chrystie St
+Seward park,,Manhattan,Seward park,40.714603,-73.990111,public recycling bin,#824100,public recycling bin<br>Name: Seward park<br>Address: Seward park
+Sixth St. & Ave. B,,Manhattan,78-92 Avenue B,40.724254,-73.982088,public recycling bin,#824100,public recycling bin<br>Name: Sixth St. & Ave. B<br>Address: 78-92 Avenue B
+Soho Parnership,,Manhattan,Broadway &  Prince St ,40.724319,-73.997828,public recycling bin,#824100,public recycling bin<br>Name: Soho Parnership<br>Address: Broadway &  Prince St 
+Soho Partnership,,Manhattan,Spring St & Lafayette St,40.72227,-73.997287,public recycling bin,#824100,public recycling bin<br>Name: Soho Partnership<br>Address: Spring St & Lafayette St
+St. Catherine's ,,Manhattan,St. Catherine's Park,40.76512,-73.958509,public recycling bin,#824100,public recycling bin<br>Name: St. Catherine's <br>Address: St. Catherine's Park
+St. Nicholas,,Manhattan,135 St & St. Nicholas Ave,40.817272,-73.948248,public recycling bin,#824100,public recycling bin<br>Name: St. Nicholas<br>Address: 135 St & St. Nicholas Ave
+St. Vartan's ,,Manhattan,St. Vartan's Park,40.744858,-73.973764,public recycling bin,#824100,public recycling bin<br>Name: St. Vartan's <br>Address: St. Vartan's Park
+Stuyvesant- Parks,,Manhattan,East River Bikeway,40.73277,-73.97406,public recycling bin,#824100,public recycling bin<br>Name: Stuyvesant- Parks<br>Address: East River Bikeway
+Thomas Jefferson,,Manhattan,Jefferson Park,40.793412,-73.937115,public recycling bin,#824100,public recycling bin<br>Name: Thomas Jefferson<br>Address: Jefferson Park
+Thomas Payne,,Manhattan,Centre St & Worth St,40.715059,-74.002355,public recycling bin,#824100,public recycling bin<br>Name: Thomas Payne<br>Address: Centre St & Worth St
+Thomas Payne,,Manhattan,Duane St & Centre St,40.714045,-74.003135,public recycling bin,#824100,public recycling bin<br>Name: Thomas Payne<br>Address: Duane St & Centre St
+Thomas Payne,,Manhattan,Duane St & Lafayette St,40.714224,-74.003285,public recycling bin,#824100,public recycling bin<br>Name: Thomas Payne<br>Address: Duane St & Lafayette St
+Thomas Payne,,Manhattan,Lafayette St & Worth St,40.715355,-74.002982,public recycling bin,#824100,public recycling bin<br>Name: Thomas Payne<br>Address: Lafayette St & Worth St
+Times Square,,Manhattan,42 St Btwn Broadway & 7 Ave,40.755914,-73.986712,public recycling bin,#824100,public recycling bin<br>Name: Times Square<br>Address: 42 St Btwn Broadway & 7 Ave
+Tompkins Square Park,,Manhattan,Avenue A & E 7 St,40.72603,-73.983353,public recycling bin,#824100,public recycling bin<br>Name: Tompkins Square Park<br>Address: Avenue A & E 7 St
+Tompkins Square Park,,Manhattan,Avenue A & St. Mark's Pl,40.726599,-73.982985,public recycling bin,#824100,public recycling bin<br>Name: Tompkins Square Park<br>Address: Avenue A & St. Mark's Pl
+Tompkins Square Park,,Manhattan,Avenue B & E 8 St,40.725698,-73.980843,public recycling bin,#824100,public recycling bin<br>Name: Tompkins Square Park<br>Address: Avenue B & E 8 St
+Tony Dapolito,,Manhattan,1 Clarkson St,40.729474,-74.005489,public recycling bin,#824100,public recycling bin<br>Name: Tony Dapolito<br>Address: 1 Clarkson St
+Tribeca Partnership,,Manhattan,Greenwich & North Moore,40.719979,-74.010272,public recycling bin,#824100,public recycling bin<br>Name: Tribeca Partnership<br>Address: Greenwich & North Moore
+Union Square ,,Manhattan,Union Square Park,40.735243,-73.991012,public recycling bin,#824100,public recycling bin<br>Name: Union Square <br>Address: Union Square Park
+Union Square ,,Manhattan,Union Square Park,40.735219,-73.991603,public recycling bin,#824100,public recycling bin<br>Name: Union Square <br>Address: Union Square Park
+Union Square ,,Manhattan,Union Square Park,40.735292,-73.991614,public recycling bin,#824100,public recycling bin<br>Name: Union Square <br>Address: Union Square Park
+Union Square ,,Manhattan,Union Square Park,40.737023,-73.990324,public recycling bin,#824100,public recycling bin<br>Name: Union Square <br>Address: Union Square Park
+Union Square ,,Manhattan,Union Square Park,40.736535,-73.989754,public recycling bin,#824100,public recycling bin<br>Name: Union Square <br>Address: Union Square Park
+Union Square ,,Manhattan,Union Square Park,40.736122,-73.98963,public recycling bin,#824100,public recycling bin<br>Name: Union Square <br>Address: Union Square Park
+Union Square ,,Manhattan,Union Square Park,40.73534,-73.990127,public recycling bin,#824100,public recycling bin<br>Name: Union Square <br>Address: Union Square Park
+Verdi Square,,Manhattan,Verdi Square,40.77878,-73.981788,public recycling bin,#824100,public recycling bin<br>Name: Verdi Square<br>Address: Verdi Square
+Vesuvio Playground,,Manhattan,Thompson St,40.72534,-74.002324,public recycling bin,#824100,public recycling bin<br>Name: Vesuvio Playground<br>Address: Thompson St
+Wall Street (South/Front),,Manhattan,107 Wall Street,40.704695,-74.006729,public recycling bin,#824100,public recycling bin<br>Name: Wall Street (South/Front)<br>Address: 107 Wall Street
+Wall Street (Water/Front),,Manhattan,100 Wall Street,40.704919,-74.007084,public recycling bin,#824100,public recycling bin<br>Name: Wall Street (Water/Front)<br>Address: 100 Wall Street
+Warren & Greenwich,,Manhattan,270 Greenwich Street,40.715575,-74.011301,public recycling bin,#824100,public recycling bin<br>Name: Warren & Greenwich<br>Address: 270 Greenwich Street
+Washington Market Playground,,Manhattan,Washington Market Park,40.717298,-74.011001,public recycling bin,#824100,public recycling bin<br>Name: Washington Market Playground<br>Address: Washington Market Park
+Washington Square Park,,Manhattan,Washington Square Park,40.729689,-73.99662,public recycling bin,#824100,public recycling bin<br>Name: Washington Square Park<br>Address: Washington Square Park
+West 124th Street Community Garden,,Manhattan,West 124th Street and 5th Avenue ,40.806938,-73.945301,public recycling bin,#824100,public recycling bin<br>Name: West 124th Street Community Garden<br>Address: West 124th Street and 5th Avenue 
+West 4th St. Courts (PLGD),,Manhattan,6 Ave Btwn W 3 St & W 4 St,40.731315,-74.000988,public recycling bin,#824100,public recycling bin<br>Name: West 4th St. Courts (PLGD)<br>Address: 6 Ave Btwn W 3 St & W 4 St
+West End Avenuw,,Manhattan,West End Ave & 86 St,40.788757,-73.977788,public recycling bin,#824100,public recycling bin<br>Name: West End Avenuw<br>Address: West End Ave & 86 St
+Whitehall Ferry Terminal,,Manhattan,State Street outside Whitehall Ferry Terminal ,40.702335,-74.014384,public recycling bin,#824100,public recycling bin<br>Name: Whitehall Ferry Terminal<br>Address: State Street outside Whitehall Ferry Terminal 
+A.R.R.O.W. Field house,,Queens,35-30 35 St,40.755803,-73.92631,public recycling bin,#824100,public recycling bin<br>Name: A.R.R.O.W. Field house<br>Address: 35-30 35 St
+Abe Wolfson,,Queens,Abe Wolfson,40.728344,-73.815159,public recycling bin,#824100,public recycling bin<br>Name: Abe Wolfson<br>Address: Abe Wolfson
+Addabo Park,,Queens,Addabo Park,40.673137,-73.85461,public recycling bin,#824100,public recycling bin<br>Name: Addabo Park<br>Address: Addabo Park
+Al Oerter Rec Center ,,Queens,131-40 Fowler Ave,40.751418,-73.833843,public recycling bin,#824100,public recycling bin<br>Name: Al Oerter Rec Center <br>Address: 131-40 Fowler Ave
+Alley Pond Environmental,,Queens,22806 Northern Blvd,40.76269,-73.753297,public recycling bin,#824100,public recycling bin<br>Name: Alley Pond Environmental<br>Address: 22806 Northern Blvd
+"Alley Springfield, picnic and athletic",,Queens,Alley Pond Park,40.740063,-73.734291,public recycling bin,#824100,"public recycling bin<br>Name: Alley Springfield, picnic and athletic<br>Address: Alley Pond Park"
+"Alley Springfield, picnic and athletic",,Queens,Alley Pond Park,40.739523,-73.734881,public recycling bin,#824100,"public recycling bin<br>Name: Alley Springfield, picnic and athletic<br>Address: Alley Pond Park"
+"Alley Springfield, picnic and athletic",,Queens,Alley Pond Park,40.739295,-73.735873,public recycling bin,#824100,"public recycling bin<br>Name: Alley Springfield, picnic and athletic<br>Address: Alley Pond Park"
+"Alley Springfield, picnic and athletic",,Queens,Alley Pond Park,40.738986,-73.737665,public recycling bin,#824100,"public recycling bin<br>Name: Alley Springfield, picnic and athletic<br>Address: Alley Pond Park"
+"Alley Springfield, picnic and athletic",,Queens,Alley Pond Park,40.739758,-73.73546,public recycling bin,#824100,"public recycling bin<br>Name: Alley Springfield, picnic and athletic<br>Address: Alley Pond Park"
+Astoria Park,,Queens,Astoria Park S,40.776788,-73.92753,public recycling bin,#824100,public recycling bin<br>Name: Astoria Park<br>Address: Astoria Park S
+Austin E,,Queens,Ehrenreich-Austin Playground,40.715851,-73.836995,public recycling bin,#824100,public recycling bin<br>Name: Austin E<br>Address: Ehrenreich-Austin Playground
+B.C.C.A. Mini-Park and Garden,,Queens,150-14 115th Drive ,40.683453,-73.79213,public recycling bin,#824100,public recycling bin<br>Name: B.C.C.A. Mini-Park and Garden<br>Address: 150-14 115th Drive 
+Baisley Pond Park,,Queens,155 St & 118 Ave,40.681366,-73.787854,public recycling bin,#824100,public recycling bin<br>Name: Baisley Pond Park<br>Address: 155 St & 118 Ave
+Baisley Pond Park,,Queens,155 St & 125 Ave,40.675268,-73.786905,public recycling bin,#824100,public recycling bin<br>Name: Baisley Pond Park<br>Address: 155 St & 125 Ave
+Baisley Pond Park,,Queens,Lakeview Blvd & 118 Ave,40.682418,-73.785392,public recycling bin,#824100,public recycling bin<br>Name: Baisley Pond Park<br>Address: Lakeview Blvd & 118 Ave
+Bland Playground,,Queens,Bland Playground,40.758381,-73.831008,public recycling bin,#824100,public recycling bin<br>Name: Bland Playground<br>Address: Bland Playground
+Block Association #81,,Queens,Inwood Stree between Lakewood & Shore Aves,40.690594,-73.803822,public recycling bin,#824100,public recycling bin<br>Name: Block Association #81<br>Address: Inwood Stree between Lakewood & Shore Aves
+Brookville Park,,Queens,143 Ave,40.66346,-73.741329,public recycling bin,#824100,public recycling bin<br>Name: Brookville Park<br>Address: 143 Ave
+Brookville Park,,Queens,147 Ave,40.657674,-73.748388,public recycling bin,#824100,public recycling bin<br>Name: Brookville Park<br>Address: 147 Ave
+Brookville Park,,Queens,232 St,40.661051,-73.746639,public recycling bin,#824100,public recycling bin<br>Name: Brookville Park<br>Address: 232 St
+Buzz O'Rourke Playground,,Queens,Crocheron Park,40.770753,-73.77174,public recycling bin,#824100,public recycling bin<br>Name: Buzz O'Rourke Playground<br>Address: Crocheron Park
+Byrne Park,,Queens,135 Ave btwn 131 St & 132 St,40.667505,-73.807496,public recycling bin,#824100,public recycling bin<br>Name: Byrne Park<br>Address: 135 Ave btwn 131 St & 132 St
+Captain Tilly,,Queens,Captain Tilly Park,40.712529,-73.799377,public recycling bin,#824100,public recycling bin<br>Name: Captain Tilly<br>Address: Captain Tilly Park
+Charybdis plgd,,Queens,Astoria Park,40.779897,-73.922391,public recycling bin,#824100,public recycling bin<br>Name: Charybdis plgd<br>Address: Astoria Park
+Crocheron Park,,Queens,33 Rd & 215 Pl,40.77208,-73.769438,public recycling bin,#824100,public recycling bin<br>Name: Crocheron Park<br>Address: 33 Rd & 215 Pl
+Culinary Kids,,Queens,30-15 Seagirt Blvd. @ Beach 31st Street,40.595548,-73.762266,public recycling bin,#824100,public recycling bin<br>Name: Culinary Kids<br>Address: 30-15 Seagirt Blvd. @ Beach 31st Street
+Cunningham Ballfields,,Queens,Cunningham Park,40.736722,-73.770538,public recycling bin,#824100,public recycling bin<br>Name: Cunningham Ballfields<br>Address: Cunningham Park
+Cunningham Ballfields,,Queens,Cunningham Park,40.73523,-73.772083,public recycling bin,#824100,public recycling bin<br>Name: Cunningham Ballfields<br>Address: Cunningham Park
+Cunningham Picnic,,Queens,Cunningham Park,40.730966,-73.772458,public recycling bin,#824100,public recycling bin<br>Name: Cunningham Picnic<br>Address: Cunningham Park
+Cunningham Soccer,,Queens,Cunningham Park,40.73836,-73.764991,public recycling bin,#824100,public recycling bin<br>Name: Cunningham Soccer<br>Address: Cunningham Park
+Cunningham tennis courts,,Queens,Cunningham Park,40.730117,-73.7727,public recycling bin,#824100,public recycling bin<br>Name: Cunningham tennis courts<br>Address: Cunningham Park
+Cunningham tennis courts,,Queens,Cunningham Park,40.729499,-73.772888,public recycling bin,#824100,public recycling bin<br>Name: Cunningham tennis courts<br>Address: Cunningham Park
+Detective Keith Williams,,Queens,Detective Keith Williams Park,40.701915,-73.783477,public recycling bin,#824100,public recycling bin<br>Name: Detective Keith Williams<br>Address: Detective Keith Williams Park
+Elmhurst Park,,Queens,Elmhurst Park,40.730193,-73.885302,public recycling bin,#824100,public recycling bin<br>Name: Elmhurst Park<br>Address: Elmhurst Park
+Flushing Meadows Corona Park,,Queens,Amphitheater Bridge,40.740388,-73.841879,public recycling bin,#824100,public recycling bin<br>Name: Flushing Meadows Corona Park<br>Address: Amphitheater Bridge
+Flushing Meadows Corona Park,,Queens,Baseball Field 13,40.728112,-73.835592,public recycling bin,#824100,public recycling bin<br>Name: Flushing Meadows Corona Park<br>Address: Baseball Field 13
+Flushing Meadows Corona Park,,Queens,Dinosaur Playground,40.735169,-73.843435,public recycling bin,#824100,public recycling bin<br>Name: Flushing Meadows Corona Park<br>Address: Dinosaur Playground
+Flushing Meadows Corona Park,,Queens,"Field 2, Avenue of Commerce",40.749151,-73.840066,public recycling bin,#824100,"public recycling bin<br>Name: Flushing Meadows Corona Park<br>Address: Field 2, Avenue of Commerce"
+Flushing Meadows Corona Park,,Queens,Meadow Lake Trail E,40.737039,-73.837856,public recycling bin,#824100,public recycling bin<br>Name: Flushing Meadows Corona Park<br>Address: Meadow Lake Trail E
+Flushing Meadows Corona Park,,Queens,Meadow Lake Trail W,40.7333,-73.841976,public recycling bin,#824100,public recycling bin<br>Name: Flushing Meadows Corona Park<br>Address: Meadow Lake Trail W
+Flushing Meadows Corona Park,,Queens,Unisphere,40.746639,-73.844583,public recycling bin,#824100,public recycling bin<br>Name: Flushing Meadows Corona Park<br>Address: Unisphere
+Flushing Meadows Corona Park,,Queens,United Nations Ave S,40.744249,-73.844068,public recycling bin,#824100,public recycling bin<br>Name: Flushing Meadows Corona Park<br>Address: United Nations Ave S
+Flushing Meadows Pool,,Queens,Avery Ave & 131 St,40.751882,-73.837459,public recycling bin,#824100,public recycling bin<br>Name: Flushing Meadows Pool<br>Address: Avery Ave & 131 St
+Forest Park,,Queens,Bandshell,40.698413,-73.857672,public recycling bin,#824100,public recycling bin<br>Name: Forest Park<br>Address: Bandshell
+Forest Park,,Queens,Dog Run,40.69664,-73.860344,public recycling bin,#824100,public recycling bin<br>Name: Forest Park<br>Address: Dog Run
+Forest Park,,Queens,Myrtle Ave & Park Lane S,40.701272,-73.841922,public recycling bin,#824100,public recycling bin<br>Name: Forest Park<br>Address: Myrtle Ave & Park Lane S
+Forest Park,,Queens,Tennis Courts,40.69747,-73.856664,public recycling bin,#824100,public recycling bin<br>Name: Forest Park<br>Address: Tennis Courts
+Forest Park,,Queens,Victory Field Baseball,40.702293,-73.854765,public recycling bin,#824100,public recycling bin<br>Name: Forest Park<br>Address: Victory Field Baseball
+Forest Park,,Queens,Victory Field Soccer & Running Track,40.701854,-73.853145,public recycling bin,#824100,public recycling bin<br>Name: Forest Park<br>Address: Victory Field Soccer & Running Track
+Forest Park,,Queens,Woodhaven Blvd & Park Lane S,40.69799,-73.853295,public recycling bin,#824100,public recycling bin<br>Name: Forest Park<br>Address: Woodhaven Blvd & Park Lane S
+Fort Totten,,Queens,North Loop,40.794781,-73.779207,public recycling bin,#824100,public recycling bin<br>Name: Fort Totten<br>Address: North Loop
+Fort Totten,,Queens,Story Rd,40.792085,-73.774357,public recycling bin,#824100,public recycling bin<br>Name: Fort Totten<br>Address: Story Rd
+Fort Totten,,Queens,Weaver Rd & Totten Ave,40.792357,-73.777013,public recycling bin,#824100,public recycling bin<br>Name: Fort Totten<br>Address: Weaver Rd & Totten Ave
+George Eagle Carr Community Garden,,Queens,148th Street ,40.692406,-73.794745,public recycling bin,#824100,public recycling bin<br>Name: George Eagle Carr Community Garden<br>Address: 148th Street 
+Glendale Playground,,Queens,Glendale Playground,40.704591,-73.881944,public recycling bin,#824100,public recycling bin<br>Name: Glendale Playground<br>Address: Glendale Playground
+Greenthumb compound,,Queens,10 St & Queens Plaza S,40.753635,-73.947615,public recycling bin,#824100,public recycling bin<br>Name: Greenthumb compound<br>Address: 10 St & Queens Plaza S
+Grover Cleveland,,Queens,Cleveland Park,40.710069,-73.911456,public recycling bin,#824100,public recycling bin<br>Name: Grover Cleveland<br>Address: Cleveland Park
+Grover Cleveland,,Queens,Cleveland Park,40.71031,-73.911063,public recycling bin,#824100,public recycling bin<br>Name: Grover Cleveland<br>Address: Cleveland Park
+Hoffman Park,,Queens,Hoffman Park,40.733135,-73.871233,public recycling bin,#824100,public recycling bin<br>Name: Hoffman Park<br>Address: Hoffman Park
+Hoffman Park,,Queens,Hoffman Park,40.733143,-73.871427,public recycling bin,#824100,public recycling bin<br>Name: Hoffman Park<br>Address: Hoffman Park
+Hoffman Park,,Queens,Hoffman Park,40.733068,-73.870885,public recycling bin,#824100,public recycling bin<br>Name: Hoffman Park<br>Address: Hoffman Park
+Hoffman Park,,Queens,Hoffman Park,40.732938,-73.870916,public recycling bin,#824100,public recycling bin<br>Name: Hoffman Park<br>Address: Hoffman Park
+Hoffman Park,,Queens,Hoffman Park,40.732701,-73.871081,public recycling bin,#824100,public recycling bin<br>Name: Hoffman Park<br>Address: Hoffman Park
+Hoffman Park,,Queens,Hoffman Park,40.733203,-73.871822,public recycling bin,#824100,public recycling bin<br>Name: Hoffman Park<br>Address: Hoffman Park
+Juniper Valley Park,,Queens,Juniper Valley Park,40.720689,-73.877521,public recycling bin,#824100,public recycling bin<br>Name: Juniper Valley Park<br>Address: Juniper Valley Park
+Juniper Valley Park,,Queens,Juniper Valley Park,40.720412,-73.876474,public recycling bin,#824100,public recycling bin<br>Name: Juniper Valley Park<br>Address: Juniper Valley Park
+Juniper Valley Park,,Queens,Juniper Valley Park,40.719988,-73.884693,public recycling bin,#824100,public recycling bin<br>Name: Juniper Valley Park<br>Address: Juniper Valley Park
+Juniper Valley Park,,Queens,Juniper Valley Park,40.719841,-73.882971,public recycling bin,#824100,public recycling bin<br>Name: Juniper Valley Park<br>Address: Juniper Valley Park
+Kissena Park,,Queens,Booth Memorial Ave ,40.742502,-73.810261,public recycling bin,#824100,public recycling bin<br>Name: Kissena Park<br>Address: Booth Memorial Ave 
+Kissena Park,,Queens,Booth Memorial Ave ,40.742364,-73.808518,public recycling bin,#824100,public recycling bin<br>Name: Kissena Park<br>Address: Booth Memorial Ave 
+Kissena Park,,Queens,Kissena Velodrome,40.744148,-73.809333,public recycling bin,#824100,public recycling bin<br>Name: Kissena Park<br>Address: Kissena Velodrome
+Kissena Park,,Queens,Lithonia Ave ,40.749228,-73.803658,public recycling bin,#824100,public recycling bin<br>Name: Kissena Park<br>Address: Lithonia Ave 
+Kissena Park,,Queens,Rose Ave,40.747887,-73.809765,public recycling bin,#824100,public recycling bin<br>Name: Kissena Park<br>Address: Rose Ave
+LBH Rec Center,,Queens,93-29 Queens Blvd,40.732226,-73.86515,public recycling bin,#824100,public recycling bin<br>Name: LBH Rec Center<br>Address: 93-29 Queens Blvd
+Marie Curie Playground,,Queens,Marie Curie Park,40.757266,-73.770978,public recycling bin,#824100,public recycling bin<br>Name: Marie Curie Playground<br>Address: Marie Curie Park
+McDonald Park,,Queens,McDonald Park,40.721815,-73.845511,public recycling bin,#824100,public recycling bin<br>Name: McDonald Park<br>Address: McDonald Park
+McDonald Park,,Queens,McDonald Park,40.722012,-73.84608,public recycling bin,#824100,public recycling bin<br>Name: McDonald Park<br>Address: McDonald Park
+McDonald Park,,Queens,McDonald Park,40.72248,-73.847477,public recycling bin,#824100,public recycling bin<br>Name: McDonald Park<br>Address: McDonald Park
+Parks Academy,,Queens,Flushing Meadows Corona Park,40.751632,-73.843676,public recycling bin,#824100,public recycling bin<br>Name: Parks Academy<br>Address: Flushing Meadows Corona Park
+Passerelle - Aquatics,,Queens,Flushing Meadows Corona Park,40.750333,-73.8441,public recycling bin,#824100,public recycling bin<br>Name: Passerelle - Aquatics<br>Address: Flushing Meadows Corona Park
+Phil Rizzuto Park ,,Queens,Phil Rizzuto Park ,40.694407,-73.822116,public recycling bin,#824100,public recycling bin<br>Name: Phil Rizzuto Park <br>Address: Phil Rizzuto Park 
+Playground for All Children,,Queens,Flushing Meadows Corona Park,40.740883,-73.849318,public recycling bin,#824100,public recycling bin<br>Name: Playground for All Children<br>Address: Flushing Meadows Corona Park
+Pomonok Playground,,Queens,Pomonok Playground,40.736171,-73.814014,public recycling bin,#824100,public recycling bin<br>Name: Pomonok Playground<br>Address: Pomonok Playground
+Queens Hall of Science,,Queens,47-01 111 St,40.747127,-73.852214,public recycling bin,#824100,public recycling bin<br>Name: Queens Hall of Science<br>Address: 47-01 111 St
+Queens Museum,,Queens,"New York City Building, Flushing Meadows Corona Park",40.745794,-73.846729,public recycling bin,#824100,"public recycling bin<br>Name: Queens Museum<br>Address: New York City Building, Flushing Meadows Corona Park"
+Queens Theatre,,Queens,14 United Nations Ave S,40.744152,-73.844476,public recycling bin,#824100,public recycling bin<br>Name: Queens Theatre<br>Address: 14 United Nations Ave S
+Queens Zoo,,Queens,53-51 111 St,40.743599,-73.850355,public recycling bin,#824100,public recycling bin<br>Name: Queens Zoo<br>Address: 53-51 111 St
+Rainey park,,Queens,Rainey Park,40.765644,-73.941159,public recycling bin,#824100,public recycling bin<br>Name: Rainey park<br>Address: Rainey Park
+Rockaway Beach ,,Queens,B 100 St Boardwalk,40.582137,-73.820127,public recycling bin,#824100,public recycling bin<br>Name: Rockaway Beach <br>Address: B 100 St Boardwalk
+Rockaway Beach ,,Queens,B 102 St Boardwalk,40.5814,-73.823377,public recycling bin,#824100,public recycling bin<br>Name: Rockaway Beach <br>Address: B 102 St Boardwalk
+Rockaway Beach ,,Queens,B 105 St Boardwalk,40.580754,-73.824936,public recycling bin,#824100,public recycling bin<br>Name: Rockaway Beach <br>Address: B 105 St Boardwalk
+Rockaway Beach ,,Queens,B 81 St Boardwalk,40.585826,-73.807265,public recycling bin,#824100,public recycling bin<br>Name: Rockaway Beach <br>Address: B 81 St Boardwalk
+Rockaway Beach ,,Queens,B 90 St Boardwalk,40.5844,-73.811254,public recycling bin,#824100,public recycling bin<br>Name: Rockaway Beach <br>Address: B 90 St Boardwalk
+Rockaway Beach ,,Queens,B 91 St Boardwalk,40.58415,-73.812472,public recycling bin,#824100,public recycling bin<br>Name: Rockaway Beach <br>Address: B 91 St Boardwalk
+Rockaway Beach ,,Queens,B 95 St Boardwalk,40.583412,-73.815484,public recycling bin,#824100,public recycling bin<br>Name: Rockaway Beach <br>Address: B 95 St Boardwalk
+Rockaway Beach ,,Queens,B 97 St Boardwalk,40.582825,-73.817858,public recycling bin,#824100,public recycling bin<br>Name: Rockaway Beach <br>Address: B 97 St Boardwalk
+Rockaway Beach ,,Queens,B 99 St Boardwalk,40.582479,-73.819097,public recycling bin,#824100,public recycling bin<br>Name: Rockaway Beach <br>Address: B 99 St Boardwalk
+Rockaway Beach ,,Queens,Bayside Pl Boardwalk,40.585105,-73.809223,public recycling bin,#824100,public recycling bin<br>Name: Rockaway Beach <br>Address: Bayside Pl Boardwalk
+Rocket Park ,,Queens,Rocket Park ,40.670613,-73.846257,public recycling bin,#824100,public recycling bin<br>Name: Rocket Park <br>Address: Rocket Park 
+Roy Wilkens,,Queens,115 Ave & 175 St,40.691011,-73.774207,public recycling bin,#824100,public recycling bin<br>Name: Roy Wilkens<br>Address: 115 Ave & 175 St
+Roy Wilkens,,Queens,Baisley Blvd,40.685918,-73.769315,public recycling bin,#824100,public recycling bin<br>Name: Roy Wilkens<br>Address: Baisley Blvd
+Roy Wilkens,,Queens,Roy Wilkens ,40.688249,-73.773574,public recycling bin,#824100,public recycling bin<br>Name: Roy Wilkens<br>Address: Roy Wilkens 
+Socrates Park,,Queens,Socrates Park,40.768029,-73.936159,public recycling bin,#824100,public recycling bin<br>Name: Socrates Park<br>Address: Socrates Park
+Sorrentino ,,Queens,1848 Cornaga Ave,40.602281,-73.751564,public recycling bin,#824100,public recycling bin<br>Name: Sorrentino <br>Address: 1848 Cornaga Ave
+Southern Fields ,,Queens,Southern Pkwy,40.665379,-73.824555,public recycling bin,#824100,public recycling bin<br>Name: Southern Fields <br>Address: Southern Pkwy
+Southern Fields ,,Queens,Southern Pkwy,40.665627,-73.826703,public recycling bin,#824100,public recycling bin<br>Name: Southern Fields <br>Address: Southern Pkwy
+St. Michaels,,Queens,St. Michael's Playground,40.758219,-73.900278,public recycling bin,#824100,public recycling bin<br>Name: St. Michaels<br>Address: St. Michael's Playground
+Steinway St,,Queens,BW 34 St & Broadway,40.758155,-73.919785,public recycling bin,#824100,public recycling bin<br>Name: Steinway St<br>Address: BW 34 St & Broadway
+Sunnyside Garden Park,,Queens,Sunnyside Garden Park,40.749844,-73.91475,public recycling bin,#824100,public recycling bin<br>Name: Sunnyside Garden Park<br>Address: Sunnyside Garden Park
+Sunnyside Garden Park,,Queens,Sunnyside Garden Park,40.749547,-73.91514,public recycling bin,#824100,public recycling bin<br>Name: Sunnyside Garden Park<br>Address: Sunnyside Garden Park
+Sunnyside Garden Park,,Queens,Sunnyside Garden Park,40.749687,-73.91427,public recycling bin,#824100,public recycling bin<br>Name: Sunnyside Garden Park<br>Address: Sunnyside Garden Park
+Travers Park,,Queens,Travers Park,40.754243,-73.889365,public recycling bin,#824100,public recycling bin<br>Name: Travers Park<br>Address: Travers Park
+Underhill,,Queens,Cunningham Park,40.741628,-73.777362,public recycling bin,#824100,public recycling bin<br>Name: Underhill<br>Address: Cunningham Park
+William Simmons Community Garden Club,,Queens,173 St,40.701651,-73.78315,public recycling bin,#824100,public recycling bin<br>Name: William Simmons Community Garden Club<br>Address: 173 St
+World ice rink,,Queens,Flushing Meadows Corona Park,40.751914,-73.83732,public recycling bin,#824100,public recycling bin<br>Name: World ice rink<br>Address: Flushing Meadows Corona Park
+150 St,,Staten Island,New Dorp Lane & S Railroad Ave,40.574036,-74.116627,public recycling bin,#824100,public recycling bin<br>Name: 150 St<br>Address: New Dorp Lane & S Railroad Ave
+Berry Homes ballfield,,Staten Island,"Gen. Douglas Macarthur Park, Dongan Hills Ave",40.587445,-74.100364,public recycling bin,#824100,"public recycling bin<br>Name: Berry Homes ballfield<br>Address: Gen. Douglas Macarthur Park, Dongan Hills Ave"
+Berry Homes ballfield,,Staten Island,"Gen. Douglas Macarthur Park, Dongan Hills Ave",40.586439,-74.100257,public recycling bin,#824100,"public recycling bin<br>Name: Berry Homes ballfield<br>Address: Gen. Douglas Macarthur Park, Dongan Hills Ave"
+Bloomingdale Playgound,,Staten Island,Bloomingdale Park ,40.533819,-74.210241,public recycling bin,#824100,public recycling bin<br>Name: Bloomingdale Playgound<br>Address: Bloomingdale Park 
+Bloomingdale Playgound,,Staten Island,Bloomingdale Park ,40.535174,-74.210125,public recycling bin,#824100,public recycling bin<br>Name: Bloomingdale Playgound<br>Address: Bloomingdale Park 
+Bloomingdale Playgound,,Staten Island,"Bloomingdale Park, Lenevar Ave & Ramona Ave",40.53514,-74.208524,public recycling bin,#824100,"public recycling bin<br>Name: Bloomingdale Playgound<br>Address: Bloomingdale Park, Lenevar Ave & Ramona Ave"
+Bloomingdale Playgound,,Staten Island,"Bloomingdale Park, Richmond Pkwy & Lenevar Ave",40.531521,-74.207153,public recycling bin,#824100,"public recycling bin<br>Name: Bloomingdale Playgound<br>Address: Bloomingdale Park, Richmond Pkwy & Lenevar Ave"
+Cedar Grove Beach,,Staten Island,Cedar Grove Beach,40.557382,-74.10392,public recycling bin,#824100,public recycling bin<br>Name: Cedar Grove Beach<br>Address: Cedar Grove Beach
+Cedar Grove Beach,,Staten Island,Cedar Grove Beach,40.560272,-74.10104,public recycling bin,#824100,public recycling bin<br>Name: Cedar Grove Beach<br>Address: Cedar Grove Beach
+Clove lake garage complex,,Staten Island,Clove Lake Park,40.620135,-74.118801,public recycling bin,#824100,public recycling bin<br>Name: Clove lake garage complex<br>Address: Clove Lake Park
+Clove lake garage complex,,Staten Island,Clove Lake Park,40.618744,-74.118278,public recycling bin,#824100,public recycling bin<br>Name: Clove lake garage complex<br>Address: Clove Lake Park
+Cloves Lake,,Staten Island,Clove Lake Park,40.613891,-74.113523,public recycling bin,#824100,public recycling bin<br>Name: Cloves Lake<br>Address: Clove Lake Park
+Corporal Thompson Playground,,Staten Island,CPL Thompson Park,40.637872,-74.118791,public recycling bin,#824100,public recycling bin<br>Name: Corporal Thompson Playground<br>Address: CPL Thompson Park
+DeMatti Playground,,Staten Island,Thompkins Ave Btwn Chestnut Ave & Shaughnessy Ln,40.614615,-74.07412,public recycling bin,#824100,public recycling bin<br>Name: DeMatti Playground<br>Address: Thompkins Ave Btwn Chestnut Ave & Shaughnessy Ln
+Faber Pool,,Staten Island,Faber Pool and Park,40.640999,-74.135418,public recycling bin,#824100,public recycling bin<br>Name: Faber Pool<br>Address: Faber Pool and Park
+Graniteville,,Staten Island,Jennifer's Playground,40.62005569,-74.16311549,public recycling bin,#824100,public recycling bin<br>Name: Graniteville<br>Address: Jennifer's Playground
+Greenbelt Nature Center,,Staten Island,700 Rockland Ave,40.588496,-74.138918,public recycling bin,#824100,public recycling bin<br>Name: Greenbelt Nature Center<br>Address: 700 Rockland Ave
+Greenbelt Park ,,Staten Island,Greenbelt Park ,40.584516,-74.125035,public recycling bin,#824100,public recycling bin<br>Name: Greenbelt Park <br>Address: Greenbelt Park 
+Greenbelt Rec Ctr,,Staten Island,501 Brielle Ave,40.593686,-74.135646,public recycling bin,#824100,public recycling bin<br>Name: Greenbelt Rec Ctr<br>Address: 501 Brielle Ave
+John M. D'Amato Field,,Staten Island,Miller Field,40.564469,-74.097531,public recycling bin,#824100,public recycling bin<br>Name: John M. D'Amato Field<br>Address: Miller Field
+Lyons Pool,,Staten Island,Tompkinsville Play Center,40.637596,-74.074802,public recycling bin,#824100,public recycling bin<br>Name: Lyons Pool<br>Address: Tompkinsville Play Center
+MacArthur Park,,Staten Island,MacArthur Park,40.585877,-74.100975,public recycling bin,#824100,public recycling bin<br>Name: MacArthur Park<br>Address: MacArthur Park
+Mahony Playground,,Staten Island,Crescent Ave Btwn Jersey St & Beechwood Ave,40.643368,-74.086066,public recycling bin,#824100,public recycling bin<br>Name: Mahony Playground<br>Address: Crescent Ave Btwn Jersey St & Beechwood Ave
+Midland Beach,,Staten Island,"Midland Field, Bedford Ave ",40.57669,-74.098663,public recycling bin,#824100,"public recycling bin<br>Name: Midland Beach<br>Address: Midland Field, Bedford Ave "
+Midland Beach,,Staten Island,Midland Playground,40.575019,-74.098706,public recycling bin,#824100,public recycling bin<br>Name: Midland Beach<br>Address: Midland Playground
+Prall Playground,,Staten Island,Forest Ave & Elizabeth St,40.628859,-74.118013,public recycling bin,#824100,public recycling bin<br>Name: Prall Playground<br>Address: Forest Ave & Elizabeth St
+Silver Lake Dog Run,,Staten Island,Silver Lake Park,40.627186,-74.091985,public recycling bin,#824100,public recycling bin<br>Name: Silver Lake Dog Run<br>Address: Silver Lake Park
+Silver Lake Tennis,,Staten Island,Silver Lake Park,40.628358,-74.099058,public recycling bin,#824100,public recycling bin<br>Name: Silver Lake Tennis<br>Address: Silver Lake Park
+South Beach,,Staten Island,South Beach,40.579313,-74.077688,public recycling bin,#824100,public recycling bin<br>Name: South Beach<br>Address: South Beach
+Staten Island Ferry Terminal,,Staten Island,Hyatt Ave,40.642303,-74.076549,public recycling bin,#824100,public recycling bin<br>Name: Staten Island Ferry Terminal<br>Address: Hyatt Ave
+Staten Island Ferry Terminal,,Staten Island,Richmond Terrace,40.642709,-74.075724,public recycling bin,#824100,public recycling bin<br>Name: Staten Island Ferry Terminal<br>Address: Richmond Terrace
+Staten Island Ferry Terminal,,Staten Island,Richmond Terrace,40.642324,-74.075489,public recycling bin,#824100,public recycling bin<br>Name: Staten Island Ferry Terminal<br>Address: Richmond Terrace
+Tottenville Pool,,Staten Island,Hylan Blvd,40.505646,-74.235477,public recycling bin,#824100,public recycling bin<br>Name: Tottenville Pool<br>Address: Hylan Blvd
+Walker Park,,Staten Island,Davis Ave & Livingston Ct,40.642843,-74.11032,public recycling bin,#824100,public recycling bin<br>Name: Walker Park<br>Address: Davis Ave & Livingston Ct
+Walker Park,,Staten Island,Delafield Pl & Bard Ave,40.643799,-74.108845,public recycling bin,#824100,public recycling bin<br>Name: Walker Park<br>Address: Delafield Pl & Bard Ave
+Walker Park,,Staten Island,Delafield Pl & Davis Ave,40.643449,-74.11046,public recycling bin,#824100,public recycling bin<br>Name: Walker Park<br>Address: Delafield Pl & Davis Ave
+Walker Park,,Staten Island,Livingston Ct & bard Ave ,40.643343,-74.108641,public recycling bin,#824100,public recycling bin<br>Name: Walker Park<br>Address: Livingston Ct & bard Ave 
+West Brighton Pool,,Staten Island,899 Henderson Ave ,40.637121,-74.119287,public recycling bin,#824100,public recycling bin<br>Name: West Brighton Pool<br>Address: 899 Henderson Ave 
+Willowbrook Park,,Staten Island,Willowbrook Park,40.603832,-74.158697,public recycling bin,#824100,public recycling bin<br>Name: Willowbrook Park<br>Address: Willowbrook Park
+Willowbrook Park,,Staten Island,Willowbrook Park,40.603828,-74.16125,public recycling bin,#824100,public recycling bin<br>Name: Willowbrook Park<br>Address: Willowbrook Park
+Wolfe's Pond,,Staten Island,Wolfe's Pond,40.517368,-74.190913,public recycling bin,#824100,public recycling bin<br>Name: Wolfe's Pond<br>Address: Wolfe's Pond
+Wolfe's Pond,,Staten Island,Wolfe's Pond,40.518652,-74.18731,public recycling bin,#824100,public recycling bin<br>Name: Wolfe's Pond<br>Address: Wolfe's Pond
