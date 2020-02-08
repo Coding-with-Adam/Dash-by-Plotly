@@ -1,9 +1,9 @@
-#-------------replace this section with your own mapbox token
+#------------------------------------------------------delete this section and add your own mapbox token below
 import yaml #(pip install pyyaml)
 with open("config.yml", 'r') as ymlfile:
     cfg = yaml.load(ymlfile, Loader=yaml.FullLoader)
 mapbox_access_token = cfg['mysql']['key']
-#------------------------------------------------------------
+#-------------------------------------------------------
 # mapbox_access_token = 'insert_your_mapbox_token_here'
 
 import pandas as pd
