@@ -24,7 +24,7 @@ app.layout = html.Div([
 
     html.Div([
         dcc.Graph(id='our_graph')
-    ],className='delay'),
+    ]),
 
     html.Div([
         html.Label(['Choose Years of Border Crossings into the USA:'],
@@ -41,10 +41,10 @@ app.layout = html.Div([
                 2016: {'label': '2016', 'style': {'color':'#f50', 'font-weight':'bold'}},
                 2018: '2018',
             },
+            step=1,                # number of steps between values
             min=1996,
             max=2016,
-            value=[1996,2000],     # default value initially chosen
-            step=2,                # number of steps between values
+            value=[1998,2000],     # default value initially chosen
             dots=True,             # True, False - insert dots, only when step>1
             allowCross=False,      # True,False - Manage handle crossover
             disabled=False,        # True,False - disable handle
@@ -52,8 +52,8 @@ app.layout = html.Div([
             updatemode='mouseup',  # 'mouseup', 'drag' - update value method
             included=True,         # True, False - highlight handle
             vertical=False,        # True, False - vertical, horizontal slider
-            verticalHeight=800,    # hight of slider (pixels) when vertical=True
-            className=None,
+            verticalHeight=900,    # hight of slider (pixels) when vertical=True
+            className='None',
             tooltip={'always visible':False,  # show current slider values
                      'placement':'bottom'},
             ),
@@ -73,7 +73,7 @@ def build_graph(years):
     dff = df.loc[years[1]:years[0]]
     dff = dff[(dff['Measure']=='Personal Vehicles')]
     dff = dff[(dff['State']=='Vermont') | (dff['State']=='Idaho')]
-    print(dff[:5])
+    # print(dff[:5])
 
     fig = px.bar(dff, x="State", y="Value", color='Port Name')
 
