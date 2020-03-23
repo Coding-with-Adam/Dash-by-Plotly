@@ -29,7 +29,7 @@ pie_chart = px.pie(
                                             #'xgridoff', 'ygridoff', 'gridon', 'none'
         width=800,                          #figure width in pixels
         height=600,                         #figure height in pixels
-        hole=0.5,                            #represents the hole in middle of pie
+        hole=0.5,                           #represents the hole in middle of pie
         )
 
 # pie_chart.update_traces(textposition='outside', textinfo='percent+label',
