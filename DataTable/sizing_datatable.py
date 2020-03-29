@@ -56,7 +56,7 @@ df_long = pd.DataFrame(
 
 app.layout = dash_table.DataTable(
     data=df_election.to_dict('records'),
-    columns=[{'id': c, 'name': c} for c in df_election.columns],)
+    columns=[{'id': c, 'name': c} for c in df_election.columns],)  # Before running code at 03:45 in tutorial, delete this Parenthesis. 
 #----------------------------------------------------------------
 # Overflow cells' content into multiple lines
 #----------------------------------------------------------------
