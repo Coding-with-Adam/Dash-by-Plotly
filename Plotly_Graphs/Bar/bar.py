@@ -7,7 +7,7 @@ import plotly.io as pio
 # National Crime Records Bureau (NCRB), Govt of India has shared this dataset
 df = pd.read_csv("Caste.csv")
 df = df[df['state_name']=='Maharashtra']
-df = df.groupby(['year','gender',],as_index=False)['detenues','under_trial','convicts','others'].sum()
+df = df.groupby(['year','gender',],as_index=False)[['detenues','under_trial','convicts','others']].sum()
 print (df[:5])
 
 #fake margin of error, standard deviation, or 95% confidence interval
@@ -29,11 +29,11 @@ barchart = px.bar(
     # facet_col='caste',          # assigns marks to subplots in the horizontal direction
     # facet_col_wrap=2,           # maximum number of subplot columns. Do not set facet_row!
 
-    # color_discrete_sequence=["pink","yellow"],   # set specific marker colors. Color-colum data cannot be numeric
+    # color_discrete_sequence=["pink","yellow"],               # set specific marker colors. Color-colum data cannot be numeric
     # color_discrete_map={"Male": "gray" ,"Female":"red"},     # map your chosen colors
-    # color_continuous_scale=px.colors.diverging.Picnic,          # set marker colors. When color colum is numeric data
-    # color_continuous_midpoint=100,                              # set desired midpoint. When colors=diverging
-    # range_color=[1,200],                                        # set your own continuous color scale
+    # color_continuous_scale=px.colors.diverging.Picnic,       # set marker colors. When color colum is numeric data
+    # color_continuous_midpoint=100,                           # set desired midpoint. When colors=diverging
+    # range_color=[1,10000],                                   # set your own continuous color scale
     #----------------------------------------------------------------------------------------------
     # text='convicts',            # values appear in figure as text labels
     # hover_name='under_trial',   # values appear in bold in the hover tooltip
@@ -57,7 +57,7 @@ barchart = px.bar(
     # animation_frame='year',     # assign marks to animation frames
     # # animation_group=,         # use only when df has multiple rows with same object
     # # range_x=[5,50],           # set range of x-axis
-    # range_y=[0,10000],          # set range of x-axis
+    # range_y=[0,9000],           # set range of x-axis
     # category_orders={'year':    # force a specific ordering of values per column
     # [2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001]},
 
@@ -66,9 +66,10 @@ barchart = px.bar(
 # barchart.layout.updatemenus[0].buttons[0].args[1]['frame']['duration'] = 1000
 # barchart.layout.updatemenus[0].buttons[0].args[1]['transition']['duration'] = 500
 
-# barchart.update_traces(texttemplate='%{text:.2s}', textposition='outside',
-#                        width=[.3,.3,.3,.3,.3,.3,.6,.3,.3,.3,.3,.3,.3])
 # barchart.update_layout(uniformtext_minsize=14, uniformtext_mode='hide',
 #                        legend={'x':0,'y':1.0}),
+# barchart.update_traces(texttemplate='%{text:.2s}', textposition='outside',
+#                        width=[.3,.3,.3,.3,.3,.3,.6,.3,.3,.3,.3,.3,.3])
+
 
 pio.show(barchart)
