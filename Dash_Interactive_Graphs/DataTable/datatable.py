@@ -90,9 +90,6 @@ app.layout = html.Div([
 
     ],className='row'),
 
-    html.Br(),
-    html.Br(),
-    html.Br()
 
 ])
 
@@ -119,11 +116,13 @@ def update_data(chosen_rows,piedropval,linedropval):
             labels={'countriesAndTerritories':'Countries'}
             )
 
+
     #extract list of chosen countries
     list_chosen_countries=df_filterd['countriesAndTerritories'].tolist()
     #filter original df according to chosen countries
     #because original df has all the complete dates
     df_line = df[df['countriesAndTerritories'].isin(list_chosen_countries)]
+
     line_chart = px.line(
             data_frame=df_line,
             x='dateRep',
