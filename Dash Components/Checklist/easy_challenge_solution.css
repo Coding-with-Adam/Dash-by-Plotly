@@ -1,4 +1,12 @@
-/* Add the opacity part inside your CSS file */
+/* Add the opacity part (line 15) inside your CSS file */
+
+.my_box_container {
+  display: flex;
+}
+
+.my_box_input {
+  cursor: pointer;
+}
 
 .my_box_label {
   background: #A5D6A7;
