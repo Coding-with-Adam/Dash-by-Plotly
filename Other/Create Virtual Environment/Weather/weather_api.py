@@ -18,6 +18,8 @@ def update_weather():
     )
     json_data = weather_requests.json()
     df = pd.DataFrame(json_data)
+    print (df.columns)
+    print (df[:20])
     return([
             html.Table(
                 className='table-weather',
