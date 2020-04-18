@@ -1,0 +1,10 @@
+.table-weather{
+  border: 1px solid #55575D;
+  border-collapse: collapse;
+  width: 20%;
+  max-height: 500px;
+}
+
+.table-weather td{
+  border: 1px solid #55575D;
+}
