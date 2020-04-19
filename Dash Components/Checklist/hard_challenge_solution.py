@@ -1,15 +1,15 @@
 # Solution to view "Animal Health" instead of "Month Call Made"
 # Changes made to lines: 48,50,81,82,87
 
-import pandas as pd     #(version 1.0.0)
+import pandas as pd     
 import datetime as dt
 
-import dash             #(version 1.9.1) pip install dash==1.9.1
+import dash             
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 
-import plotly          #(version 4.5.4) pip install plotly==4.5.4
+import plotly          
 import plotly.express as px
 
 df = pd.read_csv("Urban_Park_Ranger_Animal_Condition_Response.csv")
