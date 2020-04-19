@@ -1,5 +1,5 @@
-Easy Challenge: Make the checkbox label (green area) more transparent (opacity)
+Easy Challenge: Make the checkbox label (green area) more transparent (opacity)
 
-Medium Challenge: Disable the March month checkbox
+Medium Challenge: Disable the March month checkbox
 
-Hard Challenge: Use “Animal Condition” in your web app instead of “Month Call Made”
+Hard Challenge: Use “Animal Condition” in your web app instead of “Month Call Made”
