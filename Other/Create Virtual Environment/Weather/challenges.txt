@@ -1,5 +1,0 @@
-Easy Challenge: Update your web app every 5 seconds, and stop updating after 3 intervals
-
-Medium Challenge: Update your app with city of New Delhi, and show only temperature and observation time
-
-Hard Challenge: Change your app to show yesterday’s forecast of "mintemp" & “avgtemp” in New York
