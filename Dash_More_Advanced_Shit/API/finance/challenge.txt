@@ -1,1 +1,1 @@
-Look up Zoom stock market symbol and get_daily data
+Look up Zoom stock market symbol and "get_daily" data
