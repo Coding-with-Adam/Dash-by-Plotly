@@ -6,3 +6,6 @@ Use colors limegree and red for
 each state.
 
 Add all point & "Period" to hover_data 
+
+Tip: to add meanline to box plot, click on Violin, under Distributions section, in this documentation:
+https://plotly.com/python-api-reference/plotly.graph_objects.html#
