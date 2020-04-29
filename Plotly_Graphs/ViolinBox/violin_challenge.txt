@@ -1,0 +1,8 @@
+Build plot that compares impact
+of Disease on IDAHO and TEXAS,
+with boxplot and a blue meanline. 
+
+Use colors limegree and red for 
+each state.
+
+Add all point & "Period" to hover_data 
