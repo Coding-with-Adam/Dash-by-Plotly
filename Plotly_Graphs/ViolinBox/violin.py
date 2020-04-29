@@ -61,10 +61,5 @@ violinfig = px.violin(
 )
 
 # violinfig.layout.updatemenus[0].buttons[0].args[1]['frame']['duration'] = 1000
-# violinfig.update_traces(meanline_visible=False)
-
-# violinfig.update_layout(
-#         yaxis = dict(
-#         tickfont=dict(size=8)))
 
 pio.show(violinfig)
