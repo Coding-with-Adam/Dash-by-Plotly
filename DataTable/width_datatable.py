@@ -4,7 +4,7 @@ import pandas as pd
 from collections import OrderedDict
 
 app = dash.Dash(__name__)
-# (all code is from https://dash.plotly.com/datatable/sizing)
+# (all code is from https://dash.plotly.com/datatable/width)
 #------------------------------------------------------------------
 # Create Fake Dataframes
 data = OrderedDict(
