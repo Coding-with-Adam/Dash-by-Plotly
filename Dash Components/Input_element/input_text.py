@@ -1,5 +1,3 @@
-# Solution to challenge: added rows 89,90,91
-
 import dash  # (version 1.11.0)
 import dash_core_components as dcc
 import dash_html_components as html
