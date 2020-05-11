@@ -1,0 +1,10 @@
+Challenge A:
+Use plotly express to plot a Bar chart instead of a choropleth map.
+X-axis should represent States
+Y-axis should represent % of bee colonies 
+Challenge B:
+Use plotly express to plot a Line chart instead of a choropleth map.
+X-axis should represent Year
+Y-axis should represent % of bee colonies 
+Color should represent State (Texas, New Mexico, New York)
+Dropdown options should be list of things affecting bees
