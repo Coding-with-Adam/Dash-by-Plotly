@@ -1,4 +1,4 @@
-import dash
+import dash  #(version 1.12.0)
 from dash.dependencies import Input, Output
 import dash_table
 import dash_core_components as dcc
