@@ -18,7 +18,7 @@ print(df.columns)
 
 # -------------------------------------------------------------------------------------
 # App layout
-app = dash.Dash(__name__, prevent_initial_callbacks=True)
+app = dash.Dash(__name__, prevent_initial_callbacks=True) # this was introduced in Dash version 1.12.0
 
 # Sorting operators (https://dash.plotly.com/datatable/filtering)
 app.layout = html.Div([
