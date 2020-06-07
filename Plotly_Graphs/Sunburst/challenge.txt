@@ -1,0 +1,7 @@
+-Sunburst with Alabama, Oregon, South Carolina
+-Root as “State”, 
+-Branch as “Unarmed”,
+-Leaves as “Victim’s gender”
+-Gender color male:pruple, female:greenyellow. Hint: map the colors
+-Remove from Hover tooltip: 
+	Gender, labels, id
