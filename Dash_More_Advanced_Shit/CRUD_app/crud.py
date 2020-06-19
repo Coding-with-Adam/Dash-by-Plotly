@@ -53,7 +53,7 @@ app.layout = html.Div([
     ),
 
     html.Button('Add Row', id='editing-rows-button', n_clicks=0),
-    html.Button('Save to Excel', id='save_to_csv', n_clicks=0),
+    html.Button('Export to Excel', id='save_to_csv', n_clicks=0),
 
     # Create notification when saving to excel
     html.Div(id='placeholder', children=[]),
