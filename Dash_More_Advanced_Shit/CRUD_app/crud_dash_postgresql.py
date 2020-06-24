@@ -19,11 +19,11 @@ app = dash.Dash(__name__, server=server, suppress_callback_exceptions=True)
 app.server.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 # for your home PostgreSQL test table
-# app.server.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://postgres:your_password@localhost/test"
+app.server.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://postgres:your_password@localhost/test"
 
 # for your live Heroku PostgreSQL database
-app.server.config["SQLALCHEMY_DATABASE_URI"] = "postgres://rmyfzrwuezbehs:ebc3b6cee14731240a30c076dfc7f07\
-9ed291ec9378483ec842f7c68f8b8d368@ec2-54-211-210-149.compute-1.amazonaws.com:5432/dghfpfpcme7sp"
+# app.server.config["SQLALCHEMY_DATABASE_URI"] = "postgres://rmyfzrwuezbehs:ebc3b6cee14731240a30c076dfc7f07\
+# 9ed291ec9378483ec842f7c68f8b8d368@ec2-54-211-210-149.compute-1.amazonaws.com:5432/dghfpfpcme7sp"
 
 db = SQLAlchemy(app.server)
 
