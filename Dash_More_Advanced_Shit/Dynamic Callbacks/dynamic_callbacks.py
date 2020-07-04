@@ -1,4 +1,4 @@
-import dash  # version 1.13
+import dash  # version 1.13.1
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output, ALL, State, MATCH, ALLSMALLER
