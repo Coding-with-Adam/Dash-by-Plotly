@@ -15,7 +15,6 @@ app.layout = html.Div([
     html.Div(children=[
         html.Button('Add Chart', id='add-chart', n_clicks=0),
     ]),
-
     html.Div(id='container', children=[])
 ])
 
