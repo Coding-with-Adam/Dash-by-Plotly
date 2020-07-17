@@ -23,7 +23,7 @@ app.layout = html.Div([
         day_size=39,                            # size of calendar image. Default is 39
         end_date_placeholder_text="Return",     # text that appears when no end date chosen
         with_portal=False,                      # if True calendar will open in a full screen overlay portal
-        first_day_of_week=2,                    # Display of calendar when open (0 = Sunday)
+        first_day_of_week=0,                    # Display of calendar when open (0 = Sunday)
         reopen_calendar_on_clear=True,
         is_RTL=False,                           # True or False for direction of calendar
         clearable=True,                         # whether or not the user can clear the dropdown
