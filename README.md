@@ -6,7 +6,7 @@ business owners, financial analysts, or those that work in marketing, social med
 > - [User Guide](https://dash-docs.herokuapp.com/introduction)
 
 # Installation
-    $ pip install plotly express
+    $ pip install plotly
 Then...
 
     $ pip install dash
