@@ -6,7 +6,12 @@ business owners, financial analysts, or those that work in marketing, social med
 > - [User Guide](https://dash-docs.herokuapp.com/introduction)
 
 # Installation
-Just install Dash. Plotly comes within Dash
+I recommend installing numpy and pandas, since you will most likely use them.
+
+    $ pip install numpy
+    $ pip install pandas
+    
+Then, just install Dash. Plotly comes with Dash
 
     $ pip install dash
     
@@ -14,13 +19,10 @@ If you'd like to control the version of Plotly installed, you can do for example
 
     $ pip install plotly==4.9.0
     
-Also, don't forget to install numpy and pandas, since you will most likely use them.
-
-    $ pip install numpy
-    $ pip install pandas
-
 # To Get Help
 > - Use Dash Plotly [Community Forum](https://community.plotly.com/)
+
+This is a wonderful community of people dedicated to support others learning Dash. You can find me there as well under the name CharmingData.
 
 # If you Forked it, Support it
 A growing number of viewers are looking for high quality, professional content on Dash, which is hard to find. I am trying to fill that gap. 
