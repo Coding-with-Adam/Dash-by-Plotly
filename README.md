@@ -22,7 +22,7 @@ If you'd like to control the version of Plotly installed, you can do for example
 # To Get Help
 > - Use Dash Plotly [Community Forum](https://community.plotly.com/)
 
-This is a wonderful community of people dedicated to support others learning Dash. You can find me there as well under the name CharmingData.
+This is a wonderful community of people dedicated to supporting others learning Dash. You can find me there as well under the name CharmingData.
 
 # If you Forked it, Support it
 A growing number of viewers are looking for high quality, professional content on Dash, which is hard to find. I am trying to fill that gap. 
