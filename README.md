@@ -24,7 +24,7 @@ If you'd like to control the version of Plotly installed, you can do for example
 
 This is a wonderful community of people dedicated to supporting others learning Dash. You can find me there as well under the name CharmingData.
 
-```<span style="background-color: #FFFF00">If you Forked it, Support it```
+```If you Forked it, Support it```
 A growing number of viewers are looking for high quality, professional content on Dash, which is hard to find. I am trying to fill that gap. 
 
 My goal is to make this a sustainable project for myself and my viewers. This code and videos are time-intensive, so if you appreciate my repository and tutorials and are able support their existence, I would be grateful to you. Become my supporter at: https://www.patreon.com/charmingdata
