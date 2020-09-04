@@ -3,7 +3,7 @@ import dash_bootstrap_components as dbc
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUMEN])
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUMEN])  # https://bootswatch.com/default/
 
 app.layout = html.Div([
     html.Div(html.H6("Product: a beautiful Pizza reheated after a day in the fridge, for $99"), style={"text-align":"center"}),
