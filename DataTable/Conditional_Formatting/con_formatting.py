@@ -6,7 +6,7 @@ from dash.dependencies import Input, Output
 
 import pandas as pd
 import plotly.express as px
-from table_histogram import data_bars
+from table_bars import data_bars
 
 df = pd.read_csv('medical supplies.csv')
 df["Part sent date"] = pd.to_datetime(df["Part sent date"]).dt.date
