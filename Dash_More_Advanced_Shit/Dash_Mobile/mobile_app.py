@@ -2,7 +2,6 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Output, Input
-import dash_bootstrap_components as dbc
 
 import plotly.express as px
 import pandas as pd
@@ -11,44 +10,45 @@ import pandas as pd
 df = pd.read_csv("BR_Animal_Control_Calls.csv")
 
 app = dash.Dash(__name__,
-                external_stylesheets=[dbc.themes.BOOTSTRAP],
-                meta_tags=[{'name': 'viewport',
-                            'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.2, minimum-scale=0.5,'}]
+                # meta_tags=[{'name': 'viewport',
+                #             'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.2, minimum-scale=0.5,'}]
                 )
 
 app.layout = html.Div([
-    dbc.Row([
-        dbc.Col([
-            html.Div('Baton Rouge Animal Control and Rescue Center',
-                     style={'textAlign':'center', 'fontSize':30}),
-            html.Br(),
-        ], width={'size': 8})
-    ], justify='center'),
+    html.Div([
+        html.Div('Baton Rouge Animal Control and Rescue Center',
+                 style={'textAlign':'center', 'fontSize':30}),
 
-    dbc.Row([
-        dbc.Col([
+        html.Br(),
+    ], className='row'),
+
+    html.Div([
+
+        html.Div([
             html.P("Animal Condition:", style={'fontSize':15}),
             dcc.Dropdown(id='drpdn1', value='FAIR',
                          options=[{'label': x, 'value': x}
                                   for x in sorted(df.condition.unique())]
                          ),
             dcc.Graph(id='graph1'),
-        ], xs=10, sm=8, md=5, lg=6, xl=5),
+        ],className='six columns'),
 
-        dbc.Col([
+        html.Div([
             html.P("Animal Characteristics:", style={'fontSize': 15}),
             dcc.Dropdown(id='drpdn2', value='size',
                          options=[{'label': x, 'value': x}
                                   for x in df[['size','condition','temperment','sex']]],
                          ),
             dcc.Graph(id='graph2'),
-        ], xs=10, sm=5, md=5, lg=6, xl=5)
-    ], justify="center")
-])
+        ],className='six columns')
+
+    ], className='row'),
+
+], className='ten columns offset-by-one')
 
 
 @app.callback(
-    Output('graph1', 'figure'),
+    Output(component_id='graph1', component_property='figure'),
     Input('drpdn1', 'value')
 )
 def update_graph1(chosen_condition):
