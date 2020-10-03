@@ -1,4 +1,4 @@
-import dash
+import dash  # use Dash version 1.16.0 or higher for this app to work
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Output, Input
