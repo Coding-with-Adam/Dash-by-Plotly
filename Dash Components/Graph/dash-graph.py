@@ -15,13 +15,11 @@ app.layout = html.Div([
                           df.country.unique()]),
     html.Div([
         dcc.Graph(id='pie-graph', figure={}, className='six columns'),
-        dcc.Graph(id='my-graph', figure={},
-                  clickData={'points': [{'curveNumber': 0, 'pointNumber': 0, 'pointIndex': 0, 'x': 1952, 'y': 2108.944355, 'customdata': ['Brazil', 'Americas', 50.917, 56602560]}]},
-                  hoverData={'points': [{'curveNumber': 0, 'pointNumber': 0, 'pointIndex': 0, 'x': 1952, 'y': 2108.944355, 'customdata': ['Brazil', 'Americas', 50.917, 56602560]}]},
+        dcc.Graph(id='my-graph', figure={}, clickData=None, hoverData=None,
                   config={
                       'staticPlot': False,     # True, False
                       'scrollZoom': True,      # True, False
-                      'doubleClick': 'reset',  # 'reset', 'autosize' or 'reset+autosize'
+                      'doubleClick': 'reset',  # 'reset', 'autosize' or 'reset+autosize', False
                       'showTips': False,       # True, False
                       'displayModeBar': True,  # True, False, 'hover'
                       'watermark': True,
@@ -54,15 +52,23 @@ def update_graph(country_chosen):
     Input(component_id='dpdn2', component_property='value')
 )
 def update_side_graph(hov_data, clk_data, slct_data, country_chosen):
-    print(f'click data: {clk_data}')
-    print(f'hover data: {hov_data}')
-    # print(hov_data['points'][0]['customdata'][0])
-    # print(slct_data)
-    dff2 = df[df.country.isin(country_chosen)]
-    hov_year = hov_data['points'][0]['x']
-    dff2 = dff2[dff2.year == hov_year]
-    fig2 = px.pie(data_frame=dff2, values='pop', names='country', title=f'Population for: {hov_year}')
-    return fig2
+    if hov_data is None:
+        dff2 = df[df.country.isin(country_chosen)]
+        dff2 = dff2[dff2.year == 1952]
+        print(dff2)
+        fig2 = px.pie(data_frame=dff2, values='pop', names='country',
+                      title='Population for 1952')
+        return fig2
+    else:
+        print(f'hover data: {hov_data}')
+        # print(hov_data['points'][0]['customdata'][0])
+        # print(f'click data: {clk_data}')
+        # print(f'selected data: {slct_data}')
+        dff2 = df[df.country.isin(country_chosen)]
+        hov_year = hov_data['points'][0]['x']
+        dff2 = dff2[dff2.year == hov_year]
+        fig2 = px.pie(data_frame=dff2, values='pop', names='country', title=f'Population for: {hov_year}')
+        return fig2
 
 
 if __name__ == '__main__':
