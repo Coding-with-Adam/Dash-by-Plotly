@@ -15,7 +15,7 @@ app.layout = html.Div([
                           df.country.unique()]),
     html.Div([
         dcc.Graph(id='pie-graph', figure={}, className='six columns'),
-        dcc.Graph(id='my-graph', figure={}, clickData=None, hoverData=None,
+        dcc.Graph(id='my-graph', figure={}, clickData=None, hoverData=None, # I assigned None for tutorial purposes. By defualt, these are None, unless you specify otherwise.
                   config={
                       'staticPlot': False,     # True, False
                       'scrollZoom': True,      # True, False
