@@ -18,10 +18,10 @@ app.layout = html.Div([
                   clickData={'points': [{'curveNumber': 0, 'pointNumber': 0, 'pointIndex': 0, 'x': 1952, 'y': 2108.944355, 'customdata': ['Brazil', 'Americas', 50.917, 56602560]}]},
                   hoverData={'points': [{'curveNumber': 0, 'pointNumber': 0, 'pointIndex': 0, 'x': 1952, 'y': 2108.944355, 'customdata': ['Brazil', 'Americas', 50.917, 56602560]}]},
                   config={
-                      'staticPlot': False,   # True, False
-                      'scrollZoom': True,    # True, False
-                      'doubleClick': False,  # 'reset', 'autosize' or 'reset+autosize'
-                      'showTips': False,     # True, False
+                      'staticPlot': False,     # True, False
+                      'scrollZoom': True,      # True, False
+                      'doubleClick': 'reset',  # 'reset', 'autosize' or 'reset+autosize'
+                      'showTips': False,       # True, False
                       'displayModeBar': True,  # True, False, 'hover'
                       'watermark': True,
                       # 'modeBarButtonsToRemove': ['pan2d','select2d'],
