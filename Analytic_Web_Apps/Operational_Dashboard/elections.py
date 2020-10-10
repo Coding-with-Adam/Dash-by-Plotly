@@ -79,7 +79,7 @@ def update_graph(az, fl, ga, ia, me, mi, nc, nv, oh, pa, tx, wi):
                                          'republican': 'red',
                                          'unsure': 'grey'})
 
-    # build bar figure
+    # build histogram figure
     dff = dff[dff.party != 'unsure']
     fig_bar = px.histogram(dff, x='party', y='electoral votes', color='party',
                            range_y=[0,350], color_discrete_map={'democrat': 'blue',
