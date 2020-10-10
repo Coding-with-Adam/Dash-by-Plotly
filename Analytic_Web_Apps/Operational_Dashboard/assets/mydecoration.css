@@ -1,0 +1,144 @@
+/* style.css */
+#radiolist-AZ label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-AZ label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-AZ label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-FL label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-FL label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-FL label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-GA label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-GA label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-GA label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-IA label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-IA label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-IA label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-ME label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-ME label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-ME label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-MI label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-MI label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-MI label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-NC label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-NC label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-NC label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-NV label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-NV label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-NV label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-OH label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-OH label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-OH label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-PA label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-PA label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-PA label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-TX label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-TX label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-TX label:nth-child(3) {
+  color: dimgrey;
+}
+
+#radiolist-WI label:nth-child(1) {
+  color: blue;
+}
+
+#radiolist-WI label:nth-child(2) {
+  color: red;
+}
+
+#radiolist-WI label:nth-child(3) {
+  color: dimgrey;
+}
