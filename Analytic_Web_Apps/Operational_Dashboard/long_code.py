@@ -34,9 +34,9 @@ radio_list = [
             options=[
                 {"label": "Dem", "value": "democrat"},
                 {"label": "Rep", "value": "republican"},
-                {"label": "NS", "value": "ns"},
+                {"label": "NA", "value": "unsure"},
             ],
-            value='ns',
+            value='unsure',
             inputStyle={'margin-left': '10px'},
             labelStyle={'display': 'inline-block'},
             style={'display':'inline'}
