@@ -6,7 +6,7 @@ import pandas as pd
 import plotly.express as px
 
 # Data from U.S. Congress, Joint Economic Committee, Social Capital Project.
-df = pd.read_csv('scp.csv')
+df = pd.read_csv('social_capital.csv')
 df.drop(['Alt FIPS Code','FIPS Code','State Abbreviation'], axis=1, inplace=True)
 
 
