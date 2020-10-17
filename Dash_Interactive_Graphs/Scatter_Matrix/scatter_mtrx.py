@@ -38,9 +38,9 @@ app.layout = html.Div([
 
 # ------------------------------------------------------------------------
 @app.callback(
-     Output('confirm-dialog', 'displayed'),
-     Output('my-chart', 'figure'),
-     Input('my-dropdown', 'value')
+     Output(component_id='confirm-dialog', component_property='displayed'),
+     Output(component_id='my-chart', component_property='figure'),
+     Input(component_id='my-dropdown', component_property='value')
 )
 def update_graph(dpdn_val):
     if len(dpdn_val) > 0:
