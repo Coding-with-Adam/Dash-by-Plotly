@@ -55,10 +55,10 @@ app.layout=html.Div([
     Output(component_id='my-graph', component_property='figure'),
     Input(component_id='genre-choice', component_property='value')
 )
-def interactive_graphs(value):
-    print(value)
-    dff = df[df.Genre==value]
-    fig = px.histogram(data_frame=dff, x='Year', y='Japan Sales')
+def interactive_graphs(value_genre):
+    print(value_genre)
+    dff = df[df.Genre==value_genre]
+    fig = px.bar(data_frame=dff, x='Year', y='Japan Sales')
     return fig
 
 
