@@ -5,7 +5,7 @@ import pandas as pd
 # Data Exploration with Pandas (python)
 # -----------------------------------------------------------------
 
-df = pd.read_csv("vgsales.csv")
+df = pd.read_csv("vgsales.csv") # data by GregorySmith from kaggle
 
 print(df[:5])
 print(df.iloc[:5, [2,3,5,10]])
