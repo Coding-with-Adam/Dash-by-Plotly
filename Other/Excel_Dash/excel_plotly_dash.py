@@ -20,17 +20,11 @@ fig_pie = px.pie(data_frame=df, names='Genre', values='Japan Sales')
 fig_pie = px.pie(data_frame=df, names='Genre', values='North American Sales')
 fig_pie.show()
 
-fig_hist = px.histogram(data_frame=df, x='Genre', y='Japan Sales')
+fig_bar = px.bar(data_frame=df, x='Genre', y='Japan Sales')
+fig_bar.show()
+
 fig_hist = px.histogram(data_frame=df, x='Year', y='Japan Sales')
 fig_hist.show()
-
-df = df.groupby(['Year','Genre']).sum()
-df = df.reset_index()
-print(df[-5:])
-
-fig_bar = px.bar(data_frame=df, x='Year', y='Japan Sales', facet_col='Genre',
-                 facet_col_wrap=3)
-fig_bar.show()
 
 # Interactive Graphs with Dash (Python, R, Julia)
 # -----------------------------------------------------------------
