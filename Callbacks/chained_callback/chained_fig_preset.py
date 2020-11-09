@@ -1,4 +1,4 @@
-import dash
+import dash  # Dash 1.16 or higher
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
