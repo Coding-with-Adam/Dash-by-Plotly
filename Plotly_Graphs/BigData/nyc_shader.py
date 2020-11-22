@@ -49,10 +49,6 @@ fig.update_layout(mapbox_style="carto-darkmatter",
 fig.show()
 
 
-# ['HEAT/HOT WATER' 'Graffiti' 'Rodent' 'Noise - Residential'
-#  'Noise - Commercial' 'Drug Activity' 'Elder Abuse'
-#  'Case Management Agency Complaint']
-
 
 # color_key = {'HEAT/HOT WATER': 'aqua', 'Noise - Commercial': 'fuchsia'}
 # agg=ds.count_cat('Complaint Type')
