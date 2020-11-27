@@ -1,0 +1,15 @@
+Machines A,Machines B,Country,Part description,Part sent date,Part received date,Elapsed Days,Origin supplier,Feedback
+435,425,Germany,MPD Medical Supplies Inc,11-Jan-19,29-Jan-19,18,Blue-P,No 
+470,463,Germany,MPD Medical Supplies Inc,29-Jan-19,11-Mar-19,41,Sanders,No 
+300,323,Germany,PCB,17-Feb-20,28-Feb-20,11,Sanders,No 
+1200,1278,India,MPD Medical Supplies Inc,29-Jan-19,11-Mar-19,41,Sanders,No 
+215,223,India,PS,16-Mar-20,12-May-20,57,Sanders,No 
+5,486,India,PS,20-May-19,29-May-19,9,Blue-P,Yes
+1000,863,Germany,PS,8-Apr-19,17-Apr-19,9,Blue-P,Yes
+1256,846,Germany,PS,30-Apr-19,9-May-19,9,Blue-P,No 
+235,234,Canada,PCB,2-Mar-20,5-Mar-20,3,Blue-P,No 
+2555,2444,India,PCB,20-Jul-20,,,,"Yes, it was a beautiful part that got the job done"
+562,565,India,PCB,11-Aug-20,21-Aug-20,10,Sanders,Yes
+12,22,India,PCB,11-Sep-20,21-Aug-20,-21,Blue-P,Yes
+45,38,India,MPD Medical Supplies Inc,11-Aug-20,,,Blue Shield Blue Cross,"Yes, great service and very fast shipping. Thank you,"
+900,865,Germany,MPD Medical Supplies Inc,3-Aug-20,,,Sanders,Yes
