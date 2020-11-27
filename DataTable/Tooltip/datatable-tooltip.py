@@ -1,8 +1,8 @@
-import dash
+import dash # Dash version 1.17.0
 import dash_table
-import pandas as pd
+import pandas as pd # Pandas version 1.1.4
 
-df = pd.read_csv("medical_supplies_tooltip.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/DataTable/Tooltip/medical_supplies_tooltip.csv")
 
 app = dash.Dash(__name__)
 
@@ -21,7 +21,7 @@ app.layout = dash_table.DataTable(
     tooltip_delay=0, # 1000
     tooltip_duration=None, # 2000
     # *********************************************************************
-    # for all individual cells
+    # Statically defined tooltip for each row/column combination
     # tooltip_data=[
     #     {
     #         column: {'value': str(value), 'type': 'markdown'}
@@ -29,19 +29,19 @@ app.layout = dash_table.DataTable(
     #     } for row in df.to_dict('records')
     # ],
     # *********************************************************************
-    # column headers
-    tooltip_header={
-        'Part description': 'Part description',
-        'Origin supplier': 'Suppliers since 1994',
-    },
-    # *********************************************************************
-    # single tooltip for entire column
+    # single tooltip for entire column (applied to all rows)
     # tooltip={i:
     #     {
     #         'value': i,
     #         'use_with': 'both'  # both refers to header & data cell
     #     } for i in df.columns
     # },
+    # *********************************************************************
+    # column headers
+    tooltip_header={
+        'Part description': 'Part description',
+        'Origin supplier': 'Suppliers since 1994',
+    },
     # *********************************************************************
     # conditional content in cells
     tooltip_data=[{
@@ -70,6 +70,13 @@ app.layout = dash_table.DataTable(
     #         },
     #         'type': 'markdown',
     #         'value': 'Canada row.'
+    #     },
+    #     {
+    #         'if': {
+    #             'filter_query': '{Elapsed Days} < 0'
+    #         },
+    #         'type': 'markdown',
+    #         'value': 'Error on Days lapsed in this row.'
     #     }
     # ],
     # *********************************************************************
