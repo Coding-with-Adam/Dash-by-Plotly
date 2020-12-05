@@ -8,6 +8,8 @@ import pandas as pd
 import pandas_datareader.data as web
 import datetime
 
+
+# https://stooq.com/
 start = datetime.datetime(2020, 1, 1)
 end = datetime.datetime(2020, 12, 3)
 df = web.DataReader(['AMZN','GOOGL','FB','PFE','MRNA','BNTX'],
@@ -16,18 +18,19 @@ df = web.DataReader(['AMZN','GOOGL','FB','PFE','MRNA','BNTX'],
 df = df.stack().reset_index()
 print(df[:15])
 
-# df.to_csv("mydata.csv", index=False)
-# df = pd.read_csv("mydata.csv")
+# df.to_csv("mystocks.csv", index=False)
+# df = pd.read_csv("mystocks.csv")
 # print(df[:15])
 
 
+# https://www.bootstrapcdn.com/bootswatch/
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP],
                 meta_tags=[{'name': 'viewport',
                             'content': 'width=device-width, initial-scale=1.0'}]
                 )
 
 
-# Layout section: using Bootstrap
+# Layout section: Bootstrap (https://hackerthemes.com/bootstrap-cheatsheet/)
 # ************************************************************************
 app.layout = dbc.Container([
 
