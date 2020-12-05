@@ -59,7 +59,7 @@ app.layout = dbc.Container([
            # xs=12, sm=12, md=12, lg=5, xl=5
         ),
 
-    ], no_gutters=True, justify='start'),  # Horizontal: start, end, between, around
+    ], no_gutters=True, justify='start'),  # Horizontal:start,end,between,around
 
     dbc.Row([
         dbc.Col([
@@ -96,16 +96,18 @@ app.layout = dbc.Container([
 
 # Callback section: connecting the components
 # ************************************************************************
+# Line chart - Single
 @app.callback(
     Output('line-fig', 'figure'),
     Input('my-dpdn', 'value')
 )
 def update_graph(stock_slctd):
     dff = df[df['Symbols']==stock_slctd]
-    figln = px.line(dff, x='Date', y='Open')
+    figln = px.line(dff, x='Date', y='High')
     return figln
 
 
+# Line chart - multiple
 @app.callback(
     Output('line-fig2', 'figure'),
     Input('my-dpdn2', 'value')
@@ -116,12 +118,14 @@ def update_graph(stock_slctd):
     return figln2
 
 
+# Histogram
 @app.callback(
     Output('my-hist', 'figure'),
     Input('my-checklist', 'value')
 )
 def update_graph(stock_slctd):
     dff = df[df['Symbols'].isin(stock_slctd)]
+    dff = dff[dff['Date']=='2020-12-03']
     fighist = px.histogram(dff, x='Symbols', y='Close')
     return fighist
 
