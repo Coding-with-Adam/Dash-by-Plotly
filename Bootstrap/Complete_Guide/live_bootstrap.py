@@ -48,8 +48,8 @@ app.layout = dbc.Container([
                                   for x in sorted(df['Symbols'].unique())],
                          ),
             dcc.Graph(id='line-fig', figure={})
-        ], width={'size':5, 'offset':1, 'order':1},
-           # xs=12, sm=12, md=12, lg=5, xl=5
+        ],# width={'size':5, 'offset':1, 'order':1},
+           xs=12, sm=12, md=12, lg=5, xl=5
         ),
 
         dbc.Col([
@@ -58,8 +58,8 @@ app.layout = dbc.Container([
                                   for x in sorted(df['Symbols'].unique())],
                          ),
             dcc.Graph(id='line-fig2', figure={})
-        ], width={'size':5, 'offset':0, 'order':2},
-           # xs=12, sm=12, md=12, lg=5, xl=5
+        ], #width={'size':5, 'offset':0, 'order':2},
+           xs=12, sm=12, md=12, lg=5, xl=5
         ),
 
     ], no_gutters=True, justify='start'),  # Horizontal:start,center,end,between,around
@@ -73,8 +73,8 @@ app.layout = dbc.Container([
                                    for x in sorted(df['Symbols'].unique())],
                           labelClassName="mr-3"),
             dcc.Graph(id='my-hist', figure={}),
-        ], width={'size':5, 'offset':1},
-           # xs=12, sm=12, md=12, lg=5, xl=5
+        ], #width={'size':5, 'offset':1},
+           xs=12, sm=12, md=12, lg=5, xl=5
         ),
 
         dbc.Col([
@@ -91,7 +91,9 @@ app.layout = dbc.Container([
                 ],
                 style={"width": "24rem"},
             )
-        ], width={'size':5, 'offset':1})
+        ], #width={'size':5, 'offset':1},
+           xs=12, sm=12, md=12, lg=5, xl=5
+        )
     ], align="center")  # Vertical: start, center, end
 
 ], fluid=True)
@@ -134,4 +136,4 @@ def update_graph(stock_slctd):
 
 
 if __name__=='__main__':
-    app.run_server(debug=True, port=3000)
+    app.run_server(debug=True, port=8000)
