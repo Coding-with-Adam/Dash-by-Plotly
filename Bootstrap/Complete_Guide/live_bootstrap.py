@@ -62,7 +62,7 @@ app.layout = dbc.Container([
            # xs=12, sm=12, md=12, lg=5, xl=5
         ),
 
-    ], no_gutters=True, justify='start'),  # Horizontal:start,end,between,around
+    ], no_gutters=True, justify='start'),  # Horizontal:start,center,end,between,around
 
     dbc.Row([
         dbc.Col([
@@ -134,4 +134,4 @@ def update_graph(stock_slctd):
 
 
 if __name__=='__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, port=3000)
