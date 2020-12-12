@@ -27,14 +27,15 @@ fig.show()
 # df = df.groupby(['District'])[
 #     ['Graffiti','Robbery', 'Agg_assault', 'Burglary']].median().reset_index()
 # data = df[['Graffiti', 'Robbery', 'Agg_assault', 'Burglary']].values.tolist()
-# # reshape the list of lists to prepare for px.imshow
-# data=[list(i) for i in zip(*data)]
 # print(data)
-#
+# # reshape the list of lists to swap y,x axes in graph
+# # data=[list(i) for i in zip(*data)]
+# # print(data)
+# 
 # fig = px.imshow(data,
 #                 labels=dict(x="Crime Type", y="District", color="Median Crime"),
-#                 x=df['District'],
-#                 y=['Graffiti', 'Robbery', 'Agg_assault', 'Burglary'],
+#                 x=['Graffiti', 'Robbery', 'Agg_assault', 'Burglary'],
+#                 y=df['District'],
 #                 color_continuous_scale=px.colors.sequential.Plasma
 #                )
 # fig.show()
