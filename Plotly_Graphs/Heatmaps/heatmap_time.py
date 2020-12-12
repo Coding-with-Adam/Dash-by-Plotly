@@ -4,7 +4,6 @@ import pandas as pd
 # Data put together by Gabe Salzer on data.world
 # Data source: http://www.landofbasketball.com/nba_teams_year_by_year.htm
 df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Plotly_Graphs/Heatmaps/Historical%20NBA%20Performance.csv")
-df = df.groupby(['Year','Team'])[['Winning Percentage']].mean().reset_index()
 df = df.pivot('Team','Year','Winning Percentage')
 print(df[:10])
 
