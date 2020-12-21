@@ -7,6 +7,8 @@ import pandas as pd
 import plotly.express as px
 
 df = pd.read_csv('politics.csv')
+#you can also read your data like this:
+# df = pd.read_csv('/home/charmingdata1/demo-app3/politics.csv')
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 # server = app.server
