@@ -49,8 +49,8 @@ def update_graph(years_chosen):
 
     dff=df[(df['year']>=years_chosen[0])&(df['year']<=years_chosen[1])]
     # filter df rows where column year values are >=1985 AND <=1988
-    dff=dff.groupby(["country"], as_index=False)["suicides/100k pop",
-                    "gdp_per_capita ($)"].mean()
+    dff=dff.groupby(["country"], as_index=False)[["suicides/100k pop",
+                    "gdp_per_capita ($)"]].mean()
     # print (dff[:3])
 
     scatterplot = px.scatter(
