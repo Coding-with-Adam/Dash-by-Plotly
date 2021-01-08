@@ -1,15 +1,36 @@
-import dash
+import dash                                # pip install dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Output, Input
-import dash_bootstrap_components as dbc
+import dash_bootstrap_components as dbc    # pip install dash-bootstrap-components
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from alpha_vantage.timeseries import TimeSeries
+from alpha_vantage.timeseries import TimeSeries # pip install alpha-vantage
 
 
+# -------------------------------------------------------------------------------
+# Set up initial key and financial category
 
+# key = '7FEDJMHY3CM2KPEC' # Use your own API Key or support my channel if you're using mine :)
+# # https://github.com/RomelTorres/alpha_vantage
+# # Chose your output format or default to JSON (python dict)
+# ts = TimeSeries(key, output_format='pandas') # 'pandas' or 'json' or 'csv'
+# ttm_data, ttm_meta_data = ts.get_intraday(symbol='TTM',interval='1min', outputsize='compact')
+# df = ttm_data.iloc[:50].copy()
+# df=df.transpose()
+# df.rename(index={"1. open":"open", "2. high":"high", "3. low":"low",
+#                  "4. close":"close","5. volume":"volume"},inplace=True)
+# df=df.reset_index().rename(columns={'index': 'indicator'})
+# df = pd.melt(df,id_vars=['indicator'],var_name='date',value_name='rate')
+# df = df[df['indicator']!='volume']
+
+
+# df.to_csv("data2.csv", index=False)
+# exit()
+
+
+# Read the data we already downloaded from the API
 dff = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Analytic_Web_Apps/Financial/data.csv")
 dff = dff[dff.indicator.isin(['high'])]
 
