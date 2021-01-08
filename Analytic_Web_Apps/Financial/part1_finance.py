@@ -46,7 +46,7 @@ app.layout = dbc.Container([
             dbc.Card(
                 [
                     dbc.CardImg(
-                        src="/assets/IBM-Logo2.png",
+                        src="/assets/tata.png",
                         top=True,
                         style={"width": "6rem"},
                     ),
