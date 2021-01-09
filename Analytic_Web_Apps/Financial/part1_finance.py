@@ -17,7 +17,7 @@ from alpha_vantage.timeseries import TimeSeries # pip install alpha-vantage
 # # Chose your output format or default to JSON (python dict)
 # ts = TimeSeries(key, output_format='pandas') # 'pandas' or 'json' or 'csv'
 # ttm_data, ttm_meta_data = ts.get_intraday(symbol='TTM',interval='1min', outputsize='compact')
-# df = ttm_data.iloc[:50].copy()
+# df = ttm_data.copy()
 # df=df.transpose()
 # df.rename(index={"1. open":"open", "2. high":"high", "3. low":"low",
 #                  "4. close":"close","5. volume":"volume"},inplace=True)
