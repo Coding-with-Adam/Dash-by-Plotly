@@ -140,7 +140,6 @@ def update_graph(timer):
 )
 def update_graph(timer):
     dff_rv = dff.iloc[::-1]
-    print(dff_rv.head())
     fig = px.line(dff_rv, x='date', y='rate',
                    range_y=[dff_rv['rate'].min(), dff_rv['rate'].max()],
                    height=120).update_layout(margin=dict(t=0, r=0, l=0, b=20),
