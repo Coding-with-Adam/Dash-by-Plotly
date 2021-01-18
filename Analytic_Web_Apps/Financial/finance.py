@@ -67,7 +67,6 @@ app.layout = dbc.Container([
                             dbc.Col([
                                 dcc.Graph(id='indicator-graph', figure={},
                                           config={'displayModeBar':False},
-                                          className="justify-content-end"
                                           )
                             ], width={'size':3,'offset':2})
                         ]),
