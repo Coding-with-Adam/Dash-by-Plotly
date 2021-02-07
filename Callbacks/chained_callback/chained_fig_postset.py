@@ -47,7 +47,7 @@ def set_cities_options(chosen_state):
 @app.callback(
     Output('graph-container', 'children'),
     Input('counties-dpdn', 'value'),
-    State('states-dpdn', 'value'),
+    Input('states-dpdn', 'value'),
     prevent_initial_call=True
 )
 def update_grpah(selected_counties, selected_state):
