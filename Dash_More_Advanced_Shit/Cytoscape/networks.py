@@ -9,7 +9,7 @@ import plotly.express as px
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
-df = pd.read_csv("org-data.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Dash_More_Advanced_Shit/Cytoscape/org-data.csv")
 
 app.layout = html.Div([
     html.Div([
@@ -76,7 +76,7 @@ def update_nodes(data):
         fig.update_traces(marker={'color': dff['color']})
         return fig
     else:
-        print (data)
+        print(data)
         dff = df.copy()
         dff.loc[dff.name == data['label'], 'color'] = "yellow"
         print(dff)
