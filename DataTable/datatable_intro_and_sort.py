@@ -165,3 +165,7 @@ def update_styles(selected_columns):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+    
+    
+# https://youtu.be/USTqY4gH_VM
+    
