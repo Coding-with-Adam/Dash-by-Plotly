@@ -88,3 +88,6 @@ fig = px.scatter_3d(
 #
 # fig.write_html("My3dPlot.html")
 pio.show(fig)
+
+
+# https://youtu.be/-Mx89Jcn2E4
