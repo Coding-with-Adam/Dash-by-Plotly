@@ -33,6 +33,8 @@ app.layout = html.Div([
     ),
 ])
 
+# https://youtu.be/RnJGlgc9vcM
+
 
 @app.callback(
     Output("collapse-question-1", "is_open"),
