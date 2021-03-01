@@ -75,3 +75,6 @@ def toggle_collapse(n, is_open):
 
 if __name__ == "__main__":
     app.run_server(debug=True, port=3000)
+
+    
+# https://youtu.be/RnJGlgc9vcM
