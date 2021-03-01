@@ -97,3 +97,6 @@ def update_graph(az, fl, ga, ia, me, mi, nc, nv, oh, pa, tx, wi):
 
 if __name__ == '__main__':
     app.run_server(debug=False)
+
+    
+ # https://youtu.be/my1nshz1uG4
