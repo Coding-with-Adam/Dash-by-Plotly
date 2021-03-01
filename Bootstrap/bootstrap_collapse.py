@@ -33,8 +33,6 @@ app.layout = html.Div([
     ),
 ])
 
-# https://youtu.be/RnJGlgc9vcM
-
 
 @app.callback(
     Output("collapse-question-1", "is_open"),
@@ -60,3 +58,6 @@ def toggle_collapse(n, is_open):
 
 if __name__ == "__main__":
     app.run_server(debug=True, port=2000)
+
+    
+# https://youtu.be/RnJGlgc9vcM
