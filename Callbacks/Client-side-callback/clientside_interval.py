@@ -6,7 +6,7 @@ import dash_html_components as html
 import plotly.express as px
 import pandas as pd
 
-# dataframe saved on the server
+# global dataframe saved on the server
 df = pd.read_csv('opsales1.csv')
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
