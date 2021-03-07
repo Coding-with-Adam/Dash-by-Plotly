@@ -69,3 +69,7 @@ def update_data(n_intervals):
 
 if __name__ == '__main__':
     app.run_server(debug=True, port=5559)
+
+    
+    
+# https://youtu.be/wHUzUHTPfo0
