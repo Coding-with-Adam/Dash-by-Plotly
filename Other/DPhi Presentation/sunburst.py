@@ -1,14 +1,13 @@
 # import the libraries
 import plotly.express as px
 import pandas as pd
-import numpy as np
 
 # read, clean, and filter the data----------------------------------------
 df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Other/DPhi%20Presentation/MPVDataset.csv")
 
 df = df[df["State"].isin(['NY', 'CA', 'TX'])]
 df = df[df["Victim's race"].isin(["White", "Black", "Hispanic", "Asian"])]
-df["Victim's age"] = pd.to_numeric(df["Victim's age"], errors='coerce').fillna(0).astype(np.int64)
+df["Victim's age"] = pd.to_numeric(df["Victim's age"], errors='coerce').fillna(0)
 
 # build the graph---------------------------------------------------------
 fig = px.sunburst(
