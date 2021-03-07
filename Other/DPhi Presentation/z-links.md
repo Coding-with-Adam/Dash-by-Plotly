@@ -1,4 +1,4 @@
-Plotly Express: https://plotly.com/python-api-reference/plotly.express.html
+Plotly Express API: https://plotly.com/python-api-reference/plotly.express.html
 
 
 ******************************************************************************
