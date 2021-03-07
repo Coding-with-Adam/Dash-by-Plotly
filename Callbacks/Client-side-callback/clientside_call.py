@@ -85,3 +85,6 @@ def update_store_data(shipping, text):
 
 if __name__ == '__main__':
     app.run_server(debug=True, port=1286)
+
+    
+# https://youtu.be/wHUzUHTPfo0
