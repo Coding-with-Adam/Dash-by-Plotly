@@ -4,7 +4,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
-import plotly.express as px #(need to pip install plotly==4.4.1)
+import plotly.express as px
 
 df = pd.read_csv("Urban_Park_Ranger_Animal_Condition_Response.csv")
 
