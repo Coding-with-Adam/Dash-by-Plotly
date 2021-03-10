@@ -8,6 +8,8 @@ What is a Callback Decorator: https://stackoverflow.com/questions/739654/how-to-
 
 Full Overview of Dash article: https://medium.datadriveninvestor.com/plotly-dash-everything-you-need-to-know-bc09a5e45395
 
+Introduction to Dash by Plotly: https://medium.com/plotly/introducing-dash-5ecf7191b503
+
 ******************************************************************************
 👉 If you appreciate the education I provide, I would mean a lot to me if you could support my work: 
 
