@@ -8,8 +8,8 @@ import dash_html_components as html
 from dash.dependencies import Output, Input
 
 # read, clean, and filter the data----------------------------------------
-df = pd.read_csv(
-    "https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Other/DPhi%20Presentation/MPVDataset.csv")
+# data source: https://mappingpoliceviolence.org/aboutthedata
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Other/DPhi%20Presentation/MPVDataset.csv")
 
 df = df[df["Victim's race"].isin(["White", "Black", "Hispanic", "Asian"])]
 df["Victim's age"] = pd.to_numeric(df["Victim's age"], errors='coerce')
