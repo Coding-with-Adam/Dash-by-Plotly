@@ -3,6 +3,7 @@ import plotly.express as px
 import pandas as pd
 
 # read, clean, and filter the data----------------------------------------
+# data source: https://mappingpoliceviolence.org/aboutthedata
 df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Other/DPhi%20Presentation/MPVDataset.csv")
 
 df = df[df["State"].isin(['NY', 'CA', 'TX'])]
