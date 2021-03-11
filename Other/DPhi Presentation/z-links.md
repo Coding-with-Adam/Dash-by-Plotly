@@ -19,3 +19,11 @@ GitHub: https://github.com/sponsors/Coding-with-Adam
 
 YouTube: https://www.youtube.com/channel/UCqBFsuAz41sqWcFjZkqmJqQ/join
 ******************************************************************************
+
+To Connect with me:
+
+LinkedIn: https://www.linkedin.com/in/adam-schroeder-17b5a819
+
+Twitter: https://twitter.com/charmingdata
+
+Odysee: https://odysee.com/@charmingdata
