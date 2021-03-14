@@ -5,7 +5,7 @@ import dash_core_components as dcc
 from dash.dependencies import Output, Input
 import pandas as pd  # pip install pandas
 
-df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Dash_More_Advanced_Shit/Cytoscape/org-data.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Cytoscape/org-data.csv")
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
