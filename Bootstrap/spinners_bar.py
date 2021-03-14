@@ -6,7 +6,7 @@ import plotly.express as px
 import dash_bootstrap_components as dbc  # pip install dash-bootstrap-components
 import pandas as pd  # pip install pandas
 
-df = pd.read_csv("green_tripdata_2019-01.csv")
+df = pd.read_csv("green_tripdata_2019-01.csv") # https://drive.google.com/file/d/1Srm_mhf6oRb6R5kFijFzaZk6tye9Ugb0/view
 df = df[df["total_amount"] > 0]
 df = df[:150000]
 
