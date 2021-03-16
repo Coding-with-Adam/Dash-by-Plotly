@@ -7,7 +7,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output, State
 
 # Data source https://finance.yahoo.com  -Data owner: Stefano Leone on Kaggle
-df = pd.read_csv("Mutual-Funds.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Callbacks/Basic%20Callback/Mutual-Funds.csv")
 
 colors = ["black", "blue", "red", "yellow", "pink", "orange"]
 
@@ -68,3 +68,6 @@ def update_my_graph(val_chosen):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+    
+# https://youtu.be/mTsZL-VmRVE
