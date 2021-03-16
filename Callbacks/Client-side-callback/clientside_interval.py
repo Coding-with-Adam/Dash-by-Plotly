@@ -7,7 +7,7 @@ import plotly.express as px
 import pandas as pd
 
 # global dataframe saved on the server
-df = pd.read_csv('opsales1.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Callbacks/Client-side-callback/opsales1.csv')
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
