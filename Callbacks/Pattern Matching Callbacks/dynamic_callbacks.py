@@ -6,7 +6,7 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("Caste.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Callbacks/Pattern%20Matching%20Callbacks/Caste.csv")
 df.rename(columns={'under_trial': 'under trial', 'state_name': 'state'}, inplace=True)
 
 app = dash.Dash(__name__)
@@ -107,3 +107,7 @@ def update_graph(s_value, ctg_value, num_value, chart_choice):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+    
+    
+# https://youtu.be/4gDwKYaA6ww
