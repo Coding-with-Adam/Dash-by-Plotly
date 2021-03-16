@@ -8,7 +8,7 @@ from dash.dependencies import Input, Output, State
 import pandas as pd
 
 # Data source: https://nextspaceflight.com/launches/past/?page=1 Data owner: "Agirlcoding" on Kaggle
-df = pd.read_csv("Space_Corrected.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Bootstrap/Space_Corrected.csv")
 # print(df.head())
 df = df[df["Status Mission"] != "Prelaunch Failure"]
 
