@@ -10,7 +10,7 @@ from google.oauth2 import service_account  # pip install google-auth
 import pandas_gbq  # pip install pandas-gbq
 
 credentials = service_account.Credentials.from_service_account_file('C:/Users/13474/heroku/My_Dash/Youtube/Connect_Dash_to_Databases/BigQuery/assets\My First Project-6e03fa235eb0.json')
-project_id = 'singular-winter-308201'
+project_id = 'singular-winter-308201'  # make sure to change this with your own project ID
 
 app = dash.Dash(__name__)
 
