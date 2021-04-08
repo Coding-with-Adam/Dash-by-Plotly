@@ -61,3 +61,7 @@ def stop_interval(retrieved_text):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+    
+    
+    
+# https://youtu.be/OSFoBbNnPWk
