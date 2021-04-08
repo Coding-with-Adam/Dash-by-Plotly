@@ -11,7 +11,7 @@ app = dash.Dash(__name__)
 
 #---------------------------------------------------------------
 #Taken from https://opendata.cityofnewyork.us/
-df = pd.read_csv("Urban_Park_Ranger_Animal_Condition.csv")  # https://drive.google.com/file/d/1Jjpqe2HSlqVfIm6Dp5frDg0Ogx-NaUOv/view?usp=sharing
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Dash%20Components/Dropdown/Urban_Park_Ranger_Animal_Condition.csv")  
 
 #---------------------------------------------------------------
 app.layout = html.Div([
@@ -85,3 +85,7 @@ def build_graph(data_chosen):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+    
+    
+# https://youtu.be/UYH_dNSX1DM
