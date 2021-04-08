@@ -72,3 +72,7 @@ def update(knob_value, color_chosen):
 
 if __name__ == "__main__":
     app.run_server(port=3040, debug=True)
+
+    
+    
+# https://youtu.be/t3cLkzJAUgo
