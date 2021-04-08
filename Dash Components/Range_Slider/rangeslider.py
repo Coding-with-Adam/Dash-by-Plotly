@@ -14,7 +14,7 @@ app = dash.Dash(__name__)
 #The Bureau of Transportation Statistics (BTS) Border Crossing Data provide summary statistics
 #for inbound crossings at the U.S.-Canada and the U.S.-Mexico border at the port leve
 
-df = pd.read_csv("Border_Crossing_Entry_Data.csv")
+df = pd.read_csv("Border_Crossing_Entry_Data.csv")  # https://drive.google.com/file/d/1UnQvjvF5F0C1NKhvZ-TnTg4cfbe67uvP/view?usp=sharing
 df['Date'] = pd.to_datetime(df['Date'])
 df['Date'] = df['Date'].dt.year
 df = df.set_index('Date')
@@ -86,3 +86,7 @@ def build_graph(years):
 
 if __name__ == '__main__':
     app.run_server(debug=False)
+
+    
+    
+# https://youtu.be/Zvz2LpziQAs
