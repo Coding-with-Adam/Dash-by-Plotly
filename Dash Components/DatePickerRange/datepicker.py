@@ -7,7 +7,7 @@ from dash.dependencies import Input, Output
 import pandas as pd
 
 # Data from NYC Open Data portal
-df = pd.read_csv('Sidewalk_Caf__Licenses_and_Applications.csv')
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Dash%20Components/DatePickerRange/Sidewalk_Caf__Licenses_and_Applications.csv")
 df['SUBMIT_DATE'] = pd.to_datetime(df['SUBMIT_DATE'])
 df.set_index('SUBMIT_DATE', inplace=True)
 print(df[:5][['BUSINESS_NAME', 'LATITUDE', 'LONGITUDE', 'APP_SQ_FT']])
