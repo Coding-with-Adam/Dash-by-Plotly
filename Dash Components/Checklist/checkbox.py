@@ -89,3 +89,8 @@ def update_graph(options_chosen):
 #------------------------------------------------------------------------------
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+    
+   
+  
+# https://youtu.be/amRFPjSgEnk 
