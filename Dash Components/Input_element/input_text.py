@@ -90,3 +90,6 @@ def update_graph(txt_inserted, num_submit, sub_tmstp, lost_foc, lst_foc_tmstp):
 # ------------------------------------------------------------------------
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+    
+# https://youtu.be/VZ6IdRMc0RI
