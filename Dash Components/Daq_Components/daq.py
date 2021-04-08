@@ -100,3 +100,7 @@ def update_g(toggle):
 
 if __name__ == "__main__":
     app.run_server(debug=True, port=3030)
+
+    
+    
+# https://youtu.be/t3cLkzJAUgo
