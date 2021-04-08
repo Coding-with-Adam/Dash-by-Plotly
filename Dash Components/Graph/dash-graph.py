@@ -73,3 +73,6 @@ def update_side_graph(hov_data, clk_data, slct_data, country_chosen):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+    
+    
+# https://youtu.be/G8r2BB3GFVY
