@@ -9,7 +9,7 @@ app = dash.Dash(__name__)
 
 # ------------------------------------------------------------------------
 # Import and filter data into pandas data frame
-df = pd.read_csv("dup_bees.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Dash%20Components/Input_element/dup_bees.csv")
 df['Value'] = pd.to_numeric(df['Value'])
 mapping = {'HONEY, BEE COLONIES, AFFECTED BY DISEASE - INVENTORY, MEASURED IN PCT OF COLONIES': 'Disease',
            'HONEY, BEE COLONIES, AFFECTED BY OTHER CAUSES - INVENTORY, MEASURED IN PCT OF COLONIES': 'Other',
@@ -134,3 +134,6 @@ def update_graph(num_year, pwd_state, txt_state, tel_state, email_, url_, search
 # ------------------------------------------------------------------------
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+
+# https://youtu.be/VZ6IdRMc0RI
