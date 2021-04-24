@@ -175,7 +175,7 @@ def update_small_cards(start_date, end_date):
     dff_c = df_cnt.copy()
     dff_c = dff_c[(dff_c['Connected On']>=start_date) & (dff_c['Connected On']<=end_date)]
     conctns_num = len(dff_c)
-    compns_num = len(dff_c[dff_c['Company'].notnull()])
+    compns_num = len(dff_c['Company'].unique())
 
     # Invitations
     dff_i = df_invite.copy()
