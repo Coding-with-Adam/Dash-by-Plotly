@@ -1,4 +1,4 @@
-import dash             # pip istall dash
+import dash             # pip istall dash THIS CODE WAS CREATED BY ANN AND SLIGHTLY ALTERED BY ME
 import dash_labs as dl  # pip install -U dash-labs
 import dash_core_components as dcc
 import plotly.express as px
