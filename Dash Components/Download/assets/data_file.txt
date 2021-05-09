@@ -1,0 +1,5 @@
+You just allowed the user to download a file that you saved in your "assets" folder. 
+When your app is deployed to the web, the path to the assets file might look different.
+Instead of "./assets/data_file.txt", it might be something like "./mainfolder/firstapp/assets/data_file.txt".
+It really depends on the structure of your app and the filing system of the server you use (Pythonanywhere,
+Heroku, AWS, etc.) to deploy your app. 
