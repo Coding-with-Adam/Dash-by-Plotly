@@ -30,14 +30,14 @@ app.layout = dbc.Container(
             className="mt-1"
         ),
 
-        dcc.Download(id="download-dataframe-csv"),
+        dcc.Download(id="download-component"),
     ],
     className='m-4'
 )
 
 
 @app.callback(
-    Output("download-dataframe-csv", "data"),
+    Output("download-component", "data"),
     Input("btn", "n_clicks"),
     prevent_initial_call=True,
 )
