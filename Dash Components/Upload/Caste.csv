@@ -1,0 +1,3569 @@
+state_name,is_state,year,gender,caste,convicts,under_trial,detenues,others
+Andhra Pradesh,1,2001,Male,SC,1236,1836,0,5
+Andhra Pradesh,1,2001,Male,ST,418,1205,0,1
+Andhra Pradesh,1,2001,Male,OBC,1526,3359,4,8
+Andhra Pradesh,1,2001,Male,Others,939,1960,0,8
+Andhra Pradesh,1,2002,Male,SC,1177,1573,2,0
+Andhra Pradesh,1,2002,Male,ST,384,962,0,0
+Andhra Pradesh,1,2002,Male,OBC,1833,2951,0,0
+Andhra Pradesh,1,2002,Male,Others,1327,2506,0,0
+Andhra Pradesh,1,2003,Male,SC,1153,1622,0,0
+Andhra Pradesh,1,2003,Male,ST,381,990,0,0
+Andhra Pradesh,1,2003,Male,OBC,2279,3476,11,0
+Andhra Pradesh,1,2003,Male,Others,1162,2290,7,0
+Andhra Pradesh,1,2004,Male,SC,918,1751,5,0
+Andhra Pradesh,1,2004,Male,ST,300,916,3,0
+Andhra Pradesh,1,2004,Male,OBC,2146,3645,18,0
+Andhra Pradesh,1,2004,Male,Others,1204,2187,3,0
+Andhra Pradesh,1,2005,Male,SC,1002,1824,2,0
+Andhra Pradesh,1,2005,Male,ST,298,899,1,0
+Andhra Pradesh,1,2005,Male,OBC,2201,3906,5,0
+Andhra Pradesh,1,2005,Male,Others,1312,2277,2,0
+Andhra Pradesh,1,2006,Male,SC,884,1970,3,8
+Andhra Pradesh,1,2006,Male,ST,376,1242,0,1
+Andhra Pradesh,1,2006,Male,OBC,2214,3638,11,14
+Andhra Pradesh,1,2006,Male,Others,1606,2595,3,11
+Andhra Pradesh,1,2007,Male,SC,906,1770,5,1
+Andhra Pradesh,1,2007,Male,ST,536,1232,1,1
+Andhra Pradesh,1,2007,Male,OBC,1867,2983,4,11
+Andhra Pradesh,1,2007,Male,Others,2018,2825,11,7
+Andhra Pradesh,1,2008,Male,SC,955,1700,3,2
+Andhra Pradesh,1,2008,Male,ST,476,1001,3,0
+Andhra Pradesh,1,2008,Male,OBC,1861,2617,5,3
+Andhra Pradesh,1,2008,Male,Others,1863,2700,10,7
+Andhra Pradesh,1,2009,Male,SC,1032,1931,9,1
+Andhra Pradesh,1,2009,Male,ST,444,1027,1,0
+Andhra Pradesh,1,2009,Male,OBC,1442,2562,19,6
+Andhra Pradesh,1,2009,Male,Others,1421,2120,9,8
+Andhra Pradesh,1,2010,Male,SC,813,1587,5,2
+Andhra Pradesh,1,2010,Male,ST,447,1019,1,0
+Andhra Pradesh,1,2010,Male,OBC,1617,2469,20,6
+Andhra Pradesh,1,2010,Male,Others,1690,2028,2,5
+Andhra Pradesh,1,2011,Male,SC,952,2025,1,1
+Andhra Pradesh,1,2011,Male,ST,462,889,1,0
+Andhra Pradesh,1,2011,Male,OBC,1475,3211,11,14
+Andhra Pradesh,1,2011,Male,Others,1488,1839,0,2
+Andhra Pradesh,1,2012,Male,SC,896,1721,0,2
+Andhra Pradesh,1,2012,Male,ST,446,979,0,0
+Andhra Pradesh,1,2012,Male,OBC,1140,3015,0,2
+Andhra Pradesh,1,2012,Male,Others,1955,2199,3,3
+Arunachal Pradesh,1,2009,Male,SC,0,4,0,0
+Arunachal Pradesh,1,2009,Male,ST,0,34,0,0
+Arunachal Pradesh,1,2009,Male,OBC,0,2,0,0
+Arunachal Pradesh,1,2009,Male,Others,2,16,0,0
+Arunachal Pradesh,1,2010,Male,SC,1,3,0,0
+Arunachal Pradesh,1,2010,Male,ST,0,25,0,0
+Arunachal Pradesh,1,2010,Male,OBC,0,5,0,0
+Arunachal Pradesh,1,2010,Male,Others,4,15,0,0
+Arunachal Pradesh,1,2011,Male,SC,1,4,0,0
+Arunachal Pradesh,1,2011,Male,ST,4,25,0,0
+Arunachal Pradesh,1,2011,Male,OBC,0,1,0,0
+Arunachal Pradesh,1,2011,Male,Others,1,14,0,0
+Arunachal Pradesh,1,2012,Male,SC,0,4,0,0
+Arunachal Pradesh,1,2012,Male,ST,3,28,0,0
+Arunachal Pradesh,1,2012,Male,OBC,0,5,0,0
+Arunachal Pradesh,1,2012,Male,Others,1,26,0,0
+Assam,1,2001,Male,SC,278,548,1,0
+Assam,1,2001,Male,ST,182,583,5,0
+Assam,1,2001,Male,OBC,546,806,3,0
+Assam,1,2001,Male,Others,1350,2001,7,1
+Assam,1,2002,Male,SC,301,512,1,0
+Assam,1,2002,Male,ST,195,516,5,0
+Assam,1,2002,Male,OBC,653,1009,2,0
+Assam,1,2002,Male,Others,1527,2169,10,0
+Assam,1,2003,Male,SC,509,661,2,0
+Assam,1,2003,Male,ST,301,555,11,0
+Assam,1,2003,Male,OBC,946,1196,8,0
+Assam,1,2003,Male,Others,1252,1974,8,3
+Assam,1,2004,Male,SC,581,561,31,1
+Assam,1,2004,Male,ST,320,512,43,0
+Assam,1,2004,Male,OBC,957,1449,83,3
+Assam,1,2004,Male,Others,1333,1642,58,3
+Assam,1,2005,Male,SC,485,875,4,0
+Assam,1,2005,Male,ST,396,615,10,0
+Assam,1,2005,Male,OBC,733,1117,10,0
+Assam,1,2005,Male,Others,1783,2260,7,4
+Assam,1,2006,Male,SC,514,928,5,1
+Assam,1,2006,Male,ST,388,658,5,0
+Assam,1,2006,Male,OBC,887,1149,8,0
+Assam,1,2006,Male,Others,1676,2066,9,1
+Assam,1,2007,Male,SC,628,801,3,0
+Assam,1,2007,Male,ST,307,669,7,0
+Assam,1,2007,Male,OBC,1093,1011,19,0
+Assam,1,2007,Male,Others,1452,2463,1,0
+Assam,1,2008,Male,SC,768,892,8,0
+Assam,1,2008,Male,ST,546,864,2,0
+Assam,1,2008,Male,OBC,1022,1282,0,0
+Assam,1,2008,Male,Others,1060,1985,0,0
+Assam,1,2009,Male,SC,695,792,3,0
+Assam,1,2009,Male,ST,487,964,4,0
+Assam,1,2009,Male,OBC,731,1272,0,0
+Assam,1,2009,Male,Others,1322,1591,0,0
+Assam,1,2010,Male,SC,668,820,2,0
+Assam,1,2010,Male,ST,473,946,1,0
+Assam,1,2010,Male,OBC,832,1098,0,0
+Assam,1,2010,Male,Others,1193,1616,0,0
+Assam,1,2011,Male,SC,648,925,0,0
+Assam,1,2011,Male,ST,452,1016,0,0
+Assam,1,2011,Male,OBC,810,1190,0,0
+Assam,1,2011,Male,Others,1136,1728,0,0
+Assam,1,2012,Male,SC,622,945,1,0
+Assam,1,2012,Male,ST,470,1040,2,0
+Assam,1,2012,Male,OBC,825,1192,0,0
+Assam,1,2012,Male,Others,1145,1738,0,0
+Bihar,1,2001,Male,SC,1455,11445,1,9
+Bihar,1,2001,Male,ST,145,735,0,4
+Bihar,1,2001,Male,OBC,2175,11195,3,7
+Bihar,1,2001,Male,Others,1212,6625,8,17
+Bihar,1,2002,Male,SC,1087,6657,6,16
+Bihar,1,2002,Male,ST,397,2329,1,3
+Bihar,1,2002,Male,OBC,1992,11808,7,41
+Bihar,1,2002,Male,Others,1483,10365,19,42
+Bihar,1,2003,Male,SC,1123,6854,0,21
+Bihar,1,2003,Male,ST,365,1832,0,2
+Bihar,1,2003,Male,OBC,1538,12178,9,46
+Bihar,1,2003,Male,Others,1948,10325,13,20
+Bihar,1,2004,Male,SC,1380,6176,7,27
+Bihar,1,2004,Male,ST,344,1072,2,1
+Bihar,1,2004,Male,OBC,1990,10798,18,50
+Bihar,1,2004,Male,Others,1676,8586,38,35
+Bihar,1,2005,Male,SC,588,4698,0,47
+Bihar,1,2005,Male,ST,237,598,0,15
+Bihar,1,2005,Male,OBC,2448,17824,0,96
+Bihar,1,2005,Male,Others,2212,15701,0,32
+Bihar,1,2006,Male,SC,1423,6777,0,46
+Bihar,1,2006,Male,ST,656,2114,0,0
+Bihar,1,2006,Male,OBC,2226,13085,0,36
+Bihar,1,2006,Male,Others,2311,14130,0,59
+Bihar,1,2007,Male,SC,1378,6294,2,8
+Bihar,1,2007,Male,ST,436,1172,0,3
+Bihar,1,2007,Male,OBC,2073,11248,10,13
+Bihar,1,2007,Male,Others,2243,13446,12,8
+Bihar,1,2008,Male,SC,1302,6203,3,13
+Bihar,1,2008,Male,ST,399,1095,0,2
+Bihar,1,2008,Male,OBC,2010,11108,9,17
+Bihar,1,2008,Male,Others,2157,12143,12,7
+Bihar,1,2009,Male,SC,1116,5786,0,2
+Bihar,1,2009,Male,ST,317,970,2,0
+Bihar,1,2009,Male,OBC,1877,9617,2,2
+Bihar,1,2009,Male,Others,2113,10873,6,2
+Bihar,1,2010,Male,SC,1021,4678,2,4
+Bihar,1,2010,Male,ST,263,879,2,0
+Bihar,1,2010,Male,OBC,1809,8165,9,7
+Bihar,1,2010,Male,Others,2073,9867,21,8
+Bihar,1,2011,Male,SC,768,4988,1,4
+Bihar,1,2011,Male,ST,240,1359,0,1
+Bihar,1,2011,Male,OBC,2178,9664,4,4
+Bihar,1,2011,Male,Others,1322,6611,3,4
+Bihar,1,2012,Male,SC,560,5187,2,2
+Bihar,1,2012,Male,ST,187,1449,0,0
+Bihar,1,2012,Male,OBC,2036,9904,14,2
+Bihar,1,2012,Male,Others,1223,7023,24,9
+Chhattisgarh,1,2012,Male,SC,1259,1856,0,5
+Chhattisgarh,1,2012,Male,ST,1800,2882,0,3
+Chhattisgarh,1,2012,Male,OBC,1991,2619,0,7
+Chhattisgarh,1,2012,Male,Others,670,987,0,2
+Chhattisgarh,1,2001,Male,SC,1244,937,2,3
+Chhattisgarh,1,2001,Male,ST,1540,1670,1,2
+Chhattisgarh,1,2001,Male,OBC,1107,1472,1,2
+Chhattisgarh,1,2001,Male,Others,657,638,0,1
+Chhattisgarh,1,2002,Male,SC,1133,1249,0,5
+Chhattisgarh,1,2002,Male,ST,1658,1567,0,1
+Chhattisgarh,1,2002,Male,OBC,1250,1314,0,2
+Chhattisgarh,1,2002,Male,Others,793,606,1,0
+Chhattisgarh,1,2003,Male,SC,963,917,0,1
+Chhattisgarh,1,2003,Male,ST,1625,1492,0,2
+Chhattisgarh,1,2003,Male,OBC,1364,1022,3,7
+Chhattisgarh,1,2003,Male,Others,569,537,0,0
+Chhattisgarh,1,2004,Male,SC,892,749,0,7
+Chhattisgarh,1,2004,Male,ST,1478,1279,0,2
+Chhattisgarh,1,2004,Male,OBC,1391,1633,0,1
+Chhattisgarh,1,2004,Male,Others,559,482,0,1
+Chhattisgarh,1,2005,Male,SC,1032,1208,0,3
+Chhattisgarh,1,2005,Male,ST,1328,1588,0,1
+Chhattisgarh,1,2005,Male,OBC,1000,1614,0,6
+Chhattisgarh,1,2005,Male,Others,748,867,2,1
+Chhattisgarh,1,2006,Male,SC,1037,1030,0,2
+Chhattisgarh,1,2006,Male,ST,1330,1969,1,1
+Chhattisgarh,1,2006,Male,OBC,1055,1956,0,8
+Chhattisgarh,1,2006,Male,Others,665,834,0,0
+Chhattisgarh,1,2007,Male,SC,1135,1145,0,4
+Chhattisgarh,1,2007,Male,ST,1293,1772,0,4
+Chhattisgarh,1,2007,Male,OBC,1149,1918,0,16
+Chhattisgarh,1,2007,Male,Others,740,811,0,3
+Chhattisgarh,1,2008,Male,SC,989,1119,0,1
+Chhattisgarh,1,2008,Male,ST,1225,2091,0,0
+Chhattisgarh,1,2008,Male,OBC,1652,2056,0,3
+Chhattisgarh,1,2008,Male,Others,707,889,0,2
+Chhattisgarh,1,2009,Male,SC,1074,1358,0,0
+Chhattisgarh,1,2009,Male,ST,1602,2619,0,8
+Chhattisgarh,1,2009,Male,OBC,1594,2201,0,2
+Chhattisgarh,1,2009,Male,Others,370,732,0,6
+Chhattisgarh,1,2010,Male,SC,1225,1253,0,10
+Chhattisgarh,1,2010,Male,ST,1729,3182,0,2
+Chhattisgarh,1,2010,Male,OBC,1444,1999,1,5
+Chhattisgarh,1,2010,Male,Others,589,890,0,2
+Chhattisgarh,1,2011,Male,SC,1281,1599,0,4
+Chhattisgarh,1,2011,Male,ST,1684,2817,0,4
+Chhattisgarh,1,2011,Male,OBC,1856,2428,0,3
+Chhattisgarh,1,2011,Male,Others,567,1039,0,2
+Goa,1,2001,Male,SC,6,23,0,0
+Goa,1,2001,Male,ST,3,9,0,0
+Goa,1,2001,Male,OBC,20,46,0,0
+Goa,1,2001,Male,Others,125,209,0,0
+Goa,1,2002,Male,SC,4,2,0,0
+Goa,1,2002,Male,ST,3,0,0,0
+Goa,1,2002,Male,OBC,8,13,0,0
+Goa,1,2002,Male,Others,130,183,0,0
+Goa,1,2003,Male,SC,14,27,0,0
+Goa,1,2003,Male,ST,11,14,0,0
+Goa,1,2003,Male,OBC,3,38,0,0
+Goa,1,2003,Male,Others,112,300,1,0
+Goa,1,2004,Male,SC,0,13,0,0
+Goa,1,2004,Male,ST,0,12,0,0
+Goa,1,2004,Male,OBC,0,38,0,0
+Goa,1,2004,Male,Others,148,205,0,0
+Goa,1,2005,Male,SC,0,4,0,0
+Goa,1,2005,Male,ST,0,10,0,0
+Goa,1,2005,Male,OBC,0,10,0,0
+Goa,1,2005,Male,Others,135,205,0,0
+Goa,1,2006,Male,SC,2,12,0,0
+Goa,1,2006,Male,ST,1,21,0,0
+Goa,1,2006,Male,OBC,8,70,0,0
+Goa,1,2006,Male,Others,131,115,0,0
+Goa,1,2007,Male,SC,2,20,0,0
+Goa,1,2007,Male,ST,1,5,0,0
+Goa,1,2007,Male,OBC,8,33,0,0
+Goa,1,2007,Male,Others,134,143,0,0
+Goa,1,2008,Male,SC,2,17,0,0
+Goa,1,2008,Male,ST,1,12,0,0
+Goa,1,2008,Male,OBC,8,58,0,0
+Goa,1,2008,Male,Others,130,150,0,0
+Goa,1,2009,Male,SC,0,4,0,0
+Goa,1,2009,Male,ST,0,1,0,0
+Goa,1,2009,Male,OBC,0,7,0,0
+Goa,1,2009,Male,Others,181,208,0,0
+Goa,1,2010,Male,SC,1,7,0,0
+Goa,1,2010,Male,ST,2,6,0,0
+Goa,1,2010,Male,OBC,2,36,0,0
+Goa,1,2010,Male,Others,164,203,0,0
+Goa,1,2011,Male,SC,5,10,0,0
+Goa,1,2011,Male,ST,5,8,0,0
+Goa,1,2011,Male,OBC,18,110,0,0
+Goa,1,2011,Male,Others,110,189,0,0
+Goa,1,2012,Male,SC,7,14,0,0
+Goa,1,2012,Male,ST,9,10,0,0
+Goa,1,2012,Male,OBC,16,92,0,0
+Goa,1,2012,Male,Others,100,196,0,0
+Gujarat,1,2001,Male,SC,628,957,51,0
+Gujarat,1,2001,Male,ST,694,949,48,0
+Gujarat,1,2001,Male,OBC,578,1515,202,0
+Gujarat,1,2001,Male,Others,958,1997,119,0
+Gujarat,1,2002,Male,SC,460,1415,90,0
+Gujarat,1,2002,Male,ST,703,1704,66,0
+Gujarat,1,2002,Male,OBC,886,1100,156,0
+Gujarat,1,2002,Male,Others,1145,1963,235,0
+Gujarat,1,2003,Male,SC,516,1683,80,0
+Gujarat,1,2003,Male,ST,707,1195,36,0
+Gujarat,1,2003,Male,OBC,1177,1219,60,0
+Gujarat,1,2003,Male,Others,911,2090,149,0
+Gujarat,1,2004,Male,SC,734,1754,66,0
+Gujarat,1,2004,Male,ST,642,1765,48,0
+Gujarat,1,2004,Male,OBC,1582,1423,120,0
+Gujarat,1,2004,Male,Others,781,1963,197,0
+Gujarat,1,2005,Male,SC,916,1523,89,0
+Gujarat,1,2005,Male,ST,977,1524,46,0
+Gujarat,1,2005,Male,OBC,1456,1656,80,0
+Gujarat,1,2005,Male,Others,949,1502,88,0
+Gujarat,1,2006,Male,SC,961,1585,48,0
+Gujarat,1,2006,Male,ST,1185,1495,39,0
+Gujarat,1,2006,Male,OBC,939,1405,141,0
+Gujarat,1,2006,Male,Others,1783,1613,101,0
+Gujarat,1,2007,Male,SC,1308,1172,153,0
+Gujarat,1,2007,Male,ST,1667,1069,99,0
+Gujarat,1,2007,Male,OBC,1098,1752,242,0
+Gujarat,1,2007,Male,Others,803,1596,218,0
+Gujarat,1,2008,Male,SC,1014,848,51,0
+Gujarat,1,2008,Male,ST,1127,985,47,0
+Gujarat,1,2008,Male,OBC,1741,2583,120,0
+Gujarat,1,2008,Male,Others,837,2264,117,0
+Gujarat,1,2009,Male,SC,828,1103,29,0
+Gujarat,1,2009,Male,ST,980,1213,28,0
+Gujarat,1,2009,Male,OBC,1489,2994,127,0
+Gujarat,1,2009,Male,Others,899,1555,113,0
+Gujarat,1,2010,Male,SC,958,862,31,0
+Gujarat,1,2010,Male,ST,883,865,26,0
+Gujarat,1,2010,Male,OBC,1309,3076,87,0
+Gujarat,1,2010,Male,Others,1033,1756,66,0
+Gujarat,1,2011,Male,SC,487,742,43,0
+Gujarat,1,2011,Male,ST,709,776,29,0
+Gujarat,1,2011,Male,OBC,936,2448,155,0
+Gujarat,1,2011,Male,Others,2196,2402,128,0
+Gujarat,1,2012,Male,SC,738,1118,75,0
+Gujarat,1,2012,Male,ST,947,1065,92,0
+Gujarat,1,2012,Male,OBC,1341,2305,188,0
+Gujarat,1,2012,Male,Others,1243,1798,113,0
+Haryana,1,2001,Male,SC,491,1872,0,12
+Haryana,1,2001,Male,ST,226,555,0,5
+Haryana,1,2001,Male,OBC,528,1554,0,8
+Haryana,1,2001,Male,Others,1739,3908,0,19
+Haryana,1,2002,Male,SC,710,1398,0,3
+Haryana,1,2002,Male,ST,401,962,0,3
+Haryana,1,2002,Male,OBC,781,1339,0,0
+Haryana,1,2002,Male,Others,1611,3697,0,2
+Haryana,1,2003,Male,SC,737,1563,0,26
+Haryana,1,2003,Male,ST,249,370,0,3
+Haryana,1,2003,Male,OBC,865,1555,0,13
+Haryana,1,2003,Male,Others,2425,3679,0,110
+Haryana,1,2004,Male,SC,818,1688,0,0
+Haryana,1,2004,Male,ST,494,733,0,0
+Haryana,1,2004,Male,OBC,996,2024,0,2
+Haryana,1,2004,Male,Others,2103,2645,0,11
+Haryana,1,2005,Male,SC,1067,1848,0,15
+Haryana,1,2005,Male,ST,245,331,0,0
+Haryana,1,2005,Male,OBC,1211,1490,0,10
+Haryana,1,2005,Male,Others,2082,3722,0,11
+Haryana,1,2006,Male,SC,1045,1834,0,7
+Haryana,1,2006,Male,ST,164,364,0,0
+Haryana,1,2006,Male,OBC,1241,1982,0,1
+Haryana,1,2006,Male,Others,2338,3173,0,5
+Haryana,1,2007,Male,SC,1127,1786,0,0
+Haryana,1,2007,Male,ST,172,504,0,0
+Haryana,1,2007,Male,OBC,1282,1873,0,0
+Haryana,1,2007,Male,Others,2194,3594,0,0
+Haryana,1,2008,Male,SC,1160,1797,0,0
+Haryana,1,2008,Male,ST,252,845,0,0
+Haryana,1,2008,Male,OBC,987,1048,0,0
+Haryana,1,2008,Male,Others,2733,4570,0,0
+Haryana,1,2009,Male,SC,1729,2063,0,0
+Haryana,1,2009,Male,ST,2435,3183,0,4
+Haryana,1,2009,Male,OBC,1177,2080,0,0
+Haryana,1,2009,Male,Others,187,361,0,0
+Haryana,1,2010,Male,SC,1635,2022,0,0
+Haryana,1,2010,Male,ST,283,436,0,0
+Haryana,1,2010,Male,OBC,1170,1479,0,0
+Haryana,1,2010,Male,Others,2878,3721,0,0
+Haryana,1,2011,Male,SC,1712,2120,0,0
+Haryana,1,2011,Male,ST,133,283,0,0
+Haryana,1,2011,Male,OBC,1405,1852,0,0
+Haryana,1,2011,Male,Others,2994,3863,0,1
+Haryana,1,2012,Male,SC,1686,2279,0,0
+Haryana,1,2012,Male,ST,253,720,0,0
+Haryana,1,2012,Male,OBC,1501,2071,0,0
+Haryana,1,2012,Male,Others,2971,4721,0,0
+Himachal Pradesh,1,2001,Male,SC,145,199,0,0
+Himachal Pradesh,1,2001,Male,ST,65,58,0,0
+Himachal Pradesh,1,2001,Male,OBC,53,48,0,0
+Himachal Pradesh,1,2001,Male,Others,121,192,0,0
+Himachal Pradesh,1,2002,Male,SC,70,136,0,0
+Himachal Pradesh,1,2002,Male,ST,23,44,0,0
+Himachal Pradesh,1,2002,Male,OBC,23,34,0,0
+Himachal Pradesh,1,2002,Male,Others,296,244,0,0
+Himachal Pradesh,1,2003,Male,SC,71,116,0,0
+Himachal Pradesh,1,2003,Male,ST,23,20,0,0
+Himachal Pradesh,1,2003,Male,OBC,16,49,0,0
+Himachal Pradesh,1,2003,Male,Others,354,298,0,0
+Himachal Pradesh,1,2004,Male,SC,101,108,0,0
+Himachal Pradesh,1,2004,Male,ST,16,23,0,0
+Himachal Pradesh,1,2004,Male,OBC,25,35,0,0
+Himachal Pradesh,1,2004,Male,Others,398,302,0,0
+Himachal Pradesh,1,2005,Male,SC,129,127,0,0
+Himachal Pradesh,1,2005,Male,ST,44,18,0,0
+Himachal Pradesh,1,2005,Male,OBC,42,20,0,0
+Himachal Pradesh,1,2005,Male,Others,399,355,0,0
+Himachal Pradesh,1,2006,Male,SC,146,134,0,0
+Himachal Pradesh,1,2006,Male,ST,28,7,0,0
+Himachal Pradesh,1,2006,Male,OBC,36,43,0,0
+Himachal Pradesh,1,2006,Male,Others,530,367,0,0
+Himachal Pradesh,1,2007,Male,SC,233,181,0,0
+Himachal Pradesh,1,2007,Male,ST,37,25,0,0
+Himachal Pradesh,1,2007,Male,OBC,53,55,0,0
+Himachal Pradesh,1,2007,Male,Others,515,275,0,0
+Himachal Pradesh,1,2008,Male,SC,328,169,0,0
+Himachal Pradesh,1,2008,Male,ST,14,23,0,0
+Himachal Pradesh,1,2008,Male,OBC,49,99,0,0
+Himachal Pradesh,1,2008,Male,Others,467,261,0,0
+Himachal Pradesh,1,2009,Male,SC,238,246,0,0
+Himachal Pradesh,1,2009,Male,ST,15,29,0,0
+Himachal Pradesh,1,2009,Male,OBC,249,93,0,0
+Himachal Pradesh,1,2009,Male,Others,305,327,0,0
+Himachal Pradesh,1,2010,Male,SC,234,215,0,0
+Himachal Pradesh,1,2010,Male,ST,36,29,0,0
+Himachal Pradesh,1,2010,Male,OBC,49,30,0,0
+Himachal Pradesh,1,2010,Male,Others,616,326,0,0
+Himachal Pradesh,1,2011,Male,SC,254,162,0,0
+Himachal Pradesh,1,2011,Male,ST,44,39,0,0
+Himachal Pradesh,1,2011,Male,OBC,60,86,0,0
+Himachal Pradesh,1,2011,Male,Others,555,345,0,0
+Himachal Pradesh,1,2012,Male,SC,289,199,0,0
+Himachal Pradesh,1,2012,Male,ST,40,32,0,0
+Himachal Pradesh,1,2012,Male,OBC,78,88,0,0
+Himachal Pradesh,1,2012,Male,Others,509,408,0,0
+Jammu & Kashmir,1,2001,Male,SC,0,0,0,0
+Jammu & Kashmir,1,2001,Male,ST,0,0,0,0
+Jammu & Kashmir,1,2001,Male,OBC,0,0,0,0
+Jammu & Kashmir,1,2001,Male,Others,0,0,0,0
+Jammu & Kashmir,1,2002,Male,SC,2,119,2,0
+Jammu & Kashmir,1,2002,Male,ST,0,82,12,0
+Jammu & Kashmir,1,2002,Male,OBC,20,230,15,0
+Jammu & Kashmir,1,2002,Male,Others,104,752,414,1
+Jammu & Kashmir,1,2003,Male,SC,0,0,0,0
+Jammu & Kashmir,1,2003,Male,ST,0,0,0,0
+Jammu & Kashmir,1,2003,Male,OBC,0,0,0,0
+Jammu & Kashmir,1,2003,Male,Others,0,0,0,0
+Jammu & Kashmir,1,2004,Male,SC,0,0,0,0
+Jammu & Kashmir,1,2004,Male,ST,0,0,0,0
+Jammu & Kashmir,1,2004,Male,OBC,0,0,0,0
+Jammu & Kashmir,1,2004,Male,Others,0,0,0,0
+Jammu & Kashmir,1,2005,Male,SC,3,42,0,0
+Jammu & Kashmir,1,2005,Male,ST,2,97,18,0
+Jammu & Kashmir,1,2005,Male,OBC,2,45,0,0
+Jammu & Kashmir,1,2005,Male,Others,204,1298,355,0
+Jammu & Kashmir,1,2006,Male,SC,10,79,0,0
+Jammu & Kashmir,1,2006,Male,ST,1,94,22,3
+Jammu & Kashmir,1,2006,Male,OBC,9,74,0,0
+Jammu & Kashmir,1,2006,Male,Others,235,1338,346,0
+Jammu & Kashmir,1,2007,Male,SC,0,0,0,0
+Jammu & Kashmir,1,2007,Male,ST,0,0,0,0
+Jammu & Kashmir,1,2007,Male,OBC,0,0,0,0
+Jammu & Kashmir,1,2007,Male,Others,285,1660,272,0
+Jammu & Kashmir,1,2008,Male,SC,0,0,0,0
+Jammu & Kashmir,1,2008,Male,ST,0,0,0,0
+Jammu & Kashmir,1,2008,Male,OBC,0,0,0,0
+Jammu & Kashmir,1,2008,Male,Others,329,1631,265,0
+Jammu & Kashmir,1,2009,Male,SC,0,0,0,0
+Jammu & Kashmir,1,2009,Male,ST,0,0,0,0
+Jammu & Kashmir,1,2009,Male,OBC,0,0,0,0
+Jammu & Kashmir,1,2009,Male,Others,346,1736,181,1
+Jammu & Kashmir,1,2010,Male,SC,21,242,5,0
+Jammu & Kashmir,1,2010,Male,ST,13,259,11,0
+Jammu & Kashmir,1,2010,Male,OBC,11,135,2,0
+Jammu & Kashmir,1,2010,Male,Others,207,1187,376,2
+Jammu & Kashmir,1,2011,Male,SC,77,383,26,4
+Jammu & Kashmir,1,2011,Male,ST,26,232,12,2
+Jammu & Kashmir,1,2011,Male,OBC,16,189,15,4
+Jammu & Kashmir,1,2011,Male,Others,172,1221,181,0
+Jammu & Kashmir,1,2012,Male,SC,59,151,2,0
+Jammu & Kashmir,1,2012,Male,ST,25,191,7,0
+Jammu & Kashmir,1,2012,Male,OBC,22,74,5,0
+Jammu & Kashmir,1,2012,Male,Others,270,1511,130,0
+Jharkhand,1,2001,Male,SC,408,2394,0,2
+Jharkhand,1,2001,Male,ST,661,3477,4,1
+Jharkhand,1,2001,Male,OBC,485,2893,1,4
+Jharkhand,1,2001,Male,Others,817,4922,4,3
+Jharkhand,1,2002,Male,SC,598,2600,0,1
+Jharkhand,1,2002,Male,ST,552,3011,0,0
+Jharkhand,1,2002,Male,OBC,896,3366,0,1
+Jharkhand,1,2002,Male,Others,896,2712,18,1
+Jharkhand,1,2003,Male,SC,792,2518,0,2
+Jharkhand,1,2003,Male,ST,898,3057,2,0
+Jharkhand,1,2003,Male,OBC,1275,3470,0,2
+Jharkhand,1,2003,Male,Others,1165,2675,11,7
+Jharkhand,1,2004,Male,SC,836,2538,0,0
+Jharkhand,1,2004,Male,ST,1305,3072,0,0
+Jharkhand,1,2004,Male,OBC,2016,3551,0,0
+Jharkhand,1,2004,Male,Others,745,2793,10,0
+Jharkhand,1,2005,Male,SC,803,2784,0,0
+Jharkhand,1,2005,Male,ST,1575,4030,0,0
+Jharkhand,1,2005,Male,OBC,1468,3461,0,0
+Jharkhand,1,2005,Male,Others,1296,3118,0,0
+Jharkhand,1,2006,Male,SC,1321,2751,0,0
+Jharkhand,1,2006,Male,ST,2382,3750,0,0
+Jharkhand,1,2006,Male,OBC,2013,3482,1,0
+Jharkhand,1,2006,Male,Others,1407,2823,0,0
+Jharkhand,1,2007,Male,SC,1443,2152,0,0
+Jharkhand,1,2007,Male,ST,1758,3284,3,0
+Jharkhand,1,2007,Male,OBC,1492,3850,2,2
+Jharkhand,1,2007,Male,Others,988,2304,1,0
+Jharkhand,1,2008,Male,SC,611,2430,1,1
+Jharkhand,1,2008,Male,ST,2294,3532,4,1
+Jharkhand,1,2008,Male,OBC,1817,3942,1,0
+Jharkhand,1,2008,Male,Others,892,2224,0,1
+Jharkhand,1,2009,Male,SC,671,2162,1,0
+Jharkhand,1,2009,Male,ST,1336,2729,0,0
+Jharkhand,1,2009,Male,OBC,1406,3855,0,0
+Jharkhand,1,2009,Male,Others,1929,2452,4,0
+Jharkhand,1,2010,Male,SC,560,2034,1,0
+Jharkhand,1,2010,Male,ST,1295,3357,7,0
+Jharkhand,1,2010,Male,OBC,1423,4382,2,0
+Jharkhand,1,2010,Male,Others,1815,2453,6,0
+Jharkhand,1,2011,Male,SC,506,1715,6,0
+Jharkhand,1,2011,Male,ST,1185,3222,5,0
+Jharkhand,1,2011,Male,OBC,1160,3875,0,2
+Jharkhand,1,2011,Male,Others,1503,2683,6,0
+Jharkhand,1,2012,Male,SC,489,2109,6,1
+Jharkhand,1,2012,Male,ST,1481,3477,7,0
+Jharkhand,1,2012,Male,OBC,1093,3674,2,0
+Jharkhand,1,2012,Male,Others,1072,3175,1,0
+Karnataka,1,2001,Male,SC,295,1127,31,1
+Karnataka,1,2001,Male,ST,217,676,9,0
+Karnataka,1,2001,Male,OBC,192,307,13,0
+Karnataka,1,2001,Male,Others,1145,5407,69,4
+Karnataka,1,2002,Male,SC,283,1028,18,2
+Karnataka,1,2002,Male,ST,211,657,9,0
+Karnataka,1,2002,Male,OBC,233,391,11,2
+Karnataka,1,2002,Male,Others,1488,5633,82,14
+Karnataka,1,2004,Male,SC,831,1028,18,2
+Karnataka,1,2004,Male,ST,798,657,9,0
+Karnataka,1,2004,Male,OBC,251,391,11,2
+Karnataka,1,2004,Male,Others,1441,5579,81,7
+Karnataka,1,2005,Male,SC,852,1037,21,3
+Karnataka,1,2005,Male,ST,802,653,9,0
+Karnataka,1,2005,Male,OBC,273,387,13,3
+Karnataka,1,2005,Male,Others,1978,5606,107,35
+Karnataka,1,2006,Male,SC,712,1011,23,2
+Karnataka,1,2006,Male,ST,767,647,7,1
+Karnataka,1,2006,Male,OBC,267,367,4,3
+Karnataka,1,2006,Male,Others,1921,6313,131,18
+Karnataka,1,2007,Male,SC,708,1037,2,37
+Karnataka,1,2007,Male,ST,761,659,2,12
+Karnataka,1,2007,Male,OBC,289,391,1,3
+Karnataka,1,2007,Male,Others,1902,6607,5,108
+Karnataka,1,2008,Male,SC,803,1307,0,34
+Karnataka,1,2008,Male,ST,773,703,0,12
+Karnataka,1,2008,Male,OBC,293,391,0,3
+Karnataka,1,2008,Male,Others,1911,6653,0,107
+Karnataka,1,2009,Male,SC,768,1263,3,37
+Karnataka,1,2009,Male,ST,773,689,2,15
+Karnataka,1,2009,Male,OBC,291,391,0,6
+Karnataka,1,2009,Male,Others,1735,6617,11,116
+Karnataka,1,2010,Male,SC,772,1011,1,34
+Karnataka,1,2010,Male,ST,721,689,1,13
+Karnataka,1,2010,Male,OBC,294,391,0,5
+Karnataka,1,2010,Male,Others,1971,6385,8,124
+Karnataka,1,2011,Male,SC,723,863,0,21
+Karnataka,1,2011,Male,ST,685,671,0,9
+Karnataka,1,2011,Male,OBC,307,368,0,5
+Karnataka,1,2011,Male,Others,2318,6058,6,109
+Karnataka,1,2012,Male,SC,717,886,18,0
+Karnataka,1,2012,Male,ST,616,631,7,0
+Karnataka,1,2012,Male,OBC,313,301,8,0
+Karnataka,1,2012,Male,Others,2267,6754,61,0
+Kerala,1,2001,Male,SC,108,242,0,1
+Kerala,1,2001,Male,ST,95,368,0,0
+Kerala,1,2001,Male,OBC,650,1886,2,9
+Kerala,1,2001,Male,Others,897,920,17,3
+Kerala,1,2002,Male,SC,92,163,7,7
+Kerala,1,2002,Male,ST,65,248,0,0
+Kerala,1,2002,Male,OBC,732,1658,5,0
+Kerala,1,2002,Male,Others,772,1252,0,0
+Kerala,1,2003,Male,SC,258,274,0,0
+Kerala,1,2003,Male,ST,171,388,0,0
+Kerala,1,2003,Male,OBC,814,1907,8,6
+Kerala,1,2003,Male,Others,882,1553,0,0
+Kerala,1,2004,Male,SC,385,412,0,0
+Kerala,1,2004,Male,ST,201,506,0,0
+Kerala,1,2004,Male,OBC,994,2306,0,0
+Kerala,1,2004,Male,Others,1116,1022,8,6
+Kerala,1,2005,Male,SC,389,378,0,0
+Kerala,1,2005,Male,ST,208,486,0,0
+Kerala,1,2005,Male,OBC,997,2142,0,0
+Kerala,1,2005,Male,Others,1135,912,13,2
+Kerala,1,2006,Male,SC,389,561,0,0
+Kerala,1,2006,Male,ST,402,338,0,0
+Kerala,1,2006,Male,OBC,1211,1502,2,2
+Kerala,1,2006,Male,Others,810,1093,3,2
+Kerala,1,2007,Male,SC,323,558,5,2
+Kerala,1,2007,Male,ST,210,248,3,1
+Kerala,1,2007,Male,OBC,1144,1724,14,2
+Kerala,1,2007,Male,Others,1181,1132,10,2
+Kerala,1,2008,Male,SC,331,564,5,2
+Kerala,1,2008,Male,ST,230,210,3,1
+Kerala,1,2008,Male,OBC,983,1496,14,2
+Kerala,1,2008,Male,Others,1152,1536,19,2
+Kerala,1,2009,Male,SC,309,761,15,0
+Kerala,1,2009,Male,ST,67,220,10,0
+Kerala,1,2009,Male,OBC,1411,1733,30,3
+Kerala,1,2009,Male,Others,980,1211,15,0
+Kerala,1,2010,Male,SC,251,501,0,0
+Kerala,1,2010,Male,ST,145,210,0,0
+Kerala,1,2010,Male,OBC,1089,1848,0,0
+Kerala,1,2010,Male,Others,1249,1178,6,3
+Kerala,1,2011,Male,SC,223,341,2,1
+Kerala,1,2011,Male,ST,135,230,1,0
+Kerala,1,2011,Male,OBC,979,1723,2,2
+Kerala,1,2011,Male,Others,1049,1366,3,0
+Kerala,1,2012,Male,SC,275,345,2,2
+Kerala,1,2012,Male,ST,138,235,3,0
+Kerala,1,2012,Male,OBC,988,1888,2,2
+Kerala,1,2012,Male,Others,1309,1552,2,0
+Madhya Pradesh,1,2001,Male,SC,2278,3297,2,20
+Madhya Pradesh,1,2001,Male,ST,1836,2683,1,5
+Madhya Pradesh,1,2001,Male,OBC,4300,5262,3,0
+Madhya Pradesh,1,2001,Male,Others,3519,5140,10,14
+Madhya Pradesh,1,2002,Male,SC,2361,3065,5,15
+Madhya Pradesh,1,2002,Male,ST,2697,2310,0,3
+Madhya Pradesh,1,2002,Male,OBC,3220,5046,0,20
+Madhya Pradesh,1,2002,Male,Others,3519,4755,11,20
+Madhya Pradesh,1,2003,Male,SC,2148,2723,1,9
+Madhya Pradesh,1,2003,Male,ST,2706,3023,0,4
+Madhya Pradesh,1,2003,Male,OBC,2871,2850,6,7
+Madhya Pradesh,1,2003,Male,Others,4510,4942,6,26
+Madhya Pradesh,1,2004,Male,SC,2455,2411,1,20
+Madhya Pradesh,1,2004,Male,ST,2748,2506,0,10
+Madhya Pradesh,1,2004,Male,OBC,3384,4569,3,34
+Madhya Pradesh,1,2004,Male,Others,4210,5830,1,20
+Madhya Pradesh,1,2005,Male,SC,2511,3066,6,19
+Madhya Pradesh,1,2005,Male,ST,3259,3371,1,7
+Madhya Pradesh,1,2005,Male,OBC,4128,5068,4,30
+Madhya Pradesh,1,2005,Male,Others,4196,4966,10,21
+Madhya Pradesh,1,2006,Male,SC,2877,3545,2,22
+Madhya Pradesh,1,2006,Male,ST,3345,3303,0,13
+Madhya Pradesh,1,2006,Male,OBC,4398,4648,9,19
+Madhya Pradesh,1,2006,Male,Others,4246,4763,10,21
+Madhya Pradesh,1,2007,Male,SC,3325,3416,8,20
+Madhya Pradesh,1,2007,Male,ST,3376,2252,1,17
+Madhya Pradesh,1,2007,Male,OBC,5320,5436,8,17
+Madhya Pradesh,1,2007,Male,Others,3919,4715,17,11
+Madhya Pradesh,1,2008,Male,SC,2925,4115,23,19
+Madhya Pradesh,1,2008,Male,ST,3212,2762,8,14
+Madhya Pradesh,1,2008,Male,OBC,4878,5379,29,13
+Madhya Pradesh,1,2008,Male,Others,4691,5646,43,16
+Madhya Pradesh,1,2009,Male,SC,2911,4327,9,21
+Madhya Pradesh,1,2009,Male,ST,3026,2653,3,12
+Madhya Pradesh,1,2009,Male,OBC,4174,5287,14,15
+Madhya Pradesh,1,2009,Male,Others,4856,4513,25,29
+Madhya Pradesh,1,2010,Male,SC,3163,3602,25,57
+Madhya Pradesh,1,2010,Male,ST,2781,2739,12,17
+Madhya Pradesh,1,2010,Male,OBC,3812,4564,27,23
+Madhya Pradesh,1,2010,Male,Others,4411,5043,22,25
+Madhya Pradesh,1,2011,Male,SC,2947,3372,27,30
+Madhya Pradesh,1,2011,Male,ST,2919,2679,23,22
+Madhya Pradesh,1,2011,Male,OBC,4978,4815,37,26
+Madhya Pradesh,1,2011,Male,Others,4658,5205,45,48
+Madhya Pradesh,1,2012,Male,SC,3027,3553,24,20
+Madhya Pradesh,1,2012,Male,ST,3227,3366,11,12
+Madhya Pradesh,1,2012,Male,OBC,5229,5062,43,18
+Madhya Pradesh,1,2012,Male,Others,4148,4952,60,26
+Maharashtra,1,2001,Male,SC,1383,4025,113,1
+Maharashtra,1,2001,Male,ST,1027,2573,58,0
+Maharashtra,1,2001,Male,OBC,1680,2867,87,3
+Maharashtra,1,2001,Male,Others,2343,5398,106,0
+Maharashtra,1,2002,Male,SC,1346,2942,61,0
+Maharashtra,1,2002,Male,ST,1169,2308,37,0
+Maharashtra,1,2002,Male,OBC,1855,3120,53,0
+Maharashtra,1,2002,Male,Others,2517,5499,148,0
+Maharashtra,1,2003,Male,SC,1451,2517,35,3
+Maharashtra,1,2003,Male,ST,1199,2331,23,5
+Maharashtra,1,2003,Male,OBC,2657,3167,57,4
+Maharashtra,1,2003,Male,Others,2518,6761,73,9
+Maharashtra,1,2004,Male,SC,2309,2182,31,6
+Maharashtra,1,2004,Male,ST,1571,2060,26,0
+Maharashtra,1,2004,Male,OBC,2085,3527,30,18
+Maharashtra,1,2004,Male,Others,2482,7243,83,13
+Maharashtra,1,2005,Male,SC,1651,2321,52,5
+Maharashtra,1,2005,Male,ST,1636,2467,34,2
+Maharashtra,1,2005,Male,OBC,2845,4563,68,8
+Maharashtra,1,2005,Male,Others,2634,5733,80,6
+Maharashtra,1,2006,Male,SC,1742,3892,50,1
+Maharashtra,1,2006,Male,ST,1440,3414,28,0
+Maharashtra,1,2006,Male,OBC,2584,3674,72,0
+Maharashtra,1,2006,Male,Others,2934,4474,123,0
+Maharashtra,1,2007,Male,SC,1627,2806,14,0
+Maharashtra,1,2007,Male,ST,1200,3650,13,0
+Maharashtra,1,2007,Male,OBC,2583,4313,58,0
+Maharashtra,1,2007,Male,Others,3282,4927,66,0
+Maharashtra,1,2008,Male,SC,1955,2950,20,0
+Maharashtra,1,2008,Male,ST,1191,3034,12,0
+Maharashtra,1,2008,Male,OBC,2337,4410,32,0
+Maharashtra,1,2008,Male,Others,3182,5224,47,0
+Maharashtra,1,2009,Male,SC,1616,3114,17,0
+Maharashtra,1,2009,Male,ST,1287,2473,18,0
+Maharashtra,1,2009,Male,OBC,2595,4552,14,0
+Maharashtra,1,2009,Male,Others,2595,5088,33,0
+Maharashtra,1,2010,Male,SC,1600,2742,4,0
+Maharashtra,1,2010,Male,ST,1205,1990,12,0
+Maharashtra,1,2010,Male,OBC,2614,4669,28,0
+Maharashtra,1,2010,Male,Others,2271,5818,31,0
+Maharashtra,1,2011,Male,SC,1945,3315,14,0
+Maharashtra,1,2011,Male,ST,1353,2791,7,0
+Maharashtra,1,2011,Male,OBC,1307,3420,12,0
+Maharashtra,1,2011,Male,Others,2886,5623,33,0
+Maharashtra,1,2012,Male,SC,1622,3109,4,4
+Maharashtra,1,2012,Male,ST,866,2519,11,2
+Maharashtra,1,2012,Male,OBC,1474,4004,1,3
+Maharashtra,1,2012,Male,Others,3607,5913,26,6
+Manipur,1,2001,Male,SC,0,0,0,0
+Manipur,1,2001,Male,ST,4,115,20,0
+Manipur,1,2001,Male,OBC,12,155,2,0
+Manipur,1,2001,Male,Others,6,61,63,0
+Manipur,1,2002,Male,SC,0,1,0,0
+Manipur,1,2002,Male,ST,5,111,20,0
+Manipur,1,2002,Male,OBC,26,209,31,0
+Manipur,1,2002,Male,Others,5,18,62,0
+Manipur,1,2003,Male,SC,0,0,0,0
+Manipur,1,2003,Male,ST,5,130,14,0
+Manipur,1,2003,Male,OBC,0,0,0,0
+Manipur,1,2003,Male,Others,27,213,116,0
+Manipur,1,2004,Male,SC,0,10,0,0
+Manipur,1,2004,Male,ST,7,99,6,0
+Manipur,1,2004,Male,OBC,24,204,34,0
+Manipur,1,2004,Male,Others,1,25,32,0
+Manipur,1,2005,Male,SC,0,5,0,0
+Manipur,1,2005,Male,ST,4,83,17,0
+Manipur,1,2005,Male,OBC,25,260,47,0
+Manipur,1,2005,Male,Others,2,28,32,0
+Manipur,1,2006,Male,SC,0,8,1,0
+Manipur,1,2006,Male,ST,6,67,9,0
+Manipur,1,2006,Male,OBC,23,189,16,0
+Manipur,1,2006,Male,Others,4,44,16,0
+Manipur,1,2007,Male,SC,0,1,4,0
+Manipur,1,2007,Male,ST,6,45,18,0
+Manipur,1,2007,Male,OBC,31,185,65,0
+Manipur,1,2007,Male,Others,19,15,45,0
+Manipur,1,2008,Male,SC,0,5,2,0
+Manipur,1,2008,Male,ST,5,52,10,0
+Manipur,1,2008,Male,OBC,25,176,107,0
+Manipur,1,2008,Male,Others,6,19,31,0
+Manipur,1,2009,Male,SC,0,3,0,0
+Manipur,1,2009,Male,ST,2,90,3,0
+Manipur,1,2009,Male,OBC,28,218,124,0
+Manipur,1,2009,Male,Others,4,12,0,0
+Manipur,1,2010,Male,SC,0,4,1,0
+Manipur,1,2010,Male,ST,6,83,4,0
+Manipur,1,2010,Male,OBC,22,266,180,0
+Manipur,1,2010,Male,Others,3,10,0,0
+Manipur,1,2011,Male,SC,0,4,0,0
+Manipur,1,2011,Male,ST,7,90,9,0
+Manipur,1,2011,Male,OBC,23,326,140,0
+Manipur,1,2011,Male,Others,1,8,0,0
+Manipur,1,2012,Male,SC,0,3,0,0
+Manipur,1,2012,Male,ST,7,140,21,0
+Manipur,1,2012,Male,OBC,34,335,100,0
+Manipur,1,2012,Male,Others,22,28,0,0
+Meghalaya,1,2001,Male,SC,1,112,0,0
+Meghalaya,1,2001,Male,ST,7,272,7,0
+Meghalaya,1,2001,Male,OBC,0,16,0,0
+Meghalaya,1,2001,Male,Others,6,97,0,0
+Meghalaya,1,2002,Male,SC,11,176,0,0
+Meghalaya,1,2002,Male,ST,9,279,6,0
+Meghalaya,1,2002,Male,OBC,0,9,0,0
+Meghalaya,1,2002,Male,Others,0,31,0,0
+Meghalaya,1,2003,Male,SC,16,225,2,0
+Meghalaya,1,2003,Male,ST,16,200,6,0
+Meghalaya,1,2003,Male,OBC,0,15,0,0
+Meghalaya,1,2003,Male,Others,7,60,0,0
+Meghalaya,1,2004,Male,SC,13,169,2,0
+Meghalaya,1,2004,Male,ST,28,233,20,0
+Meghalaya,1,2004,Male,OBC,0,6,0,0
+Meghalaya,1,2004,Male,Others,0,12,0,0
+Meghalaya,1,2005,Male,SC,11,183,20,0
+Meghalaya,1,2005,Male,ST,20,153,2,0
+Meghalaya,1,2005,Male,OBC,6,116,0,0
+Meghalaya,1,2005,Male,Others,5,26,0,0
+Meghalaya,1,2006,Male,SC,18,104,1,0
+Meghalaya,1,2006,Male,ST,33,294,23,0
+Meghalaya,1,2006,Male,OBC,3,23,0,0
+Meghalaya,1,2006,Male,Others,2,111,0,0
+Meghalaya,1,2007,Male,SC,15,211,8,0
+Meghalaya,1,2007,Male,ST,46,294,28,0
+Meghalaya,1,2007,Male,OBC,3,34,0,0
+Meghalaya,1,2007,Male,Others,6,14,0,0
+Meghalaya,1,2008,Male,SC,32,165,4,0
+Meghalaya,1,2008,Male,ST,46,267,43,0
+Meghalaya,1,2008,Male,OBC,11,10,0,0
+Meghalaya,1,2008,Male,Others,1,34,0,0
+Meghalaya,1,2009,Male,SC,26,157,6,0
+Meghalaya,1,2009,Male,ST,61,325,31,0
+Meghalaya,1,2009,Male,OBC,2,7,1,0
+Meghalaya,1,2009,Male,Others,8,24,0,0
+Meghalaya,1,2010,Male,SC,21,180,0,0
+Meghalaya,1,2010,Male,ST,40,246,40,0
+Meghalaya,1,2010,Male,OBC,4,58,3,0
+Meghalaya,1,2010,Male,Others,5,23,0,0
+Meghalaya,1,2011,Male,SC,20,133,2,0
+Meghalaya,1,2011,Male,ST,43,294,25,0
+Meghalaya,1,2011,Male,OBC,2,21,0,0
+Meghalaya,1,2011,Male,Others,0,18,0,0
+Meghalaya,1,2012,Male,SC,15,129,7,0
+Meghalaya,1,2012,Male,ST,46,433,14,0
+Meghalaya,1,2012,Male,OBC,8,12,0,0
+Meghalaya,1,2012,Male,Others,1,19,0,0
+Mizoram,1,2001,Male,SC,7,51,0,0
+Mizoram,1,2001,Male,ST,131,581,0,0
+Mizoram,1,2001,Male,OBC,0,0,0,0
+Mizoram,1,2001,Male,Others,5,0,0,0
+Mizoram,1,2002,Male,SC,12,62,0,0
+Mizoram,1,2002,Male,ST,244,454,0,0
+Mizoram,1,2002,Male,OBC,0,0,0,0
+Mizoram,1,2002,Male,Others,0,0,0,0
+Mizoram,1,2003,Male,SC,17,39,0,0
+Mizoram,1,2003,Male,ST,175,523,0,0
+Mizoram,1,2003,Male,OBC,0,0,0,0
+Mizoram,1,2003,Male,Others,2,5,0,0
+Mizoram,1,2004,Male,SC,26,70,0,0
+Mizoram,1,2004,Male,ST,182,586,0,0
+Mizoram,1,2004,Male,OBC,0,0,0,0
+Mizoram,1,2004,Male,Others,0,0,0,0
+Mizoram,1,2005,Male,SC,13,37,0,0
+Mizoram,1,2005,Male,ST,136,443,0,0
+Mizoram,1,2005,Male,OBC,0,0,0,0
+Mizoram,1,2005,Male,Others,2,3,0,0
+Mizoram,1,2006,Male,SC,17,24,0,0
+Mizoram,1,2006,Male,ST,179,429,0,0
+Mizoram,1,2006,Male,OBC,0,0,0,0
+Mizoram,1,2006,Male,Others,0,0,0,0
+Mizoram,1,2007,Male,SC,3,18,0,0
+Mizoram,1,2007,Male,ST,281,544,0,0
+Mizoram,1,2007,Male,OBC,0,0,0,0
+Mizoram,1,2007,Male,Others,0,0,0,0
+Mizoram,1,2008,Male,SC,24,45,0,0
+Mizoram,1,2008,Male,ST,290,369,0,0
+Mizoram,1,2008,Male,OBC,0,0,0,0
+Mizoram,1,2008,Male,Others,0,0,0,0
+Mizoram,1,2009,Male,SC,15,13,0,0
+Mizoram,1,2009,Male,ST,320,342,0,0
+Mizoram,1,2009,Male,OBC,1,0,0,0
+Mizoram,1,2009,Male,Others,6,12,0,0
+Mizoram,1,2010,Male,SC,6,4,0,0
+Mizoram,1,2010,Male,ST,424,462,0,0
+Mizoram,1,2010,Male,OBC,0,0,0,0
+Mizoram,1,2010,Male,Others,0,15,0,0
+Mizoram,1,2011,Male,SC,1,7,0,0
+Mizoram,1,2011,Male,ST,361,433,0,0
+Mizoram,1,2011,Male,OBC,0,0,0,0
+Mizoram,1,2011,Male,Others,0,7,0,0
+Mizoram,1,2012,Male,SC,11,12,0,0
+Mizoram,1,2012,Male,ST,298,461,0,0
+Mizoram,1,2012,Male,OBC,0,2,0,0
+Mizoram,1,2012,Male,Others,1,0,0,0
+Nagaland,1,2001,Male,SC,14,60,0,0
+Nagaland,1,2001,Male,ST,50,400,48,0
+Nagaland,1,2001,Male,OBC,2,7,0,0
+Nagaland,1,2001,Male,Others,0,60,4,0
+Nagaland,1,2002,Male,SC,9,82,9,0
+Nagaland,1,2002,Male,ST,20,451,48,0
+Nagaland,1,2002,Male,OBC,0,0,0,0
+Nagaland,1,2002,Male,Others,0,0,0,0
+Nagaland,1,2003,Male,SC,17,51,8,0
+Nagaland,1,2003,Male,ST,67,341,64,0
+Nagaland,1,2003,Male,OBC,4,2,0,0
+Nagaland,1,2003,Male,Others,0,0,0,0
+Nagaland,1,2004,Male,SC,8,20,2,0
+Nagaland,1,2004,Male,ST,151,344,33,0
+Nagaland,1,2004,Male,OBC,0,0,0,0
+Nagaland,1,2004,Male,Others,1,10,3,0
+Nagaland,1,2005,Male,SC,0,0,0,0
+Nagaland,1,2005,Male,ST,84,400,21,0
+Nagaland,1,2005,Male,OBC,0,68,3,0
+Nagaland,1,2005,Male,Others,29,0,0,0
+Nagaland,1,2006,Male,SC,4,28,0,0
+Nagaland,1,2006,Male,ST,117,410,20,0
+Nagaland,1,2006,Male,OBC,6,60,1,0
+Nagaland,1,2006,Male,Others,0,0,0,0
+Nagaland,1,2007,Male,SC,16,56,0,0
+Nagaland,1,2007,Male,ST,72,316,6,0
+Nagaland,1,2007,Male,OBC,7,10,0,0
+Nagaland,1,2007,Male,Others,0,0,0,0
+Nagaland,1,2008,Male,SC,5,16,0,0
+Nagaland,1,2008,Male,ST,81,274,57,0
+Nagaland,1,2008,Male,OBC,62,94,6,0
+Nagaland,1,2008,Male,Others,6,2,0,0
+Nagaland,1,2009,Male,SC,37,55,0,0
+Nagaland,1,2009,Male,ST,91,345,42,0
+Nagaland,1,2009,Male,OBC,18,12,0,0
+Nagaland,1,2009,Male,Others,6,0,0,0
+Nagaland,1,2010,Male,SC,41,55,0,0
+Nagaland,1,2010,Male,ST,97,230,33,0
+Nagaland,1,2010,Male,OBC,16,19,0,0
+Nagaland,1,2010,Male,Others,5,7,0,0
+Nagaland,1,2011,Male,SC,7,27,0,0
+Nagaland,1,2011,Male,ST,98,232,66,0
+Nagaland,1,2011,Male,OBC,0,14,0,0
+Nagaland,1,2011,Male,Others,18,18,6,0
+Nagaland,1,2012,Male,SC,3,13,0,0
+Nagaland,1,2012,Male,ST,96,206,12,0
+Nagaland,1,2012,Male,OBC,10,4,0,0
+Nagaland,1,2012,Male,Others,11,20,6,1
+Orissa,1,2001,Male,SC,742,2835,6,2
+Orissa,1,2001,Male,ST,981,2645,1,31
+Orissa,1,2001,Male,OBC,392,2200,25,8
+Orissa,1,2001,Male,Others,649,839,13,5
+Orissa,1,2002,Male,SC,773,3168,0,17
+Orissa,1,2002,Male,ST,885,3051,0,21
+Orissa,1,2002,Male,OBC,498,1815,0,3
+Orissa,1,2002,Male,Others,770,1290,0,5
+Orissa,1,2003,Male,SC,815,3415,0,17
+Orissa,1,2003,Male,ST,820,3102,0,12
+Orissa,1,2003,Male,OBC,911,1635,0,6
+Orissa,1,2003,Male,Others,680,1198,0,0
+Orissa,1,2004,Male,SC,729,1884,1,2
+Orissa,1,2004,Male,ST,1041,1537,0,1
+Orissa,1,2004,Male,OBC,848,1993,5,9
+Orissa,1,2004,Male,Others,997,3735,3,12
+Orissa,1,2005,Male,SC,816,2315,2,2
+Orissa,1,2005,Male,ST,958,1806,3,0
+Orissa,1,2005,Male,OBC,945,2230,5,6
+Orissa,1,2005,Male,Others,1389,3027,5,19
+Orissa,1,2006,Male,SC,937,2463,0,3
+Orissa,1,2006,Male,ST,1113,1932,0,8
+Orissa,1,2006,Male,OBC,1241,2491,0,19
+Orissa,1,2006,Male,Others,983,2975,0,1
+Orissa,1,2007,Male,SC,935,2826,1,0
+Orissa,1,2007,Male,ST,1098,2055,1,0
+Orissa,1,2007,Male,OBC,1321,2568,0,0
+Orissa,1,2007,Male,Others,888,3054,1,0
+Orissa,1,2008,Male,SC,862,2112,0,0
+Orissa,1,2008,Male,ST,1059,1822,2,0
+Orissa,1,2008,Male,OBC,1643,4163,8,0
+Orissa,1,2008,Male,Others,614,1563,2,0
+Orissa,1,2009,Male,SC,823,2088,0,0
+Orissa,1,2009,Male,ST,1012,1735,0,0
+Orissa,1,2009,Male,OBC,1519,3773,0,0
+Orissa,1,2009,Male,Others,561,1524,0,0
+Orissa,1,2010,Male,SC,807,1796,0,0
+Orissa,1,2010,Male,ST,996,1537,0,0
+Orissa,1,2010,Male,OBC,1490,3552,0,0
+Orissa,1,2010,Male,Others,544,1217,0,0
+Orissa,1,2011,Male,SC,634,2118,0,0
+Orissa,1,2011,Male,ST,845,2125,0,0
+Orissa,1,2011,Male,OBC,1242,2430,0,0
+Orissa,1,2011,Male,Others,868,2048,0,0
+Orissa,1,2012,Male,SC,618,2084,0,0
+Orissa,1,2012,Male,ST,829,2161,0,0
+Orissa,1,2012,Male,OBC,1226,2154,0,0
+Orissa,1,2012,Male,Others,852,2467,0,0
+Punjab,1,2001,Male,SC,948,1680,4,45
+Punjab,1,2001,Male,ST,856,1802,2,22
+Punjab,1,2001,Male,OBC,695,1904,0,0
+Punjab,1,2001,Male,Others,1025,2369,6,68
+Punjab,1,2002,Male,SC,753,2766,0,0
+Punjab,1,2002,Male,ST,529,1333,0,0
+Punjab,1,2002,Male,OBC,995,1177,0,0
+Punjab,1,2002,Male,Others,1448,2366,12,0
+Punjab,1,2003,Male,SC,826,2750,2,31
+Punjab,1,2003,Male,ST,612,1411,0,0
+Punjab,1,2003,Male,OBC,863,1077,0,0
+Punjab,1,2003,Male,Others,1852,3006,0,0
+Punjab,1,2004,Male,SC,972,3330,23,15
+Punjab,1,2004,Male,ST,784,1521,0,0
+Punjab,1,2004,Male,OBC,945,1172,0,0
+Punjab,1,2004,Male,Others,2050,3477,0,0
+Punjab,1,2005,Male,SC,1025,3048,23,11
+Punjab,1,2005,Male,ST,826,1456,0,0
+Punjab,1,2005,Male,OBC,609,967,0,0
+Punjab,1,2005,Male,Others,2375,3558,0,0
+Punjab,1,2006,Male,SC,1078,3151,20,4
+Punjab,1,2006,Male,ST,873,1489,0,0
+Punjab,1,2006,Male,OBC,659,1010,0,0
+Punjab,1,2006,Male,Others,2473,3582,0,0
+Punjab,1,2007,Male,SC,993,3432,0,0
+Punjab,1,2007,Male,ST,789,1776,16,0
+Punjab,1,2007,Male,OBC,574,1291,0,0
+Punjab,1,2007,Male,Others,2389,3861,0,16
+Punjab,1,2008,Male,SC,1108,3359,0,0
+Punjab,1,2008,Male,ST,956,1704,13,0
+Punjab,1,2008,Male,OBC,639,1219,0,0
+Punjab,1,2008,Male,Others,2504,3789,0,2
+Punjab,1,2009,Male,SC,1427,3581,2,0
+Punjab,1,2009,Male,ST,1265,1835,11,0
+Punjab,1,2009,Male,OBC,839,1398,0,0
+Punjab,1,2009,Male,Others,2555,3948,0,12
+Punjab,1,2010,Male,SC,1452,3112,0,0
+Punjab,1,2010,Male,ST,1345,1825,0,0
+Punjab,1,2010,Male,OBC,864,1373,0,0
+Punjab,1,2010,Male,Others,2632,4023,0,0
+Punjab,1,2011,Male,SC,1991,3016,0,0
+Punjab,1,2011,Male,ST,1657,1797,0,0
+Punjab,1,2011,Male,OBC,956,1239,0,0
+Punjab,1,2011,Male,Others,2468,3660,0,0
+Punjab,1,2012,Male,SC,1926,4036,0,0
+Punjab,1,2012,Male,ST,1245,2154,0,0
+Punjab,1,2012,Male,OBC,1673,3173,7,5
+Punjab,1,2012,Male,Others,2580,5145,0,0
+Rajasthan,1,2001,Male,SC,832,1950,0,6
+Rajasthan,1,2001,Male,ST,677,1357,1,1
+Rajasthan,1,2001,Male,OBC,1241,2809,4,10
+Rajasthan,1,2001,Male,Others,1330,2353,42,11
+Rajasthan,1,2002,Male,SC,956,1471,0,11
+Rajasthan,1,2002,Male,ST,724,1494,1,2
+Rajasthan,1,2002,Male,OBC,1208,1721,0,16
+Rajasthan,1,2002,Male,Others,1902,2429,37,21
+Rajasthan,1,2003,Male,SC,1231,1321,0,6
+Rajasthan,1,2003,Male,ST,1043,1250,0,7
+Rajasthan,1,2003,Male,OBC,1674,1533,1,2
+Rajasthan,1,2003,Male,Others,1913,2262,31,11
+Rajasthan,1,2004,Male,SC,1225,1489,0,6
+Rajasthan,1,2004,Male,ST,882,1309,0,1
+Rajasthan,1,2004,Male,OBC,1738,2048,2,6
+Rajasthan,1,2004,Male,Others,1814,2182,27,8
+Rajasthan,1,2005,Male,SC,930,1434,0,6
+Rajasthan,1,2005,Male,ST,1112,1403,0,7
+Rajasthan,1,2005,Male,OBC,1350,1880,0,7
+Rajasthan,1,2005,Male,Others,1999,2399,32,6
+Rajasthan,1,2006,Male,SC,1143,1792,1,19
+Rajasthan,1,2006,Male,ST,999,1474,0,9
+Rajasthan,1,2006,Male,OBC,1380,2430,0,20
+Rajasthan,1,2006,Male,Others,1884,2308,34,19
+Rajasthan,1,2007,Male,SC,1316,1903,1,4
+Rajasthan,1,2007,Male,ST,1120,1896,1,6
+Rajasthan,1,2007,Male,OBC,1906,2619,0,16
+Rajasthan,1,2007,Male,Others,1336,2005,24,0
+Rajasthan,1,2008,Male,SC,1280,1924,1,7
+Rajasthan,1,2008,Male,ST,1139,1668,2,5
+Rajasthan,1,2008,Male,OBC,2195,2827,18,18
+Rajasthan,1,2008,Male,Others,1449,2371,34,35
+Rajasthan,1,2009,Male,SC,1060,2256,6,13
+Rajasthan,1,2009,Male,ST,820,2276,5,9
+Rajasthan,1,2009,Male,OBC,2520,3574,15,14
+Rajasthan,1,2009,Male,Others,1907,2796,1,4
+Rajasthan,1,2010,Male,SC,1164,2267,5,0
+Rajasthan,1,2010,Male,ST,1043,2293,2,0
+Rajasthan,1,2010,Male,OBC,1978,3251,4,2
+Rajasthan,1,2010,Male,Others,1825,2732,19,2
+Rajasthan,1,2011,Male,SC,996,2628,2,6
+Rajasthan,1,2011,Male,ST,1350,2677,1,0
+Rajasthan,1,2011,Male,OBC,1688,3317,5,0
+Rajasthan,1,2011,Male,Others,1894,2858,32,0
+Rajasthan,1,2012,Male,SC,1283,2974,1,19
+Rajasthan,1,2012,Male,ST,981,2493,0,8
+Rajasthan,1,2012,Male,OBC,2184,4563,0,7
+Rajasthan,1,2012,Male,Others,1395,2685,0,63
+Sikkim,1,2001,Male,SC,8,10,0,0
+Sikkim,1,2001,Male,ST,6,14,0,0
+Sikkim,1,2001,Male,OBC,50,81,0,0
+Sikkim,1,2001,Male,Others,13,4,0,0
+Sikkim,1,2002,Male,SC,17,8,0,0
+Sikkim,1,2002,Male,ST,28,25,0,0
+Sikkim,1,2002,Male,OBC,25,32,0,0
+Sikkim,1,2002,Male,Others,11,24,0,0
+Sikkim,1,2003,Male,SC,6,6,0,0
+Sikkim,1,2003,Male,ST,10,10,0,0
+Sikkim,1,2003,Male,OBC,36,54,0,0
+Sikkim,1,2003,Male,Others,28,17,0,0
+Sikkim,1,2004,Male,SC,2,7,0,0
+Sikkim,1,2004,Male,ST,8,14,0,0
+Sikkim,1,2004,Male,OBC,50,69,0,0
+Sikkim,1,2004,Male,Others,1,9,0,0
+Sikkim,1,2005,Male,SC,2,7,0,0
+Sikkim,1,2005,Male,ST,11,16,0,0
+Sikkim,1,2005,Male,OBC,50,69,0,0
+Sikkim,1,2005,Male,Others,8,25,0,0
+Sikkim,1,2006,Male,SC,4,21,0,0
+Sikkim,1,2006,Male,ST,29,40,0,0
+Sikkim,1,2006,Male,OBC,36,53,0,0
+Sikkim,1,2006,Male,Others,21,18,0,0
+Sikkim,1,2007,Male,SC,5,15,0,0
+Sikkim,1,2007,Male,ST,10,22,0,0
+Sikkim,1,2007,Male,OBC,42,53,0,0
+Sikkim,1,2007,Male,Others,24,51,0,0
+Sikkim,1,2008,Male,SC,4,16,0,0
+Sikkim,1,2008,Male,ST,19,70,0,0
+Sikkim,1,2008,Male,OBC,33,69,0,0
+Sikkim,1,2008,Male,Others,11,29,0,0
+Sikkim,1,2009,Male,SC,1,11,0,0
+Sikkim,1,2009,Male,ST,23,49,0,0
+Sikkim,1,2009,Male,OBC,37,34,0,0
+Sikkim,1,2009,Male,Others,7,24,0,0
+Sikkim,1,2010,Male,SC,3,11,0,0
+Sikkim,1,2010,Male,ST,28,32,0,0
+Sikkim,1,2010,Male,OBC,31,53,0,0
+Sikkim,1,2010,Male,Others,12,30,0,0
+Sikkim,1,2011,Male,SC,0,17,0,0
+Sikkim,1,2011,Male,ST,28,41,0,0
+Sikkim,1,2011,Male,OBC,40,43,0,0
+Sikkim,1,2011,Male,Others,1,18,0,0
+Sikkim,1,2012,Male,SC,5,24,0,0
+Sikkim,1,2012,Male,ST,27,41,0,0
+Sikkim,1,2012,Male,OBC,41,52,0,0
+Sikkim,1,2012,Male,Others,14,26,0,0
+Tamil Nadu,1,2001,Male,SC,1801,1023,480,3672
+Tamil Nadu,1,2001,Male,ST,272,116,76,556
+Tamil Nadu,1,2001,Male,OBC,1715,568,286,6039
+Tamil Nadu,1,2001,Male,Others,910,517,172,1097
+Tamil Nadu,1,2002,Male,SC,1940,1041,848,4279
+Tamil Nadu,1,2002,Male,ST,537,180,258,951
+Tamil Nadu,1,2002,Male,OBC,2069,891,502,4276
+Tamil Nadu,1,2002,Male,Others,856,396,108,974
+Tamil Nadu,1,2003,Male,SC,1894,1617,680,4220
+Tamil Nadu,1,2003,Male,ST,647,379,119,1234
+Tamil Nadu,1,2003,Male,OBC,2116,217,102,3728
+Tamil Nadu,1,2003,Male,Others,1312,802,102,1628
+Tamil Nadu,1,2004,Male,SC,1914,1817,317,3318
+Tamil Nadu,1,2004,Male,ST,667,471,147,1171
+Tamil Nadu,1,2004,Male,OBC,2172,228,87,2718
+Tamil Nadu,1,2004,Male,Others,1849,343,42,2011
+Tamil Nadu,1,2005,Male,SC,2780,1451,422,4638
+Tamil Nadu,1,2005,Male,ST,602,280,98,551
+Tamil Nadu,1,2005,Male,OBC,3623,1152,236,2843
+Tamil Nadu,1,2005,Male,Others,212,65,31,88
+Tamil Nadu,1,2006,Male,SC,2616,1582,316,3868
+Tamil Nadu,1,2006,Male,ST,477,197,96,565
+Tamil Nadu,1,2006,Male,OBC,3214,995,183,2716
+Tamil Nadu,1,2006,Male,Others,202,61,27,87
+Tamil Nadu,1,2007,Male,SC,2402,3486,288,0
+Tamil Nadu,1,2007,Male,ST,1011,1131,71,1
+Tamil Nadu,1,2007,Male,OBC,2087,3218,247,7
+Tamil Nadu,1,2007,Male,Others,690,713,32,0
+Tamil Nadu,1,2008,Male,SC,2113,2285,329,0
+Tamil Nadu,1,2008,Male,ST,297,773,149,0
+Tamil Nadu,1,2008,Male,OBC,2476,5576,471,4
+Tamil Nadu,1,2008,Male,Others,359,247,54,0
+Tamil Nadu,1,2009,Male,SC,2066,2773,234,0
+Tamil Nadu,1,2009,Male,ST,294,789,78,0
+Tamil Nadu,1,2009,Male,OBC,2477,3672,445,4
+Tamil Nadu,1,2009,Male,Others,346,350,62,0
+Tamil Nadu,1,2010,Male,SC,1514,2661,253,3
+Tamil Nadu,1,2010,Male,ST,177,336,78,0
+Tamil Nadu,1,2010,Male,OBC,3034,3271,431,0
+Tamil Nadu,1,2010,Male,Others,440,886,48,0
+Tamil Nadu,1,2011,Male,SC,1539,2529,362,0
+Tamil Nadu,1,2011,Male,ST,176,732,32,0
+Tamil Nadu,1,2011,Male,OBC,2755,3140,551,4
+Tamil Nadu,1,2011,Male,Others,555,707,17,0
+Tamil Nadu,1,2012,Male,SC,1662,3192,195,0
+Tamil Nadu,1,2012,Male,ST,314,859,36,0
+Tamil Nadu,1,2012,Male,OBC,1877,2722,204,0
+Tamil Nadu,1,2012,Male,Others,657,663,67,0
+Tripura,1,2001,Male,SC,102,106,1,0
+Tripura,1,2001,Male,ST,118,210,0,0
+Tripura,1,2001,Male,OBC,61,215,1,0
+Tripura,1,2001,Male,Others,77,133,0,0
+Tripura,1,2002,Male,SC,162,96,1,0
+Tripura,1,2002,Male,ST,158,170,1,0
+Tripura,1,2002,Male,OBC,74,160,0,0
+Tripura,1,2002,Male,Others,88,117,0,0
+Tripura,1,2003,Male,SC,91,131,0,0
+Tripura,1,2003,Male,ST,112,478,2,1
+Tripura,1,2003,Male,OBC,49,120,0,0
+Tripura,1,2003,Male,Others,241,158,0,0
+Tripura,1,2004,Male,SC,103,130,0,2
+Tripura,1,2004,Male,ST,157,335,0,1
+Tripura,1,2004,Male,OBC,108,58,0,0
+Tripura,1,2004,Male,Others,172,175,0,0
+Tripura,1,2005,Male,SC,168,168,0,0
+Tripura,1,2005,Male,ST,192,197,0,1
+Tripura,1,2005,Male,OBC,124,98,0,0
+Tripura,1,2005,Male,Others,253,172,1,0
+Tripura,1,2006,Male,SC,128,105,0,0
+Tripura,1,2006,Male,ST,214,195,0,0
+Tripura,1,2006,Male,OBC,99,74,0,0
+Tripura,1,2006,Male,Others,330,192,0,0
+Tripura,1,2007,Male,SC,180,82,0,0
+Tripura,1,2007,Male,ST,239,184,0,0
+Tripura,1,2007,Male,OBC,118,54,1,0
+Tripura,1,2007,Male,Others,253,169,0,0
+Tripura,1,2008,Male,SC,154,98,0,0
+Tripura,1,2008,Male,ST,303,164,0,0
+Tripura,1,2008,Male,OBC,123,45,0,0
+Tripura,1,2008,Male,Others,228,136,0,0
+Tripura,1,2009,Male,SC,186,112,0,0
+Tripura,1,2009,Male,ST,183,65,0,0
+Tripura,1,2009,Male,OBC,80,20,0,0
+Tripura,1,2009,Male,Others,190,122,0,0
+Tripura,1,2010,Male,SC,122,46,0,0
+Tripura,1,2010,Male,ST,168,86,0,0
+Tripura,1,2010,Male,OBC,83,40,0,0
+Tripura,1,2010,Male,Others,218,166,0,0
+Tripura,1,2011,Male,SC,116,47,0,0
+Tripura,1,2011,Male,ST,147,75,0,0
+Tripura,1,2011,Male,OBC,98,30,0,0
+Tripura,1,2011,Male,Others,193,158,0,0
+Tripura,1,2012,Male,SC,114,59,0,0
+Tripura,1,2012,Male,ST,153,91,0,0
+Tripura,1,2012,Male,OBC,102,54,0,0
+Tripura,1,2012,Male,Others,166,134,0,0
+Uttar Pradesh,1,2001,Male,SC,1391,13233,54,116
+Uttar Pradesh,1,2001,Male,ST,183,2178,24,11
+Uttar Pradesh,1,2001,Male,OBC,2122,16625,100,148
+Uttar Pradesh,1,2001,Male,Others,1729,13662,326,64
+Uttar Pradesh,1,2002,Male,SC,1486,10984,188,11
+Uttar Pradesh,1,2002,Male,ST,251,2881,62,4
+Uttar Pradesh,1,2002,Male,OBC,2387,12650,315,24
+Uttar Pradesh,1,2002,Male,Others,1792,17336,506,84
+Uttar Pradesh,1,2003,Male,SC,1681,9103,153,60
+Uttar Pradesh,1,2003,Male,ST,642,2530,43,4
+Uttar Pradesh,1,2003,Male,OBC,2576,10338,331,55
+Uttar Pradesh,1,2003,Male,Others,2114,18813,871,96
+Uttar Pradesh,1,2004,Male,SC,1814,10904,398,4
+Uttar Pradesh,1,2004,Male,ST,719,1555,109,0
+Uttar Pradesh,1,2004,Male,OBC,2725,9356,693,12
+Uttar Pradesh,1,2004,Male,Others,2856,18528,780,101
+Uttar Pradesh,1,2005,Male,SC,3037,9611,110,32
+Uttar Pradesh,1,2005,Male,ST,446,2393,36,3
+Uttar Pradesh,1,2005,Male,OBC,4116,12693,102,45
+Uttar Pradesh,1,2005,Male,Others,5392,17332,0,27
+Uttar Pradesh,1,2006,Male,SC,3489,13969,82,14
+Uttar Pradesh,1,2006,Male,ST,485,2024,24,4
+Uttar Pradesh,1,2006,Male,OBC,5528,16867,86,6
+Uttar Pradesh,1,2006,Male,Others,6310,15834,0,0
+Uttar Pradesh,1,2007,Male,SC,4158,14278,488,98
+Uttar Pradesh,1,2007,Male,ST,694,2796,99,51
+Uttar Pradesh,1,2007,Male,OBC,8121,17020,732,48
+Uttar Pradesh,1,2007,Male,Others,6141,18202,925,0
+Uttar Pradesh,1,2008,Male,SC,4720,15196,126,2
+Uttar Pradesh,1,2008,Male,ST,954,2712,21,0
+Uttar Pradesh,1,2008,Male,OBC,7633,20113,275,9
+Uttar Pradesh,1,2008,Male,Others,7695,18457,186,16
+Uttar Pradesh,1,2009,Male,SC,5857,16347,54,4
+Uttar Pradesh,1,2009,Male,ST,781,2346,11,0
+Uttar Pradesh,1,2009,Male,OBC,8982,21341,115,2
+Uttar Pradesh,1,2009,Male,Others,8094,16983,112,17
+Uttar Pradesh,1,2010,Male,SC,6857,14340,31,8
+Uttar Pradesh,1,2010,Male,ST,1781,3346,7,0
+Uttar Pradesh,1,2010,Male,OBC,8902,19371,98,5
+Uttar Pradesh,1,2010,Male,Others,8194,16983,102,17
+Uttar Pradesh,1,2011,Male,SC,7245,13880,28,11
+Uttar Pradesh,1,2011,Male,ST,1849,3248,5,2
+Uttar Pradesh,1,2011,Male,OBC,9836,18746,84,11
+Uttar Pradesh,1,2011,Male,Others,8216,15954,96,33
+Uttar Pradesh,1,2012,Male,SC,6675,13802,21,9
+Uttar Pradesh,1,2012,Male,ST,1542,3201,4,2
+Uttar Pradesh,1,2012,Male,OBC,9402,18635,78,7
+Uttar Pradesh,1,2012,Male,Others,7787,15864,94,25
+Uttaranchal,1,2001,Male,SC,154,473,0,0
+Uttaranchal,1,2001,Male,ST,32,141,0,0
+Uttaranchal,1,2001,Male,OBC,77,538,0,0
+Uttaranchal,1,2001,Male,Others,243,566,0,0
+Uttaranchal,1,2002,Male,SC,184,701,0,0
+Uttaranchal,1,2002,Male,ST,36,630,0,0
+Uttaranchal,1,2002,Male,OBC,113,280,0,0
+Uttaranchal,1,2002,Male,Others,312,41,0,0
+Uttaranchal,1,2003,Male,SC,178,396,0,1
+Uttaranchal,1,2003,Male,ST,22,167,0,0
+Uttaranchal,1,2003,Male,OBC,103,383,0,1
+Uttaranchal,1,2003,Male,Others,390,726,5,0
+Uttaranchal,1,2004,Male,SC,56,212,1,0
+Uttaranchal,1,2004,Male,ST,113,214,1,0
+Uttaranchal,1,2004,Male,OBC,147,475,0,0
+Uttaranchal,1,2004,Male,Others,413,626,3,0
+Uttaranchal,1,2005,Male,SC,174,390,0,4
+Uttaranchal,1,2005,Male,ST,36,55,0,0
+Uttaranchal,1,2005,Male,OBC,222,261,0,0
+Uttaranchal,1,2005,Male,Others,319,838,2,1
+Uttaranchal,1,2006,Male,SC,178,336,0,0
+Uttaranchal,1,2006,Male,ST,58,279,0,0
+Uttaranchal,1,2006,Male,OBC,140,293,0,0
+Uttaranchal,1,2006,Male,Others,514,777,0,0
+Uttaranchal,1,2007,Male,SC,139,359,0,0
+Uttaranchal,1,2007,Male,ST,54,158,0,0
+Uttaranchal,1,2007,Male,OBC,81,374,0,0
+Uttaranchal,1,2007,Male,Others,746,716,0,0
+Uttaranchal,1,2008,Male,SC,105,447,0,0
+Uttaranchal,1,2008,Male,ST,158,218,0,0
+Uttaranchal,1,2008,Male,OBC,150,458,0,0
+Uttaranchal,1,2008,Male,Others,774,804,0,0
+Uttaranchal,1,2009,Male,SC,316,568,0,0
+Uttaranchal,1,2009,Male,ST,123,279,0,0
+Uttaranchal,1,2009,Male,OBC,221,477,0,0
+Uttaranchal,1,2009,Male,Others,579,824,0,0
+Uttaranchal,1,2010,Male,SC,354,531,0,0
+Uttaranchal,1,2010,Male,ST,185,256,0,0
+Uttaranchal,1,2010,Male,OBC,285,477,0,0
+Uttaranchal,1,2010,Male,Others,576,765,0,0
+Uttaranchal,1,2011,Male,SC,361,123,0,0
+Uttaranchal,1,2011,Male,ST,217,307,0,0
+Uttaranchal,1,2011,Male,OBC,396,325,0,0
+Uttaranchal,1,2011,Male,Others,512,885,0,0
+Uttaranchal,1,2012,Male,SC,382,219,0,0
+Uttaranchal,1,2012,Male,ST,323,137,0,0
+Uttaranchal,1,2012,Male,OBC,440,345,0,0
+Uttaranchal,1,2012,Male,Others,460,1080,0,0
+West Bengal,1,2001,Male,SC,593,2592,6,7
+West Bengal,1,2001,Male,ST,380,1219,15,3
+West Bengal,1,2001,Male,OBC,583,1089,0,19
+West Bengal,1,2001,Male,Others,845,4393,0,67
+West Bengal,1,2002,Male,SC,600,4088,0,7
+West Bengal,1,2002,Male,ST,358,2059,0,3
+West Bengal,1,2002,Male,OBC,421,2227,0,20
+West Bengal,1,2002,Male,Others,1093,6940,1,64
+West Bengal,1,2003,Male,SC,721,2207,2,15
+West Bengal,1,2003,Male,ST,472,1296,1,1
+West Bengal,1,2003,Male,OBC,453,1426,0,10
+West Bengal,1,2003,Male,Others,1536,7205,0,53
+West Bengal,1,2004,Male,SC,380,1248,0,0
+West Bengal,1,2004,Male,ST,237,647,0,0
+West Bengal,1,2004,Male,OBC,580,1682,0,0
+West Bengal,1,2004,Male,Others,2137,8525,0,6
+West Bengal,1,2005,Male,SC,806,1359,0,5
+West Bengal,1,2005,Male,ST,409,610,0,0
+West Bengal,1,2005,Male,OBC,357,626,0,0
+West Bengal,1,2005,Male,Others,2056,10410,56,204
+West Bengal,1,2006,Male,SC,764,2288,0,3
+West Bengal,1,2006,Male,ST,413,1025,0,0
+West Bengal,1,2006,Male,OBC,221,1263,0,0
+West Bengal,1,2006,Male,Others,2249,8713,0,202
+West Bengal,1,2007,Male,SC,683,1995,0,4
+West Bengal,1,2007,Male,ST,371,938,0,2
+West Bengal,1,2007,Male,OBC,396,1114,0,6
+West Bengal,1,2007,Male,Others,2684,8912,0,227
+West Bengal,1,2008,Male,SC,745,1905,0,6
+West Bengal,1,2008,Male,ST,359,799,0,1
+West Bengal,1,2008,Male,OBC,745,1283,0,0
+West Bengal,1,2008,Male,Others,3788,9072,0,104
+West Bengal,1,2009,Male,SC,838,1708,0,12
+West Bengal,1,2009,Male,ST,489,1017,0,2
+West Bengal,1,2009,Male,OBC,401,802,0,8
+West Bengal,1,2009,Male,Others,3786,7247,1,160
+West Bengal,1,2010,Male,SC,818,1944,0,0
+West Bengal,1,2010,Male,ST,550,1101,0,0
+West Bengal,1,2010,Male,OBC,607,1196,0,0
+West Bengal,1,2010,Male,Others,3422,7384,1,343
+West Bengal,1,2011,Male,SC,751,2095,0,1
+West Bengal,1,2011,Male,ST,821,1069,0,0
+West Bengal,1,2011,Male,OBC,319,1118,0,0
+West Bengal,1,2011,Male,Others,3407,8522,5,243
+West Bengal,1,2012,Male,SC,982,2372,0,53
+West Bengal,1,2012,Male,ST,594,1249,0,9
+West Bengal,1,2012,Male,OBC,459,2070,1,5
+West Bengal,1,2012,Male,Others,3732,7415,2,173
+A & N Islands,0,2001,Male,SC,0,0,0,0
+A & N Islands,0,2001,Male,ST,0,0,0,0
+A & N Islands,0,2001,Male,OBC,0,0,0,0
+A & N Islands,0,2001,Male,Others,0,0,0,0
+A & N Islands,0,2002,Male,SC,0,0,0,0
+A & N Islands,0,2002,Male,ST,0,0,0,0
+A & N Islands,0,2002,Male,OBC,0,0,0,0
+A & N Islands,0,2002,Male,Others,0,0,0,0
+A & N Islands,0,2003,Male,SC,0,0,0,0
+A & N Islands,0,2003,Male,ST,0,0,0,0
+A & N Islands,0,2003,Male,OBC,0,0,0,0
+A & N Islands,0,2003,Male,Others,90,203,0,0
+A & N Islands,0,2004,Male,SC,0,0,0,0
+A & N Islands,0,2004,Male,ST,0,0,0,0
+A & N Islands,0,2004,Male,OBC,0,0,0,0
+A & N Islands,0,2004,Male,Others,54,164,0,0
+A & N Islands,0,2005,Male,SC,0,0,0,0
+A & N Islands,0,2005,Male,ST,0,0,0,0
+A & N Islands,0,2005,Male,OBC,0,0,0,0
+A & N Islands,0,2005,Male,Others,65,155,0,0
+A & N Islands,0,2006,Male,SC,0,0,0,0
+A & N Islands,0,2006,Male,ST,0,0,0,0
+A & N Islands,0,2006,Male,OBC,0,0,0,0
+A & N Islands,0,2006,Male,Others,80,264,0,0
+A & N Islands,0,2007,Male,SC,0,0,0,0
+A & N Islands,0,2007,Male,ST,0,0,0,0
+A & N Islands,0,2007,Male,OBC,0,0,0,0
+A & N Islands,0,2007,Male,Others,87,324,0,0
+A & N Islands,0,2008,Male,SC,0,0,0,0
+A & N Islands,0,2008,Male,ST,0,0,0,0
+A & N Islands,0,2008,Male,OBC,0,0,0,0
+A & N Islands,0,2008,Male,Others,68,153,0,0
+A & N Islands,0,2009,Male,SC,0,0,0,0
+A & N Islands,0,2009,Male,ST,0,0,0,0
+A & N Islands,0,2009,Male,OBC,0,0,0,0
+A & N Islands,0,2009,Male,Others,48,180,0,0
+A & N Islands,0,2010,Male,SC,0,0,0,0
+A & N Islands,0,2010,Male,ST,0,0,0,0
+A & N Islands,0,2010,Male,OBC,0,0,0,0
+A & N Islands,0,2010,Male,Others,129,557,0,0
+A & N Islands,0,2011,Male,SC,0,0,0,0
+A & N Islands,0,2011,Male,ST,0,0,0,0
+A & N Islands,0,2011,Male,OBC,0,0,0,0
+A & N Islands,0,2011,Male,Others,415,697,0,0
+A & N Islands,0,2012,Male,SC,0,0,0,0
+A & N Islands,0,2012,Male,ST,0,0,0,0
+A & N Islands,0,2012,Male,OBC,0,0,0,0
+A & N Islands,0,2012,Male,Others,760,357,0,0
+Chandigarh,0,2001,Male,SC,32,99,0,0
+Chandigarh,0,2001,Male,ST,12,22,0,0
+Chandigarh,0,2001,Male,OBC,4,16,0,0
+Chandigarh,0,2001,Male,Others,48,169,0,0
+Chandigarh,0,2002,Male,SC,40,95,0,0
+Chandigarh,0,2002,Male,ST,6,12,0,0
+Chandigarh,0,2002,Male,OBC,8,35,0,0
+Chandigarh,0,2002,Male,Others,50,187,0,0
+Chandigarh,0,2003,Male,SC,26,85,0,0
+Chandigarh,0,2003,Male,ST,34,40,0,0
+Chandigarh,0,2003,Male,OBC,16,15,0,0
+Chandigarh,0,2003,Male,Others,59,223,0,0
+Chandigarh,0,2004,Male,SC,24,80,0,0
+Chandigarh,0,2004,Male,ST,16,24,0,0
+Chandigarh,0,2004,Male,OBC,16,65,0,0
+Chandigarh,0,2004,Male,Others,57,236,0,0
+Chandigarh,0,2005,Male,SC,22,96,0,0
+Chandigarh,0,2005,Male,ST,6,15,0,0
+Chandigarh,0,2005,Male,OBC,10,30,0,0
+Chandigarh,0,2005,Male,Others,40,210,0,0
+Chandigarh,0,2006,Male,SC,22,104,0,0
+Chandigarh,0,2006,Male,ST,3,8,0,0
+Chandigarh,0,2006,Male,OBC,15,46,0,0
+Chandigarh,0,2006,Male,Others,60,154,0,0
+Chandigarh,0,2007,Male,SC,34,112,0,0
+Chandigarh,0,2007,Male,ST,6,4,0,0
+Chandigarh,0,2007,Male,OBC,26,46,0,0
+Chandigarh,0,2007,Male,Others,75,180,0,0
+Chandigarh,0,2008,Male,SC,42,72,0,0
+Chandigarh,0,2008,Male,ST,2,6,0,0
+Chandigarh,0,2008,Male,OBC,26,46,0,0
+Chandigarh,0,2008,Male,Others,113,202,0,0
+Chandigarh,0,2009,Male,SC,54,112,0,0
+Chandigarh,0,2009,Male,ST,4,12,0,0
+Chandigarh,0,2009,Male,OBC,48,85,0,0
+Chandigarh,0,2009,Male,Others,129,170,0,0
+Chandigarh,0,2010,Male,SC,45,122,0,0
+Chandigarh,0,2010,Male,ST,3,11,0,0
+Chandigarh,0,2010,Male,OBC,52,91,0,0
+Chandigarh,0,2010,Male,Others,111,176,0,0
+Chandigarh,0,2011,Male,SC,54,118,0,0
+Chandigarh,0,2011,Male,ST,2,4,0,0
+Chandigarh,0,2011,Male,OBC,65,88,0,0
+Chandigarh,0,2011,Male,Others,115,158,0,0
+Chandigarh,0,2012,Male,SC,66,106,0,0
+Chandigarh,0,2012,Male,ST,0,0,0,0
+Chandigarh,0,2012,Male,OBC,45,95,0,0
+Chandigarh,0,2012,Male,Others,135,246,0,0
+D & N Haveli,0,2001,Male,SC,2,5,0,0
+D & N Haveli,0,2001,Male,ST,6,148,0,0
+D & N Haveli,0,2001,Male,OBC,0,0,0,0
+D & N Haveli,0,2001,Male,Others,0,0,0,0
+D & N Haveli,0,2002,Male,SC,2,4,0,0
+D & N Haveli,0,2002,Male,ST,2,150,0,0
+D & N Haveli,0,2002,Male,OBC,0,0,0,0
+D & N Haveli,0,2002,Male,Others,0,0,0,0
+D & N Haveli,0,2003,Male,SC,0,0,0,0
+D & N Haveli,0,2003,Male,ST,0,75,0,0
+D & N Haveli,0,2003,Male,OBC,0,17,0,0
+D & N Haveli,0,2003,Male,Others,0,80,0,0
+D & N Haveli,0,2004,Male,SC,0,1,0,0
+D & N Haveli,0,2004,Male,ST,0,14,0,0
+D & N Haveli,0,2004,Male,OBC,0,3,0,0
+D & N Haveli,0,2004,Male,Others,0,15,0,0
+D & N Haveli,0,2005,Male,SC,0,1,0,0
+D & N Haveli,0,2005,Male,ST,0,20,0,0
+D & N Haveli,0,2005,Male,OBC,0,0,0,0
+D & N Haveli,0,2005,Male,Others,0,8,0,0
+D & N Haveli,0,2006,Male,SC,0,3,0,0
+D & N Haveli,0,2006,Male,ST,0,22,0,0
+D & N Haveli,0,2006,Male,OBC,0,0,0,0
+D & N Haveli,0,2006,Male,Others,0,8,0,0
+D & N Haveli,0,2007,Male,SC,0,2,0,0
+D & N Haveli,0,2007,Male,ST,0,14,0,0
+D & N Haveli,0,2007,Male,OBC,0,0,0,0
+D & N Haveli,0,2007,Male,Others,0,12,0,0
+D & N Haveli,0,2008,Male,SC,0,0,0,0
+D & N Haveli,0,2008,Male,ST,6,18,0,0
+D & N Haveli,0,2008,Male,OBC,2,12,0,0
+D & N Haveli,0,2008,Male,Others,3,2,0,0
+D & N Haveli,0,2009,Male,SC,0,0,0,0
+D & N Haveli,0,2009,Male,ST,1,27,0,0
+D & N Haveli,0,2009,Male,OBC,0,1,0,0
+D & N Haveli,0,2009,Male,Others,1,24,0,0
+D & N Haveli,0,2010,Male,SC,0,3,0,0
+D & N Haveli,0,2010,Male,ST,0,17,0,0
+D & N Haveli,0,2010,Male,OBC,0,11,0,0
+D & N Haveli,0,2010,Male,Others,0,11,0,0
+D & N Haveli,0,2011,Male,SC,0,3,0,0
+D & N Haveli,0,2011,Male,ST,0,10,0,0
+D & N Haveli,0,2011,Male,OBC,0,4,0,0
+D & N Haveli,0,2011,Male,Others,0,6,0,0
+D & N Haveli,0,2012,Male,SC,0,4,0,0
+D & N Haveli,0,2012,Male,ST,0,12,0,0
+D & N Haveli,0,2012,Male,OBC,0,9,0,0
+D & N Haveli,0,2012,Male,Others,0,10,0,0
+Daman & Diu,0,2001,Male,SC,2,1,0,0
+Daman & Diu,0,2001,Male,ST,2,2,0,0
+Daman & Diu,0,2001,Male,OBC,1,1,0,0
+Daman & Diu,0,2001,Male,Others,18,13,0,0
+Daman & Diu,0,2002,Male,SC,0,1,0,0
+Daman & Diu,0,2002,Male,ST,4,2,0,0
+Daman & Diu,0,2002,Male,OBC,4,4,0,0
+Daman & Diu,0,2002,Male,Others,5,13,0,0
+Daman & Diu,0,2003,Male,SC,2,1,0,0
+Daman & Diu,0,2003,Male,ST,3,1,0,0
+Daman & Diu,0,2003,Male,OBC,0,0,0,0
+Daman & Diu,0,2003,Male,Others,8,18,0,0
+Daman & Diu,0,2004,Male,SC,0,0,0,0
+Daman & Diu,0,2004,Male,ST,1,1,0,0
+Daman & Diu,0,2004,Male,OBC,1,0,0,0
+Daman & Diu,0,2004,Male,Others,6,17,0,0
+Daman & Diu,0,2005,Male,SC,0,3,0,0
+Daman & Diu,0,2005,Male,ST,1,0,0,0
+Daman & Diu,0,2005,Male,OBC,0,0,0,0
+Daman & Diu,0,2005,Male,Others,10,20,0,0
+Daman & Diu,0,2006,Male,SC,0,0,0,0
+Daman & Diu,0,2006,Male,ST,1,0,0,0
+Daman & Diu,0,2006,Male,OBC,8,13,0,0
+Daman & Diu,0,2006,Male,Others,3,28,0,0
+Daman & Diu,0,2007,Male,SC,0,1,0,0
+Daman & Diu,0,2007,Male,ST,0,0,0,0
+Daman & Diu,0,2007,Male,OBC,2,17,0,0
+Daman & Diu,0,2007,Male,Others,6,34,0,0
+Daman & Diu,0,2008,Male,SC,1,5,0,0
+Daman & Diu,0,2008,Male,ST,3,7,0,0
+Daman & Diu,0,2008,Male,OBC,1,4,0,0
+Daman & Diu,0,2008,Male,Others,9,10,0,0
+Daman & Diu,0,2009,Male,SC,2,6,0,0
+Daman & Diu,0,2009,Male,ST,6,5,0,0
+Daman & Diu,0,2009,Male,OBC,3,8,0,0
+Daman & Diu,0,2009,Male,Others,4,5,0,0
+Daman & Diu,0,2010,Male,SC,2,5,0,0
+Daman & Diu,0,2010,Male,ST,3,6,0,0
+Daman & Diu,0,2010,Male,OBC,0,0,0,0
+Daman & Diu,0,2010,Male,Others,8,5,0,0
+Daman & Diu,0,2011,Male,SC,3,2,0,0
+Daman & Diu,0,2011,Male,ST,1,3,0,0
+Daman & Diu,0,2011,Male,OBC,5,6,0,0
+Daman & Diu,0,2011,Male,Others,2,6,0,0
+Daman & Diu,0,2012,Male,SC,3,2,0,0
+Daman & Diu,0,2012,Male,ST,1,1,0,0
+Daman & Diu,0,2012,Male,OBC,7,3,0,0
+Daman & Diu,0,2012,Male,Others,2,4,0,0
+Delhi,0,2001,Male,SC,0,0,0,0
+Delhi,0,2001,Male,ST,0,0,0,0
+Delhi,0,2001,Male,OBC,0,0,0,0
+Delhi,0,2001,Male,Others,0,0,0,0
+Delhi,0,2002,Male,SC,0,0,0,0
+Delhi,0,2002,Male,ST,0,0,0,0
+Delhi,0,2002,Male,OBC,0,0,0,0
+Delhi,0,2002,Male,Others,0,0,0,0
+Delhi,0,2003,Male,SC,0,0,0,0
+Delhi,0,2003,Male,ST,0,0,0,0
+Delhi,0,2003,Male,OBC,0,0,0,0
+Delhi,0,2003,Male,Others,0,0,0,0
+Delhi,0,2004,Male,SC,0,0,0,0
+Delhi,0,2004,Male,ST,0,0,0,0
+Delhi,0,2004,Male,OBC,0,0,0,0
+Delhi,0,2004,Male,Others,0,0,0,0
+Delhi,0,2005,Male,SC,0,0,0,0
+Delhi,0,2005,Male,ST,0,0,0,0
+Delhi,0,2005,Male,OBC,0,0,0,0
+Delhi,0,2005,Male,Others,0,0,0,0
+Delhi,0,2006,Male,SC,0,0,0,0
+Delhi,0,2006,Male,ST,0,0,0,0
+Delhi,0,2006,Male,OBC,0,0,0,0
+Delhi,0,2006,Male,Others,0,0,0,0
+Delhi,0,2007,Male,SC,0,0,0,0
+Delhi,0,2007,Male,ST,0,0,0,0
+Delhi,0,2007,Male,OBC,0,0,0,0
+Delhi,0,2007,Male,Others,0,0,0,0
+Delhi,0,2008,Male,SC,0,0,0,0
+Delhi,0,2008,Male,ST,0,0,0,0
+Delhi,0,2008,Male,OBC,0,0,0,0
+Delhi,0,2008,Male,Others,0,0,0,0
+Delhi,0,2009,Male,SC,0,0,0,0
+Delhi,0,2009,Male,ST,0,0,0,0
+Delhi,0,2009,Male,OBC,0,0,0,0
+Delhi,0,2009,Male,Others,0,0,0,0
+Delhi,0,2010,Male,SC,0,0,0,0
+Delhi,0,2010,Male,ST,0,0,0,0
+Delhi,0,2010,Male,OBC,0,0,0,0
+Delhi,0,2010,Male,Others,0,0,0,0
+Delhi,0,2011,Male,SC,572,2050,0,0
+Delhi,0,2011,Male,ST,57,153,0,0
+Delhi,0,2011,Male,OBC,693,1652,0,0
+Delhi,0,2011,Male,Others,1769,4646,6,0
+Delhi,0,2012,Male,SC,622,2008,0,1
+Delhi,0,2012,Male,ST,59,135,0,0
+Delhi,0,2012,Male,OBC,703,1812,0,0
+Delhi,0,2012,Male,Others,1710,4517,5,1
+Lakshadweep,0,2001,Male,SC,0,0,0,0
+Lakshadweep,0,2001,Male,ST,0,1,0,0
+Lakshadweep,0,2001,Male,OBC,0,0,0,0
+Lakshadweep,0,2001,Male,Others,0,0,0,0
+Lakshadweep,0,2002,Male,SC,0,0,0,0
+Lakshadweep,0,2002,Male,ST,2,8,0,0
+Lakshadweep,0,2002,Male,OBC,0,0,0,0
+Lakshadweep,0,2002,Male,Others,0,6,0,0
+Lakshadweep,0,2003,Male,SC,0,0,0,0
+Lakshadweep,0,2003,Male,ST,0,4,0,0
+Lakshadweep,0,2003,Male,OBC,0,0,0,0
+Lakshadweep,0,2003,Male,Others,0,0,0,0
+Lakshadweep,0,2004,Male,SC,0,0,0,0
+Lakshadweep,0,2004,Male,ST,0,0,0,0
+Lakshadweep,0,2004,Male,OBC,0,0,0,0
+Lakshadweep,0,2004,Male,Others,0,0,0,0
+Lakshadweep,0,2005,Male,SC,0,0,0,0
+Lakshadweep,0,2005,Male,ST,0,0,0,0
+Lakshadweep,0,2005,Male,OBC,0,4,0,0
+Lakshadweep,0,2005,Male,Others,0,2,0,0
+Lakshadweep,0,2006,Male,SC,0,0,0,0
+Lakshadweep,0,2006,Male,ST,0,0,0,0
+Lakshadweep,0,2006,Male,OBC,0,0,0,0
+Lakshadweep,0,2006,Male,Others,0,0,0,0
+Lakshadweep,0,2007,Male,SC,0,0,0,0
+Lakshadweep,0,2007,Male,ST,2,10,0,8
+Lakshadweep,0,2007,Male,OBC,0,0,0,0
+Lakshadweep,0,2007,Male,Others,1,1,0,0
+Lakshadweep,0,2008,Male,SC,0,0,0,0
+Lakshadweep,0,2008,Male,ST,0,3,0,0
+Lakshadweep,0,2008,Male,OBC,0,1,0,0
+Lakshadweep,0,2008,Male,Others,0,15,0,0
+Lakshadweep,0,2009,Male,SC,0,0,0,0
+Lakshadweep,0,2009,Male,ST,1,41,0,0
+Lakshadweep,0,2009,Male,OBC,0,1,0,0
+Lakshadweep,0,2009,Male,Others,0,1,0,0
+Lakshadweep,0,2010,Male,SC,0,0,0,0
+Lakshadweep,0,2010,Male,ST,0,8,0,0
+Lakshadweep,0,2010,Male,OBC,0,0,0,0
+Lakshadweep,0,2010,Male,Others,0,19,0,0
+Lakshadweep,0,2011,Male,SC,0,0,0,0
+Lakshadweep,0,2011,Male,ST,0,7,32,0
+Lakshadweep,0,2011,Male,OBC,0,0,0,0
+Lakshadweep,0,2011,Male,Others,0,22,18,0
+Lakshadweep,0,2012,Male,SC,0,0,0,0
+Lakshadweep,0,2012,Male,ST,0,0,0,0
+Lakshadweep,0,2012,Male,OBC,0,0,0,0
+Lakshadweep,0,2012,Male,Others,0,0,0,0
+Pondicherry,0,2001,Male,SC,24,38,0,0
+Pondicherry,0,2001,Male,ST,2,0,0,0
+Pondicherry,0,2001,Male,OBC,48,64,0,0
+Pondicherry,0,2001,Male,Others,33,47,0,0
+Pondicherry,0,2002,Male,SC,29,23,0,0
+Pondicherry,0,2002,Male,ST,3,1,0,0
+Pondicherry,0,2002,Male,OBC,76,48,0,0
+Pondicherry,0,2002,Male,Others,25,28,0,0
+Pondicherry,0,2003,Male,SC,32,29,0,0
+Pondicherry,0,2003,Male,ST,2,1,0,0
+Pondicherry,0,2003,Male,OBC,84,64,0,0
+Pondicherry,0,2003,Male,Others,19,41,0,0
+Pondicherry,0,2004,Male,SC,32,64,0,0
+Pondicherry,0,2004,Male,ST,2,0,0,0
+Pondicherry,0,2004,Male,OBC,53,112,0,0
+Pondicherry,0,2004,Male,Others,20,15,0,0
+Pondicherry,0,2005,Male,SC,28,47,0,0
+Pondicherry,0,2005,Male,ST,1,2,0,0
+Pondicherry,0,2005,Male,OBC,76,98,0,0
+Pondicherry,0,2005,Male,Others,9,21,0,0
+Pondicherry,0,2006,Male,SC,24,46,0,0
+Pondicherry,0,2006,Male,ST,0,0,0,0
+Pondicherry,0,2006,Male,OBC,72,122,0,0
+Pondicherry,0,2006,Male,Others,10,34,0,0
+Pondicherry,0,2007,Male,SC,27,54,0,0
+Pondicherry,0,2007,Male,ST,3,6,0,0
+Pondicherry,0,2007,Male,OBC,74,130,0,0
+Pondicherry,0,2007,Male,Others,6,42,0,0
+Pondicherry,0,2008,Male,SC,8,27,0,0
+Pondicherry,0,2008,Male,ST,0,7,0,0
+Pondicherry,0,2008,Male,OBC,81,151,0,0
+Pondicherry,0,2008,Male,Others,7,13,0,0
+Pondicherry,0,2009,Male,SC,13,31,0,0
+Pondicherry,0,2009,Male,ST,0,1,0,0
+Pondicherry,0,2009,Male,OBC,88,101,0,0
+Pondicherry,0,2009,Male,Others,16,16,0,0
+Pondicherry,0,2010,Male,SC,40,30,0,0
+Pondicherry,0,2010,Male,ST,2,0,0,0
+Pondicherry,0,2010,Male,OBC,73,78,0,0
+Pondicherry,0,2010,Male,Others,13,16,3,0
+Pondicherry,0,2011,Male,SC,37,34,0,0
+Pondicherry,0,2011,Male,ST,0,0,0,0
+Pondicherry,0,2011,Male,OBC,45,48,0,0
+Pondicherry,0,2011,Male,Others,45,28,0,0
+Pondicherry,0,2012,Male,SC,23,58,0,0
+Pondicherry,0,2012,Male,ST,0,5,0,0
+Pondicherry,0,2012,Male,OBC,41,92,0,0
+Pondicherry,0,2012,Male,Others,43,20,0,0
+Andhra Pradesh,1,2013,Male,SC,844,2171,0,0
+Andhra Pradesh,1,2013,Male,ST,431,1237,0,0
+Andhra Pradesh,1,2013,Male,OBC,1865,3538,2,5
+Andhra Pradesh,1,2013,Male,Others,1169,2146,4,2
+Arunachal Pradesh,1,2013,Male,SC,0,0,0,0
+Arunachal Pradesh,1,2013,Male,ST,5,39,0,0
+Arunachal Pradesh,1,2013,Male,OBC,0,0,0,0
+Arunachal Pradesh,1,2013,Male,Others,5,41,0,0
+Assam,1,2013,Male,SC,549,876,2,0
+Assam,1,2013,Male,ST,398,1125,3,2
+Assam,1,2013,Male,OBC,790,1200,0,0
+Assam,1,2013,Male,Others,1255,1757,0,0
+Bihar,1,2013,Male,SC,642,5132,0,8
+Bihar,1,2013,Male,ST,225,1499,1,2
+Bihar,1,2013,Male,OBC,2167,11531,20,44
+Bihar,1,2013,Male,Others,1323,7474,5,86
+Chhattisgarh,1,2013,Male,SC,1399,1854,0,5
+Chhattisgarh,1,2013,Male,ST,1981,2739,1,2
+Chhattisgarh,1,2013,Male,OBC,2267,2932,0,5
+Chhattisgarh,1,2013,Male,Others,634,1200,0,0
+Goa,1,2013,Male,SC,5,38,0,0
+Goa,1,2013,Male,ST,8,31,0,0
+Goa,1,2013,Male,OBC,48,133,0,0
+Goa,1,2013,Male,Others,59,173,0,0
+Gujarat,1,2013,Male,SC,1199,1702,110,0
+Gujarat,1,2013,Male,ST,577,1339,79,0
+Gujarat,1,2013,Male,OBC,1317,2579,168,0
+Gujarat,1,2013,Male,Others,549,1605,257,0
+Haryana,1,2013,Male,SC,1674,2245,0,0
+Haryana,1,2013,Male,ST,389,573,0,0
+Haryana,1,2013,Male,OBC,1627,3095,0,0
+Haryana,1,2013,Male,Others,2975,4235,0,1
+Himachal Pradesh,1,2013,Male,SC,319,289,0,0
+Himachal Pradesh,1,2013,Male,ST,17,30,0,0
+Himachal Pradesh,1,2013,Male,OBC,81,124,0,0
+Himachal Pradesh,1,2013,Male,Others,546,497,0,0
+Jammu & Kashmir,1,2013,Male,SC,40,151,2,0
+Jammu & Kashmir,1,2013,Male,ST,29,153,0,0
+Jammu & Kashmir,1,2013,Male,OBC,18,37,1,0
+Jammu & Kashmir,1,2013,Male,Others,283,1483,68,0
+Jharkhand,1,2013,Male,SC,423,2098,1,0
+Jharkhand,1,2013,Male,ST,1342,4143,1,0
+Jharkhand,1,2013,Male,OBC,1140,3943,4,0
+Jharkhand,1,2013,Male,Others,1099,3172,4,0
+Karnataka,1,2013,Male,SC,676,877,19,5
+Karnataka,1,2013,Male,ST,596,593,6,1
+Karnataka,1,2013,Male,OBC,391,361,9,0
+Karnataka,1,2013,Male,Others,2557,7301,141,1
+Kerala,1,2013,Male,SC,550,896,0,0
+Kerala,1,2013,Male,ST,10,19,0,0
+Kerala,1,2013,Male,OBC,1250,2066,0,0
+Kerala,1,2013,Male,Others,914,1500,0,0
+Madhya Pradesh,1,2013,Male,SC,3215,3449,27,37
+Madhya Pradesh,1,2013,Male,ST,3131,3227,8,34
+Madhya Pradesh,1,2013,Male,OBC,5949,5673,23,45
+Madhya Pradesh,1,2013,Male,Others,4058,4652,66,28
+Maharashtra,1,2013,Male,SC,1600,3343,6,0
+Maharashtra,1,2013,Male,ST,1224,3422,3,0
+Maharashtra,1,2013,Male,OBC,1697,4549,3,0
+Maharashtra,1,2013,Male,Others,3083,6896,15,0
+Manipur,1,2013,Male,SC,0,5,0,0
+Manipur,1,2013,Male,ST,8,152,7,0
+Manipur,1,2013,Male,OBC,27,328,33,0
+Manipur,1,2013,Male,Others,42,23,0,0
+Meghalaya,1,2013,Male,SC,13,113,3,0
+Meghalaya,1,2013,Male,ST,54,573,30,0
+Meghalaya,1,2013,Male,OBC,2,16,0,0
+Meghalaya,1,2013,Male,Others,3,32,0,0
+Mizoram,1,2013,Male,SC,5,14,0,0
+Mizoram,1,2013,Male,ST,397,388,0,0
+Mizoram,1,2013,Male,OBC,0,0,0,0
+Mizoram,1,2013,Male,Others,0,0,0,0
+Nagaland,1,2013,Male,SC,5,38,6,0
+Nagaland,1,2013,Male,ST,57,252,38,0
+Nagaland,1,2013,Male,OBC,14,16,0,0
+Nagaland,1,2013,Male,Others,15,27,6,1
+Orissa,1,2013,Male,SC,608,2384,0,0
+Orissa,1,2013,Male,ST,800,2411,0,0
+Orissa,1,2013,Male,OBC,1176,3154,0,0
+Orissa,1,2013,Male,Others,802,2497,0,0
+Punjab,1,2013,Male,SC,3361,4281,0,0
+Punjab,1,2013,Male,ST,0,0,0,0
+Punjab,1,2013,Male,OBC,2695,3691,1,0
+Punjab,1,2013,Male,Others,2392,9558,3,3
+Rajasthan,1,2013,Male,SC,1537,3093,0,0
+Rajasthan,1,2013,Male,ST,1074,2831,0,0
+Rajasthan,1,2013,Male,OBC,2107,4679,0,1
+Rajasthan,1,2013,Male,Others,1107,2200,0,2
+Sikkim,1,2013,Male,SC,8,13,0,0
+Sikkim,1,2013,Male,ST,26,31,0,0
+Sikkim,1,2013,Male,OBC,40,51,0,0
+Sikkim,1,2013,Male,Others,28,25,0,0
+Tamil Nadu,1,2013,Male,SC,1390,2040,745,0
+Tamil Nadu,1,2013,Male,ST,347,518,322,0
+Tamil Nadu,1,2013,Male,OBC,1970,4556,496,0
+Tamil Nadu,1,2013,Male,Others,779,681,170,0
+Tripura,1,2013,Male,SC,104,77,0,0
+Tripura,1,2013,Male,ST,140,101,0,0
+Tripura,1,2013,Male,OBC,120,65,0,0
+Tripura,1,2013,Male,Others,124,145,0,0
+Uttar Pradesh,1,2013,Male,SC,5593,13673,20,5
+Uttar Pradesh,1,2013,Male,ST,449,971,0,0
+Uttar Pradesh,1,2013,Male,OBC,9260,20525,35,8
+Uttar Pradesh,1,2013,Male,Others,9045,20582,35,5
+Uttaranchal,1,2013,Male,SC,439,232,0,0
+Uttaranchal,1,2013,Male,ST,380,162,0,0
+Uttaranchal,1,2013,Male,OBC,497,358,0,0
+Uttaranchal,1,2013,Male,Others,520,1075,0,0
+West Bengal,1,2013,Male,SC,847,3028,0,4
+West Bengal,1,2013,Male,ST,436,1429,0,0
+West Bengal,1,2013,Male,OBC,593,2549,0,10
+West Bengal,1,2013,Male,Others,3647,8487,0,355
+A & N Islands,0,2013,Male,SC,0,0,0,0
+A & N Islands,0,2013,Male,ST,0,0,0,0
+A & N Islands,0,2013,Male,OBC,0,0,0,0
+A & N Islands,0,2013,Male,Others,955,186,0,0
+Chandigarh,0,2013,Male,SC,72,83,0,0
+Chandigarh,0,2013,Male,ST,0,0,0,0
+Chandigarh,0,2013,Male,OBC,56,65,0,0
+Chandigarh,0,2013,Male,Others,130,231,0,0
+D & N Haveli,0,2013,Male,SC,0,8,0,0
+D & N Haveli,0,2013,Male,ST,0,12,0,0
+D & N Haveli,0,2013,Male,OBC,0,9,0,0
+D & N Haveli,0,2013,Male,Others,0,6,0,0
+Daman & Diu,0,2013,Male,SC,1,4,0,0
+Daman & Diu,0,2013,Male,ST,5,9,0,0
+Daman & Diu,0,2013,Male,OBC,6,12,0,0
+Daman & Diu,0,2013,Male,Others,5,13,0,0
+Delhi,0,2013,Male,SC,628,2167,0,2
+Delhi,0,2013,Male,ST,50,118,0,0
+Delhi,0,2013,Male,OBC,670,2189,0,2
+Delhi,0,2013,Male,Others,1899,5206,6,0
+Lakshadweep,0,2013,Male,SC,0,0,0,0
+Lakshadweep,0,2013,Male,ST,0,0,0,0
+Lakshadweep,0,2013,Male,OBC,0,0,0,0
+Lakshadweep,0,2013,Male,Others,0,0,0,0
+Pondicherry,0,2013,Male,SC,24,59,0,0
+Pondicherry,0,2013,Male,ST,0,3,0,0
+Pondicherry,0,2013,Male,OBC,37,93,0,0
+Pondicherry,0,2013,Male,Others,28,29,0,0
+Andhra Pradesh,1,2001,Female,SC,33,128,0,0
+Andhra Pradesh,1,2001,Female,ST,7,60,0,0
+Andhra Pradesh,1,2001,Female,OBC,50,191,0,0
+Andhra Pradesh,1,2001,Female,Others,12,103,1,0
+Andhra Pradesh,1,2002,Female,SC,34,138,0,0
+Andhra Pradesh,1,2002,Female,ST,23,96,0,0
+Andhra Pradesh,1,2002,Female,OBC,65,204,0,0
+Andhra Pradesh,1,2002,Female,Others,29,119,0,0
+Andhra Pradesh,1,2003,Female,SC,25,110,0,0
+Andhra Pradesh,1,2003,Female,ST,11,65,0,0
+Andhra Pradesh,1,2003,Female,OBC,105,253,0,0
+Andhra Pradesh,1,2003,Female,Others,31,113,0,0
+Andhra Pradesh,1,2004,Female,SC,35,121,2,0
+Andhra Pradesh,1,2004,Female,ST,15,75,0,0
+Andhra Pradesh,1,2004,Female,OBC,116,295,5,0
+Andhra Pradesh,1,2004,Female,Others,31,88,2,0
+Andhra Pradesh,1,2005,Female,SC,41,132,0,0
+Andhra Pradesh,1,2005,Female,ST,18,71,0,0
+Andhra Pradesh,1,2005,Female,OBC,120,301,0,0
+Andhra Pradesh,1,2005,Female,Others,19,182,0,0
+Andhra Pradesh,1,2006,Female,SC,43,131,0,0
+Andhra Pradesh,1,2006,Female,ST,18,67,0,0
+Andhra Pradesh,1,2006,Female,OBC,123,282,1,0
+Andhra Pradesh,1,2006,Female,Others,23,157,0,0
+Andhra Pradesh,1,2007,Female,SC,50,134,0,0
+Andhra Pradesh,1,2007,Female,ST,27,138,0,0
+Andhra Pradesh,1,2007,Female,OBC,31,231,0,0
+Andhra Pradesh,1,2007,Female,Others,124,132,0,0
+Andhra Pradesh,1,2008,Female,SC,34,127,0,0
+Andhra Pradesh,1,2008,Female,ST,14,104,0,0
+Andhra Pradesh,1,2008,Female,OBC,21,165,0,0
+Andhra Pradesh,1,2008,Female,Others,154,255,0,0
+Andhra Pradesh,1,2009,Female,SC,45,150,0,0
+Andhra Pradesh,1,2009,Female,ST,26,90,0,0
+Andhra Pradesh,1,2009,Female,OBC,65,212,0,0
+Andhra Pradesh,1,2009,Female,Others,61,125,2,0
+Andhra Pradesh,1,2010,Female,SC,60,124,0,0
+Andhra Pradesh,1,2010,Female,ST,37,85,0,0
+Andhra Pradesh,1,2010,Female,OBC,52,204,2,0
+Andhra Pradesh,1,2010,Female,Others,82,133,0,0
+Andhra Pradesh,1,2011,Female,SC,67,137,0,0
+Andhra Pradesh,1,2011,Female,ST,29,92,0,0
+Andhra Pradesh,1,2011,Female,OBC,94,275,1,0
+Andhra Pradesh,1,2011,Female,Others,71,76,0,0
+Andhra Pradesh,1,2012,Female,SC,71,130,0,0
+Andhra Pradesh,1,2012,Female,ST,31,106,0,0
+Andhra Pradesh,1,2012,Female,OBC,95,281,0,1
+Andhra Pradesh,1,2012,Female,Others,88,120,1,0
+Arunachal Pradesh,1,2009,Female,SC,0,0,0,0
+Arunachal Pradesh,1,2009,Female,ST,0,2,0,0
+Arunachal Pradesh,1,2009,Female,OBC,0,0,0,0
+Arunachal Pradesh,1,2009,Female,Others,0,2,0,0
+Arunachal Pradesh,1,2010,Female,SC,0,0,0,0
+Arunachal Pradesh,1,2010,Female,ST,0,3,0,0
+Arunachal Pradesh,1,2010,Female,OBC,0,0,0,0
+Arunachal Pradesh,1,2010,Female,Others,0,1,0,0
+Arunachal Pradesh,1,2011,Female,SC,0,0,0,0
+Arunachal Pradesh,1,2011,Female,ST,0,4,0,0
+Arunachal Pradesh,1,2011,Female,OBC,0,0,0,0
+Arunachal Pradesh,1,2011,Female,Others,0,1,0,0
+Arunachal Pradesh,1,2012,Female,SC,0,0,0,0
+Arunachal Pradesh,1,2012,Female,ST,0,4,0,0
+Arunachal Pradesh,1,2012,Female,OBC,0,0,0,0
+Arunachal Pradesh,1,2012,Female,Others,0,0,0,0
+Assam,1,2001,Female,SC,1,16,0,0
+Assam,1,2001,Female,ST,2,8,0,0
+Assam,1,2001,Female,OBC,13,26,0,0
+Assam,1,2001,Female,Others,31,77,0,0
+Assam,1,2002,Female,SC,4,11,0,0
+Assam,1,2002,Female,ST,8,11,0,0
+Assam,1,2002,Female,OBC,10,17,0,0
+Assam,1,2002,Female,Others,32,74,0,0
+Assam,1,2003,Female,SC,11,14,0,0
+Assam,1,2003,Female,ST,6,14,2,0
+Assam,1,2003,Female,OBC,19,40,0,0
+Assam,1,2003,Female,Others,36,69,0,0
+Assam,1,2004,Female,SC,12,22,2,0
+Assam,1,2004,Female,ST,6,17,9,0
+Assam,1,2004,Female,OBC,31,36,12,0
+Assam,1,2004,Female,Others,28,59,17,0
+Assam,1,2005,Female,SC,13,26,1,0
+Assam,1,2005,Female,ST,5,18,0,0
+Assam,1,2005,Female,OBC,13,21,2,0
+Assam,1,2005,Female,Others,47,68,0,0
+Assam,1,2006,Female,SC,9,44,0,0
+Assam,1,2006,Female,ST,9,16,0,0
+Assam,1,2006,Female,OBC,22,31,0,0
+Assam,1,2006,Female,Others,44,68,0,0
+Assam,1,2007,Female,SC,24,30,0,0
+Assam,1,2007,Female,ST,8,28,0,0
+Assam,1,2007,Female,OBC,27,32,5,0
+Assam,1,2007,Female,Others,41,56,0,0
+Assam,1,2008,Female,SC,22,53,0,0
+Assam,1,2008,Female,ST,15,36,0,0
+Assam,1,2008,Female,OBC,25,48,0,0
+Assam,1,2008,Female,Others,36,78,0,0
+Assam,1,2009,Female,SC,25,46,0,0
+Assam,1,2009,Female,ST,12,27,2,0
+Assam,1,2009,Female,OBC,23,62,0,0
+Assam,1,2009,Female,Others,32,70,0,0
+Assam,1,2010,Female,SC,28,29,0,0
+Assam,1,2010,Female,ST,13,38,0,0
+Assam,1,2010,Female,OBC,17,44,0,0
+Assam,1,2010,Female,Others,40,64,0,0
+Assam,1,2011,Female,SC,27,39,0,0
+Assam,1,2011,Female,ST,12,47,0,0
+Assam,1,2011,Female,OBC,15,51,0,0
+Assam,1,2011,Female,Others,37,70,0,0
+Assam,1,2012,Female,SC,46,37,0,0
+Assam,1,2012,Female,ST,41,38,0,0
+Assam,1,2012,Female,OBC,10,48,0,0
+Assam,1,2012,Female,Others,11,60,0,0
+Bihar,1,2001,Female,SC,33,231,0,0
+Bihar,1,2001,Female,ST,5,75,0,0
+Bihar,1,2001,Female,OBC,31,285,0,0
+Bihar,1,2001,Female,Others,9,202,0,0
+Bihar,1,2002,Female,SC,20,235,0,0
+Bihar,1,2002,Female,ST,16,65,0,0
+Bihar,1,2002,Female,OBC,33,418,0,0
+Bihar,1,2002,Female,Others,36,224,0,0
+Bihar,1,2003,Female,SC,12,236,0,0
+Bihar,1,2003,Female,ST,24,77,0,0
+Bihar,1,2003,Female,OBC,41,397,0,0
+Bihar,1,2003,Female,Others,27,235,0,0
+Bihar,1,2004,Female,SC,40,213,0,0
+Bihar,1,2004,Female,ST,11,26,0,0
+Bihar,1,2004,Female,OBC,48,337,0,0
+Bihar,1,2004,Female,Others,31,167,0,0
+Bihar,1,2005,Female,SC,28,394,0,0
+Bihar,1,2005,Female,ST,12,185,0,0
+Bihar,1,2005,Female,OBC,26,398,0,0
+Bihar,1,2005,Female,Others,58,221,0,0
+Bihar,1,2006,Female,SC,46,265,0,0
+Bihar,1,2006,Female,ST,4,94,0,0
+Bihar,1,2006,Female,OBC,53,446,0,0
+Bihar,1,2006,Female,Others,46,464,0,0
+Bihar,1,2007,Female,SC,41,235,0,0
+Bihar,1,2007,Female,ST,4,53,0,0
+Bihar,1,2007,Female,OBC,48,397,0,0
+Bihar,1,2007,Female,Others,43,471,0,0
+Bihar,1,2008,Female,SC,39,220,0,0
+Bihar,1,2008,Female,ST,4,48,0,0
+Bihar,1,2008,Female,OBC,47,371,0,0
+Bihar,1,2008,Female,Others,41,459,0,0
+Bihar,1,2009,Female,SC,35,166,0,0
+Bihar,1,2009,Female,ST,3,32,0,0
+Bihar,1,2009,Female,OBC,35,312,0,0
+Bihar,1,2009,Female,Others,35,407,0,1
+Bihar,1,2010,Female,SC,37,141,0,0
+Bihar,1,2010,Female,ST,4,27,0,0
+Bihar,1,2010,Female,OBC,35,264,0,0
+Bihar,1,2010,Female,Others,43,341,0,0
+Bihar,1,2011,Female,SC,13,177,0,0
+Bihar,1,2011,Female,ST,19,35,0,0
+Bihar,1,2011,Female,OBC,24,354,0,0
+Bihar,1,2011,Female,Others,30,229,0,0
+Bihar,1,2012,Female,SC,9,146,0,0
+Bihar,1,2012,Female,ST,5,56,0,0
+Bihar,1,2012,Female,OBC,45,376,0,0
+Bihar,1,2012,Female,Others,43,248,0,0
+Chhattisgarh,1,2012,Female,SC,46,118,0,0
+Chhattisgarh,1,2012,Female,ST,66,152,0,0
+Chhattisgarh,1,2012,Female,OBC,97,138,0,0
+Chhattisgarh,1,2012,Female,Others,35,47,0,0
+Chhattisgarh,1,2001,Female,SC,39,44,0,1
+Chhattisgarh,1,2001,Female,ST,59,71,0,0
+Chhattisgarh,1,2001,Female,OBC,57,46,0,0
+Chhattisgarh,1,2001,Female,Others,30,43,0,0
+Chhattisgarh,1,2002,Female,SC,52,60,0,0
+Chhattisgarh,1,2002,Female,ST,69,76,0,0
+Chhattisgarh,1,2002,Female,OBC,48,65,0,0
+Chhattisgarh,1,2002,Female,Others,33,24,0,0
+Chhattisgarh,1,2003,Female,SC,53,35,0,0
+Chhattisgarh,1,2003,Female,ST,68,41,0,0
+Chhattisgarh,1,2003,Female,OBC,60,57,0,0
+Chhattisgarh,1,2003,Female,Others,18,27,0,0
+Chhattisgarh,1,2004,Female,SC,37,35,0,0
+Chhattisgarh,1,2004,Female,ST,58,65,0,0
+Chhattisgarh,1,2004,Female,OBC,87,61,0,0
+Chhattisgarh,1,2004,Female,Others,23,33,0,0
+Chhattisgarh,1,2005,Female,SC,44,40,0,0
+Chhattisgarh,1,2005,Female,ST,72,89,0,0
+Chhattisgarh,1,2005,Female,OBC,41,67,0,0
+Chhattisgarh,1,2005,Female,Others,34,36,0,0
+Chhattisgarh,1,2006,Female,SC,40,46,0,0
+Chhattisgarh,1,2006,Female,ST,77,114,0,0
+Chhattisgarh,1,2006,Female,OBC,37,85,0,0
+Chhattisgarh,1,2006,Female,Others,33,39,0,0
+Chhattisgarh,1,2007,Female,SC,47,40,0,0
+Chhattisgarh,1,2007,Female,ST,80,89,0,0
+Chhattisgarh,1,2007,Female,OBC,49,92,0,0
+Chhattisgarh,1,2007,Female,Others,32,32,0,0
+Chhattisgarh,1,2008,Female,SC,34,61,0,0
+Chhattisgarh,1,2008,Female,ST,58,128,0,0
+Chhattisgarh,1,2008,Female,OBC,82,80,0,0
+Chhattisgarh,1,2008,Female,Others,20,33,0,0
+Chhattisgarh,1,2009,Female,SC,54,108,0,0
+Chhattisgarh,1,2009,Female,ST,54,115,0,0
+Chhattisgarh,1,2009,Female,OBC,83,86,0,0
+Chhattisgarh,1,2009,Female,Others,26,50,0,0
+Chhattisgarh,1,2010,Female,SC,49,67,0,0
+Chhattisgarh,1,2010,Female,ST,71,138,0,0
+Chhattisgarh,1,2010,Female,OBC,62,121,0,0
+Chhattisgarh,1,2010,Female,Others,27,49,0,0
+Chhattisgarh,1,2011,Female,SC,62,84,0,0
+Chhattisgarh,1,2011,Female,ST,63,136,0,0
+Chhattisgarh,1,2011,Female,OBC,94,107,0,0
+Chhattisgarh,1,2011,Female,Others,23,65,0,0
+Goa,1,2001,Female,SC,0,0,0,0
+Goa,1,2001,Female,ST,0,0,0,0
+Goa,1,2001,Female,OBC,0,0,0,0
+Goa,1,2001,Female,Others,4,7,0,0
+Goa,1,2002,Female,SC,0,0,0,0
+Goa,1,2002,Female,ST,0,0,0,0
+Goa,1,2002,Female,OBC,0,0,0,0
+Goa,1,2002,Female,Others,4,5,0,0
+Goa,1,2003,Female,SC,0,0,0,0
+Goa,1,2003,Female,ST,0,5,0,0
+Goa,1,2003,Female,OBC,0,0,0,0
+Goa,1,2003,Female,Others,3,4,0,0
+Goa,1,2004,Female,SC,0,0,0,0
+Goa,1,2004,Female,ST,0,0,0,0
+Goa,1,2004,Female,OBC,0,0,0,0
+Goa,1,2004,Female,Others,2,9,0,0
+Goa,1,2005,Female,SC,0,0,0,0
+Goa,1,2005,Female,ST,0,0,0,0
+Goa,1,2005,Female,OBC,0,0,0,0
+Goa,1,2005,Female,Others,3,17,0,0
+Goa,1,2006,Female,SC,0,0,0,0
+Goa,1,2006,Female,ST,0,0,0,0
+Goa,1,2006,Female,OBC,0,0,0,0
+Goa,1,2006,Female,Others,2,18,0,0
+Goa,1,2007,Female,SC,0,0,0,0
+Goa,1,2007,Female,ST,0,0,0,0
+Goa,1,2007,Female,OBC,0,0,0,0
+Goa,1,2007,Female,Others,2,18,0,0
+Goa,1,2008,Female,SC,0,0,0,0
+Goa,1,2008,Female,ST,0,0,0,0
+Goa,1,2008,Female,OBC,0,0,0,0
+Goa,1,2008,Female,Others,9,16,0,0
+Goa,1,2009,Female,SC,0,0,0,0
+Goa,1,2009,Female,ST,0,0,0,0
+Goa,1,2009,Female,OBC,0,0,0,0
+Goa,1,2009,Female,Others,7,24,0,0
+Goa,1,2010,Female,SC,0,0,0,0
+Goa,1,2010,Female,ST,0,0,0,0
+Goa,1,2010,Female,OBC,0,0,0,0
+Goa,1,2010,Female,Others,8,27,0,0
+Goa,1,2011,Female,SC,0,0,0,0
+Goa,1,2011,Female,ST,0,0,0,0
+Goa,1,2011,Female,OBC,4,8,0,0
+Goa,1,2011,Female,Others,2,20,0,0
+Goa,1,2012,Female,SC,0,0,0,0
+Goa,1,2012,Female,ST,0,0,0,0
+Goa,1,2012,Female,OBC,2,3,0,0
+Goa,1,2012,Female,Others,2,21,0,0
+Gujarat,1,2001,Female,SC,8,20,4,0
+Gujarat,1,2001,Female,ST,10,35,7,0
+Gujarat,1,2001,Female,OBC,20,36,10,0
+Gujarat,1,2001,Female,Others,20,48,9,0
+Gujarat,1,2002,Female,SC,4,54,4,0
+Gujarat,1,2002,Female,ST,5,40,6,0
+Gujarat,1,2002,Female,OBC,61,61,15,0
+Gujarat,1,2002,Female,Others,22,32,20,0
+Gujarat,1,2003,Female,SC,8,82,17,0
+Gujarat,1,2003,Female,ST,9,56,4,0
+Gujarat,1,2003,Female,OBC,67,29,25,0
+Gujarat,1,2003,Female,Others,33,67,6,0
+Gujarat,1,2004,Female,SC,37,93,2,0
+Gujarat,1,2004,Female,ST,20,86,7,0
+Gujarat,1,2004,Female,OBC,74,53,15,0
+Gujarat,1,2004,Female,Others,11,65,32,0
+Gujarat,1,2005,Female,SC,8,60,2,0
+Gujarat,1,2005,Female,ST,24,66,0,0
+Gujarat,1,2005,Female,OBC,87,52,10,0
+Gujarat,1,2005,Female,Others,28,68,5,0
+Gujarat,1,2006,Female,SC,110,84,13,0
+Gujarat,1,2006,Female,ST,25,58,3,0
+Gujarat,1,2006,Female,OBC,9,60,23,0
+Gujarat,1,2006,Female,Others,16,87,10,0
+Gujarat,1,2007,Female,SC,122,88,15,0
+Gujarat,1,2007,Female,ST,29,51,22,0
+Gujarat,1,2007,Female,OBC,21,72,95,0
+Gujarat,1,2007,Female,Others,21,86,43,0
+Gujarat,1,2008,Female,SC,117,34,9,0
+Gujarat,1,2008,Female,ST,35,79,5,0
+Gujarat,1,2008,Female,OBC,30,92,21,0
+Gujarat,1,2008,Female,Others,26,86,11,0
+Gujarat,1,2009,Female,SC,110,62,3,0
+Gujarat,1,2009,Female,ST,35,69,2,0
+Gujarat,1,2009,Female,OBC,19,131,33,0
+Gujarat,1,2009,Female,Others,20,79,21,0
+Gujarat,1,2010,Female,SC,45,75,8,0
+Gujarat,1,2010,Female,ST,32,65,6,0
+Gujarat,1,2010,Female,OBC,46,141,8,0
+Gujarat,1,2010,Female,Others,68,70,12,0
+Gujarat,1,2011,Female,SC,43,49,10,0
+Gujarat,1,2011,Female,ST,23,58,5,0
+Gujarat,1,2011,Female,OBC,23,113,18,0
+Gujarat,1,2011,Female,Others,87,108,13,0
+Gujarat,1,2012,Female,SC,26,70,9,0
+Gujarat,1,2012,Female,ST,18,54,13,0
+Gujarat,1,2012,Female,OBC,43,118,19,0
+Gujarat,1,2012,Female,Others,97,85,10,0
+Haryana,1,2001,Female,SC,33,50,0,0
+Haryana,1,2001,Female,ST,1,1,0,0
+Haryana,1,2001,Female,OBC,16,50,0,0
+Haryana,1,2001,Female,Others,58,222,0,0
+Haryana,1,2002,Female,SC,40,62,0,0
+Haryana,1,2002,Female,ST,2,20,0,0
+Haryana,1,2002,Female,OBC,20,52,0,0
+Haryana,1,2002,Female,Others,68,187,0,0
+Haryana,1,2003,Female,SC,36,66,0,0
+Haryana,1,2003,Female,ST,2,10,0,0
+Haryana,1,2003,Female,OBC,20,52,0,0
+Haryana,1,2003,Female,Others,109,209,0,0
+Haryana,1,2004,Female,SC,30,78,0,0
+Haryana,1,2004,Female,ST,10,24,0,0
+Haryana,1,2004,Female,OBC,17,102,0,0
+Haryana,1,2004,Female,Others,133,102,0,0
+Haryana,1,2005,Female,SC,64,79,0,1
+Haryana,1,2005,Female,ST,11,6,0,0
+Haryana,1,2005,Female,OBC,35,73,0,0
+Haryana,1,2005,Female,Others,78,168,0,0
+Haryana,1,2006,Female,SC,26,62,0,0
+Haryana,1,2006,Female,ST,1,14,0,0
+Haryana,1,2006,Female,OBC,68,100,0,0
+Haryana,1,2006,Female,Others,105,157,0,0
+Haryana,1,2007,Female,SC,29,83,0,0
+Haryana,1,2007,Female,ST,0,20,0,0
+Haryana,1,2007,Female,OBC,66,91,0,0
+Haryana,1,2007,Female,Others,106,166,0,0
+Haryana,1,2008,Female,SC,49,83,0,0
+Haryana,1,2008,Female,ST,7,37,0,0
+Haryana,1,2008,Female,OBC,74,64,0,0
+Haryana,1,2008,Female,Others,125,218,0,0
+Haryana,1,2009,Female,SC,62,85,0,0
+Haryana,1,2009,Female,ST,130,148,0,0
+Haryana,1,2009,Female,OBC,69,103,0,0
+Haryana,1,2009,Female,Others,3,18,0,0
+Haryana,1,2010,Female,SC,66,87,0,0
+Haryana,1,2010,Female,ST,53,58,0,0
+Haryana,1,2010,Female,OBC,41,45,0,0
+Haryana,1,2010,Female,Others,85,160,0,0
+Haryana,1,2011,Female,SC,67,100,0,0
+Haryana,1,2011,Female,ST,30,32,0,0
+Haryana,1,2011,Female,OBC,45,68,0,0
+Haryana,1,2011,Female,Others,143,185,0,0
+Haryana,1,2012,Female,SC,71,141,0,0
+Haryana,1,2012,Female,ST,40,57,0,0
+Haryana,1,2012,Female,OBC,48,49,0,0
+Haryana,1,2012,Female,Others,131,213,0,0
+Himachal Pradesh,1,2001,Female,SC,3,3,0,0
+Himachal Pradesh,1,2001,Female,ST,1,2,0,0
+Himachal Pradesh,1,2001,Female,OBC,2,2,0,0
+Himachal Pradesh,1,2001,Female,Others,5,8,0,0
+Himachal Pradesh,1,2002,Female,SC,1,5,0,0
+Himachal Pradesh,1,2002,Female,ST,1,1,0,0
+Himachal Pradesh,1,2002,Female,OBC,0,7,0,0
+Himachal Pradesh,1,2002,Female,Others,5,7,0,0
+Himachal Pradesh,1,2003,Female,SC,2,3,0,0
+Himachal Pradesh,1,2003,Female,ST,0,1,0,0
+Himachal Pradesh,1,2003,Female,OBC,0,3,0,0
+Himachal Pradesh,1,2003,Female,Others,10,12,0,0
+Himachal Pradesh,1,2004,Female,SC,3,4,0,0
+Himachal Pradesh,1,2004,Female,ST,0,2,0,0
+Himachal Pradesh,1,2004,Female,OBC,1,0,0,0
+Himachal Pradesh,1,2004,Female,Others,13,13,0,0
+Himachal Pradesh,1,2005,Female,SC,2,7,0,0
+Himachal Pradesh,1,2005,Female,ST,0,1,0,0
+Himachal Pradesh,1,2005,Female,OBC,0,1,0,0
+Himachal Pradesh,1,2005,Female,Others,16,7,0,0
+Himachal Pradesh,1,2006,Female,SC,5,8,0,0
+Himachal Pradesh,1,2006,Female,ST,1,0,0,0
+Himachal Pradesh,1,2006,Female,OBC,1,0,0,0
+Himachal Pradesh,1,2006,Female,Others,17,13,0,0
+Himachal Pradesh,1,2007,Female,SC,16,12,0,0
+Himachal Pradesh,1,2007,Female,ST,1,1,0,0
+Himachal Pradesh,1,2007,Female,OBC,3,3,0,0
+Himachal Pradesh,1,2007,Female,Others,17,8,0,0
+Himachal Pradesh,1,2008,Female,SC,15,10,0,0
+Himachal Pradesh,1,2008,Female,ST,0,1,0,0
+Himachal Pradesh,1,2008,Female,OBC,4,4,0,0
+Himachal Pradesh,1,2008,Female,Others,13,11,0,0
+Himachal Pradesh,1,2009,Female,SC,9,4,0,0
+Himachal Pradesh,1,2009,Female,ST,0,1,0,0
+Himachal Pradesh,1,2009,Female,OBC,14,5,0,0
+Himachal Pradesh,1,2009,Female,Others,12,7,0,0
+Himachal Pradesh,1,2010,Female,SC,6,8,0,0
+Himachal Pradesh,1,2010,Female,ST,0,1,0,0
+Himachal Pradesh,1,2010,Female,OBC,2,1,0,0
+Himachal Pradesh,1,2010,Female,Others,19,13,0,0
+Himachal Pradesh,1,2011,Female,SC,11,7,0,0
+Himachal Pradesh,1,2011,Female,ST,1,1,0,0
+Himachal Pradesh,1,2011,Female,OBC,3,6,0,0
+Himachal Pradesh,1,2011,Female,Others,14,19,0,0
+Himachal Pradesh,1,2012,Female,SC,12,9,0,0
+Himachal Pradesh,1,2012,Female,ST,1,1,0,0
+Himachal Pradesh,1,2012,Female,OBC,2,7,0,0
+Himachal Pradesh,1,2012,Female,Others,21,20,0,0
+Jammu & Kashmir,1,2001,Female,SC,0,0,0,0
+Jammu & Kashmir,1,2001,Female,ST,0,0,0,0
+Jammu & Kashmir,1,2001,Female,OBC,0,0,0,0
+Jammu & Kashmir,1,2001,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2002,Female,SC,0,5,0,0
+Jammu & Kashmir,1,2002,Female,ST,2,9,0,0
+Jammu & Kashmir,1,2002,Female,OBC,1,2,0,0
+Jammu & Kashmir,1,2002,Female,Others,0,30,1,0
+Jammu & Kashmir,1,2003,Female,SC,0,0,0,0
+Jammu & Kashmir,1,2003,Female,ST,0,0,0,0
+Jammu & Kashmir,1,2003,Female,OBC,0,0,0,0
+Jammu & Kashmir,1,2003,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2004,Female,SC,0,0,0,0
+Jammu & Kashmir,1,2004,Female,ST,0,0,0,0
+Jammu & Kashmir,1,2004,Female,OBC,0,0,0,0
+Jammu & Kashmir,1,2004,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2005,Female,SC,0,2,0,0
+Jammu & Kashmir,1,2005,Female,ST,0,5,0,0
+Jammu & Kashmir,1,2005,Female,OBC,0,0,0,0
+Jammu & Kashmir,1,2005,Female,Others,10,50,4,0
+Jammu & Kashmir,1,2006,Female,SC,0,6,0,0
+Jammu & Kashmir,1,2006,Female,ST,0,8,0,0
+Jammu & Kashmir,1,2006,Female,OBC,0,2,0,0
+Jammu & Kashmir,1,2006,Female,Others,9,33,1,0
+Jammu & Kashmir,1,2007,Female,SC,0,0,0,0
+Jammu & Kashmir,1,2007,Female,ST,0,0,0,0
+Jammu & Kashmir,1,2007,Female,OBC,0,0,0,0
+Jammu & Kashmir,1,2007,Female,Others,7,72,3,0
+Jammu & Kashmir,1,2008,Female,SC,0,0,0,0
+Jammu & Kashmir,1,2008,Female,ST,0,0,0,0
+Jammu & Kashmir,1,2008,Female,OBC,0,0,0,0
+Jammu & Kashmir,1,2008,Female,Others,9,75,1,0
+Jammu & Kashmir,1,2009,Female,SC,0,0,0,0
+Jammu & Kashmir,1,2009,Female,ST,0,0,0,0
+Jammu & Kashmir,1,2009,Female,OBC,0,0,0,0
+Jammu & Kashmir,1,2009,Female,Others,12,85,1,0
+Jammu & Kashmir,1,2010,Female,SC,3,16,0,0
+Jammu & Kashmir,1,2010,Female,ST,1,19,0,0
+Jammu & Kashmir,1,2010,Female,OBC,2,7,0,0
+Jammu & Kashmir,1,2010,Female,Others,1,42,15,0
+Jammu & Kashmir,1,2011,Female,SC,6,19,0,0
+Jammu & Kashmir,1,2011,Female,ST,1,16,0,0
+Jammu & Kashmir,1,2011,Female,OBC,1,14,0,0
+Jammu & Kashmir,1,2011,Female,Others,2,39,5,0
+Jammu & Kashmir,1,2012,Female,SC,2,2,0,0
+Jammu & Kashmir,1,2012,Female,ST,2,16,0,0
+Jammu & Kashmir,1,2012,Female,OBC,0,1,0,0
+Jammu & Kashmir,1,2012,Female,Others,9,61,0,0
+Jharkhand,1,2001,Female,SC,10,85,0,0
+Jharkhand,1,2001,Female,ST,8,93,0,0
+Jharkhand,1,2001,Female,OBC,7,55,0,0
+Jharkhand,1,2001,Female,Others,24,159,0,0
+Jharkhand,1,2002,Female,SC,14,85,0,0
+Jharkhand,1,2002,Female,ST,14,125,0,0
+Jharkhand,1,2002,Female,OBC,28,127,0,0
+Jharkhand,1,2002,Female,Others,15,68,0,0
+Jharkhand,1,2003,Female,SC,37,108,0,0
+Jharkhand,1,2003,Female,ST,22,109,0,0
+Jharkhand,1,2003,Female,OBC,49,123,0,0
+Jharkhand,1,2003,Female,Others,19,74,0,0
+Jharkhand,1,2004,Female,SC,23,117,0,0
+Jharkhand,1,2004,Female,ST,37,153,0,0
+Jharkhand,1,2004,Female,OBC,63,171,0,0
+Jharkhand,1,2004,Female,Others,15,52,0,0
+Jharkhand,1,2005,Female,SC,31,142,0,0
+Jharkhand,1,2005,Female,ST,41,104,0,0
+Jharkhand,1,2005,Female,OBC,54,202,0,0
+Jharkhand,1,2005,Female,Others,26,98,0,0
+Jharkhand,1,2006,Female,SC,44,115,0,0
+Jharkhand,1,2006,Female,ST,64,155,0,0
+Jharkhand,1,2006,Female,OBC,98,180,0,0
+Jharkhand,1,2006,Female,Others,40,83,0,0
+Jharkhand,1,2007,Female,SC,44,107,0,0
+Jharkhand,1,2007,Female,ST,55,151,0,0
+Jharkhand,1,2007,Female,OBC,58,149,0,0
+Jharkhand,1,2007,Female,Others,27,66,0,0
+Jharkhand,1,2008,Female,SC,32,82,0,0
+Jharkhand,1,2008,Female,ST,64,122,0,0
+Jharkhand,1,2008,Female,OBC,46,175,0,0
+Jharkhand,1,2008,Female,Others,28,103,0,0
+Jharkhand,1,2009,Female,SC,29,99,0,0
+Jharkhand,1,2009,Female,ST,36,137,0,0
+Jharkhand,1,2009,Female,OBC,59,160,0,0
+Jharkhand,1,2009,Female,Others,43,88,0,0
+Jharkhand,1,2010,Female,SC,15,98,0,0
+Jharkhand,1,2010,Female,ST,64,150,0,0
+Jharkhand,1,2010,Female,OBC,45,192,0,0
+Jharkhand,1,2010,Female,Others,44,99,0,0
+Jharkhand,1,2011,Female,SC,12,102,0,0
+Jharkhand,1,2011,Female,ST,53,150,0,0
+Jharkhand,1,2011,Female,OBC,36,208,0,0
+Jharkhand,1,2011,Female,Others,38,118,1,0
+Jharkhand,1,2012,Female,SC,12,109,0,0
+Jharkhand,1,2012,Female,ST,60,173,0,0
+Jharkhand,1,2012,Female,OBC,35,188,0,0
+Jharkhand,1,2012,Female,Others,37,130,0,0
+Karnataka,1,2001,Female,SC,9,30,0,0
+Karnataka,1,2001,Female,ST,7,22,0,0
+Karnataka,1,2001,Female,OBC,3,17,0,0
+Karnataka,1,2001,Female,Others,35,130,0,0
+Karnataka,1,2002,Female,SC,8,27,0,0
+Karnataka,1,2002,Female,ST,11,19,0,0
+Karnataka,1,2002,Female,OBC,6,15,0,0
+Karnataka,1,2002,Female,Others,58,202,4,0
+Karnataka,1,2004,Female,SC,31,27,1,0
+Karnataka,1,2004,Female,ST,21,19,0,0
+Karnataka,1,2004,Female,OBC,16,15,1,0
+Karnataka,1,2004,Female,Others,58,246,1,0
+Karnataka,1,2005,Female,SC,34,23,2,0
+Karnataka,1,2005,Female,ST,23,18,0,0
+Karnataka,1,2005,Female,OBC,19,14,1,0
+Karnataka,1,2005,Female,Others,68,241,5,0
+Karnataka,1,2006,Female,SC,29,27,2,0
+Karnataka,1,2006,Female,ST,24,21,1,0
+Karnataka,1,2006,Female,OBC,18,17,1,0
+Karnataka,1,2006,Female,Others,114,246,6,0
+Karnataka,1,2007,Female,SC,31,31,0,1
+Karnataka,1,2007,Female,ST,23,23,0,1
+Karnataka,1,2007,Female,OBC,19,27,0,0
+Karnataka,1,2007,Female,Others,97,271,0,4
+Karnataka,1,2008,Female,SC,31,33,0,4
+Karnataka,1,2008,Female,ST,21,21,1,2
+Karnataka,1,2008,Female,OBC,19,27,0,0
+Karnataka,1,2008,Female,Others,108,273,0,8
+Karnataka,1,2009,Female,SC,26,34,0,3
+Karnataka,1,2009,Female,ST,19,19,1,2
+Karnataka,1,2009,Female,OBC,19,27,0,0
+Karnataka,1,2009,Female,Others,87,281,0,6
+Karnataka,1,2010,Female,SC,27,29,0,1
+Karnataka,1,2010,Female,ST,19,19,1,0
+Karnataka,1,2010,Female,OBC,17,21,0,0
+Karnataka,1,2010,Female,Others,102,231,1,1
+Karnataka,1,2011,Female,SC,27,27,0,2
+Karnataka,1,2011,Female,ST,19,19,0,0
+Karnataka,1,2011,Female,OBC,17,19,0,0
+Karnataka,1,2011,Female,Others,125,261,0,7
+Karnataka,1,2012,Female,SC,23,23,0,0
+Karnataka,1,2012,Female,ST,17,13,0,0
+Karnataka,1,2012,Female,OBC,14,19,1,0
+Karnataka,1,2012,Female,Others,133,313,2,0
+Kerala,1,2001,Female,SC,7,15,0,0
+Kerala,1,2001,Female,ST,3,26,0,0
+Kerala,1,2001,Female,OBC,16,42,0,0
+Kerala,1,2001,Female,Others,41,28,0,0
+Kerala,1,2002,Female,SC,6,10,0,0
+Kerala,1,2002,Female,ST,3,9,0,0
+Kerala,1,2002,Female,OBC,15,60,0,0
+Kerala,1,2002,Female,Others,26,58,0,0
+Kerala,1,2003,Female,SC,16,13,0,0
+Kerala,1,2003,Female,ST,10,11,0,0
+Kerala,1,2003,Female,OBC,23,48,0,0
+Kerala,1,2003,Female,Others,18,64,0,0
+Kerala,1,2004,Female,SC,14,18,0,0
+Kerala,1,2004,Female,ST,13,17,0,0
+Kerala,1,2004,Female,OBC,32,68,0,0
+Kerala,1,2004,Female,Others,25,51,0,0
+Kerala,1,2005,Female,SC,11,13,0,0
+Kerala,1,2005,Female,ST,13,16,0,0
+Kerala,1,2005,Female,OBC,35,52,0,0
+Kerala,1,2005,Female,Others,18,43,0,0
+Kerala,1,2006,Female,SC,13,24,0,0
+Kerala,1,2006,Female,ST,10,17,0,0
+Kerala,1,2006,Female,OBC,21,52,0,0
+Kerala,1,2006,Female,Others,20,32,0,0
+Kerala,1,2007,Female,SC,10,20,0,0
+Kerala,1,2007,Female,ST,3,12,0,0
+Kerala,1,2007,Female,OBC,25,65,0,0
+Kerala,1,2007,Female,Others,20,28,0,0
+Kerala,1,2008,Female,SC,10,20,0,0
+Kerala,1,2008,Female,ST,3,12,0,0
+Kerala,1,2008,Female,OBC,21,46,0,0
+Kerala,1,2008,Female,Others,20,50,0,0
+Kerala,1,2009,Female,SC,13,28,0,0
+Kerala,1,2009,Female,ST,3,11,0,0
+Kerala,1,2009,Female,OBC,21,76,0,0
+Kerala,1,2009,Female,Others,16,38,0,0
+Kerala,1,2010,Female,SC,11,22,0,0
+Kerala,1,2010,Female,ST,4,9,0,0
+Kerala,1,2010,Female,OBC,19,85,0,0
+Kerala,1,2010,Female,Others,16,46,0,0
+Kerala,1,2011,Female,SC,12,13,0,0
+Kerala,1,2011,Female,ST,7,10,0,2
+Kerala,1,2011,Female,OBC,19,38,0,0
+Kerala,1,2011,Female,Others,17,54,0,0
+Kerala,1,2012,Female,SC,15,19,0,0
+Kerala,1,2012,Female,ST,8,22,0,0
+Kerala,1,2012,Female,OBC,14,39,0,0
+Kerala,1,2012,Female,Others,19,65,0,3
+Madhya Pradesh,1,2001,Female,SC,65,92,0,0
+Madhya Pradesh,1,2001,Female,ST,71,72,0,0
+Madhya Pradesh,1,2001,Female,OBC,74,122,0,0
+Madhya Pradesh,1,2001,Female,Others,52,169,0,0
+Madhya Pradesh,1,2002,Female,SC,53,99,0,0
+Madhya Pradesh,1,2002,Female,ST,52,69,0,0
+Madhya Pradesh,1,2002,Female,OBC,72,132,0,1
+Madhya Pradesh,1,2002,Female,Others,83,159,0,0
+Madhya Pradesh,1,2003,Female,SC,106,106,0,0
+Madhya Pradesh,1,2003,Female,ST,119,94,0,0
+Madhya Pradesh,1,2003,Female,OBC,63,120,0,0
+Madhya Pradesh,1,2003,Female,Others,257,135,0,0
+Madhya Pradesh,1,2004,Female,SC,42,97,0,0
+Madhya Pradesh,1,2004,Female,ST,52,66,0,0
+Madhya Pradesh,1,2004,Female,OBC,60,149,0,0
+Madhya Pradesh,1,2004,Female,Others,115,149,0,0
+Madhya Pradesh,1,2005,Female,SC,64,137,0,0
+Madhya Pradesh,1,2005,Female,ST,55,90,0,0
+Madhya Pradesh,1,2005,Female,OBC,96,176,0,0
+Madhya Pradesh,1,2005,Female,Others,82,117,0,0
+Madhya Pradesh,1,2006,Female,SC,83,98,0,0
+Madhya Pradesh,1,2006,Female,ST,67,67,0,0
+Madhya Pradesh,1,2006,Female,OBC,105,149,0,0
+Madhya Pradesh,1,2006,Female,Others,94,113,0,3
+Madhya Pradesh,1,2007,Female,SC,84,113,0,0
+Madhya Pradesh,1,2007,Female,ST,72,85,0,0
+Madhya Pradesh,1,2007,Female,OBC,128,179,0,0
+Madhya Pradesh,1,2007,Female,Others,89,104,0,0
+Madhya Pradesh,1,2008,Female,SC,86,125,0,0
+Madhya Pradesh,1,2008,Female,ST,70,107,0,0
+Madhya Pradesh,1,2008,Female,OBC,127,172,0,0
+Madhya Pradesh,1,2008,Female,Others,113,182,0,0
+Madhya Pradesh,1,2009,Female,SC,84,121,0,0
+Madhya Pradesh,1,2009,Female,ST,72,95,0,0
+Madhya Pradesh,1,2009,Female,OBC,118,175,0,0
+Madhya Pradesh,1,2009,Female,Others,126,140,0,0
+Madhya Pradesh,1,2010,Female,SC,113,158,0,4
+Madhya Pradesh,1,2010,Female,ST,74,105,0,3
+Madhya Pradesh,1,2010,Female,OBC,97,144,0,1
+Madhya Pradesh,1,2010,Female,Others,128,167,0,1
+Madhya Pradesh,1,2011,Female,SC,99,125,0,0
+Madhya Pradesh,1,2011,Female,ST,63,115,0,0
+Madhya Pradesh,1,2011,Female,OBC,133,192,0,0
+Madhya Pradesh,1,2011,Female,Others,159,198,0,1
+Madhya Pradesh,1,2012,Female,SC,100,137,0,0
+Madhya Pradesh,1,2012,Female,ST,87,113,0,0
+Madhya Pradesh,1,2012,Female,OBC,178,215,0,0
+Madhya Pradesh,1,2012,Female,Others,129,221,1,0
+Maharashtra,1,2001,Female,SC,74,142,0,0
+Maharashtra,1,2001,Female,ST,52,130,0,0
+Maharashtra,1,2001,Female,OBC,69,137,0,0
+Maharashtra,1,2001,Female,Others,84,174,1,0
+Maharashtra,1,2002,Female,SC,74,146,0,0
+Maharashtra,1,2002,Female,ST,49,136,0,0
+Maharashtra,1,2002,Female,OBC,66,143,6,0
+Maharashtra,1,2002,Female,Others,122,223,2,0
+Maharashtra,1,2003,Female,SC,67,137,0,0
+Maharashtra,1,2003,Female,ST,61,162,0,0
+Maharashtra,1,2003,Female,OBC,120,257,0,0
+Maharashtra,1,2003,Female,Others,142,172,1,0
+Maharashtra,1,2004,Female,SC,160,204,0,0
+Maharashtra,1,2004,Female,ST,46,119,0,0
+Maharashtra,1,2004,Female,OBC,138,267,0,0
+Maharashtra,1,2004,Female,Others,140,182,0,0
+Maharashtra,1,2005,Female,SC,67,119,0,0
+Maharashtra,1,2005,Female,ST,72,134,0,0
+Maharashtra,1,2005,Female,OBC,109,257,0,0
+Maharashtra,1,2005,Female,Others,215,352,1,0
+Maharashtra,1,2006,Female,SC,56,170,0,0
+Maharashtra,1,2006,Female,ST,33,104,0,0
+Maharashtra,1,2006,Female,OBC,147,245,0,0
+Maharashtra,1,2006,Female,Others,213,392,1,0
+Maharashtra,1,2007,Female,SC,129,159,0,0
+Maharashtra,1,2007,Female,ST,46,110,0,0
+Maharashtra,1,2007,Female,OBC,161,251,0,0
+Maharashtra,1,2007,Female,Others,175,321,1,0
+Maharashtra,1,2008,Female,SC,165,123,0,0
+Maharashtra,1,2008,Female,ST,58,91,0,0
+Maharashtra,1,2008,Female,OBC,114,392,0,0
+Maharashtra,1,2008,Female,Others,162,330,2,0
+Maharashtra,1,2009,Female,SC,135,112,0,0
+Maharashtra,1,2009,Female,ST,50,80,0,0
+Maharashtra,1,2009,Female,OBC,162,370,0,0
+Maharashtra,1,2009,Female,Others,182,391,0,0
+Maharashtra,1,2010,Female,SC,96,172,0,0
+Maharashtra,1,2010,Female,ST,44,69,0,0
+Maharashtra,1,2010,Female,OBC,221,141,0,0
+Maharashtra,1,2010,Female,Others,88,464,2,0
+Maharashtra,1,2011,Female,SC,96,136,0,0
+Maharashtra,1,2011,Female,ST,63,144,0,0
+Maharashtra,1,2011,Female,OBC,156,205,0,0
+Maharashtra,1,2011,Female,Others,146,430,0,0
+Maharashtra,1,2012,Female,SC,94,152,0,0
+Maharashtra,1,2012,Female,ST,68,90,0,0
+Maharashtra,1,2012,Female,OBC,65,188,0,0
+Maharashtra,1,2012,Female,Others,230,451,0,0
+Manipur,1,2001,Female,SC,0,0,0,0
+Manipur,1,2001,Female,ST,0,3,0,0
+Manipur,1,2001,Female,OBC,0,10,11,0
+Manipur,1,2001,Female,Others,0,0,0,0
+Manipur,1,2002,Female,SC,0,0,0,0
+Manipur,1,2002,Female,ST,0,5,1,0
+Manipur,1,2002,Female,OBC,1,16,5,0
+Manipur,1,2002,Female,Others,0,0,0,0
+Manipur,1,2003,Female,SC,0,0,0,0
+Manipur,1,2003,Female,ST,0,5,0,0
+Manipur,1,2003,Female,OBC,0,0,0,0
+Manipur,1,2003,Female,Others,1,13,8,0
+Manipur,1,2004,Female,SC,0,0,0,0
+Manipur,1,2004,Female,ST,0,6,0,0
+Manipur,1,2004,Female,OBC,0,15,2,0
+Manipur,1,2004,Female,Others,0,0,0,0
+Manipur,1,2005,Female,SC,0,0,0,0
+Manipur,1,2005,Female,ST,0,3,0,0
+Manipur,1,2005,Female,OBC,0,16,7,0
+Manipur,1,2005,Female,Others,0,0,0,0
+Manipur,1,2006,Female,SC,0,0,0,0
+Manipur,1,2006,Female,ST,0,2,0,0
+Manipur,1,2006,Female,OBC,0,13,0,0
+Manipur,1,2006,Female,Others,0,0,0,0
+Manipur,1,2007,Female,SC,0,0,0,0
+Manipur,1,2007,Female,ST,0,2,1,0
+Manipur,1,2007,Female,OBC,0,4,3,0
+Manipur,1,2007,Female,Others,0,0,0,0
+Manipur,1,2008,Female,SC,0,0,0,0
+Manipur,1,2008,Female,ST,0,4,1,0
+Manipur,1,2008,Female,OBC,0,13,9,0
+Manipur,1,2008,Female,Others,0,0,0,0
+Manipur,1,2009,Female,SC,0,0,0,0
+Manipur,1,2009,Female,ST,0,5,1,0
+Manipur,1,2009,Female,OBC,0,3,2,0
+Manipur,1,2009,Female,Others,0,24,13,0
+Manipur,1,2010,Female,SC,0,0,2,0
+Manipur,1,2010,Female,ST,1,1,0,0
+Manipur,1,2010,Female,OBC,0,1,0,0
+Manipur,1,2010,Female,Others,0,8,26,0
+Manipur,1,2011,Female,SC,0,0,0,0
+Manipur,1,2011,Female,ST,1,6,0,0
+Manipur,1,2011,Female,OBC,0,1,0,0
+Manipur,1,2011,Female,Others,0,19,12,0
+Manipur,1,2012,Female,SC,0,0,0,0
+Manipur,1,2012,Female,ST,1,5,0,0
+Manipur,1,2012,Female,OBC,0,0,0,0
+Manipur,1,2012,Female,Others,0,16,11,0
+Meghalaya,1,2001,Female,SC,0,0,0,0
+Meghalaya,1,2001,Female,ST,0,8,0,0
+Meghalaya,1,2001,Female,OBC,0,0,0,0
+Meghalaya,1,2001,Female,Others,0,0,0,0
+Meghalaya,1,2002,Female,SC,0,2,0,0
+Meghalaya,1,2002,Female,ST,0,9,0,0
+Meghalaya,1,2002,Female,OBC,0,0,0,0
+Meghalaya,1,2002,Female,Others,0,0,0,0
+Meghalaya,1,2003,Female,SC,0,0,0,0
+Meghalaya,1,2003,Female,ST,0,8,0,0
+Meghalaya,1,2003,Female,OBC,0,0,0,0
+Meghalaya,1,2003,Female,Others,0,0,0,0
+Meghalaya,1,2004,Female,SC,0,2,0,0
+Meghalaya,1,2004,Female,ST,0,8,0,0
+Meghalaya,1,2004,Female,OBC,0,0,0,0
+Meghalaya,1,2004,Female,Others,0,0,0,0
+Meghalaya,1,2005,Female,SC,0,0,0,0
+Meghalaya,1,2005,Female,ST,4,0,0,0
+Meghalaya,1,2005,Female,OBC,0,9,0,0
+Meghalaya,1,2005,Female,Others,0,0,0,0
+Meghalaya,1,2006,Female,SC,0,3,0,0
+Meghalaya,1,2006,Female,ST,2,4,0,0
+Meghalaya,1,2006,Female,OBC,0,0,0,0
+Meghalaya,1,2006,Female,Others,0,0,0,0
+Meghalaya,1,2007,Female,SC,0,1,0,0
+Meghalaya,1,2007,Female,ST,2,3,0,0
+Meghalaya,1,2007,Female,OBC,0,0,0,0
+Meghalaya,1,2007,Female,Others,0,0,0,0
+Meghalaya,1,2008,Female,SC,0,2,0,0
+Meghalaya,1,2008,Female,ST,2,2,0,0
+Meghalaya,1,2008,Female,OBC,0,0,0,0
+Meghalaya,1,2008,Female,Others,0,0,0,0
+Meghalaya,1,2009,Female,SC,1,3,0,0
+Meghalaya,1,2009,Female,ST,0,4,0,0
+Meghalaya,1,2009,Female,OBC,0,0,0,0
+Meghalaya,1,2009,Female,Others,0,0,0,0
+Meghalaya,1,2010,Female,SC,0,1,0,0
+Meghalaya,1,2010,Female,ST,0,2,0,0
+Meghalaya,1,2010,Female,OBC,0,1,0,0
+Meghalaya,1,2010,Female,Others,0,2,0,0
+Meghalaya,1,2011,Female,SC,0,4,0,0
+Meghalaya,1,2011,Female,ST,0,8,0,0
+Meghalaya,1,2011,Female,OBC,0,0,0,0
+Meghalaya,1,2011,Female,Others,0,0,0,0
+Meghalaya,1,2012,Female,SC,0,4,0,0
+Meghalaya,1,2012,Female,ST,0,7,0,0
+Meghalaya,1,2012,Female,OBC,0,0,0,0
+Meghalaya,1,2012,Female,Others,0,1,0,0
+Mizoram,1,2001,Female,SC,0,1,0,0
+Mizoram,1,2001,Female,ST,11,71,0,0
+Mizoram,1,2001,Female,OBC,0,0,0,0
+Mizoram,1,2001,Female,Others,0,0,0,0
+Mizoram,1,2002,Female,SC,0,1,0,0
+Mizoram,1,2002,Female,ST,21,64,0,0
+Mizoram,1,2002,Female,OBC,0,0,0,0
+Mizoram,1,2002,Female,Others,0,0,0,0
+Mizoram,1,2003,Female,SC,1,0,0,0
+Mizoram,1,2003,Female,ST,7,66,0,0
+Mizoram,1,2003,Female,OBC,0,0,0,0
+Mizoram,1,2003,Female,Others,0,2,0,0
+Mizoram,1,2004,Female,SC,0,2,0,0
+Mizoram,1,2004,Female,ST,9,84,0,0
+Mizoram,1,2004,Female,OBC,0,0,0,0
+Mizoram,1,2004,Female,Others,0,0,0,0
+Mizoram,1,2005,Female,SC,0,0,0,0
+Mizoram,1,2005,Female,ST,20,59,0,0
+Mizoram,1,2005,Female,OBC,0,0,0,0
+Mizoram,1,2005,Female,Others,0,0,0,0
+Mizoram,1,2006,Female,SC,0,0,0,0
+Mizoram,1,2006,Female,ST,17,63,0,0
+Mizoram,1,2006,Female,OBC,0,0,0,0
+Mizoram,1,2006,Female,Others,0,0,0,0
+Mizoram,1,2007,Female,SC,0,0,0,0
+Mizoram,1,2007,Female,ST,22,73,0,0
+Mizoram,1,2007,Female,OBC,0,0,0,0
+Mizoram,1,2007,Female,Others,0,0,0,0
+Mizoram,1,2008,Female,SC,0,0,0,0
+Mizoram,1,2008,Female,ST,15,47,0,0
+Mizoram,1,2008,Female,OBC,0,0,0,0
+Mizoram,1,2008,Female,Others,0,0,0,0
+Mizoram,1,2009,Female,SC,2,10,0,0
+Mizoram,1,2009,Female,ST,9,35,0,0
+Mizoram,1,2009,Female,OBC,0,0,0,0
+Mizoram,1,2009,Female,Others,0,0,0,0
+Mizoram,1,2010,Female,SC,0,0,0,0
+Mizoram,1,2010,Female,ST,21,60,0,0
+Mizoram,1,2010,Female,OBC,0,0,0,0
+Mizoram,1,2010,Female,Others,0,0,0,0
+Mizoram,1,2011,Female,SC,2,0,0,0
+Mizoram,1,2011,Female,ST,18,52,0,0
+Mizoram,1,2011,Female,OBC,0,0,0,0
+Mizoram,1,2011,Female,Others,0,0,0,0
+Mizoram,1,2012,Female,SC,0,0,0,0
+Mizoram,1,2012,Female,ST,9,53,0,0
+Mizoram,1,2012,Female,OBC,0,0,0,0
+Mizoram,1,2012,Female,Others,0,0,0,0
+Nagaland,1,2001,Female,SC,0,0,0,0
+Nagaland,1,2001,Female,ST,2,16,0,0
+Nagaland,1,2001,Female,OBC,0,0,0,0
+Nagaland,1,2001,Female,Others,0,2,0,0
+Nagaland,1,2002,Female,SC,0,0,0,0
+Nagaland,1,2002,Female,ST,1,11,0,0
+Nagaland,1,2002,Female,OBC,0,0,0,0
+Nagaland,1,2002,Female,Others,0,0,0,0
+Nagaland,1,2003,Female,SC,0,0,0,0
+Nagaland,1,2003,Female,ST,1,13,0,0
+Nagaland,1,2003,Female,OBC,0,0,0,0
+Nagaland,1,2003,Female,Others,0,0,0,0
+Nagaland,1,2004,Female,SC,0,0,0,0
+Nagaland,1,2004,Female,ST,1,15,0,0
+Nagaland,1,2004,Female,OBC,0,0,0,0
+Nagaland,1,2004,Female,Others,0,1,0,0
+Nagaland,1,2005,Female,SC,0,0,0,0
+Nagaland,1,2005,Female,ST,2,14,0,0
+Nagaland,1,2005,Female,OBC,0,2,0,0
+Nagaland,1,2005,Female,Others,2,0,0,0
+Nagaland,1,2006,Female,SC,0,0,0,0
+Nagaland,1,2006,Female,ST,4,15,2,0
+Nagaland,1,2006,Female,OBC,2,4,1,0
+Nagaland,1,2006,Female,Others,0,0,0,0
+Nagaland,1,2007,Female,SC,0,1,0,0
+Nagaland,1,2007,Female,ST,5,11,0,0
+Nagaland,1,2007,Female,OBC,1,0,0,0
+Nagaland,1,2007,Female,Others,0,0,0,0
+Nagaland,1,2008,Female,SC,0,0,0,0
+Nagaland,1,2008,Female,ST,4,6,0,0
+Nagaland,1,2008,Female,OBC,2,4,0,0
+Nagaland,1,2008,Female,Others,0,0,0,0
+Nagaland,1,2009,Female,SC,0,0,0,0
+Nagaland,1,2009,Female,ST,2,8,0,0
+Nagaland,1,2009,Female,OBC,0,7,0,0
+Nagaland,1,2009,Female,Others,0,0,0,0
+Nagaland,1,2010,Female,SC,1,0,0,0
+Nagaland,1,2010,Female,ST,3,14,0,0
+Nagaland,1,2010,Female,OBC,0,0,0,0
+Nagaland,1,2010,Female,Others,0,0,0,0
+Nagaland,1,2011,Female,SC,0,2,0,0
+Nagaland,1,2011,Female,ST,6,3,0,0
+Nagaland,1,2011,Female,OBC,0,0,0,0
+Nagaland,1,2011,Female,Others,1,3,1,0
+Nagaland,1,2012,Female,SC,0,3,0,0
+Nagaland,1,2012,Female,ST,4,5,1,0
+Nagaland,1,2012,Female,OBC,0,0,0,0
+Nagaland,1,2012,Female,Others,1,2,0,0
+Orissa,1,2001,Female,SC,15,98,0,0
+Orissa,1,2001,Female,ST,11,12,0,0
+Orissa,1,2001,Female,OBC,24,47,0,0
+Orissa,1,2001,Female,Others,2,92,0,0
+Orissa,1,2002,Female,SC,10,81,0,0
+Orissa,1,2002,Female,ST,14,71,0,0
+Orissa,1,2002,Female,OBC,14,97,0,0
+Orissa,1,2002,Female,Others,11,43,0,0
+Orissa,1,2003,Female,SC,14,93,0,0
+Orissa,1,2003,Female,ST,19,89,0,0
+Orissa,1,2003,Female,OBC,21,70,0,0
+Orissa,1,2003,Female,Others,12,38,0,0
+Orissa,1,2004,Female,SC,16,59,0,0
+Orissa,1,2004,Female,ST,18,41,0,0
+Orissa,1,2004,Female,OBC,14,76,0,0
+Orissa,1,2004,Female,Others,17,119,0,1
+Orissa,1,2005,Female,SC,19,76,0,0
+Orissa,1,2005,Female,ST,21,70,0,0
+Orissa,1,2005,Female,OBC,16,83,0,0
+Orissa,1,2005,Female,Others,32,113,0,0
+Orissa,1,2006,Female,SC,8,79,0,0
+Orissa,1,2006,Female,ST,21,79,0,0
+Orissa,1,2006,Female,OBC,46,131,0,1
+Orissa,1,2006,Female,Others,16,97,0,0
+Orissa,1,2007,Female,SC,9,115,0,0
+Orissa,1,2007,Female,ST,20,95,0,0
+Orissa,1,2007,Female,OBC,62,172,0,0
+Orissa,1,2007,Female,Others,12,135,0,0
+Orissa,1,2008,Female,SC,6,81,0,0
+Orissa,1,2008,Female,ST,19,63,0,0
+Orissa,1,2008,Female,OBC,85,173,0,0
+Orissa,1,2008,Female,Others,12,84,0,0
+Orissa,1,2009,Female,SC,5,75,0,0
+Orissa,1,2009,Female,ST,15,62,0,0
+Orissa,1,2009,Female,OBC,79,165,0,0
+Orissa,1,2009,Female,Others,9,89,0,0
+Orissa,1,2010,Female,SC,6,71,0,0
+Orissa,1,2010,Female,ST,17,59,0,0
+Orissa,1,2010,Female,OBC,83,158,0,0
+Orissa,1,2010,Female,Others,8,88,0,0
+Orissa,1,2011,Female,SC,6,71,0,0
+Orissa,1,2011,Female,ST,15,59,0,0
+Orissa,1,2011,Female,OBC,83,113,0,0
+Orissa,1,2011,Female,Others,8,88,0,0
+Orissa,1,2012,Female,SC,78,113,0,0
+Orissa,1,2012,Female,ST,13,59,0,0
+Orissa,1,2012,Female,OBC,6,111,0,0
+Orissa,1,2012,Female,Others,8,88,0,0
+Punjab,1,2001,Female,SC,35,156,0,2
+Punjab,1,2001,Female,ST,10,75,0,1
+Punjab,1,2001,Female,OBC,26,68,0,0
+Punjab,1,2001,Female,Others,99,154,0,2
+Punjab,1,2002,Female,SC,41,123,0,0
+Punjab,1,2002,Female,ST,39,52,0,0
+Punjab,1,2002,Female,OBC,56,92,0,0
+Punjab,1,2002,Female,Others,123,204,0,0
+Punjab,1,2003,Female,SC,61,121,0,0
+Punjab,1,2003,Female,ST,31,51,0,0
+Punjab,1,2003,Female,OBC,52,30,0,0
+Punjab,1,2003,Female,Others,120,336,0,0
+Punjab,1,2004,Female,SC,70,121,0,0
+Punjab,1,2004,Female,ST,33,43,0,0
+Punjab,1,2004,Female,OBC,48,25,0,0
+Punjab,1,2004,Female,Others,123,312,0,0
+Punjab,1,2005,Female,SC,64,135,0,0
+Punjab,1,2005,Female,ST,26,56,0,0
+Punjab,1,2005,Female,OBC,42,70,0,0
+Punjab,1,2005,Female,Others,105,282,0,0
+Punjab,1,2006,Female,SC,73,128,0,0
+Punjab,1,2006,Female,ST,30,52,0,0
+Punjab,1,2006,Female,OBC,44,66,0,0
+Punjab,1,2006,Female,Others,110,273,0,0
+Punjab,1,2007,Female,SC,62,103,0,0
+Punjab,1,2007,Female,ST,28,30,0,0
+Punjab,1,2007,Female,OBC,33,40,0,0
+Punjab,1,2007,Female,Others,91,448,0,0
+Punjab,1,2008,Female,SC,76,88,0,0
+Punjab,1,2008,Female,ST,40,25,0,0
+Punjab,1,2008,Female,OBC,45,35,0,0
+Punjab,1,2008,Female,Others,103,410,0,0
+Punjab,1,2009,Female,SC,92,133,0,0
+Punjab,1,2009,Female,ST,61,45,0,0
+Punjab,1,2009,Female,OBC,65,49,0,0
+Punjab,1,2009,Female,Others,134,402,0,0
+Punjab,1,2010,Female,SC,89,136,0,0
+Punjab,1,2010,Female,ST,56,51,0,0
+Punjab,1,2010,Female,OBC,63,53,0,0
+Punjab,1,2010,Female,Others,148,422,0,0
+Punjab,1,2011,Female,SC,126,149,0,0
+Punjab,1,2011,Female,ST,77,59,0,0
+Punjab,1,2011,Female,OBC,88,45,0,0
+Punjab,1,2011,Female,Others,163,330,0,0
+Punjab,1,2012,Female,SC,146,249,0,0
+Punjab,1,2012,Female,ST,85,177,0,0
+Punjab,1,2012,Female,OBC,64,159,1,2
+Punjab,1,2012,Female,Others,112,280,0,0
+Rajasthan,1,2001,Female,SC,14,62,0,0
+Rajasthan,1,2001,Female,ST,1,38,0,0
+Rajasthan,1,2001,Female,OBC,41,80,0,0
+Rajasthan,1,2001,Female,Others,47,88,0,0
+Rajasthan,1,2002,Female,SC,44,43,0,0
+Rajasthan,1,2002,Female,ST,30,27,0,0
+Rajasthan,1,2002,Female,OBC,56,63,0,0
+Rajasthan,1,2002,Female,Others,56,74,0,0
+Rajasthan,1,2003,Female,SC,47,57,0,0
+Rajasthan,1,2003,Female,ST,33,50,0,0
+Rajasthan,1,2003,Female,OBC,51,56,0,0
+Rajasthan,1,2003,Female,Others,61,55,0,0
+Rajasthan,1,2004,Female,SC,20,61,0,0
+Rajasthan,1,2004,Female,ST,17,25,0,0
+Rajasthan,1,2004,Female,OBC,22,82,0,0
+Rajasthan,1,2004,Female,Others,120,87,0,0
+Rajasthan,1,2005,Female,SC,17,52,0,0
+Rajasthan,1,2005,Female,ST,17,34,0,0
+Rajasthan,1,2005,Female,OBC,42,57,0,0
+Rajasthan,1,2005,Female,Others,105,104,0,0
+Rajasthan,1,2006,Female,SC,41,70,0,0
+Rajasthan,1,2006,Female,ST,37,36,0,0
+Rajasthan,1,2006,Female,OBC,47,80,0,0
+Rajasthan,1,2006,Female,Others,62,98,0,0
+Rajasthan,1,2007,Female,SC,33,90,0,0
+Rajasthan,1,2007,Female,ST,21,60,0,0
+Rajasthan,1,2007,Female,OBC,58,107,0,0
+Rajasthan,1,2007,Female,Others,80,85,0,0
+Rajasthan,1,2008,Female,SC,34,68,0,0
+Rajasthan,1,2008,Female,ST,37,52,0,0
+Rajasthan,1,2008,Female,OBC,93,146,0,0
+Rajasthan,1,2008,Female,Others,53,64,0,0
+Rajasthan,1,2009,Female,SC,61,111,0,0
+Rajasthan,1,2009,Female,ST,53,77,0,0
+Rajasthan,1,2009,Female,OBC,96,159,0,0
+Rajasthan,1,2009,Female,Others,35,64,0,0
+Rajasthan,1,2010,Female,SC,57,84,0,0
+Rajasthan,1,2010,Female,ST,32,71,0,0
+Rajasthan,1,2010,Female,OBC,87,133,0,0
+Rajasthan,1,2010,Female,Others,46,97,0,0
+Rajasthan,1,2011,Female,SC,49,95,0,0
+Rajasthan,1,2011,Female,ST,37,70,0,0
+Rajasthan,1,2011,Female,OBC,47,124,0,0
+Rajasthan,1,2011,Female,Others,98,130,0,0
+Rajasthan,1,2012,Female,SC,47,157,0,0
+Rajasthan,1,2012,Female,ST,56,64,0,0
+Rajasthan,1,2012,Female,OBC,51,149,0,0
+Rajasthan,1,2012,Female,Others,86,85,0,0
+Sikkim,1,2001,Female,SC,0,0,0,0
+Sikkim,1,2001,Female,ST,0,0,0,0
+Sikkim,1,2001,Female,OBC,0,0,0,0
+Sikkim,1,2001,Female,Others,0,0,0,0
+Sikkim,1,2002,Female,SC,0,0,0,0
+Sikkim,1,2002,Female,ST,0,0,0,0
+Sikkim,1,2002,Female,OBC,0,1,0,0
+Sikkim,1,2002,Female,Others,0,1,0,0
+Sikkim,1,2003,Female,SC,0,0,0,0
+Sikkim,1,2003,Female,ST,0,2,0,0
+Sikkim,1,2003,Female,OBC,1,0,0,0
+Sikkim,1,2003,Female,Others,1,0,0,0
+Sikkim,1,2004,Female,SC,0,0,0,0
+Sikkim,1,2004,Female,ST,0,0,0,0
+Sikkim,1,2004,Female,OBC,0,0,0,0
+Sikkim,1,2004,Female,Others,2,0,0,0
+Sikkim,1,2005,Female,SC,0,0,0,0
+Sikkim,1,2005,Female,ST,0,0,0,0
+Sikkim,1,2005,Female,OBC,0,0,0,0
+Sikkim,1,2005,Female,Others,2,5,0,0
+Sikkim,1,2006,Female,SC,0,0,0,0
+Sikkim,1,2006,Female,ST,1,1,0,0
+Sikkim,1,2006,Female,OBC,0,0,0,0
+Sikkim,1,2006,Female,Others,0,1,0,0
+Sikkim,1,2007,Female,SC,0,1,0,0
+Sikkim,1,2007,Female,ST,0,0,0,0
+Sikkim,1,2007,Female,OBC,1,1,0,0
+Sikkim,1,2007,Female,Others,0,1,0,0
+Sikkim,1,2008,Female,SC,0,2,0,0
+Sikkim,1,2008,Female,ST,1,2,0,0
+Sikkim,1,2008,Female,OBC,0,3,0,0
+Sikkim,1,2008,Female,Others,0,1,0,0
+Sikkim,1,2009,Female,SC,0,0,0,0
+Sikkim,1,2009,Female,ST,1,3,0,0
+Sikkim,1,2009,Female,OBC,0,0,0,0
+Sikkim,1,2009,Female,Others,0,3,0,0
+Sikkim,1,2010,Female,SC,0,1,0,0
+Sikkim,1,2010,Female,ST,1,2,0,0
+Sikkim,1,2010,Female,OBC,0,2,0,0
+Sikkim,1,2010,Female,Others,1,0,0,0
+Sikkim,1,2011,Female,SC,0,0,0,0
+Sikkim,1,2011,Female,ST,0,0,0,0
+Sikkim,1,2011,Female,OBC,0,0,0,0
+Sikkim,1,2011,Female,Others,1,1,0,0
+Sikkim,1,2012,Female,SC,0,0,0,0
+Sikkim,1,2012,Female,ST,0,3,0,0
+Sikkim,1,2012,Female,OBC,1,2,0,0
+Sikkim,1,2012,Female,Others,0,0,0,0
+Tamil Nadu,1,2001,Female,SC,98,83,87,517
+Tamil Nadu,1,2001,Female,ST,8,17,24,77
+Tamil Nadu,1,2001,Female,OBC,40,17,108,683
+Tamil Nadu,1,2001,Female,Others,13,24,0,164
+Tamil Nadu,1,2002,Female,SC,150,50,141,817
+Tamil Nadu,1,2002,Female,ST,11,0,10,89
+Tamil Nadu,1,2002,Female,OBC,17,4,33,312
+Tamil Nadu,1,2002,Female,Others,2,5,0,148
+Tamil Nadu,1,2003,Female,SC,48,30,60,517
+Tamil Nadu,1,2003,Female,ST,37,14,15,315
+Tamil Nadu,1,2003,Female,OBC,65,8,6,512
+Tamil Nadu,1,2003,Female,Others,42,2,0,185
+Tamil Nadu,1,2004,Female,SC,51,31,14,575
+Tamil Nadu,1,2004,Female,ST,37,15,4,195
+Tamil Nadu,1,2004,Female,OBC,71,9,1,571
+Tamil Nadu,1,2004,Female,Others,42,4,0,210
+Tamil Nadu,1,2005,Female,SC,182,45,31,764
+Tamil Nadu,1,2005,Female,ST,31,9,3,45
+Tamil Nadu,1,2005,Female,OBC,32,5,4,433
+Tamil Nadu,1,2005,Female,Others,1,1,2,21
+Tamil Nadu,1,2006,Female,SC,142,37,20,694
+Tamil Nadu,1,2006,Female,ST,21,8,3,44
+Tamil Nadu,1,2006,Female,OBC,32,4,4,419
+Tamil Nadu,1,2006,Female,Others,2,1,2,21
+Tamil Nadu,1,2007,Female,SC,107,368,9,0
+Tamil Nadu,1,2007,Female,ST,5,26,1,0
+Tamil Nadu,1,2007,Female,OBC,42,221,5,0
+Tamil Nadu,1,2007,Female,Others,38,379,14,0
+Tamil Nadu,1,2008,Female,SC,120,293,15,0
+Tamil Nadu,1,2008,Female,ST,8,11,3,0
+Tamil Nadu,1,2008,Female,OBC,43,547,14,0
+Tamil Nadu,1,2008,Female,Others,3,14,0,0
+Tamil Nadu,1,2009,Female,SC,84,238,6,1
+Tamil Nadu,1,2009,Female,ST,32,109,4,0
+Tamil Nadu,1,2009,Female,OBC,20,163,3,0
+Tamil Nadu,1,2009,Female,Others,42,65,3,0
+Tamil Nadu,1,2010,Female,SC,99,316,10,0
+Tamil Nadu,1,2010,Female,ST,0,22,0,0
+Tamil Nadu,1,2010,Female,OBC,34,127,5,0
+Tamil Nadu,1,2010,Female,Others,35,78,8,0
+Tamil Nadu,1,2011,Female,SC,70,254,12,0
+Tamil Nadu,1,2011,Female,ST,0,25,0,0
+Tamil Nadu,1,2011,Female,OBC,72,228,7,0
+Tamil Nadu,1,2011,Female,Others,33,67,2,0
+Tamil Nadu,1,2012,Female,SC,86,250,7,0
+Tamil Nadu,1,2012,Female,ST,8,39,0,0
+Tamil Nadu,1,2012,Female,OBC,61,157,6,0
+Tamil Nadu,1,2012,Female,Others,13,112,8,0
+Tripura,1,2001,Female,SC,3,9,0,0
+Tripura,1,2001,Female,ST,1,2,0,0
+Tripura,1,2001,Female,OBC,0,1,0,0
+Tripura,1,2001,Female,Others,0,0,0,0
+Tripura,1,2002,Female,SC,3,4,0,0
+Tripura,1,2002,Female,ST,1,3,0,0
+Tripura,1,2002,Female,OBC,2,1,0,0
+Tripura,1,2002,Female,Others,0,0,0,0
+Tripura,1,2003,Female,SC,5,2,0,0
+Tripura,1,2003,Female,ST,0,3,0,0
+Tripura,1,2003,Female,OBC,0,4,0,0
+Tripura,1,2003,Female,Others,2,2,0,0
+Tripura,1,2004,Female,SC,10,3,0,0
+Tripura,1,2004,Female,ST,1,3,0,0
+Tripura,1,2004,Female,OBC,1,3,0,0
+Tripura,1,2004,Female,Others,2,1,0,0
+Tripura,1,2005,Female,SC,10,5,0,0
+Tripura,1,2005,Female,ST,0,7,0,0
+Tripura,1,2005,Female,OBC,1,5,0,0
+Tripura,1,2005,Female,Others,4,4,0,0
+Tripura,1,2006,Female,SC,6,5,0,0
+Tripura,1,2006,Female,ST,0,4,0,0
+Tripura,1,2006,Female,OBC,3,0,0,0
+Tripura,1,2006,Female,Others,9,6,0,0
+Tripura,1,2007,Female,SC,3,4,0,0
+Tripura,1,2007,Female,ST,2,2,0,0
+Tripura,1,2007,Female,OBC,2,1,0,0
+Tripura,1,2007,Female,Others,16,7,0,0
+Tripura,1,2008,Female,SC,5,6,0,0
+Tripura,1,2008,Female,ST,1,0,0,0
+Tripura,1,2008,Female,OBC,5,1,0,0
+Tripura,1,2008,Female,Others,8,1,0,0
+Tripura,1,2009,Female,SC,4,4,0,0
+Tripura,1,2009,Female,ST,1,2,0,0
+Tripura,1,2009,Female,OBC,5,3,0,0
+Tripura,1,2009,Female,Others,4,7,0,0
+Tripura,1,2010,Female,SC,3,1,0,0
+Tripura,1,2010,Female,ST,6,1,0,0
+Tripura,1,2010,Female,OBC,1,2,0,0
+Tripura,1,2010,Female,Others,2,6,0,0
+Tripura,1,2011,Female,SC,5,6,0,0
+Tripura,1,2011,Female,ST,1,1,0,0
+Tripura,1,2011,Female,OBC,5,1,0,0
+Tripura,1,2011,Female,Others,4,12,0,0
+Tripura,1,2012,Female,SC,5,6,0,0
+Tripura,1,2012,Female,ST,0,0,0,0
+Tripura,1,2012,Female,OBC,4,4,0,0
+Tripura,1,2012,Female,Others,5,4,0,0
+Uttar Pradesh,1,2001,Female,SC,43,338,1,1
+Uttar Pradesh,1,2001,Female,ST,5,71,0,0
+Uttar Pradesh,1,2001,Female,OBC,33,405,1,1
+Uttar Pradesh,1,2001,Female,Others,62,363,4,2
+Uttar Pradesh,1,2002,Female,SC,48,216,3,0
+Uttar Pradesh,1,2002,Female,ST,4,65,0,0
+Uttar Pradesh,1,2002,Female,OBC,52,301,1,0
+Uttar Pradesh,1,2002,Female,Others,53,518,3,0
+Uttar Pradesh,1,2003,Female,SC,47,211,8,0
+Uttar Pradesh,1,2003,Female,ST,4,73,0,0
+Uttar Pradesh,1,2003,Female,OBC,50,257,4,0
+Uttar Pradesh,1,2003,Female,Others,75,385,7,0
+Uttar Pradesh,1,2004,Female,SC,54,226,16,0
+Uttar Pradesh,1,2004,Female,ST,10,78,0,0
+Uttar Pradesh,1,2004,Female,OBC,86,320,20,0
+Uttar Pradesh,1,2004,Female,Others,47,257,37,1
+Uttar Pradesh,1,2005,Female,SC,88,250,0,0
+Uttar Pradesh,1,2005,Female,ST,7,69,0,0
+Uttar Pradesh,1,2005,Female,OBC,110,323,1,0
+Uttar Pradesh,1,2005,Female,Others,88,407,0,0
+Uttar Pradesh,1,2006,Female,SC,136,542,1,0
+Uttar Pradesh,1,2006,Female,ST,18,59,0,0
+Uttar Pradesh,1,2006,Female,OBC,169,485,0,0
+Uttar Pradesh,1,2006,Female,Others,154,383,0,0
+Uttar Pradesh,1,2007,Female,SC,145,468,25,1
+Uttar Pradesh,1,2007,Female,ST,21,100,3,0
+Uttar Pradesh,1,2007,Female,OBC,254,481,25,0
+Uttar Pradesh,1,2007,Female,Others,159,647,0,0
+Uttar Pradesh,1,2008,Female,SC,173,553,0,0
+Uttar Pradesh,1,2008,Female,ST,20,96,0,0
+Uttar Pradesh,1,2008,Female,OBC,260,737,0,0
+Uttar Pradesh,1,2008,Female,Others,220,634,0,1
+Uttar Pradesh,1,2009,Female,SC,190,543,0,0
+Uttar Pradesh,1,2009,Female,ST,10,73,0,0
+Uttar Pradesh,1,2009,Female,OBC,274,774,1,0
+Uttar Pradesh,1,2009,Female,Others,242,651,1,0
+Uttar Pradesh,1,2010,Female,SC,283,443,0,0
+Uttar Pradesh,1,2010,Female,ST,10,64,0,0
+Uttar Pradesh,1,2010,Female,OBC,264,674,0,0
+Uttar Pradesh,1,2010,Female,Others,242,651,0,0
+Uttar Pradesh,1,2011,Female,SC,308,592,0,0
+Uttar Pradesh,1,2011,Female,ST,11,73,0,0
+Uttar Pradesh,1,2011,Female,OBC,294,814,0,0
+Uttar Pradesh,1,2011,Female,Others,292,755,0,0
+Uttar Pradesh,1,2012,Female,SC,298,561,0,0
+Uttar Pradesh,1,2012,Female,ST,10,92,0,0
+Uttar Pradesh,1,2012,Female,OBC,271,865,0,0
+Uttar Pradesh,1,2012,Female,Others,265,801,0,0
+Uttaranchal,1,2001,Female,SC,2,23,0,0
+Uttaranchal,1,2001,Female,ST,0,8,0,0
+Uttaranchal,1,2001,Female,OBC,0,9,0,0
+Uttaranchal,1,2001,Female,Others,1,23,0,0
+Uttaranchal,1,2002,Female,SC,4,15,0,0
+Uttaranchal,1,2002,Female,ST,2,17,0,0
+Uttaranchal,1,2002,Female,OBC,3,10,0,0
+Uttaranchal,1,2002,Female,Others,3,8,0,0
+Uttaranchal,1,2003,Female,SC,2,12,0,0
+Uttaranchal,1,2003,Female,ST,0,7,0,0
+Uttaranchal,1,2003,Female,OBC,0,5,0,0
+Uttaranchal,1,2003,Female,Others,10,23,0,0
+Uttaranchal,1,2004,Female,SC,2,12,0,0
+Uttaranchal,1,2004,Female,ST,3,17,0,0
+Uttaranchal,1,2004,Female,OBC,4,22,0,0
+Uttaranchal,1,2004,Female,Others,12,32,0,0
+Uttaranchal,1,2005,Female,SC,0,11,0,0
+Uttaranchal,1,2005,Female,ST,0,4,0,0
+Uttaranchal,1,2005,Female,OBC,1,1,0,0
+Uttaranchal,1,2005,Female,Others,13,18,0,0
+Uttaranchal,1,2006,Female,SC,1,13,0,0
+Uttaranchal,1,2006,Female,ST,1,7,0,0
+Uttaranchal,1,2006,Female,OBC,2,8,0,0
+Uttaranchal,1,2006,Female,Others,13,24,0,0
+Uttaranchal,1,2007,Female,SC,5,12,0,0
+Uttaranchal,1,2007,Female,ST,2,6,0,0
+Uttaranchal,1,2007,Female,OBC,2,6,0,0
+Uttaranchal,1,2007,Female,Others,19,30,0,0
+Uttaranchal,1,2008,Female,SC,7,18,0,0
+Uttaranchal,1,2008,Female,ST,2,16,0,0
+Uttaranchal,1,2008,Female,OBC,4,14,0,0
+Uttaranchal,1,2008,Female,Others,22,37,0,0
+Uttaranchal,1,2009,Female,SC,18,21,0,0
+Uttaranchal,1,2009,Female,ST,3,7,0,0
+Uttaranchal,1,2009,Female,OBC,8,13,0,0
+Uttaranchal,1,2009,Female,Others,15,35,0,0
+Uttaranchal,1,2010,Female,SC,22,16,0,0
+Uttaranchal,1,2010,Female,ST,19,5,0,0
+Uttaranchal,1,2010,Female,OBC,11,11,0,0
+Uttaranchal,1,2010,Female,Others,4,26,0,0
+Uttaranchal,1,2011,Female,SC,3,1,0,0
+Uttaranchal,1,2011,Female,ST,19,18,0,0
+Uttaranchal,1,2011,Female,OBC,16,19,0,0
+Uttaranchal,1,2011,Female,Others,29,30,0,0
+Uttaranchal,1,2012,Female,SC,14,19,0,0
+Uttaranchal,1,2012,Female,ST,19,19,0,0
+Uttaranchal,1,2012,Female,OBC,16,25,0,0
+Uttaranchal,1,2012,Female,Others,19,18,0,0
+West Bengal,1,2001,Female,SC,17,78,1,0
+West Bengal,1,2001,Female,ST,4,45,0,0
+West Bengal,1,2001,Female,OBC,23,61,0,0
+West Bengal,1,2001,Female,Others,62,245,0,0
+West Bengal,1,2002,Female,SC,22,143,0,1
+West Bengal,1,2002,Female,ST,22,101,0,0
+West Bengal,1,2002,Female,OBC,7,81,0,0
+West Bengal,1,2002,Female,Others,88,397,0,0
+West Bengal,1,2003,Female,SC,54,121,0,0
+West Bengal,1,2003,Female,ST,25,55,0,0
+West Bengal,1,2003,Female,OBC,24,80,0,0
+West Bengal,1,2003,Female,Others,165,367,0,0
+West Bengal,1,2004,Female,SC,29,114,0,0
+West Bengal,1,2004,Female,ST,6,50,0,0
+West Bengal,1,2004,Female,OBC,13,108,0,0
+West Bengal,1,2004,Female,Others,138,416,0,3
+West Bengal,1,2005,Female,SC,21,41,0,1
+West Bengal,1,2005,Female,ST,6,16,0,0
+West Bengal,1,2005,Female,OBC,20,37,0,0
+West Bengal,1,2005,Female,Others,173,918,2,25
+West Bengal,1,2006,Female,SC,56,115,0,0
+West Bengal,1,2006,Female,ST,11,44,0,0
+West Bengal,1,2006,Female,OBC,17,88,0,0
+West Bengal,1,2006,Female,Others,145,556,0,20
+West Bengal,1,2007,Female,SC,40,137,0,1
+West Bengal,1,2007,Female,ST,13,42,0,1
+West Bengal,1,2007,Female,OBC,20,169,0,0
+West Bengal,1,2007,Female,Others,138,654,0,51
+West Bengal,1,2008,Female,SC,88,194,0,0
+West Bengal,1,2008,Female,ST,43,106,0,0
+West Bengal,1,2008,Female,OBC,45,53,0,0
+West Bengal,1,2008,Female,Others,168,699,0,27
+West Bengal,1,2009,Female,SC,70,109,0,1
+West Bengal,1,2009,Female,ST,45,91,0,0
+West Bengal,1,2009,Female,OBC,29,59,0,0
+West Bengal,1,2009,Female,Others,261,432,2,16
+West Bengal,1,2010,Female,SC,67,171,0,0
+West Bengal,1,2010,Female,ST,23,65,0,0
+West Bengal,1,2010,Female,OBC,51,92,0,0
+West Bengal,1,2010,Female,Others,240,408,0,36
+West Bengal,1,2011,Female,SC,59,169,0,2
+West Bengal,1,2011,Female,ST,29,70,0,1
+West Bengal,1,2011,Female,OBC,34,103,0,0
+West Bengal,1,2011,Female,Others,240,421,0,29
+West Bengal,1,2012,Female,SC,49,104,0,6
+West Bengal,1,2012,Female,ST,22,64,0,2
+West Bengal,1,2012,Female,OBC,15,66,0,1
+West Bengal,1,2012,Female,Others,318,637,0,31
+A & N Islands,0,2001,Female,SC,0,0,0,0
+A & N Islands,0,2001,Female,ST,0,0,0,0
+A & N Islands,0,2001,Female,OBC,0,0,0,0
+A & N Islands,0,2001,Female,Others,0,0,0,0
+A & N Islands,0,2002,Female,SC,0,0,0,0
+A & N Islands,0,2002,Female,ST,0,0,0,0
+A & N Islands,0,2002,Female,OBC,0,0,0,0
+A & N Islands,0,2002,Female,Others,0,0,0,0
+A & N Islands,0,2003,Female,SC,0,0,0,0
+A & N Islands,0,2003,Female,ST,0,0,0,0
+A & N Islands,0,2003,Female,OBC,0,0,0,0
+A & N Islands,0,2003,Female,Others,2,1,0,0
+A & N Islands,0,2004,Female,SC,0,0,0,0
+A & N Islands,0,2004,Female,ST,0,0,0,0
+A & N Islands,0,2004,Female,OBC,0,0,0,0
+A & N Islands,0,2004,Female,Others,2,1,0,0
+A & N Islands,0,2005,Female,SC,0,0,0,0
+A & N Islands,0,2005,Female,ST,0,0,0,0
+A & N Islands,0,2005,Female,OBC,0,0,0,0
+A & N Islands,0,2005,Female,Others,1,3,0,0
+A & N Islands,0,2006,Female,SC,0,0,0,0
+A & N Islands,0,2006,Female,ST,0,0,0,0
+A & N Islands,0,2006,Female,OBC,0,0,0,0
+A & N Islands,0,2006,Female,Others,1,1,0,0
+A & N Islands,0,2007,Female,SC,0,0,0,0
+A & N Islands,0,2007,Female,ST,0,0,0,0
+A & N Islands,0,2007,Female,OBC,0,0,0,0
+A & N Islands,0,2007,Female,Others,1,1,0,0
+A & N Islands,0,2008,Female,SC,0,0,0,0
+A & N Islands,0,2008,Female,ST,0,0,0,0
+A & N Islands,0,2008,Female,OBC,0,0,0,0
+A & N Islands,0,2008,Female,Others,0,0,0,0
+A & N Islands,0,2009,Female,SC,0,0,0,0
+A & N Islands,0,2009,Female,ST,0,0,0,0
+A & N Islands,0,2009,Female,OBC,0,0,0,0
+A & N Islands,0,2009,Female,Others,0,0,0,0
+A & N Islands,0,2010,Female,SC,0,0,0,0
+A & N Islands,0,2010,Female,ST,0,0,0,0
+A & N Islands,0,2010,Female,OBC,0,0,0,0
+A & N Islands,0,2010,Female,Others,0,2,0,0
+A & N Islands,0,2011,Female,SC,0,0,0,0
+A & N Islands,0,2011,Female,ST,0,0,0,0
+A & N Islands,0,2011,Female,OBC,0,0,0,0
+A & N Islands,0,2011,Female,Others,0,7,0,0
+A & N Islands,0,2012,Female,SC,0,0,0,0
+A & N Islands,0,2012,Female,ST,0,0,0,0
+A & N Islands,0,2012,Female,OBC,0,0,0,0
+A & N Islands,0,2012,Female,Others,0,9,0,0
+Chandigarh,0,2001,Female,SC,2,4,0,0
+Chandigarh,0,2001,Female,ST,1,3,0,0
+Chandigarh,0,2001,Female,OBC,0,1,0,0
+Chandigarh,0,2001,Female,Others,3,10,0,0
+Chandigarh,0,2002,Female,SC,2,4,0,0
+Chandigarh,0,2002,Female,ST,0,0,0,0
+Chandigarh,0,2002,Female,OBC,1,3,0,0
+Chandigarh,0,2002,Female,Others,4,9,0,0
+Chandigarh,0,2003,Female,SC,2,4,0,0
+Chandigarh,0,2003,Female,ST,1,2,0,0
+Chandigarh,0,2003,Female,OBC,0,0,0,0
+Chandigarh,0,2003,Female,Others,6,12,0,0
+Chandigarh,0,2004,Female,SC,3,4,0,0
+Chandigarh,0,2004,Female,ST,0,2,0,0
+Chandigarh,0,2004,Female,OBC,1,5,0,0
+Chandigarh,0,2004,Female,Others,3,13,0,0
+Chandigarh,0,2005,Female,SC,2,4,0,0
+Chandigarh,0,2005,Female,ST,0,2,0,0
+Chandigarh,0,2005,Female,OBC,1,3,0,0
+Chandigarh,0,2005,Female,Others,3,11,0,0
+Chandigarh,0,2006,Female,SC,2,4,0,0
+Chandigarh,0,2006,Female,ST,0,0,0,0
+Chandigarh,0,2006,Female,OBC,1,4,0,0
+Chandigarh,0,2006,Female,Others,4,11,0,0
+Chandigarh,0,2007,Female,SC,2,3,0,0
+Chandigarh,0,2007,Female,ST,0,0,0,0
+Chandigarh,0,2007,Female,OBC,1,3,0,0
+Chandigarh,0,2007,Female,Others,2,7,0,0
+Chandigarh,0,2008,Female,SC,2,4,0,0
+Chandigarh,0,2008,Female,ST,0,0,0,0
+Chandigarh,0,2008,Female,OBC,1,3,0,0
+Chandigarh,0,2008,Female,Others,2,5,0,0
+Chandigarh,0,2009,Female,SC,2,5,0,0
+Chandigarh,0,2009,Female,ST,0,0,0,0
+Chandigarh,0,2009,Female,OBC,2,4,0,0
+Chandigarh,0,2009,Female,Others,5,11,0,0
+Chandigarh,0,2010,Female,SC,2,3,0,0
+Chandigarh,0,2010,Female,ST,0,0,0,0
+Chandigarh,0,2010,Female,OBC,3,3,0,0
+Chandigarh,0,2010,Female,Others,5,13,0,0
+Chandigarh,0,2011,Female,SC,2,5,0,0
+Chandigarh,0,2011,Female,ST,0,0,0,0
+Chandigarh,0,2011,Female,OBC,1,4,0,0
+Chandigarh,0,2011,Female,Others,3,7,0,0
+Chandigarh,0,2012,Female,SC,6,6,0,0
+Chandigarh,0,2012,Female,ST,0,0,0,0
+Chandigarh,0,2012,Female,OBC,2,4,0,0
+Chandigarh,0,2012,Female,Others,7,16,0,0
+D & N Haveli,0,2001,Female,SC,0,0,0,0
+D & N Haveli,0,2001,Female,ST,0,4,0,0
+D & N Haveli,0,2001,Female,OBC,0,0,0,0
+D & N Haveli,0,2001,Female,Others,0,1,0,0
+D & N Haveli,0,2002,Female,SC,0,0,0,0
+D & N Haveli,0,2002,Female,ST,0,1,0,0
+D & N Haveli,0,2002,Female,OBC,1,0,0,0
+D & N Haveli,0,2002,Female,Others,0,0,0,0
+D & N Haveli,0,2003,Female,SC,0,0,0,0
+D & N Haveli,0,2003,Female,ST,0,0,0,0
+D & N Haveli,0,2003,Female,OBC,0,0,0,0
+D & N Haveli,0,2003,Female,Others,0,0,0,0
+D & N Haveli,0,2004,Female,SC,0,0,0,0
+D & N Haveli,0,2004,Female,ST,0,0,0,0
+D & N Haveli,0,2004,Female,OBC,0,0,0,0
+D & N Haveli,0,2004,Female,Others,0,0,0,0
+D & N Haveli,0,2005,Female,SC,0,0,0,0
+D & N Haveli,0,2005,Female,ST,0,0,0,0
+D & N Haveli,0,2005,Female,OBC,0,0,0,0
+D & N Haveli,0,2005,Female,Others,0,0,0,0
+D & N Haveli,0,2006,Female,SC,0,0,0,0
+D & N Haveli,0,2006,Female,ST,0,0,0,0
+D & N Haveli,0,2006,Female,OBC,0,0,0,0
+D & N Haveli,0,2006,Female,Others,0,0,0,0
+D & N Haveli,0,2007,Female,SC,0,0,0,0
+D & N Haveli,0,2007,Female,ST,0,0,0,0
+D & N Haveli,0,2007,Female,OBC,0,0,0,0
+D & N Haveli,0,2007,Female,Others,0,0,0,0
+D & N Haveli,0,2008,Female,SC,0,0,0,0
+D & N Haveli,0,2008,Female,ST,0,0,0,0
+D & N Haveli,0,2008,Female,OBC,0,2,0,0
+D & N Haveli,0,2008,Female,Others,0,1,0,0
+D & N Haveli,0,2009,Female,SC,0,0,0,0
+D & N Haveli,0,2009,Female,ST,0,1,0,0
+D & N Haveli,0,2009,Female,OBC,0,0,0,0
+D & N Haveli,0,2009,Female,Others,0,1,0,0
+D & N Haveli,0,2010,Female,SC,0,0,0,0
+D & N Haveli,0,2010,Female,ST,0,0,0,0
+D & N Haveli,0,2010,Female,OBC,0,0,0,0
+D & N Haveli,0,2010,Female,Others,0,0,0,0
+D & N Haveli,0,2011,Female,SC,0,0,0,0
+D & N Haveli,0,2011,Female,ST,0,1,0,0
+D & N Haveli,0,2011,Female,OBC,0,0,0,0
+D & N Haveli,0,2011,Female,Others,0,1,0,0
+D & N Haveli,0,2012,Female,SC,0,0,0,0
+D & N Haveli,0,2012,Female,ST,0,1,0,0
+D & N Haveli,0,2012,Female,OBC,0,0,0,0
+D & N Haveli,0,2012,Female,Others,0,1,0,0
+Daman & Diu,0,2001,Female,SC,0,0,0,0
+Daman & Diu,0,2001,Female,ST,0,1,0,0
+Daman & Diu,0,2001,Female,OBC,0,0,0,0
+Daman & Diu,0,2001,Female,Others,0,0,0,0
+Daman & Diu,0,2002,Female,SC,0,0,0,0
+Daman & Diu,0,2002,Female,ST,0,0,0,0
+Daman & Diu,0,2002,Female,OBC,0,0,0,0
+Daman & Diu,0,2002,Female,Others,0,0,0,0
+Daman & Diu,0,2003,Female,SC,0,0,0,0
+Daman & Diu,0,2003,Female,ST,0,0,0,0
+Daman & Diu,0,2003,Female,OBC,0,0,0,0
+Daman & Diu,0,2003,Female,Others,0,0,0,0
+Daman & Diu,0,2004,Female,SC,0,0,0,0
+Daman & Diu,0,2004,Female,ST,0,0,0,0
+Daman & Diu,0,2004,Female,OBC,0,0,0,0
+Daman & Diu,0,2004,Female,Others,0,1,0,0
+Daman & Diu,0,2005,Female,SC,0,0,0,0
+Daman & Diu,0,2005,Female,ST,0,1,0,0
+Daman & Diu,0,2005,Female,OBC,0,0,0,0
+Daman & Diu,0,2005,Female,Others,0,0,0,0
+Daman & Diu,0,2006,Female,SC,0,1,0,0
+Daman & Diu,0,2006,Female,ST,0,0,0,0
+Daman & Diu,0,2006,Female,OBC,0,0,0,0
+Daman & Diu,0,2006,Female,Others,0,0,0,0
+Daman & Diu,0,2007,Female,SC,0,0,0,0
+Daman & Diu,0,2007,Female,ST,0,0,0,0
+Daman & Diu,0,2007,Female,OBC,0,0,0,0
+Daman & Diu,0,2007,Female,Others,2,4,0,0
+Daman & Diu,0,2008,Female,SC,0,0,0,0
+Daman & Diu,0,2008,Female,ST,0,0,0,0
+Daman & Diu,0,2008,Female,OBC,0,0,0,0
+Daman & Diu,0,2008,Female,Others,2,1,0,0
+Daman & Diu,0,2009,Female,SC,0,0,0,0
+Daman & Diu,0,2009,Female,ST,1,0,0,0
+Daman & Diu,0,2009,Female,OBC,0,0,0,0
+Daman & Diu,0,2009,Female,Others,0,0,0,0
+Daman & Diu,0,2010,Female,SC,0,0,0,0
+Daman & Diu,0,2010,Female,ST,0,0,0,0
+Daman & Diu,0,2010,Female,OBC,0,0,0,0
+Daman & Diu,0,2010,Female,Others,1,0,0,0
+Daman & Diu,0,2011,Female,SC,0,0,0,0
+Daman & Diu,0,2011,Female,ST,0,0,0,0
+Daman & Diu,0,2011,Female,OBC,0,0,0,0
+Daman & Diu,0,2011,Female,Others,1,0,0,0
+Daman & Diu,0,2012,Female,SC,0,0,0,0
+Daman & Diu,0,2012,Female,ST,0,0,0,0
+Daman & Diu,0,2012,Female,OBC,0,0,0,0
+Daman & Diu,0,2012,Female,Others,1,1,0,0
+Delhi,0,2001,Female,SC,0,0,0,0
+Delhi,0,2001,Female,ST,0,0,0,0
+Delhi,0,2001,Female,OBC,0,0,0,0
+Delhi,0,2001,Female,Others,0,0,0,0
+Delhi,0,2002,Female,SC,0,0,0,0
+Delhi,0,2002,Female,ST,0,0,0,0
+Delhi,0,2002,Female,OBC,0,0,0,0
+Delhi,0,2002,Female,Others,0,0,0,0
+Delhi,0,2003,Female,SC,0,0,0,0
+Delhi,0,2003,Female,ST,0,0,0,0
+Delhi,0,2003,Female,OBC,0,0,0,0
+Delhi,0,2003,Female,Others,0,0,0,0
+Delhi,0,2004,Female,SC,0,0,0,0
+Delhi,0,2004,Female,ST,0,0,0,0
+Delhi,0,2004,Female,OBC,0,0,0,0
+Delhi,0,2004,Female,Others,0,0,0,0
+Delhi,0,2005,Female,SC,0,0,0,0
+Delhi,0,2005,Female,ST,0,0,0,0
+Delhi,0,2005,Female,OBC,0,0,0,0
+Delhi,0,2005,Female,Others,0,0,0,0
+Delhi,0,2006,Female,SC,0,0,0,0
+Delhi,0,2006,Female,ST,0,0,0,0
+Delhi,0,2006,Female,OBC,0,0,0,0
+Delhi,0,2006,Female,Others,0,0,0,0
+Delhi,0,2007,Female,SC,0,0,0,0
+Delhi,0,2007,Female,ST,0,0,0,0
+Delhi,0,2007,Female,OBC,0,0,0,0
+Delhi,0,2007,Female,Others,0,0,0,0
+Delhi,0,2008,Female,SC,0,0,0,0
+Delhi,0,2008,Female,ST,0,0,0,0
+Delhi,0,2008,Female,OBC,0,0,0,0
+Delhi,0,2008,Female,Others,0,0,0,0
+Delhi,0,2009,Female,SC,0,0,0,0
+Delhi,0,2009,Female,ST,0,0,0,0
+Delhi,0,2009,Female,OBC,0,0,0,0
+Delhi,0,2009,Female,Others,0,0,0,0
+Delhi,0,2010,Female,SC,0,0,0,0
+Delhi,0,2010,Female,ST,0,0,0,0
+Delhi,0,2010,Female,OBC,0,0,0,0
+Delhi,0,2010,Female,Others,0,0,0,0
+Delhi,0,2011,Female,SC,4,36,0,0
+Delhi,0,2011,Female,ST,0,13,0,0
+Delhi,0,2011,Female,OBC,10,65,0,0
+Delhi,0,2011,Female,Others,102,296,0,0
+Delhi,0,2012,Female,SC,5,59,0,0
+Delhi,0,2012,Female,ST,2,14,0,0
+Delhi,0,2012,Female,OBC,13,84,0,0
+Delhi,0,2012,Female,Others,105,258,0,0
+Lakshadweep,0,2001,Female,SC,0,0,0,0
+Lakshadweep,0,2001,Female,ST,0,0,0,0
+Lakshadweep,0,2001,Female,OBC,0,0,0,0
+Lakshadweep,0,2001,Female,Others,0,0,0,0
+Lakshadweep,0,2002,Female,SC,0,0,0,0
+Lakshadweep,0,2002,Female,ST,0,0,0,0
+Lakshadweep,0,2002,Female,OBC,0,0,0,0
+Lakshadweep,0,2002,Female,Others,0,0,0,0
+Lakshadweep,0,2003,Female,SC,0,0,0,0
+Lakshadweep,0,2003,Female,ST,0,0,0,0
+Lakshadweep,0,2003,Female,OBC,0,0,0,0
+Lakshadweep,0,2003,Female,Others,0,0,0,0
+Lakshadweep,0,2004,Female,SC,0,0,0,0
+Lakshadweep,0,2004,Female,ST,0,0,0,0
+Lakshadweep,0,2004,Female,OBC,0,0,0,0
+Lakshadweep,0,2004,Female,Others,0,0,0,0
+Lakshadweep,0,2005,Female,SC,0,0,0,0
+Lakshadweep,0,2005,Female,ST,0,0,0,0
+Lakshadweep,0,2005,Female,OBC,0,0,0,0
+Lakshadweep,0,2005,Female,Others,0,0,0,0
+Lakshadweep,0,2006,Female,SC,0,0,0,0
+Lakshadweep,0,2006,Female,ST,0,0,0,0
+Lakshadweep,0,2006,Female,OBC,0,0,0,0
+Lakshadweep,0,2006,Female,Others,0,0,0,0
+Lakshadweep,0,2007,Female,SC,0,0,0,0
+Lakshadweep,0,2007,Female,ST,0,0,0,0
+Lakshadweep,0,2007,Female,OBC,0,0,0,0
+Lakshadweep,0,2007,Female,Others,0,0,0,0
+Lakshadweep,0,2008,Female,SC,0,0,0,0
+Lakshadweep,0,2008,Female,ST,0,0,0,0
+Lakshadweep,0,2008,Female,OBC,0,0,0,0
+Lakshadweep,0,2008,Female,Others,0,0,0,0
+Lakshadweep,0,2009,Female,SC,0,0,0,0
+Lakshadweep,0,2009,Female,ST,0,0,0,0
+Lakshadweep,0,2009,Female,OBC,0,0,0,0
+Lakshadweep,0,2009,Female,Others,0,0,0,0
+Lakshadweep,0,2010,Female,SC,0,0,0,0
+Lakshadweep,0,2010,Female,ST,0,0,0,0
+Lakshadweep,0,2010,Female,OBC,0,0,0,0
+Lakshadweep,0,2010,Female,Others,0,0,0,0
+Lakshadweep,0,2011,Female,SC,0,0,0,0
+Lakshadweep,0,2011,Female,ST,0,1,0,0
+Lakshadweep,0,2011,Female,OBC,0,0,0,0
+Lakshadweep,0,2011,Female,Others,0,0,0,0
+Lakshadweep,0,2012,Female,SC,0,0,0,0
+Lakshadweep,0,2012,Female,ST,0,0,0,0
+Lakshadweep,0,2012,Female,OBC,0,0,0,0
+Lakshadweep,0,2012,Female,Others,0,0,0,0
+Pondicherry,0,2001,Female,SC,0,0,0,0
+Pondicherry,0,2001,Female,ST,0,0,0,0
+Pondicherry,0,2001,Female,OBC,1,3,0,0
+Pondicherry,0,2001,Female,Others,0,2,0,0
+Pondicherry,0,2002,Female,SC,0,4,0,0
+Pondicherry,0,2002,Female,ST,0,0,0,0
+Pondicherry,0,2002,Female,OBC,1,5,0,0
+Pondicherry,0,2002,Female,Others,0,3,0,0
+Pondicherry,0,2003,Female,SC,0,1,0,0
+Pondicherry,0,2003,Female,ST,0,0,0,0
+Pondicherry,0,2003,Female,OBC,2,2,0,0
+Pondicherry,0,2003,Female,Others,0,1,0,0
+Pondicherry,0,2004,Female,SC,0,0,0,0
+Pondicherry,0,2004,Female,ST,0,0,0,0
+Pondicherry,0,2004,Female,OBC,2,1,0,0
+Pondicherry,0,2004,Female,Others,0,0,0,0
+Pondicherry,0,2005,Female,SC,2,1,0,0
+Pondicherry,0,2005,Female,ST,0,0,0,0
+Pondicherry,0,2005,Female,OBC,3,0,0,0
+Pondicherry,0,2005,Female,Others,0,0,0,0
+Pondicherry,0,2006,Female,SC,0,0,0,0
+Pondicherry,0,2006,Female,ST,0,0,0,0
+Pondicherry,0,2006,Female,OBC,3,1,0,0
+Pondicherry,0,2006,Female,Others,0,0,0,0
+Pondicherry,0,2007,Female,SC,1,0,0,0
+Pondicherry,0,2007,Female,ST,0,0,0,0
+Pondicherry,0,2007,Female,OBC,0,1,0,0
+Pondicherry,0,2007,Female,Others,1,1,0,0
+Pondicherry,0,2008,Female,SC,0,1,0,0
+Pondicherry,0,2008,Female,ST,0,0,0,0
+Pondicherry,0,2008,Female,OBC,1,4,0,0
+Pondicherry,0,2008,Female,Others,0,0,0,0
+Pondicherry,0,2009,Female,SC,1,1,0,0
+Pondicherry,0,2009,Female,ST,0,0,0,0
+Pondicherry,0,2009,Female,OBC,1,0,0,0
+Pondicherry,0,2009,Female,Others,0,0,0,0
+Pondicherry,0,2010,Female,SC,1,1,0,0
+Pondicherry,0,2010,Female,ST,0,0,0,0
+Pondicherry,0,2010,Female,OBC,1,3,0,0
+Pondicherry,0,2010,Female,Others,0,0,0,0
+Pondicherry,0,2011,Female,SC,1,0,0,0
+Pondicherry,0,2011,Female,ST,0,0,0,0
+Pondicherry,0,2011,Female,OBC,2,2,0,0
+Pondicherry,0,2011,Female,Others,0,0,0,0
+Pondicherry,0,2012,Female,SC,1,0,0,0
+Pondicherry,0,2012,Female,ST,0,0,0,0
+Pondicherry,0,2012,Female,OBC,0,1,0,0
+Pondicherry,0,2012,Female,Others,1,0,0,0
+Andhra Pradesh,1,2013,Female,SC,100,177,1,0
+Andhra Pradesh,1,2013,Female,ST,35,143,0,0
+Andhra Pradesh,1,2013,Female,OBC,89,189,0,0
+Andhra Pradesh,1,2013,Female,Others,65,100,0,0
+Arunachal Pradesh,1,2013,Female,SC,0,0,0,0
+Arunachal Pradesh,1,2013,Female,ST,1,1,0,0
+Arunachal Pradesh,1,2013,Female,OBC,0,0,0,0
+Arunachal Pradesh,1,2013,Female,Others,0,0,0,0
+Assam,1,2013,Female,SC,22,36,0,0
+Assam,1,2013,Female,ST,15,52,0,0
+Assam,1,2013,Female,OBC,20,54,0,0
+Assam,1,2013,Female,Others,44,63,0,0
+Bihar,1,2013,Female,SC,16,161,0,0
+Bihar,1,2013,Female,ST,0,74,0,0
+Bihar,1,2013,Female,OBC,62,469,0,4
+Bihar,1,2013,Female,Others,45,269,0,0
+Chhattisgarh,1,2013,Female,SC,67,118,0,0
+Chhattisgarh,1,2013,Female,ST,91,182,0,0
+Chhattisgarh,1,2013,Female,OBC,102,143,0,0
+Chhattisgarh,1,2013,Female,Others,45,73,0,0
+Goa,1,2013,Female,SC,0,2,0,0
+Goa,1,2013,Female,ST,2,5,0,0
+Goa,1,2013,Female,OBC,4,6,0,0
+Goa,1,2013,Female,Others,1,8,0,0
+Gujarat,1,2013,Female,SC,52,76,7,0
+Gujarat,1,2013,Female,ST,47,66,6,0
+Gujarat,1,2013,Female,OBC,43,139,13,0
+Gujarat,1,2013,Female,Others,24,98,6,0
+Haryana,1,2013,Female,SC,80,107,0,0
+Haryana,1,2013,Female,ST,30,47,0,0
+Haryana,1,2013,Female,OBC,80,95,0,0
+Haryana,1,2013,Female,Others,165,226,0,0
+Himachal Pradesh,1,2013,Female,SC,17,14,0,0
+Himachal Pradesh,1,2013,Female,ST,0,1,0,0
+Himachal Pradesh,1,2013,Female,OBC,2,12,0,0
+Himachal Pradesh,1,2013,Female,Others,19,31,0,0
+Jammu & Kashmir,1,2013,Female,SC,2,4,0,0
+Jammu & Kashmir,1,2013,Female,ST,1,18,0,0
+Jammu & Kashmir,1,2013,Female,OBC,0,1,0,0
+Jammu & Kashmir,1,2013,Female,Others,7,53,1,0
+Jharkhand,1,2013,Female,SC,22,137,0,0
+Jharkhand,1,2013,Female,ST,68,209,0,0
+Jharkhand,1,2013,Female,OBC,32,222,0,0
+Jharkhand,1,2013,Female,Others,36,124,0,0
+Karnataka,1,2013,Female,SC,27,23,2,0
+Karnataka,1,2013,Female,ST,13,11,1,0
+Karnataka,1,2013,Female,OBC,14,17,1,0
+Karnataka,1,2013,Female,Others,144,323,8,0
+Kerala,1,2013,Female,SC,17,37,0,2
+Kerala,1,2013,Female,ST,2,1,0,0
+Kerala,1,2013,Female,OBC,12,79,0,0
+Kerala,1,2013,Female,Others,17,23,0,0
+Madhya Pradesh,1,2013,Female,SC,99,123,0,1
+Madhya Pradesh,1,2013,Female,ST,89,102,0,0
+Madhya Pradesh,1,2013,Female,OBC,184,191,0,1
+Madhya Pradesh,1,2013,Female,Others,144,151,0,1
+Maharashtra,1,2013,Female,SC,76,166,0,0
+Maharashtra,1,2013,Female,ST,54,123,1,0
+Maharashtra,1,2013,Female,OBC,135,234,0,0
+Maharashtra,1,2013,Female,Others,172,598,0,0
+Manipur,1,2013,Female,SC,0,0,0,0
+Manipur,1,2013,Female,ST,1,5,0,0
+Manipur,1,2013,Female,OBC,0,0,0,0
+Manipur,1,2013,Female,Others,1,25,3,0
+Meghalaya,1,2013,Female,SC,0,2,0,0
+Meghalaya,1,2013,Female,ST,0,9,0,0
+Meghalaya,1,2013,Female,OBC,0,0,0,0
+Meghalaya,1,2013,Female,Others,0,0,0,0
+Mizoram,1,2013,Female,SC,0,0,0,0
+Mizoram,1,2013,Female,ST,8,58,0,0
+Mizoram,1,2013,Female,OBC,0,0,0,0
+Mizoram,1,2013,Female,Others,0,0,0,0
+Nagaland,1,2013,Female,SC,0,0,0,0
+Nagaland,1,2013,Female,ST,4,6,0,0
+Nagaland,1,2013,Female,OBC,0,2,0,0
+Nagaland,1,2013,Female,Others,0,0,0,0
+Orissa,1,2013,Female,SC,13,137,0,0
+Orissa,1,2013,Female,ST,16,89,0,0
+Orissa,1,2013,Female,OBC,78,185,0,0
+Orissa,1,2013,Female,Others,15,108,0,0
+Punjab,1,2013,Female,SC,251,289,0,0
+Punjab,1,2013,Female,ST,0,0,0,0
+Punjab,1,2013,Female,OBC,129,211,0,0
+Punjab,1,2013,Female,Others,108,476,0,0
+Rajasthan,1,2013,Female,SC,53,125,0,0
+Rajasthan,1,2013,Female,ST,48,81,0,0
+Rajasthan,1,2013,Female,OBC,52,153,0,0
+Rajasthan,1,2013,Female,Others,66,84,0,0
+Sikkim,1,2013,Female,SC,1,0,0,0
+Sikkim,1,2013,Female,ST,0,2,0,0
+Sikkim,1,2013,Female,OBC,1,3,0,0
+Sikkim,1,2013,Female,Others,0,1,0,0
+Tamil Nadu,1,2013,Female,SC,62,200,13,0
+Tamil Nadu,1,2013,Female,ST,0,19,0,0
+Tamil Nadu,1,2013,Female,OBC,62,157,13,0
+Tamil Nadu,1,2013,Female,Others,38,121,22,0
+Tripura,1,2013,Female,SC,6,5,0,0
+Tripura,1,2013,Female,ST,0,0,0,0
+Tripura,1,2013,Female,OBC,5,3,0,0
+Tripura,1,2013,Female,Others,3,3,0,0
+Uttar Pradesh,1,2013,Female,SC,252,665,0,0
+Uttar Pradesh,1,2013,Female,ST,26,55,0,0
+Uttar Pradesh,1,2013,Female,OBC,380,880,0,0
+Uttar Pradesh,1,2013,Female,Others,305,749,0,0
+Uttaranchal,1,2013,Female,SC,22,23,0,0
+Uttaranchal,1,2013,Female,ST,19,21,0,0
+Uttaranchal,1,2013,Female,OBC,19,28,0,0
+Uttaranchal,1,2013,Female,Others,25,25,0,0
+West Bengal,1,2013,Female,SC,87,154,0,0
+West Bengal,1,2013,Female,ST,17,63,0,0
+West Bengal,1,2013,Female,OBC,38,138,0,1
+West Bengal,1,2013,Female,Others,225,623,0,47
+A & N Islands,0,2013,Female,SC,0,0,0,0
+A & N Islands,0,2013,Female,ST,0,0,0,0
+A & N Islands,0,2013,Female,OBC,0,0,0,0
+A & N Islands,0,2013,Female,Others,1,7,0,0
+Chandigarh,0,2013,Female,SC,4,3,0,0
+Chandigarh,0,2013,Female,ST,0,0,0,0
+Chandigarh,0,2013,Female,OBC,3,4,0,0
+Chandigarh,0,2013,Female,Others,5,5,0,0
+D & N Haveli,0,2013,Female,SC,0,0,0,0
+D & N Haveli,0,2013,Female,ST,0,0,0,0
+D & N Haveli,0,2013,Female,OBC,0,0,0,0
+D & N Haveli,0,2013,Female,Others,0,0,0,0
+Daman & Diu,0,2013,Female,SC,1,0,0,0
+Daman & Diu,0,2013,Female,ST,0,0,0,0
+Daman & Diu,0,2013,Female,OBC,0,0,0,0
+Daman & Diu,0,2013,Female,Others,0,0,0,0
+Delhi,0,2013,Female,SC,10,108,0,0
+Delhi,0,2013,Female,ST,4,8,0,0
+Delhi,0,2013,Female,OBC,23,112,0,0
+Delhi,0,2013,Female,Others,104,246,0,0
+Lakshadweep,0,2013,Female,SC,0,0,0,0
+Lakshadweep,0,2013,Female,ST,0,0,0,0
+Lakshadweep,0,2013,Female,OBC,0,0,0,0
+Lakshadweep,0,2013,Female,Others,0,0,0,0
+Pondicherry,0,2013,Female,SC,1,1,0,0
+Pondicherry,0,2013,Female,ST,0,0,0,0
+Pondicherry,0,2013,Female,OBC,0,4,0,0
+Pondicherry,0,2013,Female,Others,1,0,0,0
