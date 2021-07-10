@@ -30,7 +30,8 @@ fig = px.icicle(df, path=[px.Constant("all"), 'Period', 'Locality'],
 #                 values='Slaves', color='Locality')
 # fig.update_traces(root_color="lightgrey", tiling=dict(orientation='v', flip='y'))
 
-
+# fig = px.icicle(df, path=[px.Constant("all"), 'Period', 'Locality'],
+#                 values='Slaves', maxdepth=2)
 fig.update_traces(root_color="lightgrey", tiling=dict(orientation='h'))
 
 fig.show()
