@@ -1,6 +1,7 @@
 import pandas as pd
 import plotly.express as px  # Plotly version >= 5.0
 
+# data from: https://data.virginia.gov/Education/Bills-of-Sale-of-Enslaved-Individuals-1718-1862-/j2xt-sjy7
 df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Plotly_Graphs/Icicle/Bills_of_Sale_of_Enslaved_Individuals__1718-1862.csv")
 print(df.head()[['Period', 'Locality']])
 
