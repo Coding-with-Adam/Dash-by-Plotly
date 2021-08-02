@@ -64,7 +64,7 @@ def update_grpah(selected_counties, selected_state):
                          trendline='ols',
                          size='bubble_size',
                          hover_name='County',
-                         hover_data={'bubble_size':False},
+                         # hover_data={'bubble_size':False},
                          labels={'% adults graduated high school':'% graduated high school',
                                  '% without health insurance':'% no health insurance',
                                  '% in fair or poor health':'% poor health'}
