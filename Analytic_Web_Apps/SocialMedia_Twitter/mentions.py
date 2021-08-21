@@ -95,7 +95,7 @@ mentions_layout = html.Div(
 )
 def display_value(nclicks, num, acnt_handle):
     results = api.GetSearch(
-        raw_query=f"q=%40{acnt_handle}%20until%3A2021-08-05%20since%3A2021-01-01&src=typed_query&count={num}"
+        raw_query=f"q=%40{acnt_handle}&src=typed_query&count={num}"
     )       #       q=%40MoveTheWorld%20until%3A2021-08-05%20since%3A2021-01-01&src=typed_query
 
     twt_followers, twt_likes, twt_count, twt_friends, twt_name = [], [], [], [], []
