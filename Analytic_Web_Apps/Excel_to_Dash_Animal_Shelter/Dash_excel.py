@@ -10,6 +10,7 @@ import pandas as pd             # pip install pandas
 df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Analytic_Web_Apps/Excel_to_Dash_Animal_Shelter/Animals_Inventory.csv")
 df["intake_time"] = pd.to_datetime(df["intake_time"])
 df["intake_time"] = df["intake_time"].dt.hour
+print(df.head())
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -30,13 +31,13 @@ app.layout = html.Div([
 ])
 
 
-@app.callback(Output("output-div", "children"),
-              Input("animal-type", "value"),
+@app.callback(Output(component_id="output-div", component_property="children"),
+              Input(component_id="animal-type", component_property="value"),
 )
 def make_graphs(animal_chosen):
     # HISTOGRAM
     df_hist = df[df["animal_type"]==animal_chosen]
-    fig_hist = px.histogram(df_hist, x="animal_breed", nbins=5)
+    fig_hist = px.histogram(df_hist, x="animal_breed")
     fig_hist.update_xaxes(categoryorder="total descending")
 
     # STRIP CHART
@@ -76,4 +77,4 @@ def make_graphs(animal_chosen):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
