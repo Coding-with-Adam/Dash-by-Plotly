@@ -2,7 +2,6 @@ import dash                     # pip install dash
 from dash.dependencies import Input, Output, State
 import dash_core_components as dcc
 import dash_html_components as html
-import dash_table
 import plotly.express as px     # pip install plotly==5.2.2
 
 import pandas as pd             # pip install pandas
@@ -34,7 +33,7 @@ app.layout = html.Div([
 @app.callback(Output("output-div", "children"),
               Input("animal-type", "value"),
 )
-def make_bars(animal_chosen):
+def make_graphs(animal_chosen):
     # HISTOGRAM
     df_hist = df[df["animal_type"]==animal_chosen]
     fig_hist = px.histogram(df_hist, x="animal_breed", nbins=5)
