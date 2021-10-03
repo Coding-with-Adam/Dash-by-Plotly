@@ -1,15 +1,15 @@
 import pandas as pd
-import plotly.express as px  # (version 4.7.0)
+import plotly.express as px  # (version 4.7.0 or higher)
 import plotly.graph_objects as go
+from dash import Dash, dcc, html, Input, Output  # pip install dash (version 2.0.0 or higher)
 
-import dash  # (version 1.12.0) pip install dash
-import dash_core_components as dcc
-import dash_html_components as html
-from dash.dependencies import Input, Output
 
-app = dash.Dash(__name__)
 
-# ---------- Import and clean data (importing csv into pandas)
+
+
+app = Dash(__name__)
+
+# -- Import and clean data (importing csv into pandas)
 # df = pd.read_csv("intro_bees.csv")
 df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Other/Dash_Introduction/intro_bees.csv")
 
@@ -96,6 +96,3 @@ def update_graph(option_slctd):
 # ------------------------------------------------------------------------------
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-    
-# https://youtu.be/hSPmj7mK6ng 
