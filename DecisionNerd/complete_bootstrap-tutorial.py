@@ -24,3 +24,17 @@ import pandas_datareader as pdr    # https://pandas-datareader.readthedocs.io/
 # load saved data
 df = pd.read_csv("mystocks.csv")
 print(df[:15])
+
+# https://dash-bootstrap-components.opensource.faculty.ai/docs/themes/explorer/
+app = dash.Dash(__name__, 
+                external_stylesheets=[dbc.themes.SIMPLEX],
+                metadata=[
+                    {
+                        'name': 'viewport',
+                        'content': 'width=device-width, initial-scale=1.0'
+                    }
+                ])
+
+# Layout for app https://hackerthemes.com/bootstrap-cheatsheet/
+# ------------------------------
+
