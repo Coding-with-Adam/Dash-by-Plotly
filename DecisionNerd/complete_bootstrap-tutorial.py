@@ -9,6 +9,14 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import pandas_datareader as pdr    # https://pandas-datareader.readthedocs.io/
 
-# set time window
-start = datetime.datetime(2020,1,1)
-end = datetime.datetime(2020,12,31)
+# # set time window
+# start = datetime.datetime(2020,1,1)
+# end = datetime.datetime(2020,12,31)
+
+# # load data from pandas_datareader
+# df = pdr.data.DataReader(['AMZN', 'GOOGL', 'FB', 'PFE', 'BNTX', 'MRNA'],
+#                          'stooq', start=start, end=end)
+# df = df.stack().reset_index()
+# print(df[:15])
+
+# df.to_csv("mystocks.csv", index=False)
