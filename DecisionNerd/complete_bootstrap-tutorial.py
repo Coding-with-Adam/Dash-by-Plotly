@@ -20,3 +20,7 @@ import pandas_datareader as pdr    # https://pandas-datareader.readthedocs.io/
 # print(df[:15])
 
 # df.to_csv("mystocks.csv", index=False)
+
+# load saved data
+df = pd.read_csv("mystocks.csv")
+print(df[:15])
