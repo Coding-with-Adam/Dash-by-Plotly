@@ -10,5 +10,5 @@ import pandas as pd
 import pandas_datareader as pdr    # https://pandas-datareader.readthedocs.io/
 
 # set time window
-start = datetime.datetime(2021,1,1)
-end = datetime.now()
+start = datetime.datetime(2020,1,1)
+end = datetime.datetime(2020,12,31)
