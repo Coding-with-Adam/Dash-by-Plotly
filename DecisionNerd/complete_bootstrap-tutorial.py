@@ -23,7 +23,6 @@ import pandas_datareader as pdr    # https://pandas-datareader.readthedocs.io/
 
 # load saved data
 df = pd.read_csv("mystocks.csv")
-print(df[:15])
 
 # https://dash-bootstrap-components.opensource.faculty.ai/docs/themes/explorer/
 app = dash.Dash(__name__, 
@@ -37,4 +36,19 @@ app = dash.Dash(__name__,
 
 # Layout for app https://hackerthemes.com/bootstrap-cheatsheet/
 # ------------------------------
+app.layout = dbc.Container([
+    dbc.Row([
+        dbc.Col(
+            html.H1("DecisionNerd's Stock Market")
+        )
+    ]),
+    dbc.Row([
+        
+    ]),
+    dbc.Row([
+        
+    ])
+])
 
+if __name__ == '__main__':
+    app.run_server(debug=True, port=8181)
