@@ -11,9 +11,8 @@ business owners, financial analysts, or those that work in marketing, social med
 > - [User Guide](https://dash-docs.herokuapp.com/introduction)
 
 # Installation
-I recommend installing numpy and pandas, since you will most likely use them.
+I recommend installing pandas, since you will most likely use them.
 
-    $ pip install numpy
     $ pip install pandas
     
 Then, just install Dash. Plotly comes with Dash
