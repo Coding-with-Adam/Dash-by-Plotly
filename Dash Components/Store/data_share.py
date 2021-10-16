@@ -8,29 +8,28 @@ app = Dash(__name__, external_stylesheets=external_stylesheets)
 app.layout = html.Div([
     html.H1('Sharing Data between callbacks', style={'textAlign':'center'}),
     html.Div([
-        dcc.Dropdown(id='data-set', multi=False, value='gapminder',
+        dcc.Dropdown(id='data-set-chosen', multi=False, value='gapminder',
                      options=[{'label':'Country Data', 'value':'gapminder'},
                               {'label':'Restaurant Tips', 'value':'tips'},
                               {'label':'Flowers', 'value':'iris'}])
     ], className='row', style={'width':'50%'}),
 
     html.Div([
-        html.Div(id='graph1', children='', className='six columns'),
-        html.Div(id='graph2', children='', className='six columns')
+        html.Div(id='graph1', children=[], className='six columns'),
     ], className='row'),
 
     html.Div([
-        html.Div(id='table-placeholder', children='')
+        html.Div(id='table-placeholder', children=[])
     ], className='row'),
 
     # dcc.Store inside the user's current browser session
-    dcc.Store(id='store-data', data={}, storage_type='memory') # 'local' or 'session'
+    dcc.Store(id='store-data', data=[], storage_type='memory') # 'local' or 'session'
 ])
 
 
 @callback(
     Output('store-data', 'data'),
-    Input('data-set', 'value')
+    Input('data-set-chosen', 'value')
 )
 def store_data(value):
     # hypothetical enormous dataset with millions of rows
@@ -40,7 +39,6 @@ def store_data(value):
         dataset = px.data.tips()
     elif value == 'iris':
         dataset = px.data.iris()
-        print(type(dataset.to_dict('records')))
     return dataset.to_dict('records')
     # 2. or save as string like JSON
     # return dataset.to_json(orient='split')
