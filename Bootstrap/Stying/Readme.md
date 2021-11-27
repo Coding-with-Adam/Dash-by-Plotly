@@ -1,1 +1,2 @@
-New Styling video to come out this weekend.
+## Dash Bootstrap cheetsheet:
+https://dashcheatsheet.pythonanywhere.com/
