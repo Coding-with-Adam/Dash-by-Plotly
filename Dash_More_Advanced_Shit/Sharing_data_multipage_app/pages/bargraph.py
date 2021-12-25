@@ -31,7 +31,7 @@ def populate_dropdownvalues(data):
 
 @callback(
     [Output("bar-container", "children"),
-    Output("dropdown-value", "data")],
+    Output("store-dropdown-value", "data")],
     [Input("dropdown", "value"),
      State("stored-data", "data")]
 )
@@ -40,5 +40,4 @@ def graph_and_table(dropdown_day, data):
     dff = dff[dff["day"] == dropdown_day]
     fig = px.bar(dff, x="sex", y="total_bill", color="smoker", barmode="group")
     return dcc.Graph(figure=fig), dropdown_day
-
 
