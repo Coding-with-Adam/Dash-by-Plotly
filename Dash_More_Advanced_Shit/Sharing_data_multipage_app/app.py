@@ -4,8 +4,8 @@ import dash_labs as dl  # pip install dash-labs
 import dash_bootstrap_components as dbc # pip install dash-bootstrap-components
 import plotly.express as px
 
-
 df = px.data.tips()
+print(df.head())
 # convert dataframe to list of dictionaries because dcc.Store
 # accepts dict | list | number | string | boolean
 df = df.to_dict('records')
@@ -34,7 +34,7 @@ navbar = dbc.NavbarSimple(
 app.layout = dbc.Container(
     [navbar,
      dcc.Store(id="stored-data", data=df),
-     dcc.Store(id="dropdown-value", data={}),
+     dcc.Store(id="store-dropdown-value", data=None),
      dl.plugins.page_container],
     fluid=True,
 )
