@@ -15,9 +15,11 @@ layout = html.Div(
 
 @callback(Output("table-container", "children"),
           [Input("stored-data", "data"),
-           Input("dropdown-value", "data")]
+           Input("store-dropdown-value", "data")]
           )
 def populate_checklist(data, day):
+    if day is None:
+        return html.H1("Please choose a day on bargraph page!")
     dff = pd.DataFrame(data)
     dff = dff[dff["day"] == day]
     my_table = dash_table.DataTable(
