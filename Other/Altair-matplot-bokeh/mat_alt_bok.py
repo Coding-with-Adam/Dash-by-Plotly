@@ -47,7 +47,7 @@ def plot_data(selected_ycol):
     chart = alt.Chart(cars).mark_circle().encode(
         x='Displacement',
         y=selected_ycol,
-        tooltip='Horsepower').interactive()
+        tooltip=selected_ycol).interactive()
     html_altair = chart.to_html()
 
     # Matplotlib graphing library------------------------------------------
