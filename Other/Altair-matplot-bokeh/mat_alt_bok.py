@@ -44,11 +44,11 @@ def plot_data(selected_ycol):
     print(f"User Seleceted this dropdown value: {selected_ycol}")
 
     # Altair graphing library----------------------------------------------
-    # chart = alt.Chart(cars).mark_circle().encode(
-    #     x='Displacement',
-    #     y=selected_ycol,
-    #     tooltip='Horsepower').interactive()
-    # html_altair = chart.to_html()
+    chart = alt.Chart(cars).mark_circle().encode(
+        x='Displacement',
+        y=selected_ycol,
+        tooltip='Horsepower').interactive()
+    html_altair = chart.to_html()
 
     # Matplotlib graphing library------------------------------------------
     # colvalue = cars[selected_ycol]
@@ -60,12 +60,12 @@ def plot_data(selected_ycol):
     # html_matplotlib = mpld3.fig_to_html(fig)
 
     # Bokeh graphing library-----------------------------------------------
-    sourcedata = ColumnDataSource(cars.copy())
-    plot = figure(x_axis_label='Displacement', y_axis_label=selected_ycol)
-    plot.scatter(x='Displacement', y=selected_ycol, source=sourcedata)
-    html_bokeh = file_html(plot, CDN)
+    # sourcedata = ColumnDataSource(cars.copy())
+    # plot = figure(x_axis_label='Displacement', y_axis_label=selected_ycol)
+    # plot.scatter(x='Displacement', y=selected_ycol, source=sourcedata)
+    # html_bokeh = file_html(plot, CDN)
 
-    return html_bokeh
+    return html_altair
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, port=8001)
