@@ -29,7 +29,7 @@ app.layout = dbc.Container([
         srcDoc=None, # here is where we will put the graph we make
         style={'border-width': '5', 'width': '100%', 'height': '500px'}),
 
-    html.P("Select Y column for graph", className='mt-2'),
+    html.H5("Select Y column for graph", className='mt-2'),
     dcc.Dropdown(
         id='mydropdown',
         value='Horsepower',
