@@ -28,7 +28,7 @@ app.layout = html.Div(
                     width={'size': 2, 'offset': 1}),
             dbc.Col(dbc.Button(id="loading-button", n_clicks=0, children=["Passengers"]),
                     width={'size': 1, 'offset': 0})
-        ], no_gutters=True),
+        ]), # no_gutters is no longer possible with the new Dash Bootstrap components version upgrade
 
         html.Br(),
         dbc.Row(dbc.Col(dbc.Progress(children=["25%"], value=25, max=100, striped=True, color="success", style={"height": "20px"}),
