@@ -54,8 +54,8 @@ app.layout = html.Div([
 
 
 # Display Datatable with data from Mongo database
-@app.callback(Output('mongo-datatable', 'children'),
-              Input('interval_db', 'n_intervals')
+@app.callback(Output('mongo-datatable', component_property='children'),
+              Input('interval_db', component_property='n_intervals')
               )
 def populate_datatable(n_intervals):
     # Convert the Collection (table) date to a pandas DataFrame
@@ -129,6 +129,7 @@ def update_d(cc, tabledata):
         new_cell_data = tabledata[x][col_id]
         collection.update_one({'_id': ObjectId(row_id)},
                               {"$set": {col_id: new_cell_data}})
+        # Operations guide - https://docs.mongodb.com/manual/crud/#update-operations
 
         pie_fig = px.pie(tabledata, values='quantity', names='day')
         hist_fig = px.histogram(tabledata, x='department', y='quantity')
