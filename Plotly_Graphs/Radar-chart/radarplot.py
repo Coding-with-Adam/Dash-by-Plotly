@@ -3,7 +3,7 @@ import pandas as pd
 
 # Data src:  https://llewellynjean.shinyapps.io/NBARefDatabase/
 # Credit to: https://twitter.com/owenlhjphillips
-df = pd.read_csv("NBA_Referee_Stats.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Plotly_Graphs/Radar-chart/NBA_Referee_Stats.csv")
 df = df[df['Season']=='2016-17']
 df = df[df['Season type']=='Regular Season']
 df = df.iloc[:4, :19]
