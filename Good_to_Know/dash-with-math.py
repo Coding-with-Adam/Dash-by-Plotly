@@ -25,7 +25,7 @@ app.layout = dbc.Container([
 
     dbc.Row([
         dbc.Col([
-            dcc.Markdown('$x=\\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}$', mathjax=True),
+            dcc.Markdown('$x=\\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}$', mathjax=True),  # make sure to user raw string (r) if you're using one backslash
         ], width=4),
         dbc.Col([
             dcc.Markdown('Add text outside of dollar signs $x=\\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}$', mathjax=True)
