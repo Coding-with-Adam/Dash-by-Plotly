@@ -51,7 +51,7 @@ def update_graph(nights_value, prices_value):
                             range_color=[0, 1000], zoom=11,
                             hover_data={'latitude': False, 'longitude': False, 'room_type': True,
                                         'minimum_nights': True})
-    fig.update_layout(mapbox_style='pen-street-map', margin={"r": 0, "t": 0, "l": 0, "b": 0})
+    fig.update_layout(mapbox_style='open-street-map', margin={"r": 0, "t": 0, "l": 0, "b": 0})
     return fig
 
 
