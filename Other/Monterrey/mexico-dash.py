@@ -71,3 +71,4 @@ if __name__ == '__main__':
 # Color scales - https://plotly.com/python/builtin-colorscales/
 # Plotly graphs - https://plotly.com/python/
 # Plotly Express parameteres - https://plotly.github.io/plotly.py-docs/plotly.express.html
+# Dash Bootstrap Components - https://dash-bootstrap-components.opensource.faculty.ai/docs/components/alert/
