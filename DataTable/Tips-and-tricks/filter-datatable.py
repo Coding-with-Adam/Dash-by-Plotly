@@ -38,7 +38,7 @@ app.layout = dbc.Container([
             continent_drop := dcc.Dropdown([x for x in sorted(df.continent.unique())])
         ], width=3),
         dbc.Col([
-            country_drop := dcc.Dropdown([x for x in sorted(df.country.unique())])
+            country_drop := dcc.Dropdown([x for x in sorted(df.country.unique())], multi=True)
         ], width=3),
         dbc.Col([
             pop_slider := dcc.Slider(0, 1500000000, 5000000, marks={'1000000000':'1 billion', '1500000000':'1.5 billion'},
@@ -68,7 +68,7 @@ def update_dropdown_options(cont_v, country_v, pop_v, life_v, row_v):
     if cont_v:
         dff = dff[dff.continent==cont_v]
     if country_v:
-        dff = dff[dff.country==country_v]
+        dff = dff[dff.country.isin(country_v)]
 
     dff = dff[(dff['pop'] >= pop_v) & (dff['pop'] < 1500000000)]
     dff = dff[(dff['lifeExp'] >= life_v) & (dff['lifeExp'] < 100)]
@@ -77,4 +77,4 @@ def update_dropdown_options(cont_v, country_v, pop_v, life_v, row_v):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, port=8001)
