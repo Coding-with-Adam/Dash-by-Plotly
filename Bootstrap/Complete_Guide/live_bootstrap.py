@@ -1,6 +1,5 @@
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc, html
 from dash.dependencies import Output, Input
 import plotly.express as px
 import dash_bootstrap_components as dbc
@@ -62,7 +61,7 @@ app.layout = dbc.Container([
            xs=12, sm=12, md=12, lg=5, xl=5
         ),
 
-    ], no_gutters=True, justify='start'),  # Horizontal:start,center,end,between,around
+    ], justify='start'),  # Horizontal:start,center,end,between,around
 
     dbc.Row([
         dbc.Col([
