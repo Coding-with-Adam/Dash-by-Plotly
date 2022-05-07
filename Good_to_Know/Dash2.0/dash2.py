@@ -4,7 +4,7 @@ import plotly.express as px
 import pandas as pd
 
 # incorporate data into app
-df = pd.read_csv("social_capital.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Good_to_Know/Dash2.0/social_capital.csv")
 print(df.head())
 
 # Customize your own Layout
