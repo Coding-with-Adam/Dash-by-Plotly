@@ -1,9 +1,12 @@
-from dash import Dash, dcc
-import dash_bootstrap_components as dbc
+# If you prefer to run the code online instead of on your computer click:
+# https://github.com/Coding-with-Adam/Dash-by-Plotly#execute-code-in-browser
+
+from dash import Dash, dcc               # pip install dash
+import dash_bootstrap_components as dbc  # pip install dash-bootstrap-components
 
 # Customize your own Layout
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-mytext =  dcc.Markdown(children="# Hello World - let's build web apps in Python!")
+mytext = dcc.Markdown(children="# Hello World - let's build web apps in Python!")
 
 app.layout = dbc.Container([mytext])
 
