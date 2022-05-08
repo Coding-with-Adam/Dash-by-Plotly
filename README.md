@@ -1,7 +1,7 @@
 # If you Forked it, Support it
 A growing number of viewers are looking for high quality, professional content on Dash, which is hard to find. I am trying to fill that gap and help you grow in the area of analytic web apps in Python. 
 
-My goal is to make this a sustainable project for myself and my viewers. This repository and my Charming Data channel is a 100% member-supported educational channel, so if it helped you, your support would mean a lot to me 🙏 
+My goal is to make this a sustainable project for myself and my viewers. This repository and my Charming Data channel is a 100% member-supported educational channel. Your support would mean a lot to me 🙏 
  - [Github support](https://github.com/sponsors/Coding-with-Adam)
  - [Patreon support](https://www.patreon.com/charmingdata)
 
