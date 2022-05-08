@@ -26,7 +26,7 @@ If you'd like to control the version of Plotly installed, you can do for example
     $ pip install plotly==4.9.0
     
 ## To Get Help
- - Use Dash Plotly [Community Forum](https://community.plotly.com/)
+ - [Plotly Community Forum](https://community.plotly.com/)
 
 This is a wonderful community of people dedicated to supporting others learning Dash. You can find me there as well under the name CharmingData.
 
