@@ -23,7 +23,7 @@ Then, just install Dash. Plotly comes with Dash
     
 If you'd like to control the version of Plotly installed, you can do for example:
 
-    $ pip install plotly==4.9.0
+    $ pip install plotly==5.7.0
     
 ## To Get Help
  - [Plotly Community Forum](https://community.plotly.com/)
