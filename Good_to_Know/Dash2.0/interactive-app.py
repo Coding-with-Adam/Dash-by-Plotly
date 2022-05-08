@@ -1,9 +1,12 @@
-from dash import Dash, dcc, Output, Input
-import dash_bootstrap_components as dbc
+# If you prefer to run the code online instead of on your computer click:
+# https://github.com/Coding-with-Adam/Dash-by-Plotly#execute-code-in-browser
+
+from dash import Dash, dcc, Output, Input  # pip install dash
+import dash_bootstrap_components as dbc    # pip install dash-bootstrap-components
 
 # Customize your own Layout
-app = Dash(__name__, external_stylesheets=[dbc.themes.VAPOR])
-mytext =  dcc.Markdown(children='')
+app = Dash(__name__, external_stylesheets=[dbc.themes.SOLAR])
+mytext = dcc.Markdown(children='')
 myinput = dbc.Input(value="# Hello World - let's build web apps in Python!")
 
 app.layout = dbc.Container([mytext, myinput])
@@ -13,8 +16,9 @@ app.layout = dbc.Container([mytext, myinput])
     Output(mytext, component_property='children'),
     Input(myinput, component_property='value')
 )
-def update_graph(user_input):
-    return user_input
+def update_title(user_input):  # function arguments come from the component property of the Input
+    return user_input  # returned objects are assigned to the component property of the Ouput
+
 
 # Run app
 if __name__=='__main__':
