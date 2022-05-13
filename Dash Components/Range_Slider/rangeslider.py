@@ -54,7 +54,7 @@ app.layout = html.Div([
             vertical=False,        # True, False - vertical, horizontal slider
             verticalHeight=900,    # hight of slider (pixels) when vertical=True
             className='None',
-            tooltip={'always visible':False,  # show current slider values
+            tooltip={'always_visible':False,  # show current slider values
                      'placement':'bottom'},
             ),
     ]),
