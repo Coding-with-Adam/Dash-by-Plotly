@@ -6,3 +6,4 @@
 - Plotly graphs - https://plotly.com/python/
 - Plotly Express parameteres - https://plotly.github.io/plotly.py-docs/plotly.express.html
 - Dash Bootstrap Components - https://dash-bootstrap-components.opensource.faculty.ai/
+- Deploy app to the web with Dash-tools - https://github.com/andrew-hossack/dash-tools
