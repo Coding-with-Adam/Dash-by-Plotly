@@ -1,5 +1,5 @@
 # Resources:
-- Plotly Forum - https://www.community.plotly.com
+- Plotly Forum - https://community.plotly.com
 - YouTube channel - https://www.youtube.com/charmingdata
 - Dash Docs - https://dash.plotly.com/
 - Color scales - https://plotly.com/python/builtin-colorscales/
