@@ -1,6 +1,5 @@
-import copy
-from dash import Dash, html, dcc, Output, Input, dash_table, callback, no_update  # pip install dash
-import dash_bootstrap_components as dbc                                           # pip install dash-bootstrap-components
+from dash import Dash, html, dcc, Output, Input, dash_table, callback   # pip install dash
+import dash_bootstrap_components as dbc                                  # pip install dash-bootstrap-components
 import plotly.express as px
 import pandas as pd
 import numpy as np
