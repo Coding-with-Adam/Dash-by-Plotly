@@ -1,6 +1,6 @@
 import copy
-from dash import Dash, html, dcc, Output, Input, dash_table, callback, no_update
-import dash_bootstrap_components as dbc
+from dash import Dash, html, dcc, Output, Input, dash_table, callback, no_update  # pip install dash
+import dash_bootstrap_components as dbc                                           # pip install dash-bootstrap-components
 import plotly.express as px
 import pandas as pd
 import numpy as np
@@ -39,7 +39,7 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             html.Span([
-                html.I(className='fa-solid fa-plane-departure'),
+                    html.I(className='fa-solid fa-plane-departure'),
                 " Number of Passangers between European countries 2019-2021 ",
                 html.I(className="fa-solid fa-plane-departure")], className='h2')
     ], width=10)
@@ -93,7 +93,8 @@ app.layout = dbc.Container([
     Input('partner_dpdn', 'value')
 )
 def update_graphs(year_v, month_v, geo_v, partner_v):
-    dff = copy.deepcopy(df)
+    dff = df.copy()
+    print(type(year_v))
 
     if any([year_v, month_v, geo_v, partner_v]):
         if year_v is not None:
@@ -116,11 +117,11 @@ def update_graphs(year_v, month_v, geo_v, partner_v):
         psg_by_month = psg_by_month.sort_values('Value',
                                                 ignore_index=True,
                                                 ascending=False)
-        fig_line = px.line(psg_by_month, x='MONTH', y='Value').update_xaxes(type='category')
-
-        table = create_table(dff)
+        fig_line = px.line(psg_by_month, x='MONTH', y='Value').update_xaxes(type='category').update_layout(margin=dict(l=10, r=10, t=10, b=10))
 
         fig_hist = px.histogram(dff, x='YEAR', y='Value').update_layout(margin=dict(l=10, r=10, t=10, b=10))
+
+        table = create_table(dff)
 
         return fig_hist, fig_line, table, country_count
 
@@ -131,8 +132,9 @@ def update_graphs(year_v, month_v, geo_v, partner_v):
                                                 ascending=False)
         fig_line = px.line(psg_by_month, x='MONTH', y='Value').update_xaxes(type='category').update_layout(margin=dict(l=10, r=10, t=10, b=10))
 
-        table = create_table(df)
         fig_hist = px.histogram(dff, x='YEAR', y='Value').update_layout(margin=dict(l=10, r=10, t=10, b=10))
+
+        table = create_table(df)
 
 
         return fig_hist, fig_line, table, df['GEO'].nunique()
