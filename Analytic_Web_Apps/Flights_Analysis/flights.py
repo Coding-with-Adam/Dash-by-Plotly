@@ -8,7 +8,7 @@ import numpy as np
 app = Dash(__name__, external_stylesheets=[dbc.themes.LUMEN, dbc.icons.FONT_AWESOME])
 
 # our data
-df = pd.read_csv('europe-flights.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Analytic_Web_Apps/Flights_Analysis/europe-flights-reduced.csv')
 df['YEAR'] = df['YEAR'].astype(str)
 
 # create datatable
@@ -118,6 +118,7 @@ def update_graphs(year_v, month_v, geo_v, partner_v):
         fig_line = px.line(psg_by_month, x='MONTH', y='Value').update_xaxes(type='category')
 
         table = create_table(dff)
+
         fig_hist = px.histogram(dff, x='YEAR', y='Value').update_layout(margin=dict(l=10, r=10, t=10, b=10))
 
         return fig_hist, fig_line, table, country_count
