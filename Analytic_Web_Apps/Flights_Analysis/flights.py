@@ -6,6 +6,7 @@ import pandas as pd
 import numpy as np
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.LUMEN, dbc.icons.FONT_AWESOME])
+server = app.server
 
 # our data
 df = pd.read_csv('https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Analytic_Web_Apps/Flights_Analysis/europe-flights-reduced.csv')
