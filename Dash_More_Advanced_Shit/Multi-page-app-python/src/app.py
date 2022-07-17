@@ -4,6 +4,11 @@ import dash_bootstrap_components as dbc
 app = dash.Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.SOLAR])
 server = app.server
 
+# page_reg = list(dash.page_registry.items())
+# for x in page_reg:
+#     print(x[1])
+#     print('-------------------------------')
+
 navbar = dbc.NavbarSimple(
     dbc.DropdownMenu(
         [
