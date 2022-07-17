@@ -25,7 +25,7 @@ def build_graph(dff):
     fig.update_yaxes(title_text='Temperature F')
     return fig
 
-
+# do not do app.layout
 layout = dbc.Row(
     [
         dbc.Col([
@@ -41,7 +41,7 @@ layout = dbc.Row(
     ]
 )
 
-
+# do not do @app.callback
 @callback(
     Output('my-graph', 'figure'),
     Input('emissions', 'value'),
