@@ -48,9 +48,9 @@ layout = dbc.Row(
 )
 def render_content(value):
     if value=='High':
-        dff= df[df['RCP'] == 8.5]
+        dff = df[df['RCP'] == 8.5]
         fig = build_graph(dff)
     else:
-        dff= df[df['RCP'] == 4.5]
+        dff = df[df['RCP'] == 4.5]
         fig = build_graph(dff)
     return fig
