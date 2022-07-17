@@ -30,12 +30,12 @@ layout = dbc.Row(
     [
         dbc.Col([
             html.Label("Emissions of GHG"),
-            dcc.RadioItems(['Low', 'High'], value='High', id='emissions32',
+            dcc.RadioItems(['Low', 'High'], value='High', id='emissions-ma',
                            labelStyle={'display': 'block'}),
         ], width=2),
 
         dbc.Col([
-            dcc.Graph(id='my-graph32', animate=True,
+            dcc.Graph(id='my-graph-ma', animate=True,
                       animation_options={'transition': {'duration': 750,
                                                         'ease': 'cubic-in-out'}}),
         ], width=10)
@@ -45,8 +45,8 @@ layout = dbc.Row(
 
 
 @callback(
-    Output('my-graph32', 'figure'),
-    Input('emissions32', 'value'),
+    Output('my-graph-ma', 'figure'),
+    Input('emissions-ma', 'value'),
 )
 def render_content(value):
     if value == 'High':
