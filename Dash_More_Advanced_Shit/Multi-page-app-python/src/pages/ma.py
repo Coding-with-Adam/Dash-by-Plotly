@@ -15,6 +15,7 @@ df = pd.read_csv(DATA_PATH.joinpath('MA-data.csv'))
 
 
 def build_graph(dff):
+    # https://plotly.com/python/line-and-scatter/#scatter-and-line-plots-with-goscatter
     fig = go.Figure(layout_yaxis_range=[50, 200], layout_xaxis_range=[1950, 2099], layout_showlegend=False)
     fig.add_trace(go.Scatter(x=dff['Year'], y=dff['Modeled Mean']))
     fig.add_trace(go.Scatter(x=dff['Year'], y=dff['Modeled Min'], fill='tonexty',fillcolor='rgba(255, 0, 0, 0.7)'))
