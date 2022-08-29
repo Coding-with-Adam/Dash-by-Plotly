@@ -22,7 +22,7 @@ layout = html.Div([
         dbc.Col([
             dcc.Markdown('''
             * Guest services 
-            * Inventory control procedutes
+            * Inventory control procedures
             * Merchandising expertise
             ''')
         ], width={"size": 3, "offset": 1}),
