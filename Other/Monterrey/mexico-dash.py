@@ -22,9 +22,9 @@ app.layout = dbc.Container([
         ], width=6),
         dbc.Col([
             dcc.Markdown('#### Select price range'),
-            price_slider := dcc.RangeSlider(min=df.price.min(), max=df.price.max(), value=[0, 10000], step=1000,
-                                            marks={'0': '0', '10000': '10000', '20000': '20000', '30000': '30000',
-                                                   '40000': '40000', '50000': '50000'},
+            price_slider := dcc.RangeSlider(min=df.price.min(), max=10000, value=[0, 2500], step=500,
+                                            marks={'0': '0', '500': '500', '1000': '1000', '2500': '2500', '5000': '5000',
+                                                   '7500': '7500', '10000': '10000'},
                                             tooltip={"placement": "bottom", "always_visible": True})
         ], width=6)
     ]),
