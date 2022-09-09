@@ -18,7 +18,7 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             dcc.Markdown('#### Select minimum Nights'),
-            night_input := dcc.Input(type='number', value=1, min=1, max=30)
+            night_input := dcc.Input(type='number', value=3, min=1, max=30)
         ], width=6),
         dbc.Col([
             dcc.Markdown('#### Select price range'),
