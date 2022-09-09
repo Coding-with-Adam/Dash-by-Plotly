@@ -53,7 +53,7 @@ def update_graph(nights_value, prices_value):
                             range_color=[0, 1000], zoom=11, color_continuous_scale=px.colors.sequential.Sunset,
                             hover_data={'latitude': False, 'longitude': False, 'room_type': True,
                                         'minimum_nights': True})
-    fig.update_layout(mapbox_style='open-street-map')
+    fig.update_layout(mapbox_style='carto-positron')
 
     # 1. add room_type dropdown to the layout and callback function
     # 2. return a dbc.Alert() if dff is empty (o sea, if len(dff)==0)
