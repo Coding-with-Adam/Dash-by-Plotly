@@ -49,7 +49,7 @@ def update_graph(nights_value, prices_value):
     dff = dff[(dff.price > prices_value[0]) & (dff.price < prices_value[1])]
     print(len(dff))
 
-    fig = px.scatter_mapbox(data_frame=dff, lat='latitude', lon='longitude', color='price',
+    fig = px.scatter_mapbox(data_frame=dff, lat='latitude', lon='longitude', color='price', height=600,
                             range_color=[0, 1000], zoom=11, color_continuous_scale=px.colors.sequential.Sunset,
                             hover_data={'latitude': False, 'longitude': False, 'room_type': True,
                                         'minimum_nights': True})
