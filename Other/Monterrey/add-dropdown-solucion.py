@@ -65,8 +65,6 @@ def update_graph(nights_value, prices_value, room_value):
                                         'minimum_nights': True})
     fig.update_layout(mapbox_style='open-street-map')
 
-    # 2. return a dbc.Alert() if dff is empty (o sea, if len(dff)==0)
-
     return dcc.Graph(figure=fig)
 
 
