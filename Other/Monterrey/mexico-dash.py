@@ -18,7 +18,7 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             dcc.Markdown('#### Select minimum Nights'),
-            night_slider := dcc.Slider(1, 30, 1, value=1)
+            night_input := dcc.Input(type='number', value=1, min=1, max=30)
         ], width=6),
         dbc.Col([
             dcc.Markdown('#### Select price range'),
@@ -39,7 +39,7 @@ app.layout = dbc.Container([
 
 @app.callback(
     Output(sg, component_property='children'),
-    Input(night_slider, 'value'),
+    Input(night_input, 'value'),
     Input(price_slider, 'value')
 )
 def update_graph(nights_value, prices_value):
