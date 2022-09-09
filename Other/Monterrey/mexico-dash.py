@@ -12,7 +12,7 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 app.layout = dbc.Container([
     dbc.Row([
-        dbc.Col([dcc.Markdown('# Análisis de Airbnb de México DF', style={'textAlign': 'center'})], width=12)
+        dbc.Col([dcc.Markdown('# Mexico DF Airbnb Analysis', style={'textAlign': 'center'})], width=12)
     ]),
 
     dbc.Row([
