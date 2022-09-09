@@ -10,7 +10,7 @@ fig = px.scatter_mapbox(data_frame=df, lat="latitude", lon="longitude", color='p
                         range_color=[0, 1000], zoom=11,
                         hover_data={'latitude':False, 'longitude':False, 'room_type':True,
                                     'minimum_nights':True})
-fig.update_layout(mapbox_style="open-street-map")
+fig.update_layout(mapbox_style="carto-positron")
 fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
 fig.show()
 
