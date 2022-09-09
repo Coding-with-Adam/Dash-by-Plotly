@@ -55,9 +55,6 @@ def update_graph(nights_value, prices_value):
                                         'minimum_nights': True})
     fig.update_layout(mapbox_style='carto-positron')
 
-    # 1. add room_type dropdown to the layout and callback function
-    # 2. return a dbc.Alert() if dff is empty (o sea, if len(dff)==0)
-
     return dcc.Graph(figure=fig)
 
 
