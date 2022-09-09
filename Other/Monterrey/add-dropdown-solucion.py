@@ -12,19 +12,19 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 app.layout = dbc.Container([
     dbc.Row([
-        dbc.Col([dcc.Markdown('# Análisis de Airbnb de México DF', style={'textAlign': 'center'})], width=12)
+        dbc.Col([dcc.Markdown('# Mexico DF Airbnb Analysis', style={'textAlign': 'center'})], width=12)
     ]),
 
     dbc.Row([
         dbc.Col([
             dcc.Markdown('#### Select minimum Nights'),
-            night_slider := dcc.Slider(1, 30, 1, value=1)
+            night_input := dcc.Input(type='number', value=3, min=1, max=30)
         ], width=6),
         dbc.Col([
             dcc.Markdown('#### Select price range'),
-            price_slider := dcc.RangeSlider(min=df.price.min(), max=df.price.max(), value=[0, 10000], step=1000,
-                                            marks={'0': '0', '10000': '10000', '20000': '20000', '30000': '30000',
-                                                   '40000': '40000', '50000': '50000'},
+            price_slider := dcc.RangeSlider(min=df.price.min(), max=10000, value=[0, 2500], step=500,
+                                            marks={'0': '0', '500': '500', '1000': '1000', '2500': '2500', '5000': '5000',
+                                                   '7500': '7500', '10000': '10000'},
                                             tooltip={"placement": "bottom", "always_visible": True})
         ], width=6)
     ]),
@@ -46,7 +46,7 @@ app.layout = dbc.Container([
 
 @app.callback(
     Output(sg, component_property='children'),
-    Input(night_slider, 'value'),
+    Input(night_input, 'value'),
     Input(price_slider, 'value'),
     Input(room_dropdown, 'value')
 )
@@ -59,7 +59,7 @@ def update_graph(nights_value, prices_value, room_value):
     dff = dff[dff.room_type == room_value]
     print("Length of dataframe:" + str(len(dff)))
 
-    fig = px.scatter_mapbox(data_frame=dff, lat='latitude', lon='longitude', color='price',
+    fig = px.scatter_mapbox(data_frame=dff, lat='latitude', lon='longitude', color='price', height=600,
                             range_color=[0, 1000], zoom=11, color_continuous_scale=px.colors.sequential.Sunset,
                             hover_data={'latitude': False, 'longitude': False, 'room_type': True,
                                         'minimum_nights': True})
@@ -72,12 +72,3 @@ def update_graph(nights_value, prices_value, room_value):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-# Resources:
-# Plotly Forum - https://www.community.plotly.com
-# YouTube channel - https://www.youtube.com/charmingdata
-# Dash Docs - https://dash.plotly.com/
-# Color scales - https://plotly.com/python/builtin-colorscales/
-# Plotly graphs - https://plotly.com/python/
-# Plotly Express parameteres - https://plotly.github.io/plotly.py-docs/plotly.express.html
-# Dash Bootstrap Components - https://dash-bootstrap-components.opensource.faculty.ai/docs/components/alert/
