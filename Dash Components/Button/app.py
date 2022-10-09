@@ -18,7 +18,7 @@ if __name__ == "__main__":
 # from dash import Dash, html
 # import dash_bootstrap_components as dbc
 #
-# app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP]) #CYBORG
+# app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP]) #CYBORG https://dashcheatsheet.pythonanywhere.com/
 #
 # buttons = html.Div(
 #     [
