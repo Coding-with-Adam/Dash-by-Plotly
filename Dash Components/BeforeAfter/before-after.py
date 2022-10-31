@@ -1,5 +1,8 @@
-import dash                              # pip install dash
-import dash_html_components as html
+# Video:    [Before After Image Slider - Dash Component](https://youtu.be/-0bqU94KGMw)
+#
+
+import dash                                     # pip install dash
+from dash import html
 from dash_extensions import BeforeAfter  # pip install dash-extensions==0.0.47 or higher
 import dash_bootstrap_components as dbc  # dash-bootstrap-components
 
@@ -43,6 +46,3 @@ app.layout = dbc.Container([
 
 if __name__ == '__main__':
     app.run_server(debug=True, port=8002)
-
-    
-# https://youtu.be/-0bqU94KGMw

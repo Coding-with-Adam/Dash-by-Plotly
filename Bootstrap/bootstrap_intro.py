@@ -1,7 +1,12 @@
-import dash
-import dash_bootstrap_components as dbc
-import dash_core_components as dcc
-import dash_html_components as html
+# Video:    [Introduction to Dash Bootstrap - Styling your App](https://youtu.be/vqVwpL4bGKY)
+# Docs:     [Dash Bootstrap Components:](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/alert/)
+#           [Dash Bootstrap Themes:](https://dash-bootstrap-components.opensource.faculty.ai/docs/themes/)
+#
+
+import dash                                     # pip install dash
+import dash_bootstrap_components as dbc         # pip install dash_bootstrap_components
+from dash import html
+from dash import dcc
 from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
@@ -74,6 +79,3 @@ def update_graph(dpdn_a, dpdn_b, dpdn_c):
 
 if __name__ == "__main__":
     app.run_server(debug=True)
-
-
-# https://youtu.be/vqVwpL4bGKY
