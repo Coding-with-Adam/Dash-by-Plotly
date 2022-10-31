@@ -1,6 +1,10 @@
-import dash
-import dash_bootstrap_components as dbc
-import dash_html_components as html
+# Video:    [Bootstrap Collapse Dash Plotly](https://youtu.be/RnJGlgc9vcM)
+# Docs:     [Collapse Documentation:](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/collapse/)
+#
+
+import dash                                     # pip install dash
+import dash_bootstrap_components as dbc         # pip install dash_bootstrap_components
+from dash import html
 from dash.dependencies import Input, Output, State
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUMEN])  # https://bootswatch.com/default/
@@ -58,6 +62,3 @@ def toggle_collapse(n, is_open):
 
 if __name__ == "__main__":
     app.run_server(debug=True, port=2000)
-
-    
-# https://youtu.be/RnJGlgc9vcM

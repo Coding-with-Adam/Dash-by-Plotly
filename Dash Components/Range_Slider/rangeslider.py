@@ -1,7 +1,15 @@
+# Video:    [Range Slider -- Python Dash Plotly](https://youtu.be/Zvz2LpziQAs)
+# Docs:     [dcc.RangeSlider](https://dash.plotly.com/dash-core-components/rangeslider)
+#
+
 import pandas as pd     #(version 1.0.0)
 import plotly           #(version 4.5.0)
-import plotly.express as px
-
+			  
+import dash                                     # pip install dash
+from dash import dcc 
+from dash import html
+import plotly.express as px                     # # pip install pandas; pip install plotly express			  
+			  
 import dash             #(version 1.8.0)
 import dash_core_components as dcc
 import dash_html_components as html
@@ -86,7 +94,3 @@ def build_graph(years):
 
 if __name__ == '__main__':
     app.run_server(debug=False)
-
-    
-    
-# https://youtu.be/Zvz2LpziQAs

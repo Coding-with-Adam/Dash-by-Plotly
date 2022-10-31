@@ -1,6 +1,10 @@
-import dash  # use Dash version 1.16.0 or higher for this app to work
-import dash_core_components as dcc
-import dash_html_components as html
+# Video:    [All about the Graph Component - Python Dash Plotly](https://youtu.be/G8r2BB3GFVY)
+# Docs:     [dcc.Graph](https://dash.plotly.com/dash-core-components/graph)
+#
+
+import dash                                     # pip install dash
+from dash import dcc 
+from dash import html
 from dash.dependencies import Output, Input
 import plotly.express as px
 
@@ -73,6 +77,3 @@ def update_side_graph(hov_data, clk_data, slct_data, country_chosen):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
-    
-    
-# https://youtu.be/G8r2BB3GFVY

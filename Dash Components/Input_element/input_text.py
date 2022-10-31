@@ -1,6 +1,10 @@
-import dash  # (version 1.11.0)
-import dash_core_components as dcc
-import dash_html_components as html
+# Video:    [Input Box - Python Dash Plotly](https://youtu.be/VZ6IdRMc0RI)
+# Docs:     [dcc.Input](https://dash.plotly.com/dash-core-components/input)
+#
+
+import dash                                     # pip install dash
+from dash import dcc 
+from dash import html
 from dash.dependencies import Input, Output
 import datetime
 
@@ -90,6 +94,3 @@ def update_graph(txt_inserted, num_submit, sub_tmstp, lost_foc, lst_foc_tmstp):
 # ------------------------------------------------------------------------
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-    
-# https://youtu.be/VZ6IdRMc0RI

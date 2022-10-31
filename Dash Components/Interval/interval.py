@@ -1,9 +1,14 @@
+# Video: [The Dash Interval overview](https://youtu.be/OSFoBbNnPWk)
+# Docs:  [dcc.Interval](https://dash.plotly.com/dash-core-components/interval)
+#
+
 import plotly          
 import plotly.graph_objects as go
-
-import dash             
-import dash_core_components as dcc
-import dash_html_components as html
+	 
+import dash                                     # pip install dash
+from dash import dcc 
+from dash import html
+ 	 
 from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
 
@@ -61,7 +66,3 @@ def stop_interval(retrieved_text):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
-    
-    
-    
-# https://youtu.be/OSFoBbNnPWk

@@ -1,7 +1,11 @@
-import dash
+# Video:    [Introduction to Dash DAQ for manufacturing dashboards](https://youtu.be/t3cLkzJAUgo)
+# Docs:     [Dash DAQ](https://dash.plotly.com/dash-daq)
+#
+
+import dash                                     # pip install dash
+from dash import dcc 
+from dash import html
 from dash.dependencies import Input, Output
-import dash_html_components as html
-import dash_core_components as dcc
 import dash_daq as daq
 import plotly.graph_objects as go
 from random import randrange
@@ -100,7 +104,3 @@ def update_g(toggle):
 
 if __name__ == "__main__":
     app.run_server(debug=True, port=3030)
-
-    
-    
-# https://youtu.be/t3cLkzJAUgo

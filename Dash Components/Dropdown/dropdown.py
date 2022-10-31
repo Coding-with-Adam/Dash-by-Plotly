@@ -1,10 +1,15 @@
+# Video:    [Dropdown Selector- Python Dash Plotly](https://youtu.be/UYH_dNSX1DM)
+# Docs:     [dcc.Dropdown](https://dash.plotly.com/dash-core-components/dropdown)
+#
+
 import pandas as pd     #(version 1.0.0)
 import plotly           #(version 4.5.4) pip install plotly==4.5.4
 import plotly.express as px
 
 import dash             #(version 1.9.1) pip install dash==1.9.1
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc 
+from dash import html
+ 	
 from dash.dependencies import Input, Output
 
 app = dash.Dash(__name__)
@@ -85,7 +90,3 @@ def build_graph(data_chosen):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-    
-    
-# https://youtu.be/UYH_dNSX1DM

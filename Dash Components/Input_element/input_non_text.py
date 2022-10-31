@@ -1,6 +1,10 @@
-import dash  # (version 1.11.0)
-import dash_core_components as dcc
-import dash_html_components as html
+# Video:    [Input Box - Python Dash Plotly](https://youtu.be/VZ6IdRMc0RI)
+# Docs:     [dcc.Input](https://dash.plotly.com/dash-core-components/input)
+#
+
+import dash                                     # pip install dash
+from dash import dcc 
+from dash import html
 import pandas as pd
 import plotly.express as px     # (version 4.6.0)
 from dash.dependencies import Input, Output
@@ -134,6 +138,3 @@ def update_graph(num_year, pwd_state, txt_state, tel_state, email_, url_, search
 # ------------------------------------------------------------------------
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-
-# https://youtu.be/VZ6IdRMc0RI

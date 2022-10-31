@@ -1,9 +1,13 @@
+# Video:    [Checklist - Python Dash Plotly](https://youtu.be/amRFPjSgEnk )
+# Docs:     [dcc.Checklist](https://dash.plotly.com/dash-core-components/checklist)
+#
+
 import pandas as pd     
 import datetime as dt
 
-import dash             
-import dash_core_components as dcc
-import dash_html_components as html
+import dash                                     # pip install dash
+from dash import dcc 
+from dash import html
 from dash.dependencies import Input, Output
 
 import plotly          
@@ -89,8 +93,3 @@ def update_graph(options_chosen):
 #------------------------------------------------------------------------------
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-    
-   
-  
-# https://youtu.be/amRFPjSgEnk 
