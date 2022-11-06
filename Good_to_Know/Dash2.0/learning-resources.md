@@ -7,7 +7,7 @@
  
 ### Important app components
  - [Dash Core Components](https://dash.plotly.com/dash-core-components)
- - [Dash Bootsrap Components](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/)
+ - [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/)
  - [Dash Mantine Components](https://www.dash-mantine-components.com/)
 
 ### Layout components
