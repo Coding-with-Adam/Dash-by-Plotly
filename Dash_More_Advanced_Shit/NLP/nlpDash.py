@@ -61,13 +61,13 @@ app.layout = dbc.Container([
 							 value='love'),
 		className='mb-2'
 	),
-
-	output_table := html.Div(children=[]),
 	
 	dbc.Row([
 		dbc.Col(subj_figure := dcc.Graph(figure={}), width=6),
 		dbc.Col(polrt_figure := dcc.Graph(figure={}), width=6)
-	])
+	]),
+	
+	output_table := html.Div(children=[])
 
 ], fluid=True)
 
