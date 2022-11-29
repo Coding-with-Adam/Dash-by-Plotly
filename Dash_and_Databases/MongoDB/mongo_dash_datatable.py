@@ -1,14 +1,17 @@
+# Video: [Introduction to MongoDB with Plotly Dash](https://www.youtube.com/watch?v=2pWwSm6X24o)
+
 import dash     # need Dash version 1.21.0 or higher
+# import dash_core_components as dcc
+# import dash_html_components as html
+from dash import dcc, html
 from dash.dependencies import Input, Output, State
 import dash_table
-import dash_core_components as dcc
-import dash_html_components as html
 
 import pandas as pd
 import plotly.express as px
 import pymongo
-from pymongo import MongoClient
-from bson import ObjectId
+from pymongo import MongoClient     # pip install pymongo
+from bson import ObjectId           # pip install bson
 
 
 # Connect to local server
