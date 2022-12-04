@@ -1,9 +1,9 @@
-import dash                                     # pip install dash
-import dash_bootstrap_components as dbc         # pip install dash_bootstrap_components
-from dash import html
-from dash import dcc
+from dash import Dash, dcc, html, Input, Output, State        # pip install dash
+import dash_bootstrap_components as dbc             # pip install dash_bootstrap_components
 import plotly.express as px
-from dash.dependencies import Input, Output, State
+
+
+
 
 import pandas as pd
 
