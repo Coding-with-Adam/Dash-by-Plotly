@@ -6,11 +6,7 @@ import pandas as pd
 import datetime as dt
 
 import dash                                     # pip install dash
-from dash import dcc 
-from dash import html
-from dash.dependencies import Input, Output
-
-import plotly          
+from dash import dcc, html, Input, Output
 import plotly.express as px
 
 df = pd.read_csv("Urban_Park_Ranger_Animal_Condition_Response.csv")  # https://drive.google.com/file/d/1m63TNoZdDUtH5XhK-mc4kDFzO9j97eWW/view?usp=sharing
