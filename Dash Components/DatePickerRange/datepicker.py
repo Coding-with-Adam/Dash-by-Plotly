@@ -1,8 +1,6 @@
 # Video:    [DatePickerRange - Python Dash Plotly](https://youtu.be/5uwxoxaPD8M)
 # Docs:     [dcc.DatePickerRange](https://dash.plotly.com/dash-core-components/datepickerrange)
 #           [plotly.express.density_mapbox](https://plotly.com/python-api-reference/generated/plotly.express.density_mapbox.html#plotly.express.density_mapbox)
-#
-
 from datetime import datetime as dt
 import plotly.express as px
 import dash                                     # pip install dash
