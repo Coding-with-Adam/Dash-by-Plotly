@@ -1,7 +1,6 @@
 # Video:    [Bootstrap with Cards - Dash Plotly](https://youtu.be/aEz1-72PKwc)
 # Docs:     [Dash Bootstrap Components:](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/card/)
 #           [Dash HTML/CORE Components:](https://dash.plotly.com/dash-html-components)
-#
 from dash import Dash, dcc, html, Output, Input       # pip install dash
 import dash_bootstrap_components as dbc               # pip install dash-bootstrap-components
 import plotly.express as px                     # pip install pandas; pip install plotly express
