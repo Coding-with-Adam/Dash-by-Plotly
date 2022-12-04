@@ -6,7 +6,6 @@ from dash import Dash, dcc, html, Input, Output, State           # pip install d
 import dash_bootstrap_components as dbc         # pip install dash_bootstrap_components
 import plotly.express as px
 import pandas as pd
-
 df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Bootstrap/Berlin_crimes.csv")
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP]) # https://bootswatch.com/default/
