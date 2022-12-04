@@ -12,7 +12,7 @@ df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plo
 # print(df.head())
 df = df[df["Status Mission"] != "Prelaunch Failure"]
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUMEN])
+app = Dash(__name__, external_stylesheets=[dbc.themes.LUMEN])
 
 app.layout = html.Div([
     dbc.Row([
