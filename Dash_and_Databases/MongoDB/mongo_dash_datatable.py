@@ -1,25 +1,14 @@
-# Video: [Introduction to MongoDB with Plotly Dash](https://www.youtube.com/watch?v=2pWwSm6X24o)
-
 import dash     # need Dash version 1.21.0 or higher
-# import dash_core_components as dcc
-# import dash_html_components as html
-from dash import dcc, html
 from dash.dependencies import Input, Output, State
 import dash_table
+import dash_core_components as dcc
+import dash_html_components as html
 
 import pandas as pd
 import plotly.express as px
 import pymongo
-from pymongo import MongoClient     # pip install pymongo
-from bson import ObjectId           # pip install bson
-					   
-# [Examples of multi-page apps with Dash Pages](https://community.plotly.com/t/examples-of-multi-page-apps-with-dash-pages/66489/8):
-# from .utils import id
-def id(name, localid):
-    return f"{name.replace('.', '-').replace(' ', '-').replace('_', '-').replace('.py', '').replace('/', '')}-{localid}"
-
-
-dash.register_page(__name__, path="/mongo-dash-datatable")
+from pymongo import MongoClient
+from bson import ObjectId
 
 
 # Connect to local server
@@ -30,29 +19,27 @@ mydb = client["animals"]
 collection = mydb.shelterA
 
 
-# app = dash.Dash(__name__, suppress_callback_exceptions=True, external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css'])
+app = dash.Dash(__name__, suppress_callback_exceptions=True,
+                external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css'])
 
-layout = html.Div([
+app.layout = html.Div([
 
-    html.Div(id=id(__name__,"datatable-div"), children=[ # To be filled in
-        # populate_datatable(n_itvl):
-        #   return [ dash_table.DataTable(id=id(__name__,"datatable"), columns=[...], data=df.to_dict('records'), ...) ]
-    ]),
+    html.Div(id='mongo-datatable', children=[]),
 
     # activated once/week or when page refreshed
-    dcc.Interval(id=id(__name__,"interval_db"), interval=86400000 * 7, n_intervals=0),
+    dcc.Interval(id='interval_db', interval=86400000 * 7, n_intervals=0),
 
-    html.Button("Save to Mongo Database", id=id(__name__,"save-it")),
-    html.Button('Add Row', id=id(__name__,"adding-rows-btn"), n_clicks=0),
+    html.Button("Save to Mongo Database", id="save-it"),
+    html.Button('Add Row', id='adding-rows-btn', n_clicks=0),
 
-    html.Div(id=id(__name__,"show-graphs"), children=[]),
-    html.Div(id=id(__name__,"placeholder"))
+    html.Div(id="show-graphs", children=[]),
+    html.Div(id="placeholder")
 
 ])
 
 # Display Datatable with data from Mongo database *************************
-@callback(Output(id(__name__,"datatable-div"), 'children'),
-              [Input(id(__name__,"interval_db"), 'n_intervals')])
+@app.callback(Output('mongo-datatable', 'children'),
+              [Input('interval_db', 'n_intervals')])
 def populate_datatable(n_intervals):
     print(n_intervals)
     # Convert the Collection (table) date to a pandas DataFrame
@@ -63,7 +50,7 @@ def populate_datatable(n_intervals):
 
     return [
         dash_table.DataTable(
-            id='my-table', # id(__name__,"datatable") # FIXME: ID not found in layout
+            id='my-table',
             columns=[{
                 'name': x,
                 'id': x,
@@ -84,14 +71,11 @@ def populate_datatable(n_intervals):
 
 
 # Add new rows to DataTable ***********************************************
-@callback(
-    Output('my-table', # id(__name__,"datatable")   # FIXME: ID not found in layout
-           'data'),
-    [Input(id(__name__,"adding-rows-btn"), 'n_clicks')],
-    [State('my-table', # id(__name__,"datatable")   # FIXME: ID not found in layout
-           'data'),
-     State('my-table', # id(__name__,"datatable")   # FIXME: ID not found in layout
-           'columns')],
+@app.callback(
+    Output('my-table', 'data'),
+    [Input('adding-rows-btn', 'n_clicks')],
+    [State('my-table', 'data'),
+     State('my-table', 'columns')],
 )
 def add_row(n_clicks, rows, columns):
     if n_clicks > 0:
@@ -100,11 +84,10 @@ def add_row(n_clicks, rows, columns):
 
 
 # Save new DataTable data to the Mongo database ***************************
-@callback(
-    Output(id(__name__,"placeholder"), "children"), # FIXME: ID not found in layout
-    Input(id(__name__,"save-it"), "n_clicks"),      # FIXME: ID not found in layout
-    State('my-table', # id(__name__,"datatable")    # FIXME: ID not found in layout
-          "data"),
+@app.callback(
+    Output("placeholder", "children"),
+    Input("save-it", "n_clicks"),
+    State("my-table", "data"),
     prevent_initial_call=True
 )
 def save_data(n_clicks, data):
@@ -115,10 +98,9 @@ def save_data(n_clicks, data):
 
 
 # Create graphs from DataTable data ***************************************
-@callback(
-    Output(id(__name__,"show-graphs"), 'children'), # FIXME: ID not found in layout
-    Input('my-table', # id(__name__,"datatable")   # FIXME: ID not found in layout
-          'data')
+@app.callback(
+    Output('show-graphs', 'children'),
+    Input('my-table', 'data')
 )
 def add_row(data):
     df_grpah = pd.DataFrame(data)
@@ -129,3 +111,6 @@ def add_row(data):
         html.Div(children=[dcc.Graph(figure=fig_hist2)], className="six columns")
     ]
 
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
