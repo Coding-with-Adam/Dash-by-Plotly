@@ -2,13 +2,9 @@
 # Docs:     [Dash Bootstrap Components:](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/card/)
 #           [Dash HTML/CORE Components:](https://dash.plotly.com/dash-html-components)
 #
-
-import dash                                     # pip install dash
-import dash_bootstrap_components as dbc         # pip install dash-bootstrap-components
-from dash import dcc 
-from dash import html
-import plotly.express as px                     # # pip install pandas; pip install plotly express
-from dash.dependencies import Input, Output
+from dash import Dash, dcc, html, Output, Input       # pip install dash
+import dash_bootstrap_components as dbc               # pip install dash-bootstrap-components
+import plotly.express as px                     # pip install pandas; pip install plotly express
 
 df = px.data.gapminder()
 
