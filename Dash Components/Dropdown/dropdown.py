@@ -1,11 +1,8 @@
 # Video:    [Dropdown Selector- Python Dash Plotly](https://youtu.be/UYH_dNSX1DM)
 # Docs:     [dcc.Dropdown](https://dash.plotly.com/dash-core-components/dropdown)
 #
-
 import pandas as pd     #(version 1.0.0)
-import plotly           #(version 4.5.4) pip install plotly==4.5.4
 import plotly.express as px
-
 import dash             #(version 1.9.1) pip install dash==1.9.1
 from dash import dcc 
 from dash import html
