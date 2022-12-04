@@ -2,7 +2,6 @@
 # Docs:  [dcc.Interval](https://dash.plotly.com/dash-core-components/interval)
 #
 
-import plotly          
 import plotly.graph_objects as go
 import dash                                     # pip install dash
 from dash import dcc, html, Input, Output
