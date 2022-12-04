@@ -6,7 +6,6 @@ import plotly.express as px
 import dash                                     # pip install dash
 from dash import dcc, html, Input, Output
 import pandas as pd
-
 # Data from NYC Open Data portal
 df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Dash%20Components/DatePickerRange/Sidewalk_Caf__Licenses_and_Applications.csv")
 df['SUBMIT_DATE'] = pd.to_datetime(df['SUBMIT_DATE'])
