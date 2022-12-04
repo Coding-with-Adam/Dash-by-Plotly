@@ -4,12 +4,8 @@
 
 import plotly          
 import plotly.graph_objects as go
-	 
 import dash                                     # pip install dash
-from dash import dcc 
-from dash import html
- 	 
-from dash.dependencies import Input, Output
+from dash import dcc, html, Input, Output
 from dash.exceptions import PreventUpdate
 
 app = dash.Dash(__name__)
