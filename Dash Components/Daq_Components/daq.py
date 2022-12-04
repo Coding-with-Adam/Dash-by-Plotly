@@ -1,11 +1,7 @@
 # Video:    [Introduction to Dash DAQ for manufacturing dashboards](https://youtu.be/t3cLkzJAUgo)
 # Docs:     [Dash DAQ](https://dash.plotly.com/dash-daq)
-#
-
 import dash                                     # pip install dash
-from dash import dcc 
-from dash import html
-from dash.dependencies import Input, Output
+from dash import dcc, html, Input, Output
 import dash_daq as daq
 import plotly.graph_objects as go
 from random import randrange
