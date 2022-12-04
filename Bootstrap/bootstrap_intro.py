@@ -6,7 +6,7 @@ import dash_bootstrap_components as dbc         # pip install dash_bootstrap_com
 import plotly.express as px
 import pandas as pd
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Bootstrap/Berlin_crimes.csv")
 df = df.groupby('District')[['Street_robbery', 'Drugs']].median()
