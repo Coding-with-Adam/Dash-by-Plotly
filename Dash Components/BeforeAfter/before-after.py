@@ -1,8 +1,5 @@
 # Video:    [Before After Image Slider - Dash Component](https://youtu.be/-0bqU94KGMw)
-#
-
-import dash                                     # pip install dash
-from dash import html
+from dash import Dash, html                                     # pip install dash
 from dash_extensions import BeforeAfter  # pip install dash-extensions==0.0.47 or higher
 import dash_bootstrap_components as dbc  # dash-bootstrap-components
 
