@@ -7,7 +7,7 @@ import plotly.express as px                     # pip install pandas; pip instal
 
 df = px.data.gapminder()
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 card_main = dbc.Card(
     [
