@@ -1,3 +1,5 @@
+See instruction below or download them here: 
+https://drive.google.com/file/d/1Z94SArM9azTcykVdNxmPQPAXeLfNtjJJ/view?usp=sharing
 # Install Mongo and Build Local Server
 
 1.	Download Mongo according to your Operating System: [https://www.mongodb.com/try/download/community ](https://www.mongodb.com/try/download/community)
