@@ -3,7 +3,7 @@ from dash import Dash, html                                     # pip install da
 from dash_extensions import BeforeAfter  # pip install dash-extensions==0.0.47 or higher
 import dash_bootstrap_components as dbc  # dash-bootstrap-components
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = dbc.Container([
     dbc.Row(
         dbc.Col([
