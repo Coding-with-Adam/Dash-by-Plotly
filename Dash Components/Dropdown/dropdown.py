@@ -4,10 +4,8 @@
 import pandas as pd     #(version 1.0.0)
 import plotly.express as px
 import dash             #(version 1.9.1) pip install dash==1.9.1
-from dash import dcc 
-from dash import html
- 	
-from dash.dependencies import Input, Output
+from dash import dcc, html, Input, Output
+
 
 app = dash.Dash(__name__)
 
