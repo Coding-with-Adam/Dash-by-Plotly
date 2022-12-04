@@ -6,9 +6,7 @@
 from datetime import datetime as dt
 import plotly.express as px
 import dash                                     # pip install dash
-from dash import dcc 
-from dash import html
-from dash.dependencies import Input, Output
+from dash import dcc, html, Input, Output
 import pandas as pd
 
 # Data from NYC Open Data portal
