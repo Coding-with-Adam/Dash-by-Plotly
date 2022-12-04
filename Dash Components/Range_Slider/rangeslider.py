@@ -4,15 +4,9 @@
 
 import pandas as pd     #(version 1.0.0)
 import plotly           #(version 4.5.0)
-			  
-import dash                                     # pip install dash
-from dash import dcc 
-from dash import html
+import dash                                            # pip install dash
+from dash import dcc, html
 import plotly.express as px                     # # pip install pandas; pip install plotly express			  
-			  
-import dash             #(version 1.8.0)
-import dash_core_components as dcc
-import dash_html_components as html
 from dash.dependencies import Input, Output
 
 app = dash.Dash(__name__)
