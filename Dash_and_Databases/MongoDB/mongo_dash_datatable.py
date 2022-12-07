@@ -1,14 +1,14 @@
 import dash     # need Dash version 1.21.0 or higher
-from dash.dependencies import Input, Output, State
+from dash import dcc, html, Input, Output, State
 import dash_table
-import dash_core_components as dcc
-import dash_html_components as html
 
 import pandas as pd
 import plotly.express as px
 import pymongo
 from pymongo import MongoClient
 from bson import ObjectId
+
+
 
 
 # Connect to local server
