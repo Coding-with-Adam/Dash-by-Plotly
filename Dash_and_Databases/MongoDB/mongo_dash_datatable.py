@@ -22,7 +22,33 @@ collection = mydb.shelterA
 app = dash.Dash(__name__, suppress_callback_exceptions=True,
                 external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css'])
 
+# Choose database
+database_dropdown = dbc.Row(
+    [
+        dbc.Label("Database", html_for="database-row", width=2),
+        dbc.Col(
+            dcc.Dropdown(database_names, None, id='database-dropdown'),
+            width=10,
+        ),
+    ],
+    className="mb-3",
+)
+# Choose collection (table)
+collection_dropdown = dbc.Row(
+    [
+        dbc.Label("Collection (table)", html_for="collection-row", width=2),
+        dbc.Col(
+            dcc.Dropdown(collection_names, None, id='collection-dropdown'),
+            width=10,
+        ),
+    ],
+    className="mb-3",
+)
+
 app.layout = html.Div([
+
+    dbc.Form([database_dropdown, collection_dropdown]),
+    html.Div(id=id(__name__,"placeholder")),
 
     html.Div(id='mongo-datatable', children=[]),
 
@@ -37,11 +63,49 @@ app.layout = html.Div([
 
 ])
 
+# rf.   [Cascading dropdowns](https://community.plotly.com/t/cascading-dropdowns/48635) and
+#       [dash-three-cascading-dropdowns.py](https://github.com/plotly/dash-recipes/blob/master/dash-three-cascading-dropdowns.py)
+@callback(
+    Output('collection-dropdown', 'children'), # TODO: Learn from links how to update available choices
+    Input('database-dropdown', 'value')
+)
+def select_database(value):
+    # return f'You have selected database {value}'
+    # TODO: update choices for collections (tables)
+
+    return
+
+
+def database_collection_by_names(database_name, collection_name):
+    if not database_name:
+        print(f'Unable to access database "{database_name}"')
+        return None
+    # Create database called f'{database_name}'
+    database = client[database_name]
+    if not collection_name:
+        print(f'Unable to access collection "{collection_name}"')
+        return None
+    # Create Collection (table) called f'{collection_name}'
+    collection = database[collection_name]
+    print(f'selected collection "{collection_name}" of database "{database_name}"')
+    return collection
+
 # Display Datatable with data from Mongo database *************************
 @app.callback(Output('mongo-datatable', 'children'),
-              [Input('interval_db', 'n_intervals')])
-def populate_datatable(n_intervals):
+          [
+            Input('database-dropdown', 'value'),
+            Input('collection-dropdown', 'value'),
+            Input(id(__name__,"interval_db"), 'n_intervals'),
+          ])
+def populate_datatable(database_name, collection_name, n_intervals):
     print(n_intervals)
+    collection = database_collection_by_names(database_name, collection_name)
+    if collection==None:
+        return None
+    # FIXME: ValueError: Value of 'x' is not the name of a column in 'data_frame'. Expected one of [] but received: age
+    #        Empty DataFrame
+    #        Columns: []
+    #        Index: []
     # Convert the Collection (table) date to a pandas DataFrame
     df = pd.DataFrame(list(collection.find()))
     #Drop the _id column generated automatically by Mongo
