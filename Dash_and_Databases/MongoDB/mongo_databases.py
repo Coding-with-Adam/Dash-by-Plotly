@@ -197,3 +197,5 @@ def save_data(n_clicks, database_name, collection_name, data):
     collection.insert_many(dff.to_dict('records'))
     return ""
 
+if __name__ == '__main__':
+    app.run_server(debug=True)
