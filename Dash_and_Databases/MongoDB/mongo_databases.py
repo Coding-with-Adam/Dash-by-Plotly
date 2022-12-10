@@ -26,13 +26,10 @@ def id(name, localid):
 # Connect to local server
 client = MongoClient("mongodb://127.0.0.1:27017/")
 
-# List available databases
-database_names = [db["name"] for db in client.list_databases()]
-
 # List collections available per database
 all_options = {
     _: client[_].list_collection_names()
-    for _ in database_names
+    for _ in [db["name"] for db in client.list_databases()]
 }
 print(f'{all_options=}')
 
