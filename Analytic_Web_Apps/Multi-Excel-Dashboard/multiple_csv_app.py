@@ -96,6 +96,8 @@ def update_output(contents, filename, date, children):
                     'There was an error processing this file.'
                 ])
         return children
+    else:
+        return ""
 
 
 # Build the graphs from the filtered data in the Datatable--------------------------------------------------------------
