@@ -104,10 +104,9 @@ def update_output(contents, filename, date, children):
 @app.callback(Output({'type': 'dynamic-graph', 'index': MATCH}, 'figure'),
               Input({'type': 'dynamic-table', 'index': MATCH}, 'derived_virtual_indices'),
               Input({'type': 'dynamic-table', 'index': MATCH}, 'selected_columns'),
-              State({'type': 'dynamic-table', 'index': MATCH}, 'data'),
-              State({'type': 'dynamic-table', 'index': MATCH}, 'columns'),
+              State({'type': 'dynamic-table', 'index': MATCH}, 'data')
 )
-def create_graphs(filtered_data, selected_col, all_data, all_columns):
+def create_graphs(filtered_data, selected_col, all_data):
     if filtered_data is not None:
         dff = pd.DataFrame(all_data)
         dff = dff[dff.index.isin(filtered_data)]
