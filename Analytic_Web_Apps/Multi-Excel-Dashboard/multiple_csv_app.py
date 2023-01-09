@@ -109,38 +109,35 @@ def update_output(contents, filename, date, children):
 )
 def create_graphs(filtered_data, selected_col, all_data, all_columns):
     if filtered_data is not None:
-        # if first column of the dataset is Year you are working with the climate_change table
-        if all_columns[0]['name'] == 'Year':
-            if selected_col[0]=='Year':
+        dff = pd.DataFrame(all_data)
+        dff = dff[dff.index.isin(filtered_data)]
+
+        # if first column of the dataset is Year, you are working with the NYC Central park table
+        if list(dff.columns)[0] == 'Year':
+            print(dff.head())
+            if selected_col[0]=='Year': # if user selects the Year column, don't update graph
                 return no_update
             else:
-                dff = pd.DataFrame(all_data)
-                dff = dff[dff.index.isin(filtered_data)]
-                print(dff.head())
                 dff = dff.groupby(['Year'])[selected_col[0]].mean().reset_index(name=selected_col[0])
                 fig_climate = px.line(dff, x='Year', y=selected_col[0])
                 return fig_climate
 
-        # if first column of the dataset is STATION you are working with the NYC Central park table
-        elif all_columns[0]['name'] == 'STATION':
-            if selected_col[0]=='DATE':
+        # if first column of the dataset is STATION, you are working with the NYC Central park table
+        elif list(dff.columns)[0] == 'STATION':
+            if selected_col[0]=='DATE':  # if user selects the DATE column, don't update graph
                 return no_update
             else:
-                dff = pd.DataFrame(all_data)
-                dff = dff[dff.index.isin(filtered_data)]
                 dff['DATE'] = pd.to_datetime(dff['DATE'])
                 dff['year'] = dff['DATE'].dt.year
                 dff = dff.groupby(['year'])[selected_col[0]].sum().reset_index(name=selected_col[0])
-                fig_snow = px.bar(dff, x='year', y=selected_col[0])
-                return fig_snow
+                fig_nyc = px.bar(dff, x='year', y=selected_col[0])
+                return fig_nyc
 
-        elif all_columns[0]['name'] == 'Date_Time':
-            dff = pd.DataFrame(all_data)
-            dff = dff[dff.index.isin(filtered_data)]
+        # if first column of the dataset is Date_Time, you are working with the Toronto table
+        elif list(dff.columns)[0] == 'Date_Time':
             dff = dff.groupby(['year'])[['Mean Temp (C)', 'Max Temp (C)', 'Min Temp (C)']].mean().reset_index()
             fig_toronto = px.line(dff, x='year', y=['Mean Temp (C)', 'Max Temp (C)', 'Min Temp (C)'])
             return fig_toronto
-
     else:
         return {}
 
