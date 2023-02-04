@@ -1,5 +1,6 @@
 # https://pola-rs.github.io/polars/py-polars/html/reference/dataframe/api/polars.DataFrame.columns.html#polars.DataFrame.columns
 # https://pola-rs.github.io/polars-book/user-guide/quickstart/quick-exploration-guide.html
+# https://pola-rs.github.io/polars/py-polars/html/reference/lazyframe/index.html
 # https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e
 # https://towardsdatascience.com/understanding-lazy-evaluation-in-polars-b85ccb864d0c
 # https://towardsdatascience.com/visualizing-polars-dataframes-using-plotly-express-8da4357d2ee0
@@ -35,7 +36,7 @@ compare_read_data = (pd_read / pl_read) * 100
 #     .lazy()
 #     .select(pl.col('Ticker')).unique()
 # )
-# dropdown_pl = dcc.Dropdown(q1.collect().to_series().to_arrow(), value='ACN')
+# dropdown_pl = dcc.Dropdown(q1.collect().to_series().to_list(), value='ACN')
 # end = time.time()
 # pl_read = round(end - start,3)
 # print(pl_read)
