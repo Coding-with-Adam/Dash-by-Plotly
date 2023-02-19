@@ -70,7 +70,7 @@ def display_price(_, ticker_name, alert_permission, alert_value):
             send_alert('Alert: Buy Stock',
                         f'{ticker_name} passed your alert threshold of ${alert_value} '
                         f'and is now at ${stock.price[0]} per share.',
-                        'tutorialemailonly@gmail.com')
+                        'EmailToAddress@gmail.com')
 
     history_fig = px.line(stock_history, x='date', y='high')
     return history_fig, html.Pre(f"Time: {current_time}\nPrice: ${stock.price[0]}")
