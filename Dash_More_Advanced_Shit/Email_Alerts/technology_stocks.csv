@@ -1,0 +1,205 @@
+﻿Ticker,Name
+AAPL,Apple Inc
+ABNB,Airbnb Inc
+ACLS,Axcelis Technologies Inc
+ACN,Accenture plc
+ADBE,Adobe Inc
+ADI,Analog Devices Inc.
+ADP,Automatic Data Processing Inc.
+ADSK,Autodesk Inc.
+ADTN,ADTRAN Holdings Inc
+AEIS,Advanced Energy Industries Inc.
+AEP,American Electric Power Company Inc.
+AGYS,"Agilysys, Inc"
+AKAM,Akamai Technologies Inc
+ALGN,"Align Technology, Inc."
+ALRM,Alarm.com Holdings Inc
+AMAT,Applied Materials Inc.
+AMD,Advanced Micro Devices Inc.
+AMZN,Amazon.com Inc.
+ANET,Arista Networks Inc
+ANSS,Ansys Inc.
+AOSL,Alpha & Omega Semiconductor Ltd
+APH,Amphenol Corp.
+APPS,Digital Turbine Inc
+ARLO,Arlo Technologies Inc
+ASML,ASML Holding NV
+ATEN,A10 Networks Inc
+ATVI,Activision Blizzard Inc
+AVGO,Broadcom Inc
+AVID,"Avid Technology, Inc."
+AZN,Astrazeneca plc
+BHE,Benchmark Electronics Inc.
+BIDU,Baidu Inc
+BIIB,Biogen Inc
+BKNG,Booking Holdings Inc
+BMI,Badger Meter Inc.
+BR,"Broadridge Financial Solutions, Inc."
+CCSI,Consensus Cloud Solutions Inc
+CDAY,Ceridian HCM Holding Inc.
+CDNS,"Cadence Design Systems, Inc."
+CDW,CDW Corp
+CEG,Constellation Energy Corporation
+CEVA,Ceva Inc.
+CHTR,Charter Communications Inc.
+CLFD,Clearfield Inc
+CMCSA,Comcast Corp
+CMTL,Comtech Telecommunications Corp.
+CNXN,"PC Connection, Inc."
+COHU,"Cohu, Inc."
+COST,Costco Wholesale Corp
+CPRT,"Copart, Inc."
+CRM,Salesforce Inc
+CRNC,Cerence Inc
+CRSR,Corsair Gaming Inc
+CRWD,Crowdstrike Holdings Inc
+CSCO,"Cisco Systems, Inc."
+CSGS,CSG Systems International Inc.
+CTS,CTS Corp.
+CTSH,Cognizant Technology Solutions Corp.
+CTXS,"Citrix Systems, Inc."
+DBD,Diebold Nixdorf Inc
+DDOG,Datadog Inc
+DGII,"Digi International, Inc."
+DIOD,"Diodes, Inc."
+DLTR,Dollar Tree Inc
+DOCU,DocuSign Inc
+DXC,DXC Technology Co
+DXCM,Dexcom Inc
+EA,"Electronic Arts, Inc."
+EBAY,EBay Inc.
+EBIX,Ebix Inc.
+EGHT,8X8 Inc.
+ENPH,Enphase Energy Inc
+EPAM,EPAM Systems Inc
+EVTC,Evertec Inc
+EXLS,Exlservice Hldgs Inc
+EXTR,Extreme Networks Inc.
+FARO,Faro Technologies Inc.
+FAST,Fastenal Co.
+FFIV,F5 Inc
+FIS,"Fidelity National Information Services, Inc."
+FISV,"Fiserv, Inc."
+FLT,Fleetcor Technologies Inc
+FN,Fabrinet
+FORM,FormFactor Inc.
+FTNT,Fortinet Inc
+GLW,"Corning, Inc."
+GOOG,Alphabet Inc
+GOOGL,Alphabet Inc
+GPN,"Global Payments, Inc."
+HLIT,"Harmonic, Inc."
+HON,Honeywell International Inc
+HPE,Hewlett Packard Enterprise Co
+HPQ,HP Inc
+IBM,International Business Machines Corp.
+ICHR,Ichor Holdings Ltd
+IDCC,Interdigital Inc
+IDXX,"Idexx Laboratories, Inc."
+ILMN,Illumina Inc
+INTC,Intel Corp.
+INTU,Intuit Inc
+ISRG,Intuitive Surgical Inc
+IT,"Gartner, Inc."
+ITRI,Itron Inc.
+JD,JD.com Inc
+JKHY,"Jack Henry & Associates, Inc."
+JNPR,Juniper Networks Inc
+KDP,Keurig Dr Pepper Inc
+KEYS,Keysight Technologies Inc
+KHC,Kraft Heinz Co
+KLAC,KLA Corp.
+KLIC,"Kulicke & Soffa Industries, Inc."
+KN,Knowles Corp
+LCID,Lucid Group Inc
+LPSN,Liveperson Inc
+LRCX,Lam Research Corp.
+LULU,Lululemon Athletica inc.
+LYFT,Lyft Inc
+MA,Mastercard Incorporated
+MAR,"Marriott International, Inc."
+MCHP,"Microchip Technology, Inc."
+MEI,"Methode Electronics, Inc."
+MELI,MercadoLibre Inc
+META,Meta Platforms Inc
+MNST,Monster Beverage Corp.
+MPWR,Monolithic Power System Inc
+MRNA,Moderna Inc
+MRVL,Marvell Technology Inc
+MSFT,Microsoft Corporation
+MSI,Motorola Solutions Inc
+MTCH,Match Group Inc.
+MU,Micron Technology Inc.
+MXL,MaxLinear Inc
+NFLX,Netflix Inc.
+NLOK,NortonLifeLock Inc
+NOW,ServiceNow Inc
+NSIT,Insight Enterprises Inc.
+NTAP,Netapp Inc
+NTCT,Netscout Systems Inc
+NTES,NetEase Inc
+NTGR,Netgear Inc
+NVDA,NVIDIA Corp
+NXPI,NXP Semiconductors NV
+ODFL,"Old Dominion Freight Line, Inc."
+OKTA,Okta Inc
+ON,ON Semiconductor Corp.
+ONTO,Onto Innovation Inc.
+ORCL,Oracle Corp.
+OSIS,"OSI Systems, Inc."
+OSPN,OneSpan Inc
+PANW,Palo Alto Networks Inc
+PAYC,Paycom Software Inc
+PAYX,Paychex Inc.
+PCAR,Paccar Inc.
+PDD,PDD Holdings Inc
+PDFS,PDF Solutions Inc.
+PLAB,"Photronics, Inc."
+PLUS,ePlus Inc
+PLXS,Plexus Corp.
+PRFT,Perficient Inc.
+PRGS,Progress Software Corp.
+PTC,PTC Inc
+PYPL,PayPal Holdings Inc
+QCOM,"Qualcomm, Inc."
+QRVO,Qorvo Inc
+RAMP,LiveRamp Holdings Inc
+REGN,"Regeneron Pharmaceuticals, Inc."
+RMBS,Rambus Inc.
+ROG,Rogers Corp.
+SANM,Sanmina Corp
+SCSC,"Scansource, Inc."
+SEDG,Solaredge Technologies Inc
+SGEN,Seagen Inc
+SGH,SMART Global Holdings Inc
+SIRI,Sirius XM Holdings Inc
+SNPS,"Synopsys, Inc."
+SPLK,Splunk Inc
+SPSC,SPS Commerce Inc.
+STX,Seagate Technology Holdings Plc
+SWKS,"Skyworks Solutions, Inc."
+TDY,Teledyne Technologies Inc
+TEAM,Atlassian Corporation
+TEL,TE Connectivity Ltd
+TER,"Teradyne, Inc."
+TRMB,Trimble Inc
+TSLA,Tesla Inc
+TTEC,TTEC Holdings Inc
+TTMI,TTM Technologies Inc
+TXN,Texas Instruments Inc.
+TYL,"Tyler Technologies, Inc."
+UBER,Uber Technologies Inc
+UCTT,Ultra Clean Hldgs Inc
+UIS,Unisys Corp.
+VECO,Veeco Instruments Inc
+VIAV,Viavi Solutions Inc
+VRSK,Verisk Analytics Inc
+VRSN,Verisign Inc.
+VRTX,"Vertex Pharmaceuticals, Inc."
+WDAY,Workday Inc
+WDC,Western Digital Corp.
+XEL,"Xcel Energy, Inc."
+XPER,Xperi Inc
+ZBRA,Zebra Technologies Corp.
+ZM,Zoom Video Communications Inc
+ZS,Zscaler Inc
