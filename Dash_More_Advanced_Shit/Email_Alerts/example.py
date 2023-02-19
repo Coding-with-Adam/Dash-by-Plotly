@@ -1,8 +1,8 @@
-from fmp_python.fmp import FMP          # for financial API
+from fmp_python.fmp import FMP          # for financial API:  pip install fmp-python
 import smtplib                          # for sending emails
 from email.message import EmailMessage  # for sending emails
 
-from dash import Dash, dcc, html, Output, Input, State
+from dash import Dash, dcc, html, Output, Input, State      # pip install dash
 import plotly.express as px
 from datetime import datetime
 
@@ -15,7 +15,7 @@ def email_alert(subject, body, to):
 
     user = "tutorialemailonly@gmail.com"
     msg['from'] = user
-    password = 'gjfjyazcyvdcilkb'
+    password = 'AppPasswordFromGoogSecurityTab'
 
     # set server parameters
     server = smtplib.SMTP('smtp.gmail.com', 587) # create server variable
@@ -50,7 +50,7 @@ app.layout = html.Div([
     State('alert-value', 'value'),
 )
 def display_price(_, ticker_name, alert_permission, alert_value):
-    fmp = FMP(output_format='pandas', api_key='1376ddca16cd99bddc6680891226d662')
+    fmp = FMP(output_format='pandas', api_key='f9cd560adc58cf98f76431a5da5e06b8')
     stock = fmp.get_quote_short(ticker_name)
     stock_history = fmp.get_historical_chart('1hour', ticker_name)
     current_time = datetime.now().strftime("%H:%M:%S")
