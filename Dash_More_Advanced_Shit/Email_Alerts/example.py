@@ -16,9 +16,9 @@ def send_alert(subject, body, to):
     msg['subject'] = subject
     msg['to'] = to
 
-    user = 'yourOwnEmail@gmail.com' 
+    user = 'yourOwnEmail@gmail.com'                                                              # <-- Update here-------------------
     msg['from'] = user
-    password = 'AppPasswordFromGoogSecurityTab'
+    password = 'AppPasswordFromGoogSecurityTab'                                                  # <-- Update here-------------------
 
     # set server parameters
     server = smtplib.SMTP('smtp.gmail.com', 587) # create server variable
@@ -53,7 +53,7 @@ app.layout = html.Div([
     State('alert-value', 'value'),
 )
 def display_price(_, ticker_name, alert_permission, alert_value):
-    fmp = FMP(output_format='pandas', api_key='YourFMPdeveloperAPIkey')
+    fmp = FMP(output_format='pandas', api_key='YourFMPdeveloperAPIkey')                          # <-- Update here-------------------
     stock = fmp.get_quote_short(ticker_name)
     stock_history = fmp.get_historical_chart('1hour', ticker_name)
     current_time = datetime.now().strftime("%H:%M:%S")
@@ -63,14 +63,14 @@ def display_price(_, ticker_name, alert_permission, alert_value):
             send_alert('Alert: Buy Stock',
                         f'{ticker_name} passed your alert threshold of ${alert_value} '
                         f'and is now at ${stock.price[0]} per share.',
-                        '3475140963@vtext.com')
+                        '3475140963@vtext.com')                                                  # <-- Update here-------------------
 
     elif alert_permission == 'Yes, email alerts':
         if stock.price[0] >= alert_value:
             send_alert('Alert: Buy Stock',
                         f'{ticker_name} passed your alert threshold of ${alert_value} '
                         f'and is now at ${stock.price[0]} per share.',
-                        'EmailToAddress@gmail.com')
+                        'EmailToAddress@gmail.com')                                              # <-- Update here-------------------
 
     history_fig = px.line(stock_history, x='date', y='high')
     return history_fig, html.Pre(f"Time: {current_time}\nPrice: ${stock.price[0]}")
