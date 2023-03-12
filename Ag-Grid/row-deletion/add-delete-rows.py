@@ -1,7 +1,7 @@
-import dash_ag_grid as dag
+import dash_ag_grid as dag              # pip install dash-ag-grid==2.0.0a2
 from dash import Dash, html, dcc, Input, Output, State, no_update, ctx
-import dash_bootstrap_components as dbc
-import pandas as pd
+import dash_bootstrap_components as dbc # pip install dash-bootstrap-components
+import pandas as pd                     # pip install pandas
 import plotly.express as px
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
@@ -16,7 +16,7 @@ columnDefs = [
         "headerName": "Gender",  # Name of table displayed in app
         "field": "Gender",       # ID of table (needs to be the same as excel sheet column name)
         "rowDrag": True,         # only need to activate on the first row for all to be draggable
-        "checkboxSelection": True,
+        "checkboxSelection": True,  # only need to activate on the first row
     },
     {
         "headerName": "Age",
@@ -50,7 +50,7 @@ defaultColDef = {
     "resizable": True,
     "sortable": True,
     "editable": True,
-    "minWidth": 125,
+    "minWidth": 150,
 }
 
 
@@ -63,7 +63,6 @@ table = dag.AgGrid(
     columnSize="sizeToFit",
     defaultColDef=defaultColDef,
     rowDragManaged=True,
-    dangerously_allow_code=True,
     rowSelection="multiple",
     dashGridOptions={"undoRedoCellEditing": True},
 )
@@ -165,7 +164,6 @@ def update_dash_table(n_dlt, n_add, data):
 )
 def update_portfolio_stats(cell_change, data):
     dff = pd.DataFrame(data)
-    print(dff.head())
     return dcc.Graph(figure=px.pie(
         dff,
         values='Money',
