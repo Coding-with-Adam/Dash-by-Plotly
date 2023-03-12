@@ -8,7 +8,7 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
 
 # data from Nitin Datta on Kaggle (modified by me):
 # https://www.kaggle.com/datasets/nitindatta/finance-data?select=Finance_data.csv
-df = pd.read_csv("finance_survey.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Ag-Grid/row-deletion/finance_survey.csv")
 print(df.head())
 
 columnDefs = [
