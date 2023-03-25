@@ -1,0 +1,10 @@
+﻿region,market,balance_dollar,balance_prct,investment,account,platform,owner
+International,Equities,37990,14.5,VFWAX,Brokerage,Vanguard,Joint
+Domestic,Annuities,56330,21.5,Guaranteed,403b,Empower,Cricket
+Domestic,Bonds,13100,5,TIPS,401k,Empower,Cricket
+Domestic,Equities,94320,36,S&P 500,401k,Tiaa-Cref,Ladybug
+Domestic,Equities,26200,10,S&P 500,Roth IRA,Tiaa-Cref,Ladybug
+International,Equities,6550,2.5,VFWAX,IRA,Vanguard,Ladybug
+Mix,Equities,12052,4.6,CNRG,Roth IRA,Vanguard,Cricket
+Domestic,Equities,10218,3.9,TSLA,Other,Robinhood,Joint
+Domestic,Commodities,5240,2,REIT,Other,Fundrise,Cricket
