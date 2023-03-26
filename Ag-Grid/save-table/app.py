@@ -8,8 +8,7 @@ import os
 # canada_finance data from Nitin Datta on Kaggle (modified by me):
 # https://www.kaggle.com/datasets/nitindatta/finance-data?select=Finance_data.csv
 
-
-datasets = [files for path, subdirectory, files in os.walk("\\Users\\13474\\heroku\\My_Dash\\Youtube\\Ag Grid\\save-table\\data")]
+datasets = [files for path, subdirectory, files in os.walk("\\Users\\adams\\PycharmProjects\\YouTube\\Ag Grid\\save-table\\data")]
 print(datasets[0])
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
@@ -133,20 +132,19 @@ app.layout = dbc.Container(
     ],
 )
 
-# use new dataset
+# retrieve dataset to display in table
 @app.callback(
     Output("portfolio-table", "rowData"),
     Input("retrieve-dataset", "value"),
 )
 def update_portfolio_stats(dataset_selected):
-    print(dataset_selected)
+    # print(dataset_selected)
     dff = pd.read_csv(f'data\\{dataset_selected}')
     return dff.to_dict('records')
 
 
 # save your data
 @app.callback(
-    Output("not-important", "children"),
     Output("alerting", "is_open"),
     Output("alerting", "children"),
     Output("alerting", "color"),
@@ -158,11 +156,11 @@ prevent_initial_call=True
 def update_portfolio_stats(n, name, data):
     print(type(name))
     if name is None or len(name)==0:
-        return no_update, True, "No name provided", "danger"
+        return True, "No name provided", "danger"
     else:
         dff = pd.DataFrame(data)
         dff.to_csv(f'data\\{name}.csv', index=False)
-        return no_update, True, "Data Saved! Well done!", "success"
+        return True, "Data Saved! Well done!", "success"
 
 
 
