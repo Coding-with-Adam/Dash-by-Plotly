@@ -12,7 +12,7 @@ df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plo
 
 # add image to Stock_market column
 danger = f"![dangerous market]({app.get_asset_url('prohibited.png')})"
-safety =  f"![safe market]({app.get_asset_url('newplot1.png')})"
+safety =  f"![safe market]({app.get_asset_url('safe.png')})"
 market_icons = []
 for x in df.Stock_Market:
     if x == 'No':
@@ -84,7 +84,6 @@ defaultColDef = {
 }
 
 
-
 table = dag.AgGrid(
     id="portfolio-table",
     className="ag-theme-alpine-dark",
@@ -98,47 +97,18 @@ table = dag.AgGrid(
 
 app.layout = dbc.Container(
     [
-        html.Div("Investments Survey", className="h3 p-2 text-white bg-secondary"),
+        html.Div("AG Grid: Icons, Dropdown, Link", className="h3 p-2 text-white bg-secondary"),
         dbc.Row(
             [
                 dbc.Col(
                     [
-                        dbc.Card(
-                            [
-                                dbc.CardBody(
-                                    [
-                                        table,
-                                        html.Span(
-                                            [
-                                                dbc.Button(
-                                                    id="delete-row-btn",
-                                                    children="Delete row",
-                                                    color="secondary",
-                                                    size="md",
-                                                    className='mt-3 me-1'
-                                                ),
-                                                dbc.Button(
-                                                    id="add-row-btn",
-                                                    children="Add row",
-                                                    color="primary",
-                                                    size="md",
-                                                    className='mt-3'
-                                                ),
-                                            ]
-                                        ),
-                                    ]
-                                ),
-                            ],
-                        )
+                        table
                     ], width={"size": 10, "offset": 1},
                 ),
             ],
-            className="py-4",
         ),
     ],
 )
-
-
 
 
 if __name__ == "__main__":
