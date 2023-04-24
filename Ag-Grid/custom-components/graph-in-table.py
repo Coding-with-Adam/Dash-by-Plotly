@@ -3,13 +3,17 @@ from dash import Dash, html, dcc, Input, Output, State, no_update, Patch
 import dash_bootstrap_components as dbc # pip install dash-bootstrap-custom-components
 import pandas as pd                     # pip install pandas
 import plotly.express as px
+import json
 
+# more about this code and topic by Ann Marie: https://dashaggrid.pythonanywhere.com/components/cell-renderer
 app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
 # data from Nitin Datta on Kaggle:
 # https://www.kaggle.com/datasets/nitindatta/finance-data?select=Finance_data.csv
 df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Ag-Grid/row-deletion/finance_survey.csv")
 subset = df.groupby("Objective")[["Age","Money"]].mean().reset_index()
 subset[["Age","Money"]] = subset[["Age","Money"]].round(0)
+subset.rename(columns={'Age': 'avg-Age', 'Money': 'avg-Money'}, inplace=True)
+print(subset)
 subset['Graphing'] = ''
 
 
@@ -33,13 +37,13 @@ for i, r in subset.iterrows():
 
 columnDefs = [
     {
-        "headerName": "Age",
-        "field": "Age",
+        "headerName": "avg-Age",
+        "field": "avg-Age",
         "type": "rightAligned",
     },
     {
-        "headerName": "Money",
-        "field": "Money",
+        "headerName": "avg-Money",
+        "field": "avg-Money",
         "type": "rightAligned",
     },
     {
@@ -78,7 +82,7 @@ app.layout = dbc.Container(
                             [
                                 dbc.CardBody(
                                     [
-                                        table,
+                                        table, html.Div(id='custom-component-graph-output')
                                     ]
                                 ),
                             ],
@@ -91,7 +95,12 @@ app.layout = dbc.Container(
     ],
 )
 
-
+# @app.callback(
+#     Output("custom-component-graph-output", "children"),
+#     Input("portfolio-table", "cellRendererData")
+# )
+# def graphClickData(d):
+#     return json.dumps(d)
 
 
 if __name__ == "__main__":
