@@ -1,5 +1,5 @@
 import dash_ag_grid as dag              # pip install dash-ag-grid==2.0.0a5
-from dash import Dash, html, dcc, Input, Output, State, no_update, Patch
+from dash import Dash, html, dcc, Input, Output, State, no_update, Patch  # pip install dash==2.9.3
 import dash_bootstrap_components as dbc # pip install dash-bootstrap-custom-components
 import pandas as pd                     # pip install pandas
 import plotly.express as px
@@ -102,10 +102,10 @@ app.layout = dbc.Container(
 def showChange(n):
     if n:
         print(n)
-        patched_figure = Patch()
         row_id_sold = int(n['rowId'])
-        patched_figure[row_id_sold]['Money'] = 0
-        return patched_figure
+        patched_table = Patch()
+        patched_table[row_id_sold]['Money'] = 0
+        return patched_table
     else:
         return no_update
 
