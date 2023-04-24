@@ -101,6 +101,7 @@ app.layout = dbc.Container(
 )
 def showChange(n):
     if n:
+        print(n)
         patched_figure = Patch()
         row_id_sold = int(n['rowId'])
         patched_figure[row_id_sold]['Money'] = 0
