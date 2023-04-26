@@ -1,0 +1,241 @@
+Date,YEAR,MONTH,Bldg #,Side,SpeciesCode,Common Name,Deaths
+10/19/2013,2013,OCT,twelve,E,MODO,Mourning Dove ,1
+10/22/2013,2013,OCT,seventeen,C,EATO,Eastern Towhee ,1
+10/23/2013,2013,OCT,ten,D,HETH,Hermit Thrush ,1
+10/27/2013,2013,OCT,seven,B,GCKI,Golden-crowned Kinglet ,1
+10/28/2013,2013,OCT,nine,D,GRCA,Gray Catbird ,1
+10/28/2013,2013,OCT,eleven,B,unk,unknown,1
+10/28/2013,2013,OCT,fifteen,B,CACH,Carolina Chickadee ,1
+10/28/2013,2013,OCT,fifteen,B,WBNU,White-breasted Nuthatch ,1
+10/28/2013,2013,OCT,twenty,A,unk,unknown,1
+10/31/2013,2013,OCT,seven,B,MODO,Mourning Dove ,1
+11/1/2013,2013,NOV,four,C,WTSP,White-throated Sparrow ,1
+11/4/2013,2013,NOV,eleven,D,FOSP,Fox Sparrow ,1
+11/4/2013,2013,NOV,eleven,C,unk,unknown,1
+11/5/2013,2013,NOV,sixteen,A,HETH,Hermit Thrush ,1
+11/5/2013,2013,NOV,sixteen,D,SOSP,Song Sparrow ,1
+11/7/2013,2013,NOV,three,C,GCKI,Golden-crowned Kinglet ,1
+11/7/2013,2013,NOV,twelve,C,DEJU,Dark-eyed Junco ,1
+11/8/2013,2013,NOV,eleven,C,WTSP,White-throated Sparrow ,1
+11/11/2013,2013,NOV,twenty-four,C,unk,unknown,1
+11/13/2013,2013,NOV,eleven,B,INBU,Indigo Bunting ,1
+11/14/2013,2013,NOV,one,B,GCKI,Golden-crowned Kinglet ,1
+11/14/2013,2013,NOV,three,B,NOCA,Northern Cardinal ,1
+11/15/2013,2013,NOV,eight,C,WTSP,White-throated Sparrow ,1
+11/25/2013,2013,NOV,eleven,A,unk,unknown,1
+12/3/2013,2013,DEC,sixteen,D,DEJU,Dark-eyed Junco ,1
+12/11/2013,2013,DEC,seven,D,GCKI,Golden-crowned Kinglet ,1
+12/16/2013,2013,DEC,four,A,DEJU,Dark-eyed Junco ,1
+1/9/2014,2014,JAN,seven,C,GCKI,Golden-crowned Kinglet ,1
+2/3/2014,2014,FEB,one,D,EATO,Eastern Towhee ,1
+2/20/2014,2014,FEB,seven,E,unk,unknown,1
+2/26/2014,2014,FEB,twenty-four,C,RCKI,Ruby-crowned Kinglet ,1
+3/12/2014,2014,MAR,twenty-one,A,DEJU,Dark-eyed Junco ,1
+3/12/2014,2014,MAR,twenty-one,A,EABL,Eastern Bluebird ,1
+3/16/2014,2014,MAR,twenty-one,D,WTSP,White-throated Sparrow ,1
+3/18/2014,2014,MAR,one,B,AMRO,American Robin ,1
+3/19/2014,2014,MAR,eleven,D,AMRO,American Robin ,1
+3/20/2014,2014,MAR,sixteen,D,SOSP,Song Sparrow ,1
+3/24/2014,2014,MAR,one,A,MODO,Mourning Dove ,1
+3/24/2014,2014,MAR,one,B,unk,unknown,1
+3/24/2014,2014,MAR,four,C,DEJU,Dark-eyed Junco ,1
+3/31/2014,2014,MAR,two,D,AMRO,American Robin ,1
+4/2/2014,2014,APR,twenty-one,A,EUST,European Starling ,1
+4/3/2014,2014,APR,seven,C,AMRO,American Robin ,1
+4/4/2014,2014,APR,twenty-three,B,DEJU,Dark-eyed Junco ,1
+4/6/2014,2014,APR,nine,B,SAVS,Savannah Sparrow ,1
+4/6/2014,2014,APR,fifteen,F,unk,unknown,1
+4/8/2014,2014,APR,fifteen,E,unk,unknown,1
+4/14/2014,2014,APR,one,C,BRTH,Brown Thrasher ,1
+4/14/2014,2014,APR,four,A,AMRO,American Robin ,1
+4/15/2014,2014,APR,twelve,F,AMRO,American Robin ,1
+4/16/2014,2014,APR,sixteen,A,MODO,Mourning Dove ,1
+4/17/2014,2014,APR,nine,D,DEJU,Dark-eyed Junco ,1
+4/17/2014,2014,APR,twenty-one,E,unk,unknown,1
+4/18/2014,2014,APR,four,B,AMRO,American Robin ,1
+4/18/2014,2014,APR,twenty-one,E,CEDW,Cedar Waxwing ,1
+4/21/2014,2014,APR,eleven,B,unk,unknown,1
+4/22/2014,2014,APR,fifteen,F,EABL,Eastern Bluebird ,1
+4/22/2014,2014,APR,twenty,B,AMRO,American Robin ,1
+4/23/2014,2014,APR,eleven,D,unk,unknown,1
+4/25/2014,2014,APR,eleven,B,RTHU,Ruby-throated Hummingbird ,1
+4/26/2014,2014,APR,eleven,C,RTHU,Ruby-throated Hummingbird ,1
+4/28/2014,2014,APR,one,A,MODO,Mourning Dove ,1
+4/28/2014,2014,APR,twelve,C,AMGO,American Goldfinch ,1
+4/28/2014,2014,APR,fourteen,B,RTHU,Ruby-throated Hummingbird ,1
+4/29/2014,2014,APR,two,B,YRWA,Yellow-rumped Warbler ,1
+4/29/2014,2014,APR,four,C,unk,unknown,1
+5/1/2014,2014,MAY,eleven,B,GRCA,Gray Catbird ,1
+5/1/2014,2014,MAY,sixteen,D,GRCA,Gray Catbird ,1
+5/1/2014,2014,MAY,seventeen,B,GRCA,Gray Catbird ,1
+5/5/2014,2014,MAY,twenty,A,INBU,Indigo Bunting ,1
+5/5/2014,2014,MAY,twenty-one,E,RWBL,Red-winged Blackbird ,1
+5/5/2014,2014,MAY,twenty-four,A,GRCA,Gray Catbird ,1
+5/5/2014,2014,MAY,twenty-seven,A,WTSP,White-throated Sparrow ,1
+5/7/2014,2014,MAY,fifteen,A,RTHU,Ruby-throated Hummingbird ,1
+5/7/2014,2014,MAY,sixteen,B,MODO,Mourning Dove ,1
+5/7/2014,2014,MAY,twenty-four,C,GRCA,Gray Catbird ,1
+5/8/2014,2014,MAY,seven,A,AMRO,American Robin ,1
+5/8/2014,2014,MAY,twelve,C,AMGO,American Goldfinch ,1
+5/8/2014,2014,MAY,fourteen,C,HETH,Hermit Thrush ,1
+5/9/2014,2014,MAY,one,B,GRCA,Gray Catbird ,1
+5/9/2014,2014,MAY,twelve,B,YBCU,Yellow-billed Cuckoo ,1
+5/14/2014,2014,MAY,fifteen,G,GRCA,Gray Catbird ,1
+5/14/2014,2014,MAY,twenty,A,GRCA,Gray Catbird ,1
+5/19/2014,2014,MAY,one,B,NOFL,Northern Flicker ,1
+5/19/2014,2014,MAY,ten,D,AMRO,American Robin ,1
+5/19/2014,2014,MAY,eleven,B,unk,unknown,1
+5/19/2014,2014,MAY,twelve,B,RTHU,Ruby-throated Hummingbird ,1
+5/21/2014,2014,MAY,nine,D,YBCU,Yellow-billed Cuckoo ,1
+5/21/2014,2014,MAY,twenty,B,AMGO,American Goldfinch ,1
+5/26/2014,2014,MAY,ten,C,COYE,Common Yellowthroat ,1
+5/29/2014,2014,MAY,twelve,B,AMRE,American Redstart ,1
+5/29/2014,2014,MAY,twelve,F,YBCU,Yellow-billed Cuckoo ,1
+5/29/2014,2014,MAY,fourteen,B,EUST,European Starling ,1
+5/29/2014,2014,MAY,fourteen,D,NOCA,Northern Cardinal ,1
+5/29/2014,2014,MAY,thirty,B,AMGO,American Goldfinch ,1
+5/29/2014,2014,MAY,thirty,C,YBCU,Yellow-billed Cuckoo ,1
+6/2/2014,2014,JUN,twelve,B,CEDW,Cedar Waxwing ,1
+6/2/2014,2014,JUN,fourteen,B,GCFL,Great Crested Flycatcher ,1
+6/4/2014,2014,JUN,twenty,A,MODO,Mourning Dove ,1
+6/4/2014,2014,JUN,twenty-four,A,HOFI,House Finch ,1
+6/15/2014,2014,JUN,nine,A,SOSP,Song Sparrow ,1
+6/15/2014,2014,JUN,twenty,B,unk,unknown,1
+6/25/2014,2014,JUN,twenty,D,unk,unknown,1
+6/25/2014,2014,JUN,twenty-seven,C,NOMO,Northern Mockingbird ,1
+7/2/2014,2014,JUL,one,B,MODO,Mourning Dove ,1
+7/2/2014,2014,JUL,twelve,D,AMRO,American Robin ,1
+7/2/2014,2014,JUL,twelve,B,GRCA,Gray Catbird ,1
+7/2/2014,2014,JUL,sixteen,B,OVEN,Ovenbird ,1
+7/7/2014,2014,JUL,two,B,AMRO,American Robin ,1
+7/7/2014,2014,JUL,three,D,LOWA,Louisiana Waterthrush ,1
+7/7/2014,2014,JUL,ten,F,AMRO,American Robin ,1
+7/7/2014,2014,JUL,twelve,D,OVEN,Ovenbird ,1
+7/7/2014,2014,JUL,fourteen,B,HOFI,House Finch ,1
+7/13/2014,2014,JUL,three,C,unk,unknown,1
+7/13/2014,2014,JUL,four,B,unk,unknown,1
+7/13/2014,2014,JUL,ten,E,NOCA,Northern Cardinal ,1
+7/14/2014,2014,JUL,two,B,unk,unknown,1
+7/14/2014,2014,JUL,thirty,C,RWBL,Red-winged Blackbird ,1
+7/16/2014,2014,JUL,fifteen,G,SOSP,Song Sparrow ,1
+7/16/2014,2014,JUL,seventeen,C,unk,unknown,1
+7/16/2014,2014,JUL,seventeen,D,YTVI,Yellow-throated Vireo ,1
+7/17/2014,2014,JUL,eleven,A,AMRO,American Robin ,1
+7/18/2014,2014,JUL,eleven,B,CEDW,Cedar Waxwing ,1
+7/21/2014,2014,JUL,fifteen,A,unk,unknown,1
+7/21/2014,2014,JUL,fifteen,B,unk,unknown,1
+7/21/2014,2014,JUL,sixteen,B,unk,unknown,1
+7/23/2014,2014,JUL,twenty-one,C,RWBL,Red-winged Blackbird ,1
+7/28/2014,2014,JUL,three,C,AMRO,American Robin ,1
+7/28/2014,2014,JUL,thirty,D,SOSP,Song Sparrow ,1
+7/30/2014,2014,JUL,nine,B,MODO,Mourning Dove ,1
+7/30/2014,2014,JUL,eleven,A,RTHU,Ruby-throated Hummingbird ,1
+7/30/2014,2014,JUL,fourteen,B,NOFL,Northern Flicker ,1
+7/30/2014,2014,JUL,twenty-six,F,FISP,Field Sparrow ,1
+8/1/2014,2014,AUG,twelve,E,unk,unknown,1
+8/4/2014,2014,AUG,three,C,AMRO,American Robin ,1
+8/4/2014,2014,AUG,three,C,unk,unknown,1
+8/4/2014,2014,AUG,seven,C ,RTHU,Ruby-throated Hummingbird ,1
+8/4/2014,2014,AUG,twelve,B,NOCA,Northern Cardinal ,1
+8/6/2014,2014,AUG,fifteen,G,GRCA,Gray Catbird ,1
+8/6/2014,2014,AUG,twenty-seven,D,AMRO,American Robin ,1
+8/20/2014,2014,AUG,seventeen,D,AMRO,American Robin ,1
+8/20/2014,2014,AUG,twenty-four,A,GRCA,Gray Catbird ,1
+8/25/2014,2014,AUG,two,B,NOFL,Northern Flicker ,1
+8/25/2014,2014,AUG,three,C,OVEN,Ovenbird ,1
+8/26/2014,2014,AUG,fifteen,A,unk,unknown,1
+9/3/2014,2014,SEPT,sixteen,D,RTHU,Ruby-throated Hummingbird ,1
+9/3/2014,2014,SEPT,twenty-six,D,CONI,Common Nighthawk ,1
+9/7/2014,2014,SEPT,one,C,RTHU,Ruby-throated Hummingbird ,1
+9/14/2014,2014,SEPT,eleven,C,RTHU,Ruby-throated Hummingbird ,1
+9/15/2014,2014,SEPT,twelve,F,RTHU,Ruby-throated Hummingbird ,1
+9/15/2014,2014,SEPT,twenty,E,BTGW,Black-throated Green Warbler ,1
+9/15/2014,2014,SEPT,twenty,A,RTHU,Ruby-throated Hummingbird ,1
+9/15/2014,2014,SEPT,twenty-seven,D,unk,unknown,1
+9/16/2014,2014,SEPT,eleven,A,COYE,Common Yellowthroat ,1
+9/16/2014,2014,SEPT,eleven,C,RTHU,Ruby-throated Hummingbird ,1
+9/17/2014,2014,SEPT,ten,D,COYE,Common Yellowthroat ,1
+9/17/2014,2014,SEPT,twelve,D,MODO,Mourning Dove ,1
+9/17/2014,2014,SEPT,twenty-three,D,unk,unknown,1
+9/17/2014,2014,SEPT,twenty-seven,D,unk,unknown,1
+9/18/2014,2014,SEPT,eleven,B,unk,unknown,1
+9/18/2014,2014,SEPT,fourteen,D,YEWA,Yellow Warbler,1
+9/19/2014,2014,SEPT,two,B,unk,unknown,1
+9/19/2014,2014,SEPT,eleven,B,NOWA,Northern Waterthrush ,1
+9/19/2014,2014,SEPT,eleven,A,Thrush spp.,Thrush spp.,1
+9/19/2014,2014,SEPT,fourteen,A,BTBW,Black-throated Blue Warbler ,1
+9/21/2014,2014,SEPT,one,D,RTHU,Ruby-throated Hummingbird ,1
+9/21/2014,2014,SEPT,nine,B,unk,unknown,1
+9/21/2014,2014,SEPT,sixteen,D,RTHU,Ruby-throated Hummingbird ,1
+9/21/2014,2014,SEPT,sixteen,D,unk,unknown,1
+9/21/2014,2014,SEPT,seventeen,A/B,NOMO,Northern Mockingbird ,1
+9/21/2014,2014,SEPT,twenty,B,CEDW,Cedar Waxwing ,1
+9/22/2014,2014,SEPT,one,B,SCTA,Scarlet Tanager ,1
+9/22/2014,2014,SEPT,twelve,C,RTHU,Ruby-throated Hummingbird ,1
+9/22/2014,2014,SEPT,thirty,C,PAWA,Palm Warbler,1
+9/24/2014,2014,SEPT,two,D,BTGW,Black-throated Green Warbler ,1
+9/24/2014,2014,SEPT,fifteen,A,RTHU,Ruby-throated Hummingbird ,1
+9/24/2014,2014,SEPT,sixteen,D,RTHU,Ruby-throated Hummingbird ,1
+9/24/2014,2014,SEPT,twenty,A,AMGO,American Goldfinch ,1
+9/26/2014,2014,SEPT,twelve,E,RTHU,Ruby-throated Hummingbird ,1
+9/28/2014,2014,SEPT,three,C,YBCU,Yellow-billed Cuckoo ,1
+9/28/2014,2014,SEPT,twelve,B,RTHU,Ruby-throated Hummingbird ,1
+9/28/2014,2014,SEPT,twelve,B,TEWA,Tennessee Warbler ,1
+10/3/2014,2014,OCT,eleven,C,RTHU,Ruby-throated Hummingbird ,1
+10/5/2014,2014,OCT,three,C,RTHU,Ruby-throated Hummingbird ,1
+10/5/2014,2014,OCT,three,B,unk,unknown,1
+10/5/2014,2014,OCT,twelve,B,CSWA,Chestnut-sided Warbler ,1
+10/13/2014,2014,OCT,twenty,B,REVI,Red-eyed Vireo ,1
+10/15/2014,2014,OCT,eleven,D,GRCA,Gray Catbird ,1
+10/15/2014,2014,OCT,twelve,B,TUTI,Tufted Titmouse ,1
+10/19/2014,2014,OCT,one,D,MODO,Mourning Dove ,1
+10/19/2014,2014,OCT,ten,E,woodpecker spp,woodpecker spp,1
+10/22/2014,2014,OCT,twelve,F,AMRO,American Robin ,1
+10/23/2014,2014,OCT,twenty-four,A,WTSP,White-throated Sparrow ,1
+10/29/2014,2014,OCT,twelve,F,AMRO,American Robin ,1
+10/30/2014,2014,OCT,twenty-three,D,YBSA,Yellow-bellied Sapsucker,1
+11/3/2014,2014,NOV,eleven,C,BHVI,Blue-headed Vireo,1
+11/3/2014,2014,NOV,twelve,D,GCKI,Golden-crowned Kinglet ,1
+11/4/2014,2014,NOV,seven,C,BRCR,Brown Creeper,1
+11/4/2014,2014,NOV,seven,C,GCKI,Golden-crowned Kinglet ,1
+11/10/2014,2014,NOV,seven,C,GCKI,Golden-crowned Kinglet ,1
+11/10/2014,2014,NOV,twelve,D,DEJU,Dark-eyed Junco ,1
+11/10/2014,2014,NOV,thirty,C,WTSP,White-throated Sparrow ,1
+11/12/2014,2014,NOV,two,D,CEDW,Cedar Waxwing ,1
+11/12/2014,2014,NOV,twenty-one,A,unk,unknown,1
+11/18/2014,2014,NOV,fifteen,C,HOFI,House Finch ,1
+11/19/2014,2014,NOV,three,C,unk,unknown,1
+11/19/2014,2014,NOV,three,C,unk,unknown,1
+11/21/2014,2014,NOV,three,C,GCKI,Golden-crowned Kinglet ,1
+11/21/2014,2014,NOV,seven,D,MODO,Mourning Dove ,1
+11/21/2014,2014,NOV,twelve,D,DEJU,Dark-eyed Junco ,1
+11/30/2014,2014,NOV,twenty-seven,B,HETH,Hermit Thrush ,1
+12/1/2014,2014,DEC,eleven,A,AMWO,American Woodcock,1
+12/1/2014,2014,DEC,thirty,C,AMPI,American Pipit,1
+12/2/2014,2014,DEC,twenty,E,WCSP,White-crowned Sparrow,1
+12/2/2014,2014,DEC,twenty,A,WTSP,White-throated Sparrow ,1
+12/2/2014,2014,DEC,twenty-one,C,unk,unknown,1
+12/24/2014,2014,DEC,twelve,B,WTSP,White-throated Sparrow ,1
+1/13/2015,2015,JAN,two,C,YBSA,Yellow-bellied Sapsucker,1
+1/14/2015,2015,JAN,thirty,A,NOCA,Northern Cardinal,1
+1/29/2015,2015,JAN,sixteen,A,MODO,Mourning Dove ,1
+2/12/2015,2015,FEB,twenty,A,MODO,Mourning Dove ,1
+3/20/2015,2015,MAR,seven,A,AMRO,American Robin ,1
+3/22/2015,2015,MAR,fifteen,G,SOSP,Song Sparrow,1
+3/29/2015,2015,MAR,sixteen,D,CEDW,Cedar Waxwing ,1
+4/13/2015,2015,APR,eleven,B,unk,unknown,1
+4/27/2015,2015,APR,ten,E,BRTH,Brown Thrasher,1
+4/28/2015,2015,APR,eleven,A,RTHU,Ruby-throated Hummingbird,1
+4/28/2015,2015,APR,eleven,B,unk,unknown,1
+5/4/2015,2015,MAY,one,A,GRCA,Gray Catbird,1
+5/4/2015,2015,MAY,fourteen,A,EAKI,Easterm Kingbird,1
+5/4/2015,2015,MAY,fourteen,A,EAKI,Easterm Kingbird,1
+5/6/2015,2015,MAY,fourteen,B,RCKI,Ruby-crowned Kinglet,1
+5/6/2015,2015,MAY,fourteen,B,WOWA,Worm-eating Warbler,1
+5/13/2015,2015,MAY,twelve,F,GRCA,Gray Catbird,1
+5/13/2015,2015,MAY,fourteen,B,RTHU,Ruby-throated Hummingbird,1
+5/20/2015,2015,MAY,seven,C,KILL,Killdeer,1
+5/20/2015,2015,MAY,seven,E,NOFL,Northern Flicker,1
+5/27/2015,2015,MAY,seven,E/A,CEDW,Cedar Waxwing ,1
+5/27/2015,2015,MAY,seven,E/A,unk,unknown,1
+5/27/2015,2015,MAY,thirteen,C,INBU,Indigo Bunting ,1
