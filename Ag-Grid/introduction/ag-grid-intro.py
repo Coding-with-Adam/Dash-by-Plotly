@@ -1,6 +1,6 @@
-from dash import Dash, html, dcc, Input, Output
-import dash_ag_grid as dag
-import pandas as pd
+from dash import Dash, html, dcc, Input, Output  # pip install dash
+import dash_ag_grid as dag  # pip install dash-ag-grid
+import pandas as pd  # pip install pandas
 import plotly.express as px
 
 df = px.data.tips()
