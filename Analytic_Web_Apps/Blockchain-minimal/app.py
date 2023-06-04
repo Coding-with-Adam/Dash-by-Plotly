@@ -1,9 +1,9 @@
 from dash import Dash, html, dcc, Input, Output, callback  # pip install dash
-import dash_bootstrap_components as dbc
+import dash_bootstrap_components as dbc                    # pip install dash-bootstrap-components
 import plotly.express as px
-import pandas as pd
+import pandas as pd                                        # pip install pandas
 from urllib.request import Request, urlopen
-from dotenv import dotenv_values
+from dotenv import dotenv_values                           # pip install python-dotenv
 import json
 
 
@@ -15,7 +15,7 @@ df_eth_usd['date'] = pd.to_datetime(df_eth_usd['date'])
 df_eth_addr = pd.read_csv("DailyActiveEthAddress.csv")
 df_eth_addr['date'] = pd.to_datetime(df_eth_addr['date'])
 
-# set up beaconcahin api key for data on gas prices
+# set up beaconchain api key for data on gas prices
 config = dotenv_values(".env")
 api_key = config['API_KEY']
 
@@ -40,12 +40,12 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             html.H3("Eth Value"),
-            dcc.Dropdown(options=df_eth_usd.columns[3:], value='open', id='col_price'),
+            dcc.Dropdown(options=df_eth_usd.columns[3:], value='open', clearable=False, id='col_price'),
             dcc.Graph(figure={}, id='eth_usd_graph')
         ], width=6),
         dbc.Col([
             html.H3("Active Ethereum Addresses"),
-            dcc.Dropdown(options=df_eth_addr.columns[1:], value='Unique Address Total Count', id='col_addr'),
+            dcc.Dropdown(options=df_eth_addr.columns[1:], value='Unique Address Total Count', clearable=False, id='col_addr'),
             dcc.Graph(figure={}, id='eth_addr_graph')
         ], width=6)
     ]),
@@ -71,18 +71,18 @@ def udpate_graph(col_p_selected, col_a_selected):
     Input('update_trigger','n_intervals')
 )
 def udpate_gas_price(_):
-    # gas_price = {"code":200,"data":{"rapid":31701870016,"fast":24753659720,"standard":24753659720,"slow":24753659720}}
+    gas_price = {"code":200,"data":{"rapid":31701870016,"fast":24753659720,"standard":24753659720,"slow":24753659720}}
 
-    req = Request(
-        url=f'https://beaconcha.in/api/v1/execution/gasnow?apikey={api_key}',
-        headers={'User-Agent': 'Mozilla/5.0'}
-    )
-    web_byte = urlopen(req).read()
-    gas_price_string = web_byte.decode('utf-8')
-    gas_price = json.loads(gas_price_string)  # convert string to dict
-    gas_price["data"].pop("timestamp")
-    gas_price["data"].pop("priceUSD")
-    print(gas_price)
+    # req = Request(
+    #     url=f'https://beaconcha.in/api/v1/execution/gasnow?apikey={api_key}',
+    #     headers={'User-Agent': 'Mozilla/5.0'}
+    # )
+    # web_byte = urlopen(req).read()
+    # gas_price_string = web_byte.decode('utf-8')
+    # gas_price = json.loads(gas_price_string)  # convert string to dict
+    # gas_price["data"].pop("timestamp")
+    # gas_price["data"].pop("priceUSD")
+    # print(gas_price)
 
     gas_cards = [dbc.Col(make_card(y, gas_price["data"])) for y in gas_price["data"]]
     return gas_cards
