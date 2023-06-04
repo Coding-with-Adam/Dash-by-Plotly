@@ -54,10 +54,10 @@ app.layout = dbc.Container([
 
 # build the graphs based on dropdown value selected
 @callback(
-    Output('eth_usd_graph','figure'),
-    Output('eth_addr_graph','figure'),
-    Input('col_price','value'),
-    Input('col_addr','value')
+    Output(component_id='eth_usd_graph', component_property='figure'),
+    Output('eth_addr_graph', component_property='figure'),
+    Input('col_price', component_property='value'),
+    Input('col_addr', component_property='value')
 )
 def udpate_graph(col_p_selected, col_a_selected):
     price_fig = px.line(data_frame=df_eth_usd, x='date', y=col_p_selected)
@@ -83,9 +83,9 @@ def udpate_gas_price(_):
     # gas_price["data"].pop("timestamp")
     # gas_price["data"].pop("priceUSD")
     # print(gas_price)
-
-    gas_cards = [dbc.Col(make_card(y, gas_price["data"])) for y in gas_price["data"]]
-    return gas_cards
+    #
+    # gas_cards = [dbc.Col(make_card(y, gas_price["data"])) for y in gas_price["data"]]
+    # return gas_cards
 
 
 if __name__ == '__main__':
