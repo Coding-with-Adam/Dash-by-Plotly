@@ -83,9 +83,9 @@ def udpate_gas_price(_):
     # gas_price["data"].pop("timestamp")
     # gas_price["data"].pop("priceUSD")
     # print(gas_price)
-    #
-    # gas_cards = [dbc.Col(make_card(y, gas_price["data"])) for y in gas_price["data"]]
-    # return gas_cards
+    
+    gas_cards = [dbc.Col(make_card(y, gas_price["data"])) for y in gas_price["data"]]
+    return gas_cards
 
 
 if __name__ == '__main__':
