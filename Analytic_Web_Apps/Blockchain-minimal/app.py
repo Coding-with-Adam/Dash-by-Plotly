@@ -18,6 +18,7 @@ df_eth_addr['date'] = pd.to_datetime(df_eth_addr['date'])
 # set up beaconchain api key for data on gas prices
 config = dotenv_values(".env")
 api_key = config['API_KEY']
+# your .env file should have this line: API_KEY = "your-beaconchain-api-key"
 
 # function to build one card for each gas price category
 def make_card(key, get_data):
