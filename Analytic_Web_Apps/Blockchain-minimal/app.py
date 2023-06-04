@@ -8,11 +8,11 @@ import json
 
 
 # get eth-to-usd dataset
-df_eth_usd = pd.read_csv("Gemini_ETHUSD_d.csv")
+df_eth_usd = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Analytic_Web_Apps/Blockchain-minimal/Gemini_ETHUSD_d.csv")
 df_eth_usd['date'] = pd.to_datetime(df_eth_usd['date'])
 
 # get eth-addresses dataset
-df_eth_addr = pd.read_csv("DailyActiveEthAddress.csv")
+df_eth_addr = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Analytic_Web_Apps/Blockchain-minimal/DailyActiveEthAddress.csv")
 df_eth_addr['date'] = pd.to_datetime(df_eth_addr['date'])
 
 # set up beaconchain api key for data on gas prices
