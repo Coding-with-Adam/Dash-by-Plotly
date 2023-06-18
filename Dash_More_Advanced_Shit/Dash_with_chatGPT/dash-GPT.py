@@ -3,7 +3,6 @@ import openai  # pip install openai
 from dash import Dash,dcc, html, Input, Output, State  # pip install dash
 import dash_bootstrap_components as dbc                # pip install dash-bootstrap-components
 
-# openai.api_key = os.getenv("OPENAI_API_KEY")   # pip install python-dotenv
 openai.api_key = "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"
 
 # Initialize the ChatGPT model
