@@ -5,7 +5,7 @@ import dash_bootstrap_components as dbc
 
 
 app = dash.Dash(
-    __name__, plugins=[dl.plugins.pages], external_stylesheets=[dbc.themes.BOOTSTRAP]
+    __name__, external_stylesheets=[dbc.themes.BOOTSTRAP], use_pages=True
 )
 
 offcanvas = html.Div(
@@ -26,10 +26,9 @@ offcanvas = html.Div(
     className="my-3"
 )
 
-app.layout = dbc.Container(
-    [offcanvas, dl.plugins.page_container],
-    fluid=True,
-)
+app.layout = html.Div([
+    offcanvas,dash.page_container
+])
 
 @app.callback(
     Output("offcanvas", "is_open"),
