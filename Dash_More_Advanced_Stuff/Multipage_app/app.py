@@ -27,9 +27,9 @@ navbar = dbc.NavbarSimple(
     className="mb-2",
 )
 
-app.layout = html.Div([
-    navbar,dash.page_container
-])
+app.layout = dbc.Container(html.Div([
+    navbar, dash.page_container
+]), fluid=True)
 
 if __name__ == "__main__":
     app.run_server(debug=True)

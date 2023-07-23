@@ -26,9 +26,9 @@ offcanvas = html.Div(
     className="my-3"
 )
 
-app.layout = html.Div([
+app.layout = dbc.Container(html.Div([
     offcanvas,dash.page_container
-])
+]), fluid=True)
 
 @app.callback(
     Output("offcanvas", "is_open"),
