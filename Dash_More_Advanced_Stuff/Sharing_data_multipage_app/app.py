@@ -1,7 +1,6 @@
 import dash
-from dash import dcc, callback, Output, Input, dash_table # pip install dash
-import dash_labs as dl  # pip install dash-labs
-import dash_bootstrap_components as dbc # pip install dash-bootstrap-components
+from dash import dcc, callback, Output, Input, dash_table  # pip install dash
+import dash_bootstrap_components as dbc  # pip install dash-bootstrap-components
 import plotly.express as px
 
 df = px.data.tips()
@@ -10,9 +9,8 @@ print(df.head())
 # accepts dict | list | number | string | boolean
 df = df.to_dict('records')
 
-
 app = dash.Dash(
-    __name__, plugins=[dl.plugins.pages], external_stylesheets=[dbc.themes.FLATLY], suppress_callback_exceptions=True
+    __name__, external_stylesheets=[dbc.themes.FLATLY], suppress_callback_exceptions=True, use_pages=True
 )
 
 navbar = dbc.NavbarSimple(
@@ -32,13 +30,12 @@ navbar = dbc.NavbarSimple(
 )
 
 app.layout = dbc.Container(
-    [navbar,
+    [navbar,dash.page_container,
      dcc.Store(id="stored-data", data=df),
-     dcc.Store(id="store-dropdown-value", data=None),
-     dl.plugins.page_container],
-    fluid=True,
-)
-
+     dcc.Store(id="store-dropdown-value", data=None)
+     ],
+    fluid=True)
 
 if __name__ == "__main__":
     app.run_server(debug=True, port=8003)
+
