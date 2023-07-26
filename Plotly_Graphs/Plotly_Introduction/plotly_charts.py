@@ -8,4 +8,4 @@ fig.update_traces(textinfo="label+percent", insidetextfont=dict(color="white"))
 fig.update_layout(legend={"itemclick":False})
 fig.show()
 
-fig.write_image("images/fig1.png")
+fig.write_image("./fig1.png")
