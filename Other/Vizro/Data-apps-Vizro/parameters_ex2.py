@@ -8,7 +8,7 @@ df = px.data.gapminder().query("year == 2007")
 page = vm.Page(
     title="Example of a Dash DataTable",
     components=[
-        vm.Table(id="table", title="Dash DataTable", figure=dash_data_table(data_frame=df)),
+        vm.Table(id="table", title="Dash DataTable", figure=dash_data_table(data_frame=df, editable=True)),
     ],
     controls=[
         vm.Parameter(selector=vm.Dropdown(options=[{"label":"True", "value":True},
