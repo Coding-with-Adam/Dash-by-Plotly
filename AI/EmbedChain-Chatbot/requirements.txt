@@ -1,0 +1,2 @@
+dash==2.14.2
+embedchain 0.1.67
