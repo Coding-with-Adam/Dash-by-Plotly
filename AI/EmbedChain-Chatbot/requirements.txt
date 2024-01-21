@@ -1,2 +1,3 @@
 dash==2.14.2
-embedchain 0.1.67
+embedchain==0.1.67
+lxml==5.1.0
