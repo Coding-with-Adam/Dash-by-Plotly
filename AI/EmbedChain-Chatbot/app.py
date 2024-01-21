@@ -15,7 +15,7 @@ ai_bot.add("https://nycaudubon.org/our-work/conservation/project-safe-flight")
 
 app = Dash()
 app.layout = html.Div([
-    html.H1('Learn to Keep Birds safe - NYCAudubon'),
+    html.H1('Learn to Keep Birds safe'),
     dcc.Textarea(id='question-area', value=None),
     html.Br(),
     html.Button(id='submit-btn', children='Submit'),
