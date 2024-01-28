@@ -1,5 +1,5 @@
 # Code belongs to yazid - https://github.com/leberber
-from dash import  Dash, dcc, html, Input, Output, clientside_callback, ClientsideFunction, register_page
+from dash import  Dash, dcc, html, Input, Output, clientside_callback, ClientsideFunction
 import dash_mantine_components as dmc
 from data import tradeData
 
