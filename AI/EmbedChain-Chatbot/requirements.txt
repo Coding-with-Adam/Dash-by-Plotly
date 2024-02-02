@@ -1,4 +1,4 @@
-dash==2.14.2
+dash==2.15.0
 embedchain==0.1.67
 lxml==5.1.0
 youtube-transcript-api==0.6.2
