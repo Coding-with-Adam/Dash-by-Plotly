@@ -6,7 +6,6 @@ Exercise 3: Modify the app so that the app user can choose a number from 0 to 2.
             C - add the temperature parameter inside the ChatOpenAI model
 **Solution** can be found in -- https://charming-data.circle.so/c/langchain-education/quickstart-llm-chain            
 """
-
 from dash import Dash, html, dcc, Input, Output, State
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -32,13 +31,13 @@ app.layout = html.Div([
 @app.callback(
     Output(component_id='answer-div', component_property='children'),    # The component to update
     Input(component_id='input-field', component_property='value'),       # Input component that triggers the callback
-    State(component_id='', component_property=''), # Input component does not trigger the callback
+    State(component_id='', component_property=''), ## A ##
     prevent_initial_call=True
 )
-def update_title(user_request):
+def update_title(user_request):  ## B ##
     # define the model and chain
     output_parser = StrOutputParser()
-    llm = ChatOpenAI(model_name="gpt-3.5-turbo")
+    llm = ChatOpenAI(model_name="gpt-3.5-turbo")  ## C ##
     prompt = ChatPromptTemplate.from_messages([
         ("system", "Always answer AI questions with skepticism."),
         ("user", "{input}")
