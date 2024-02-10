@@ -4,7 +4,7 @@
 from dotenv import find_dotenv, load_dotenv
 from langchain_openai import ChatOpenAI
 dotenv_path = find_dotenv()
-load_dotenv(dotenv_path)  # activate api key
+load_dotenv(dotenv_path)  # load api key
 
 
 # Basic Model Usage -------------------------------------------------------
