@@ -8,8 +8,9 @@ or as long as one word (e.g., a or apple). The total number of tokens in an API 
   - Whether your API call works at all, as total tokens must be below the model’s maximum limit (4097 tokens for gpt-3.5-turbo)
 
 Exercise 1: Update the model's max token limit to 500.
-Solution can be found in -- https://charming-data.circle.so/c/langchain-education/quickstart-llm-chain 
+**Solution** can be found in -- https://charming-data.circle.so/c/langchain-education/quickstart-llm-chain 
 """
+
 from dotenv import find_dotenv, load_dotenv
 from langchain_openai import ChatOpenAI
 
