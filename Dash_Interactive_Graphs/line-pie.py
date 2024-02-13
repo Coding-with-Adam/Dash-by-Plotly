@@ -3,7 +3,7 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 import pandas as pd
 
-df = pd.read_csv("domain-notable-ai-system.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Dash_Interactive_Graphs/domain-notable-ai-system.csv")
 df = df[df.Entity != "Not specified"]
 
 
