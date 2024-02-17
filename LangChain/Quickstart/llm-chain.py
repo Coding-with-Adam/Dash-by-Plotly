@@ -1,71 +1,105 @@
-# pip install langchain
-# pip install langchain-openai
-# pip install python-dotenv
-from dotenv import find_dotenv, load_dotenv
+from dash import Dash, html, dcc, callback, Output, Input, State
+import dash_bootstrap_components as dbc
+import plotly.express as px
+import pandas as pd
+import base64
+import os
+import time
+import plotly.graph_objects as go
+from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI
+from dotenv import find_dotenv, load_dotenv
+# pip install kaleido==0.1.0.post1
+
 dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)  # load api key
 
+# function for decoding graph image
+def encode_image(image_path):
+    with open(image_path, "rb") as image_file:
+        return base64.b64encode(image_file.read()).decode('utf-8')
 
-# Basic Model Usage -------------------------------------------------------
-# https://api.python.langchain.com/en/latest/chat_models/langchain_openai.chat_models.base.ChatOpenAI.html#
-llm = ChatOpenAI(model_name="gpt-3.5-turbo")
-answer = llm.invoke("Can you tell me about AI's role in the world?")
-print(answer)
+# incorporate the data
+df = pd.read_csv("domain-notable-ai-system.csv")
+df = df[df.Entity != "Not specified"]
+df = df[df['Year'] > 1999]
+df = df[df['Entity'].isin(['Multimodal', 'Language', 'Games'])]
 
-
-
-# Adding Prompts ----------------------------------------------------------
-# from langchain_core.prompts import ChatPromptTemplate
-# from langchain_core.output_parsers import StrOutputParser
-#
-# output_parser = StrOutputParser() # stringify the answer
-# llm = ChatOpenAI(model_name="gpt-3.5-turbo")
-# prompt = ChatPromptTemplate.from_messages([
-#     ("system", "Always answer AI questions with skepticism."),
-#     ("user", "{input}")
-# ])
-# chain = prompt | llm | output_parser
-# answer = chain.invoke({"input": "Can you tell me about AI's role in the world?"})
-# print(answer)
+# Build the line chart
+line_graph = px.line(df,
+                     x='Year',
+                     y='Annual number of AI systems by domain',
+                     color='Entity',
+                     template='plotly_dark')
+line_graph.update_layout(legend_title=None)
 
 
+app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
+app.layout = dbc.Container(
+    [
+        dcc.Markdown("## Domain of notable AI systems, by year of publication\n"
+                     "###### Specific field, area, or category in which an AI system is designed to operate or solve problems."),
+        dbc.Row(
+            [
+                dbc.Col(
+                    [
+                        dcc.Graph(id='line-graph', figure=line_graph),
+                        dcc.Dropdown(id="domain-slct",
+                                     multi=True,
+                                     options=sorted(df['Entity'].unique()),
+                                     value=['Multimodal', 'Language', 'Games'])
+                    ],
+                    width=6
+                ),
+            ]
+        ),
+        dbc.Row(
+            [
+                dbc.Col(dbc.Button(id='btn', children='Insights', className='my-2'), width=1)
+            ],
+        ),
+        dbc.Row(
+            [
+                dbc.Col(dbc.Spinner(html.Div(id='content', children=''), fullscreen=False), width=6)
+            ],
+        ),
+    ]
+)
 
-# Create your own ChatGPT -------------------------------------------------
-# from dash import Dash, html, dcc, Input, Output
-# from langchain_core.prompts import ChatPromptTemplate
-# from langchain_core.output_parsers import StrOutputParser
-#
-# # define the model and chain
-# output_parser = StrOutputParser()
-# llm = ChatOpenAI(model_name="gpt-3.5-turbo")
-# prompt = ChatPromptTemplate.from_messages([
-#     ("system", "Always answer AI questions with skepticism."),
-#     ("user", "{input}")
-# ])
-# chain = prompt | llm | output_parser
-#
-# # Initialize the Dash app
-# app = Dash()
-# # Define the layout of the app
-# app.layout = html.Div([
-#     html.Div(children='My LLM App - All About AI'),  # This div will display the app title
-#     # This input field lets the user type their question or request
-#     dcc.Input(id='input-field', type='text', debounce=True, placeholder='Ask a question about AI...', value=None),
-#     html.Div(id='answer-div', children=''),  # This div will display the answer
-# ])
-#
-#
-# @app.callback(
-#     Output(component_id='answer-div', component_property='children'),  # The component to update
-#     Input(component_id='input-field', component_property='value'),     # The Input component that triggers the update
-#     prevent_initial_call=True
-# )
-# def update_title(user_request):
-#     answer = chain.invoke({"input": user_request})
-#     return answer
-#
-#
-# # Run the app
-# if __name__ == '__main__':
-#     app.run_server(debug=False)
+
+@callback(
+    Output('content','children'),
+    Input('btn','n_clicks'),
+    State('line-graph','figure'),
+    prevent_initial_call=True
+)
+def graph_insights(_, fig):
+    fig_object = go.Figure(fig)
+    print(_)
+    print(fig_object)
+    fig_object.write_image(f"images/fig{_}.png")
+
+    chat = ChatOpenAI(model="gpt-4-vision-preview", max_tokens=256)
+    image_path = f"images/fig{_}.png"
+    base64_image = encode_image(image_path)
+    result = chat.invoke(
+        [
+            HumanMessage(
+                content=[
+                    {"type": "text", "text": "What data insight can we get from this graph?"},
+                    {
+                        "type": "image_url",
+                        "image_url": {
+                            "url": f"data:image/jpeg;base64,{base64_image}",
+                            "detail": "auto",  # https://platform.openai.com/docs/guides/vision
+                        },
+                    },
+                ]
+            )
+        ]
+    )
+    return result.content
+
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
