@@ -23,14 +23,14 @@ def encode_image(image_path):
 df = pd.read_csv("domain-notable-ai-system.csv")
 df = df[df.Entity != "Not specified"]
 df = df[df['Year'] > 1999]
-df = df[df['Entity'].isin(['Multimodal', 'Language', 'Games'])]
+df = df[df['Entity'].isin(['Multimodal', 'Language'])]
 
 # Build the line chart
 line_graph = px.line(df,
-                     x='Year',
-                     y='Annual number of AI systems by domain',
-                     color='Entity',
-                     template='plotly_dark')
+                    x='Year',
+                    y='Annual number of AI systems by domain',
+                    color='Entity',
+                    template='plotly_dark')
 line_graph.update_layout(legend_title=None)
 
 
@@ -47,7 +47,8 @@ app.layout = dbc.Container(
                         dcc.Dropdown(id="domain-slct",
                                      multi=True,
                                      options=sorted(df['Entity'].unique()),
-                                     value=['Multimodal', 'Language', 'Games'])
+                                     value=['Multimodal', 'Language', 'Games']),
+                        html.Div("This is a fake dropdown, just here for demo purposes.")
                     ],
                     width=6
                 ),
@@ -75,15 +76,21 @@ app.layout = dbc.Container(
 )
 def graph_insights(_, fig):
     fig_object = go.Figure(fig)
-    print(_)
-    print(fig_object)
     fig_object.write_image(f"images/fig{_}.png")
+    time.sleep(1)
 
     chat = ChatOpenAI(model="gpt-4-vision-preview", max_tokens=256)
     image_path = f"images/fig{_}.png"
     base64_image = encode_image(image_path)
     result = chat.invoke(
         [
+            # Limitations of the model -- https://platform.openai.com/docs/guides/vision/limitations
+            # SystemMessage(
+            #     content="You are an expert in data visualization that reads images of graphs and describes the data trends in those images. "
+            #             "The graphs you will read are line charts that have multiple lines in them. Please pay careful attention to the "
+            #             "legend color of each line and match them to the line color in the graph. The legend colors must match the line colors "
+            #             "in the graph correctly."
+            # ),
             HumanMessage(
                 content=[
                     {"type": "text", "text": "What data insight can we get from this graph?"},
@@ -91,7 +98,7 @@ def graph_insights(_, fig):
                         "type": "image_url",
                         "image_url": {
                             "url": f"data:image/jpeg;base64,{base64_image}",
-                            "detail": "auto",  # https://platform.openai.com/docs/guides/vision
+                            "detail": "auto",  # https://platform.openai.com/docs/guides/vision/low-or-high-fidelity-image-understanding
                         },
                     },
                 ]
