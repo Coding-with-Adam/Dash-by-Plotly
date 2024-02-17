@@ -1,0 +1,650 @@
+Entity,Code,Year,Annual number of AI systems by domain
+Biology,,1950,0
+Biology,,1952,0
+Biology,,1954,0
+Biology,,1955,0
+Biology,,1956,0
+Biology,,1957,0
+Biology,,1959,0
+Biology,,1960,0
+Biology,,1961,0
+Biology,,1962,0
+Biology,,1968,0
+Biology,,1970,0
+Biology,,1974,0
+Biology,,1975,0
+Biology,,1977,0
+Biology,,1979,0
+Biology,,1980,0
+Biology,,1981,0
+Biology,,1982,0
+Biology,,1983,0
+Biology,,1984,0
+Biology,,1986,0
+Biology,,1987,0
+Biology,,1988,0
+Biology,,1989,0
+Biology,,1990,0
+Biology,,1991,0
+Biology,,1992,0
+Biology,,1993,0
+Biology,,1994,0
+Biology,,1995,0
+Biology,,1996,0
+Biology,,1997,0
+Biology,,1998,0
+Biology,,1999,0
+Biology,,2000,0
+Biology,,2001,0
+Biology,,2002,0
+Biology,,2003,0
+Biology,,2004,0
+Biology,,2005,1
+Biology,,2006,0
+Biology,,2007,0
+Biology,,2008,0
+Biology,,2009,0
+Biology,,2010,0
+Biology,,2011,0
+Biology,,2012,0
+Biology,,2013,0
+Biology,,2014,0
+Biology,,2015,0
+Biology,,2016,1
+Biology,,2017,0
+Biology,,2018,0
+Biology,,2019,1
+Biology,,2020,4
+Biology,,2021,8
+Biology,,2022,10
+Biology,,2023,9
+Games,,1950,0
+Games,,1952,0
+Games,,1954,0
+Games,,1955,0
+Games,,1956,0
+Games,,1957,0
+Games,,1959,1
+Games,,1960,0
+Games,,1961,0
+Games,,1962,0
+Games,,1968,2
+Games,,1970,0
+Games,,1974,0
+Games,,1975,0
+Games,,1977,0
+Games,,1979,0
+Games,,1980,0
+Games,,1981,0
+Games,,1982,0
+Games,,1983,1
+Games,,1984,0
+Games,,1986,0
+Games,,1987,0
+Games,,1988,0
+Games,,1989,0
+Games,,1990,0
+Games,,1991,0
+Games,,1992,1
+Games,,1993,0
+Games,,1994,0
+Games,,1995,0
+Games,,1996,0
+Games,,1997,0
+Games,,1998,0
+Games,,1999,0
+Games,,2000,0
+Games,,2001,0
+Games,,2002,0
+Games,,2003,0
+Games,,2004,0
+Games,,2005,0
+Games,,2006,0
+Games,,2007,0
+Games,,2008,0
+Games,,2009,0
+Games,,2010,0
+Games,,2011,0
+Games,,2012,0
+Games,,2013,1
+Games,,2014,2
+Games,,2015,3
+Games,,2016,2
+Games,,2017,8
+Games,,2018,4
+Games,,2019,7
+Games,,2020,3
+Games,,2021,4
+Games,,2022,2
+Games,,2023,0
+Image generation,,1950,0
+Image generation,,1952,0
+Image generation,,1954,0
+Image generation,,1955,0
+Image generation,,1956,0
+Image generation,,1957,0
+Image generation,,1959,0
+Image generation,,1960,0
+Image generation,,1961,0
+Image generation,,1962,0
+Image generation,,1968,0
+Image generation,,1970,0
+Image generation,,1974,0
+Image generation,,1975,0
+Image generation,,1977,0
+Image generation,,1979,0
+Image generation,,1980,0
+Image generation,,1981,0
+Image generation,,1982,0
+Image generation,,1983,0
+Image generation,,1984,0
+Image generation,,1986,0
+Image generation,,1987,0
+Image generation,,1988,0
+Image generation,,1989,0
+Image generation,,1990,0
+Image generation,,1991,0
+Image generation,,1992,0
+Image generation,,1993,0
+Image generation,,1994,0
+Image generation,,1995,0
+Image generation,,1996,0
+Image generation,,1997,0
+Image generation,,1998,0
+Image generation,,1999,0
+Image generation,,2000,0
+Image generation,,2001,0
+Image generation,,2002,0
+Image generation,,2003,0
+Image generation,,2004,0
+Image generation,,2005,0
+Image generation,,2006,0
+Image generation,,2007,0
+Image generation,,2008,0
+Image generation,,2009,0
+Image generation,,2010,0
+Image generation,,2011,0
+Image generation,,2012,0
+Image generation,,2013,0
+Image generation,,2014,1
+Image generation,,2015,1
+Image generation,,2016,0
+Image generation,,2017,1
+Image generation,,2018,2
+Image generation,,2019,1
+Image generation,,2020,1
+Image generation,,2021,6
+Image generation,,2022,9
+Image generation,,2023,6
+Language,,1950,0
+Language,,1952,0
+Language,,1954,0
+Language,,1955,0
+Language,,1956,0
+Language,,1957,0
+Language,,1959,1
+Language,,1960,0
+Language,,1961,0
+Language,,1962,0
+Language,,1968,0
+Language,,1970,0
+Language,,1974,0
+Language,,1975,0
+Language,,1977,0
+Language,,1979,0
+Language,,1980,0
+Language,,1981,0
+Language,,1982,0
+Language,,1983,0
+Language,,1984,1
+Language,,1986,0
+Language,,1987,0
+Language,,1988,0
+Language,,1989,0
+Language,,1990,0
+Language,,1991,1
+Language,,1992,0
+Language,,1993,1
+Language,,1994,0
+Language,,1995,1
+Language,,1996,1
+Language,,1997,1
+Language,,1998,0
+Language,,1999,1
+Language,,2000,1
+Language,,2001,1
+Language,,2002,3
+Language,,2003,3
+Language,,2004,0
+Language,,2005,1
+Language,,2006,0
+Language,,2007,1
+Language,,2008,2
+Language,,2009,0
+Language,,2010,2
+Language,,2011,4
+Language,,2012,4
+Language,,2013,6
+Language,,2014,7
+Language,,2015,6
+Language,,2016,13
+Language,,2017,13
+Language,,2018,27
+Language,,2019,32
+Language,,2020,23
+Language,,2021,29
+Language,,2022,33
+Language,,2023,33
+Multimodal,,1950,0
+Multimodal,,1952,0
+Multimodal,,1954,0
+Multimodal,,1955,0
+Multimodal,,1956,0
+Multimodal,,1957,0
+Multimodal,,1959,0
+Multimodal,,1960,0
+Multimodal,,1961,0
+Multimodal,,1962,0
+Multimodal,,1968,0
+Multimodal,,1970,0
+Multimodal,,1974,0
+Multimodal,,1975,0
+Multimodal,,1977,0
+Multimodal,,1979,0
+Multimodal,,1980,0
+Multimodal,,1981,0
+Multimodal,,1982,0
+Multimodal,,1983,0
+Multimodal,,1984,0
+Multimodal,,1986,0
+Multimodal,,1987,0
+Multimodal,,1988,0
+Multimodal,,1989,0
+Multimodal,,1990,0
+Multimodal,,1991,0
+Multimodal,,1992,0
+Multimodal,,1993,0
+Multimodal,,1994,0
+Multimodal,,1995,0
+Multimodal,,1996,0
+Multimodal,,1997,0
+Multimodal,,1998,0
+Multimodal,,1999,0
+Multimodal,,2000,0
+Multimodal,,2001,0
+Multimodal,,2002,0
+Multimodal,,2003,0
+Multimodal,,2004,0
+Multimodal,,2005,0
+Multimodal,,2006,0
+Multimodal,,2007,0
+Multimodal,,2008,0
+Multimodal,,2009,0
+Multimodal,,2010,0
+Multimodal,,2011,0
+Multimodal,,2012,0
+Multimodal,,2013,0
+Multimodal,,2014,0
+Multimodal,,2015,0
+Multimodal,,2016,0
+Multimodal,,2017,0
+Multimodal,,2018,0
+Multimodal,,2019,0
+Multimodal,,2020,1
+Multimodal,,2021,7
+Multimodal,,2022,6
+Multimodal,,2023,10
+Not specified,,1950,0
+Not specified,,1952,0
+Not specified,,1954,1
+Not specified,,1955,1
+Not specified,,1956,1
+Not specified,,1957,1
+Not specified,,1959,1
+Not specified,,1960,2
+Not specified,,1961,1
+Not specified,,1962,1
+Not specified,,1968,0
+Not specified,,1970,1
+Not specified,,1974,1
+Not specified,,1975,1
+Not specified,,1977,1
+Not specified,,1979,1
+Not specified,,1980,0
+Not specified,,1981,0
+Not specified,,1982,0
+Not specified,,1983,0
+Not specified,,1984,0
+Not specified,,1986,3
+Not specified,,1987,0
+Not specified,,1988,1
+Not specified,,1989,3
+Not specified,,1990,2
+Not specified,,1991,0
+Not specified,,1992,1
+Not specified,,1993,0
+Not specified,,1994,0
+Not specified,,1995,2
+Not specified,,1996,0
+Not specified,,1997,2
+Not specified,,1998,0
+Not specified,,1999,2
+Not specified,,2000,0
+Not specified,,2001,1
+Not specified,,2002,1
+Not specified,,2003,1
+Not specified,,2004,1
+Not specified,,2005,2
+Not specified,,2006,7
+Not specified,,2007,1
+Not specified,,2008,4
+Not specified,,2009,3
+Not specified,,2010,5
+Not specified,,2011,4
+Not specified,,2012,1
+Not specified,,2013,9
+Not specified,,2014,9
+Not specified,,2015,9
+Not specified,,2016,16
+Not specified,,2017,15
+Not specified,,2018,9
+Not specified,,2019,11
+Not specified,,2020,6
+Not specified,,2021,5
+Not specified,,2022,2
+Not specified,,2023,2
+Other,,1950,0
+Other,,1952,0
+Other,,1954,0
+Other,,1955,0
+Other,,1956,0
+Other,,1957,0
+Other,,1959,0
+Other,,1960,0
+Other,,1961,0
+Other,,1962,0
+Other,,1968,0
+Other,,1970,0
+Other,,1974,0
+Other,,1975,0
+Other,,1977,0
+Other,,1979,0
+Other,,1980,0
+Other,,1981,1
+Other,,1982,1
+Other,,1983,0
+Other,,1984,0
+Other,,1986,1
+Other,,1987,0
+Other,,1988,0
+Other,,1989,2
+Other,,1990,0
+Other,,1991,0
+Other,,1992,0
+Other,,1993,0
+Other,,1994,0
+Other,,1995,0
+Other,,1996,0
+Other,,1997,0
+Other,,1998,0
+Other,,1999,0
+Other,,2000,0
+Other,,2001,0
+Other,,2002,0
+Other,,2003,0
+Other,,2004,0
+Other,,2005,0
+Other,,2006,1
+Other,,2007,0
+Other,,2008,1
+Other,,2009,2
+Other,,2010,0
+Other,,2011,0
+Other,,2012,0
+Other,,2013,0
+Other,,2014,2
+Other,,2015,0
+Other,,2016,1
+Other,,2017,0
+Other,,2018,0
+Other,,2019,0
+Other,,2020,2
+Other,,2021,1
+Other,,2022,6
+Other,,2023,8
+Recommendation,,1950,0
+Recommendation,,1952,0
+Recommendation,,1954,0
+Recommendation,,1955,0
+Recommendation,,1956,0
+Recommendation,,1957,0
+Recommendation,,1959,0
+Recommendation,,1960,0
+Recommendation,,1961,0
+Recommendation,,1962,0
+Recommendation,,1968,0
+Recommendation,,1970,0
+Recommendation,,1974,0
+Recommendation,,1975,0
+Recommendation,,1977,0
+Recommendation,,1979,0
+Recommendation,,1980,0
+Recommendation,,1981,0
+Recommendation,,1982,0
+Recommendation,,1983,0
+Recommendation,,1984,0
+Recommendation,,1986,0
+Recommendation,,1987,0
+Recommendation,,1988,0
+Recommendation,,1989,0
+Recommendation,,1990,0
+Recommendation,,1991,0
+Recommendation,,1992,0
+Recommendation,,1993,0
+Recommendation,,1994,1
+Recommendation,,1995,0
+Recommendation,,1996,0
+Recommendation,,1997,0
+Recommendation,,1998,1
+Recommendation,,1999,0
+Recommendation,,2000,1
+Recommendation,,2001,0
+Recommendation,,2002,0
+Recommendation,,2003,0
+Recommendation,,2004,0
+Recommendation,,2005,0
+Recommendation,,2006,0
+Recommendation,,2007,3
+Recommendation,,2008,1
+Recommendation,,2009,6
+Recommendation,,2010,1
+Recommendation,,2011,0
+Recommendation,,2012,0
+Recommendation,,2013,0
+Recommendation,,2014,0
+Recommendation,,2015,1
+Recommendation,,2016,2
+Recommendation,,2017,1
+Recommendation,,2018,0
+Recommendation,,2019,1
+Recommendation,,2020,0
+Recommendation,,2021,0
+Recommendation,,2022,0
+Recommendation,,2023,0
+Robotics,,1950,1
+Robotics,,1952,1
+Robotics,,1954,0
+Robotics,,1955,0
+Robotics,,1956,0
+Robotics,,1957,0
+Robotics,,1959,0
+Robotics,,1960,0
+Robotics,,1961,0
+Robotics,,1962,0
+Robotics,,1968,0
+Robotics,,1970,0
+Robotics,,1974,0
+Robotics,,1975,0
+Robotics,,1977,0
+Robotics,,1979,0
+Robotics,,1980,0
+Robotics,,1981,0
+Robotics,,1982,0
+Robotics,,1983,0
+Robotics,,1984,0
+Robotics,,1986,0
+Robotics,,1987,0
+Robotics,,1988,0
+Robotics,,1989,0
+Robotics,,1990,0
+Robotics,,1991,0
+Robotics,,1992,0
+Robotics,,1993,0
+Robotics,,1994,0
+Robotics,,1995,0
+Robotics,,1996,0
+Robotics,,1997,0
+Robotics,,1998,0
+Robotics,,1999,0
+Robotics,,2000,0
+Robotics,,2001,0
+Robotics,,2002,0
+Robotics,,2003,0
+Robotics,,2004,0
+Robotics,,2005,0
+Robotics,,2006,0
+Robotics,,2007,0
+Robotics,,2008,0
+Robotics,,2009,0
+Robotics,,2010,0
+Robotics,,2011,0
+Robotics,,2012,0
+Robotics,,2013,0
+Robotics,,2014,0
+Robotics,,2015,0
+Robotics,,2016,0
+Robotics,,2017,0
+Robotics,,2018,0
+Robotics,,2019,2
+Robotics,,2020,1
+Robotics,,2021,1
+Robotics,,2022,1
+Robotics,,2023,7
+Speech,,1950,0
+Speech,,1952,0
+Speech,,1954,0
+Speech,,1955,0
+Speech,,1956,0
+Speech,,1957,0
+Speech,,1959,0
+Speech,,1960,0
+Speech,,1961,0
+Speech,,1962,0
+Speech,,1968,0
+Speech,,1970,0
+Speech,,1974,0
+Speech,,1975,0
+Speech,,1977,0
+Speech,,1979,0
+Speech,,1980,0
+Speech,,1981,0
+Speech,,1982,0
+Speech,,1983,0
+Speech,,1984,0
+Speech,,1986,0
+Speech,,1987,2
+Speech,,1988,0
+Speech,,1989,0
+Speech,,1990,0
+Speech,,1991,0
+Speech,,1992,1
+Speech,,1993,0
+Speech,,1994,0
+Speech,,1995,0
+Speech,,1996,0
+Speech,,1997,1
+Speech,,1998,0
+Speech,,1999,0
+Speech,,2000,0
+Speech,,2001,0
+Speech,,2002,0
+Speech,,2003,0
+Speech,,2004,0
+Speech,,2005,1
+Speech,,2006,1
+Speech,,2007,0
+Speech,,2008,0
+Speech,,2009,0
+Speech,,2010,2
+Speech,,2011,0
+Speech,,2012,1
+Speech,,2013,2
+Speech,,2014,1
+Speech,,2015,1
+Speech,,2016,1
+Speech,,2017,0
+Speech,,2018,1
+Speech,,2019,1
+Speech,,2020,5
+Speech,,2021,2
+Speech,,2022,2
+Speech,,2023,1
+Vision,,1950,0
+Vision,,1952,0
+Vision,,1954,0
+Vision,,1955,1
+Vision,,1956,0
+Vision,,1957,0
+Vision,,1959,0
+Vision,,1960,1
+Vision,,1961,0
+Vision,,1962,0
+Vision,,1968,0
+Vision,,1970,0
+Vision,,1974,0
+Vision,,1975,0
+Vision,,1977,0
+Vision,,1979,0
+Vision,,1980,1
+Vision,,1981,0
+Vision,,1982,0
+Vision,,1983,0
+Vision,,1984,0
+Vision,,1986,0
+Vision,,1987,0
+Vision,,1988,0
+Vision,,1989,1
+Vision,,1990,0
+Vision,,1991,0
+Vision,,1992,0
+Vision,,1993,0
+Vision,,1994,0
+Vision,,1995,0
+Vision,,1996,1
+Vision,,1997,0
+Vision,,1998,1
+Vision,,1999,0
+Vision,,2000,0
+Vision,,2001,1
+Vision,,2002,0
+Vision,,2003,2
+Vision,,2004,0
+Vision,,2005,0
+Vision,,2006,2
+Vision,,2007,1
+Vision,,2008,0
+Vision,,2009,1
+Vision,,2010,5
+Vision,,2011,1
+Vision,,2012,6
+Vision,,2013,2
+Vision,,2014,4
+Vision,,2015,6
+Vision,,2016,13
+Vision,,2017,14
+Vision,,2018,6
+Vision,,2019,10
+Vision,,2020,2
+Vision,,2021,5
+Vision,,2022,2
+Vision,,2023,2
