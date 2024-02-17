@@ -20,7 +20,7 @@ def encode_image(image_path):
         return base64.b64encode(image_file.read()).decode('utf-8')
 
 # incorporate the data
-df = pd.read_csv("domain-notable-ai-system.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/LangChain/Graph-Insights/domain-notable-ai-system.csv")
 df = df[df.Entity != "Not specified"]
 df = df[df['Year'] > 1999]
 df = df[df['Entity'].isin(['Multimodal', 'Language'])]
