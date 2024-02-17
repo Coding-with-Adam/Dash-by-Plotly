@@ -8,7 +8,11 @@ import time
 import plotly.graph_objects as go
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI
+from dotenv import find_dotenv, load_dotenv
+# pip install kaleido==0.1.0.post1
 
+dotenv_path = find_dotenv()
+load_dotenv(dotenv_path)  # load api key
 
 # function for decoding graph image
 def encode_image(image_path):
@@ -27,6 +31,7 @@ line_graph = px.line(df,
                      y='Annual number of AI systems by domain',
                      color='Entity',
                      template='plotly_dark')
+line_graph.update_layout(legend_title=None)
 
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
@@ -70,10 +75,11 @@ app.layout = dbc.Container(
 )
 def graph_insights(_, fig):
     fig_object = go.Figure(fig)
+    print(_)
+    print(fig_object)
     fig_object.write_image(f"images/fig{_}.png")
-    time.sleep(2)
 
-    chat = ChatOpenAI(model="gpt-4-vision-preview", max_tokens=256, api_key="Enter-Your-Key")
+    chat = ChatOpenAI(model="gpt-4-vision-preview", max_tokens=256)
     image_path = f"images/fig{_}.png"
     base64_image = encode_image(image_path)
     result = chat.invoke(
