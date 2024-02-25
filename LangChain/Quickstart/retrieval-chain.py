@@ -9,6 +9,7 @@ from dotenv import find_dotenv, load_dotenv
 from langchain_openai import ChatOpenAI
 
 # activate api key
+# .env file should have: OPENAI_API_KEY="my-openAI-key"
 dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
 llm = ChatOpenAI(model_name="gpt-3.5-turbo")  # load chat model
@@ -20,8 +21,8 @@ docs = loader.load()  # load parse text
 # print(docs)
 # exit()
 
-embeddings = OpenAIEmbeddings() # load embedding model to turn text to array of numbers
 
+embeddings = OpenAIEmbeddings()  # load embedding model to turn text to array of numbers
 # split the docs' text into smaller chunks of text (because we have too much text to pass to an LLM)
 # and index it into a vectorstore
 text_splitter = RecursiveCharacterTextSplitter()
@@ -29,7 +30,6 @@ documents = text_splitter.split_documents(docs)
 # print(documents)
 # exit()
 vector = FAISS.from_documents(documents, embeddings)
-
 
 
 prompt = ChatPromptTemplate.from_template("""Answer the following question based only on the provided context:
