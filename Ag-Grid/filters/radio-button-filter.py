@@ -1,4 +1,7 @@
 # Code written by Sébastien Didier
+# Insert code (with micropip) in WasmDash to run app: https://wasmdash.vercel.app/
+# import micropip
+# await micropip.install("dash_ag_grid")
 import dash_ag_grid as dag
 from dash import Dash, html, dcc, Input, Output, callback
 import pandas as pd
