@@ -5,7 +5,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain.load import dumps, loads
-from dash import Dash, dcc, html, callback, Output, Input, State
+from dash import Dash, dcc, html, callback, Output, Input, State, no_update
 
 
 # activate api keys
@@ -44,23 +44,27 @@ def process_chat(agent_executor, user_input, chat_history):
 
 app = Dash()
 app.layout = html.Div([
-    dcc.Input(id="my-input", type="text", debounce=True),
+    html.H2("Ask me anything. I'm your personal assistant that can search the web"),
+    dcc.Input(id="my-input", type="text", debounce=True, style={"width":500, "height":30}),
+    html.Br(),
+    html.Button("Submit", id="submit-query", style={"backgroundColor":"blue", "color":"white"}),
     dcc.Store(id="store-it", data=[]),
+    html.P(),
     html.Div(id="response-space")
 ])
 
 @callback(
     Output("response-space", "children"),
     Output("store-it","data"),
-    Input("my-input", "value"),
-    State("my-input", "n_submit"),
+    Input("submit-query", "n_clicks"),
+    State("my-input", "value"),
     State("store-it","data"),
     prevent_initial_call=True
 )
-def interact_with_agent(user_input, n, chat_history):
-    if n>1:
+def interact_with_agent(n, user_input, chat_history):
+    if len(chat_history) > 0:
         chat_history = loads(chat_history) # deserialize the chat_history
-        print(chat_history)
+    print(chat_history)
 
     response = process_chat(agent_executor, user_input, chat_history)
     chat_history.append(HumanMessage(content=user_input))
@@ -69,6 +73,7 @@ def interact_with_agent(user_input, n, chat_history):
     history = dumps(chat_history)  # serialize the chat_history
 
     return f"Assistant: {response}", history
+
 
 
 if __name__ == '__main__':
