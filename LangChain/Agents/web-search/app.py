@@ -1,6 +1,6 @@
 from dotenv import find_dotenv, load_dotenv
 from langchain_community.tools.tavily_search import TavilySearchResults
-from langchain.agents import AgentExecutor, create_openai_functions_agent
+from langchain.agents import AgentExecutor, create_tool_calling_agent
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import AIMessage, HumanMessage
@@ -20,14 +20,14 @@ tools = [tavily_tool]
 
 prompt = ChatPromptTemplate.from_messages(
     [
-        ("system", "You are an assistant"),
+        ("system", "You are an assistant. Make sure to use the tavily_search_results_json tool for information"),
         MessagesPlaceholder("chat_history", optional=True),
         ("human", "{input}"),
         MessagesPlaceholder("agent_scratchpad"),
     ]
 )
 
-agent = create_openai_functions_agent(llm, tools, prompt)
+agent = create_tool_calling_agent(llm, tools, prompt)
 agent_executor = AgentExecutor(
     agent=agent,
     tools=tools,
