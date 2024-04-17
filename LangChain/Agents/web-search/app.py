@@ -6,7 +6,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain.load import dumps, loads
 from dash import Dash, dcc, html, callback, Output, Input, State, no_update
-
+# pip install -r requirements.txt
 
 # activate api keys
 dotenv_path = find_dotenv()
