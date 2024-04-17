@@ -63,14 +63,14 @@ app.layout = html.Div([
 )
 def interact_with_agent(n, user_input, chat_history):
     if len(chat_history) > 0:
-        chat_history = loads(chat_history) # deserialize the chat_history
+        chat_history = loads(chat_history) # deserialize the chat_history (convert json to object)
     print(chat_history)
 
     response = process_chat(agent_executor, user_input, chat_history)
     chat_history.append(HumanMessage(content=user_input))
     chat_history.append(AIMessage(content=response))
 
-    history = dumps(chat_history)  # serialize the chat_history
+    history = dumps(chat_history)  # serialize the chat_history (convert the object to json)
 
     return f"Assistant: {response}", history
 
