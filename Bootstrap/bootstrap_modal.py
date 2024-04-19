@@ -15,7 +15,7 @@ modal = html.Div(
         dbc.Button("Add comment", id="open"),
 
         dbc.Modal([
-            dbc.ModalHeader("All About Berlin"),
+            dbc.ModalHeader(dbc.ModalTitle("All About Berlin", style={"font-size": "24px", "font-style": "italic"})),
             dbc.ModalBody(
                 dbc.Form(
                     [
