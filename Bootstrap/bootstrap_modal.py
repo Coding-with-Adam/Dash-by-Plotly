@@ -43,7 +43,6 @@ modal = html.Div(
                         ),
                         dbc.Button("Submit", color="primary"),
                     ],
-                    inline=True,
                 )
             ),
             dbc.ModalFooter(
