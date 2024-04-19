@@ -19,21 +19,21 @@ modal = html.Div(
             dbc.ModalBody(
                 dbc.Form(
                     [
-                        dbc.FormGroup(
+                        dbc.Row(
                             [
                                 dbc.Label("Name", className="mr-2"),
                                 dbc.Input(type="text", placeholder="Enter your name"),
                             ],
                             className="mr-3",
                         ),
-                        dbc.FormGroup(
+                        dbc.Row(
                             [
                                 dbc.Label("Email", className="mr-2"),
                                 dbc.Input(type="email", placeholder="Enter email"),
                             ],
                             className="mr-3",
                         ),
-                        dbc.FormGroup(
+                        dbc.Row(
                             [
                                 dbc.Label("Comment", className="mr-2"),
                                 dbc.Input(type="text", placeholder="Enter comment"),
