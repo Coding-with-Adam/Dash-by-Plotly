@@ -21,24 +21,24 @@ modal = html.Div(
                     [
                         dbc.FormGroup(
                             [
-                                dbc.Label("Name", className="mr-2"),
+                                dbc.Label("Name", className="mt-1"),
                                 dbc.Input(type="text", placeholder="Enter your name"),
                             ],
-                            className="mr-3",
+                            className="mb-2",
                         ),
                         dbc.FormGroup(
                             [
-                                dbc.Label("Email", className="mr-2"),
+                                dbc.Label("Email", className="mt-1"),
                                 dbc.Input(type="email", placeholder="Enter email"),
                             ],
-                            className="mr-3",
+                            className="mb-2",
                         ),
                         dbc.FormGroup(
                             [
-                                dbc.Label("Comment", className="mr-2"),
+                                dbc.Label("Comment", className="mt-1"),
                                 dbc.Input(type="text", placeholder="Enter comment"),
                             ],
-                            className="mr-3",
+                            className="mb-2",
                         ),
                         dbc.Button("Submit", color="primary"),
                     ],
