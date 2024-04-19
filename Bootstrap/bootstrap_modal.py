@@ -2,6 +2,7 @@
 # Docs:     [Dash Bootstrap Components:](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/alert/)
 #           [Dash Bootstrap Themes:](https://dash-bootstrap-components.opensource.faculty.ai/docs/themes/)
 #           [Dash HTML/CORE Components:](https://dash.plotly.com/dash-html-components)
+import dash
 from dash import Dash, dcc, html, Input, Output, State           # pip install dash
 import dash_bootstrap_components as dbc         # pip install dash_bootstrap_components
 import plotly.express as px
