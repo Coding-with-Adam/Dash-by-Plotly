@@ -1,0 +1,1376 @@
+﻿mission,company,location,date,time,rocket,price,successful
+CRS SpX-25,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",7/15/2022,0:44:00,Falcon 9 Block 5,12480000,TRUE
+LARES 2 & Cubesats,ESA,"ELV-1, Guiana Space Centre, French Guiana, France",7/13/2022,13:13:00,Vega C,4470000,TRUE
+Wise One Looks Ahead (NROL-162),Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",7/13/2022,6:30:00,Electron/Curie,9750000,TRUE
+TROPICS Flight 1,Astra,"SLC-46, Cape Canaveral SFS, Florida, USA",7/12/2022,17:43:00,Rocket 3,3670000,FALSE
+Starlink Group 3-1,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",7/11/2022,1:39:00,Falcon 9 Block 5,11590000,TRUE
+Starlink Group 4-21,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",7/7/2022,13:11:00,Falcon 9 Block 5,2330000,FALSE
+"DS-EO, NeuSAR, SCOOB-I & POEM",ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",6/30/2022,12:32:00,PSLV-CA,21050000,TRUE
+SES-22,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",6/29/2022,21:04:00,Falcon 9 Block 5,16350000,TRUE
+CAPSTONE,Rocket Lab,"Rocket Lab LC-1B, Māhia Peninsula, New Zealand",6/28/2022,9:55:00,Electron/Photon,3630000,TRUE
+Measat-3d & GSAT-24,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",6/22/2022,21:50:00,Ariane 5 ECA,1020000,TRUE
+Globalstar FM15 & USA 328 to 331,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",6/19/2022,4:27:00,Falcon 9 Block 5,24900000,TRUE
+SARah 1,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",6/18/2022,14:19:00,Falcon 9 Block 5,19560000,TRUE
+Starlink Group 4-19,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",6/17/2022,16:09:00,Falcon 9 Block 5,23140000,TRUE
+Nilesat-301,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",6/8/2022,21:04:00,Falcon 9 Block 5,19220000,TRUE
+Progress MS-20,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",6/3/2022,9:32:00,Soyuz 2.1a,12620000,TRUE
+Transporter 5,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",5/25/2022,18:35:00,Falcon 9 Block 5,16680000,TRUE
+Starlink Group 4-18,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",5/18/2022,10:59:00,Falcon 9 Block 5,2250000,TRUE
+Starlink Group 4-15,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",5/14/2022,20:40:00,Falcon 9 Block 5,24470000,TRUE
+Starlink Group 4-13,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",5/13/2022,22:07:00,Falcon 9 Block 5,20390000,TRUE
+Starlink Group 4-17,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",5/6/2022,9:42:00,Falcon 9 Block 5,20100000,TRUE
+There and Back Again,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",5/2/2022,22:49:00,Electron/Curie,1670000,TRUE
+Starlink Group 4-16,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",4/29/2022,21:27:00,Falcon 9 Block 5,19830000,TRUE
+SpaceX Crew-4,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",4/27/2022,7:52:00,Falcon 9 Block 5,5970000,TRUE
+Starlink Group 4-14,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",4/21/2022,17:51:00,Falcon 9 Block 5,24270000,TRUE
+NROL-85,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",4/17/2022,13:13:00,Falcon 9 Block 5,17380000,TRUE
+Axiom Mission 1 (Ax-1),SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",4/8/2022,15:17:00,Falcon 9 Block 5,4600000,TRUE
+Without Mission a Beat,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",4/2/2022,12:41:00,Electron/Curie,7880000,TRUE
+Transporter 4,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",4/1/2022,16:24:00,Falcon 9 Block 5,15460000,TRUE
+Starlink Group 4-12,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",3/19/2022,4:42:00,Falcon 9 Block 5,6980000,TRUE
+Soyuz MS-21,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",3/18/2022,15:55:00,Soyuz 2.1a,18800000,TRUE
+Spaceflight Astra-1,Astra,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA",3/15/2022,4:22:00,Rocket 3,3260000,TRUE
+Starlink Group 4-10,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",3/9/2022,13:45:00,Falcon 9 Block 5,22350000,TRUE
+Starlink Group 4-9,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",3/3/2022,14:25:00,Falcon 9 Block 5,19790000,TRUE
+The Owl’s Night Continues,Rocket Lab,"Rocket Lab LC-1B, Māhia Peninsula, New Zealand",2/28/2022,20:37:00,Electron/Curie,12100000,TRUE
+Starlink Group 4-11,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2/25/2022,17:12:00,Falcon 9 Block 5,14730000,TRUE
+Starlink Group 4-8,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2/21/2022,14:44:00,Falcon 9 Block 5,19300000,TRUE
+CRS NG-17,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",2/19/2022,17:40:00,Antares 230+,6660000,TRUE
+Progress MS-19,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",2/15/2022,4:25:00,Soyuz 2.1a,23190000,TRUE
+EOS-04 & Others,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",2/14/2022,0:29:00,PSLV-XL,20230000,TRUE
+VCLS Demo-2A,Astra,"SLC-46, Cape Canaveral SFS, Florida, USA",2/10/2022,20:00:00,Rocket 3,4610000,FALSE
+OneWeb #13,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",2/10/2022,18:09:00,Soyuz ST-B/Fregat-MT,23790000,TRUE
+Starlink Group 4-7,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2/3/2022,18:13:00,Falcon 9 Block 5,6780000,TRUE
+NROL-87,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2/2/2022,20:27:00,Falcon 9 Block 5,2690000,TRUE
+CSG-2,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",1/31/2022,23:11:00,Falcon 9 Block 5,4300000,TRUE
+Starlink Group 4-6,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",1/19/2022,2:02:00,Falcon 9 Block 5,11260000,TRUE
+Transporter 3,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",1/13/2022,15:25:00,Falcon 9 Block 5,23170000,TRUE
+Starlink Group 4-5,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",1/6/2022,21:49:00,Falcon 9 Block 5,12980000,TRUE
+James Webb Space Telescope (JWST),Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/25/2021,12:20:00,Ariane 5 ECA,12120000,TRUE
+CRS SpX-24,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",12/21/2021,10:07:00,Falcon 9 Block 5,18680000,TRUE
+Türksat 5B,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",12/19/2021,3:58:00,Falcon 9 Block 5,11810000,TRUE
+Starlink Group 4-4,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",12/18/2021,12:41:00,Falcon 9 Block 5,3050000,TRUE
+Ekspress-AMU3 & AMU7,Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan",12/13/2021,12:07:00,Proton-M/Briz-M,7240000,FALSE
+IXPE,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",12/9/2021,6:00:00,Falcon 9 Block 5,18290000,TRUE
+A Data With Destiny,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",12/9/2021,0:02:00,Electron/Curie,9560000,TRUE
+Soyuz MS-20 / Space Adventures,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",12/8/2021,7:38:00,Soyuz 2.1a,4900000,TRUE
+Galileo FOC FM23-FM24,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",12/5/2021,0:19:00,Soyuz ST-B/Fregat-MT,17810000,TRUE
+Starlink Group 4-3 & BlackSky,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",12/2/2021,23:12:00,Falcon 9 Block 5,2760000,TRUE
+Progress M-UM Prichal,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",11/24/2021,13:06:00,Soyuz 2.1b,3430000,TRUE
+DART,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",11/24/2021,6:21:00,Falcon 9 Block 5,5890000,TRUE
+STP-27AD2,Astra,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA",11/20/2021,6:16:00,Rocket 3,8540000,TRUE
+Love At First Insight,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",11/18/2021,1:38:00,Electron/Curie,10550000,TRUE
+"CERES 1, 2 & 3",Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France",11/16/2021,9:27:00,Vega,1480000,TRUE
+Starlink Group 4-1,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",11/13/2021,12:19:00,Falcon 9 Block 5,1790000,TRUE
+SpaceX Crew-3,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",11/11/2021,2:03:00,Falcon 9 Block 5,7360000,TRUE
+Progress MS-18,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",10/28/2021,0:00:00,Soyuz 2.1a,18170000,TRUE
+SES-17 & Syracuse-4A,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",10/24/2021,2:10:00,Ariane 5 ECA,15460000,TRUE
+Soyuz MS-19,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",10/5/2021,8:55:00,Soyuz 2.1a,22510000,TRUE
+Inspiration4,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",9/16/2021,0:02:00,Falcon 9 Block 5,20220000,TRUE
+Starlink Group 2-1,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",9/14/2021,3:55:00,Falcon 9 Block 5,8730000,TRUE
+CRS SpX-23,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",8/29/2021,7:14:00,Falcon 9 Block 5,15900000,TRUE
+STP-27AD1,Astra,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA",8/28/2021,22:35:00,Rocket 3,15510000,FALSE
+"Pléiades-Néo 4, BRO-4 & Others",Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France",8/17/2021,1:47:00,Vega,17120000,TRUE
+EOS-03,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",8/12/2021,0:13:00,GSLV Mk II,1930000,FALSE
+CRS NG-16,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",8/10/2021,22:01:00,Antares 230+,10110000,TRUE
+Eutelsat Quantum & Star One D2,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/30/2021,21:00:00,Ariane 5 ECA,23760000,TRUE
+It’s a Little Chile Up Here,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",7/29/2021,6:00:00,Electron/Curie,4000000,TRUE
+MLM-U Nauka,Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan",7/21/2021,14:58:00,Proton-M,5330000,TRUE
+Transporter 2,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",6/30/2021,19:31:00,Falcon 9 Block 5,12950000,TRUE
+Progress MS-17,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",6/29/2021,23:27:00,Soyuz 2.1a,12560000,TRUE
+GPS III-5,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",6/17/2021,16:09:00,Falcon 9 Block 5,13770000,TRUE
+NROL-111,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA",6/15/2021,13:35:00,Minotaur I,14560000,TRUE
+Odyssey (TacRL-2),Northrop,"Stargazer, Vandenberg SFB, California, USA",6/13/2021,8:11:00,Pegasus XL,14680000,TRUE
+SXM-8,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",6/6/2021,4:26:00,Falcon 9 Block 5,1540000,TRUE
+CRS SpX-22,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",6/3/2021,17:29:00,Falcon 9 Block 5,20880000,TRUE
+Starlink V1 L28,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",5/26/2021,18:59:00,Falcon 9 Block 5,3420000,TRUE
+Starlink V1 L26 & Rideshares,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",5/15/2021,22:56:00,Falcon 9 Block 5,19340000,TRUE
+Running Out of Toes,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",5/15/2021,11:11:00,Electron/Curie,4050000,FALSE
+Starlink V1 L27,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",5/9/2021,6:42:00,Falcon 9 Block 5,16080000,TRUE
+10-Kilometer Test Flight,SpaceX,"Suborbital Pad A, Starbase, Texas, USA",5/5/2021,22:25:00,Starship Prototype,8370000,TRUE
+Starlink V1 L25,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",5/4/2021,19:01:00,Falcon 9 Block 5,11880000,TRUE
+Starlink V1 L24,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",4/29/2021,3:44:00,Falcon 9 Block 5,15900000,TRUE
+Pléiades-Néo 3 & SSMS n°2,Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France",4/29/2021,1:50:00,Vega,19420000,TRUE
+SpaceX Crew-2,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",4/23/2021,9:49:00,Falcon 9 Block 5,1760000,TRUE
+Soyuz MS-18,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",4/9/2021,7:42:00,Soyuz 2.1a,23060000,TRUE
+Starlink V1 L23,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",4/7/2021,16:34:00,Falcon 9 Block 5,14370000,TRUE
+10-Kilometer Test Flight,SpaceX,"Suborbital Pad B, Starbase, Texas, USA",3/30/2021,13:00:00,Starship Prototype,20670000,FALSE
+Starlink V1 L22,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",3/24/2021,8:28:00,Falcon 9 Block 5,19600000,TRUE
+They Go Up So Fast,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",3/22/2021,22:30:00,Electron/Photon,3640000,TRUE
+Starlink V1 L21,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",3/14/2021,10:01:00,Falcon 9 Block 5,9930000,TRUE
+Starlink V1 L20,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",3/11/2021,8:13:00,Falcon 9 Block 5,18970000,TRUE
+Starlink V1 L17,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",3/4/2021,8:24:00,Falcon 9 Block 5,7230000,TRUE
+10-Kilometer Test Flight,SpaceX,"Suborbital Pad A, Starbase, Texas, USA",3/3/2021,23:14:00,Starship Prototype,10450000,FALSE
+Arktika-M n°1,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",2/28/2021,6:55:00,Soyuz 2.1b/Fregat-M,20150000,TRUE
+Amazônia 1 & Others,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",2/28/2021,4:54:00,PSLV-DL,19340000,TRUE
+CRS NG-15,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",2/20/2021,17:36:00,Antares 230+,17810000,TRUE
+Starlink V1 L19,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2/16/2021,3:59:00,Falcon 9 Block 5,1760000,TRUE
+Progress MS-16,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",2/15/2021,4:45:00,Soyuz 2.1a,11670000,TRUE
+Starlink V1 L18,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2/4/2021,6:19:00,Falcon 9 Block 5,1640000,TRUE
+10-Kilometer Test Flight,SpaceX,"Suborbital Pad B, Starbase, Texas, USA",2/2/2021,20:25:00,Starship Prototype,7750000,FALSE
+Transporter 1,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",1/24/2021,15:00:00,Falcon 9 Block 5,8190000,TRUE
+Starlink V1 L16,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",1/20/2021,13:02:00,Falcon 9 Block 5,2870000,TRUE
+Another One Leaves The Crust,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",1/20/2021,7:26:00,Electron/Curie,20640000,TRUE
+Türksat 5A,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",1/8/2021,2:15:00,Falcon 9 Block 5,6220000,TRUE
+CSO-2,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",12/29/2020,16:42:00,Soyuz ST-A/Fregat-M,16200000,TRUE
+NROL-108,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",12/19/2020,14:00:00,Falcon 9 Block 5,11360000,TRUE
+CMS-01,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",12/17/2020,10:09:00,PSLV-XL,22970000,TRUE
+Rocket 3.2,Astra,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA",12/15/2020,20:55:00,Rocket 3,3750000,FALSE
+The Owl’s Night Begins,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",12/15/2020,10:09:00,Electron/Curie,6050000,TRUE
+SXM-7,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",12/13/2020,17:30:00,Falcon 9 Block 5,12090000,TRUE
+12.5-Kilometer Test Flight,SpaceX,"Suborbital Pad A, Starbase, Texas, USA",12/9/2020,22:45:00,Starship Prototype,2600000,FALSE
+CRS SpX-21,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",12/6/2020,16:17:00,Falcon 9 Block 5,22030000,TRUE
+Falcon Eye 2,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",12/2/2020,1:33:00,Soyuz ST-A/Fregat-M,6810000,TRUE
+Starlink V1 L15,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",11/25/2020,2:13:00,Falcon 9 Block 5,2220000,TRUE
+Sentinel-6A Michael Freilich,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",11/21/2020,17:17:00,Falcon 9 Block 5,13840000,TRUE
+Return To Sender,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",11/20/2020,2:20:00,Electron/Curie,6370000,TRUE
+Taranis & Seosat,Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France",11/17/2020,1:52:00,Vega,6400000,FALSE
+SpaceX Crew-1,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",11/16/2020,0:27:00,Falcon 9 Block 5,5980000,TRUE
+EOS-01 & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",11/7/2020,9:41:00,PSLV-DL,12820000,TRUE
+GPS III-4,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",11/5/2020,23:24:00,Falcon 9 Block 5,4540000,TRUE
+In Focus,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",10/28/2020,21:21:00,Electron/Curie,20900000,TRUE
+Starlink V1 L14,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",10/24/2020,15:31:00,Falcon 9 Block 5,1400000,TRUE
+Starlink V1 L13,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",10/18/2020,12:25:00,Falcon 9 Block 5,9900000,TRUE
+Soyuz MS-17,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",10/14/2020,5:45:00,Soyuz 2.1a,14470000,TRUE
+Starlink V1 L12,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",10/6/2020,11:29:00,Falcon 9 Block 5,3210000,TRUE
+CRS NG-14,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",10/3/2020,1:16:00,Antares 230+,8430000,TRUE
+Rocket 3.1,Astra,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA",9/12/2020,3:19:00,Rocket 3,4940000,FALSE
+Starlink V1 L11,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",9/3/2020,12:46:00,Falcon 9 Block 5,3510000,TRUE
+SSMS n°1 PoC,Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France",9/3/2020,1:51:00,Vega,1200000,TRUE
+I Can’t Believe It’s Not Optical,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand",8/31/2020,3:05:00,Electron/Photon,22300000,TRUE
+SAOCOM 1B & Rideshares,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",8/30/2020,23:18:00,Falcon 9 Block 5,13510000,TRUE
+Starlink V1 L10 & SkySat 19 to 21,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",8/18/2020,14:31:00,Falcon 9 Block 5,3810000,TRUE
+"BSat 4b & Galaxy 30, MEV-2",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/15/2020,22:04:00,Ariane 5 ECA,9170000,TRUE
+Starlink V1 L9 & BlackSky,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",8/7/2020,5:12:00,Falcon 9 Block 5,24140000,TRUE
+150 Meter Hop,SpaceX,"Pad A, Boca Chica, Texas, USA",8/4/2020,23:57:00,Starship Prototype,16110000,TRUE
+Ekspress-80 & Ekspress-103,Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan",7/30/2020,21:25:00,Proton-M/Briz-M,6430000,TRUE
+Progress MS-15,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",7/23/2020,14:26:00,Soyuz 2.1a,15570000,TRUE
+ANASIS-II,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",7/20/2020,21:30:00,Falcon 9 Block 5,16260000,TRUE
+NROL-129,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA",7/15/2020,13:46:00,Minotaur IV,3100000,TRUE
+Pics Or It Didn't Happen,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",7/4/2020,21:19:00,Electron/Curie,19030000,FALSE
+GPS III SV03,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",6/30/2020,20:10:00,Falcon 9 Block 5,18810000,TRUE
+Starlink V1 L8 & SkySat 16 to 18,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",6/13/2020,9:21:00,Falcon 9 Block 5,4590000,TRUE
+Don't stop me now!,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",6/13/2020,5:12:00,Electron/Curie,12180000,TRUE
+Starlink V1 L7,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",6/4/2020,1:25:00,Falcon 9 Block 5,17890000,TRUE
+SpaceX Demo-2,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",5/30/2020,19:22:00,Falcon 9 Block 5,4080000,TRUE
+Progress MS-14,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",4/25/2020,1:51:00,Soyuz 2.1a,13820000,TRUE
+Starlink V1 L6,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",4/22/2020,19:30:00,Falcon 9 Block 5,4180000,TRUE
+Soyuz MS-16,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",4/9/2020,8:05:00,Soyuz 2.1a,4850000,TRUE
+OneWeb #3,Arianespace,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",3/21/2020,17:06:00,Soyuz 2.1b/Fregat,7680000,TRUE
+Starlink V1 L5,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",3/18/2020,12:16:00,Falcon 9 Block 5,16280000,TRUE
+CRS-20,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",3/7/2020,4:50:00,Falcon 9 Block 5,22300000,TRUE
+JCSAT-17 & GEO-KOMPSAT 2B,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",2/18/2020,22:18:00,Ariane 5 ECA,6050000,TRUE
+Starlink V1 L4,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2/17/2020,15:05:00,Falcon 9 Block 5,8380000,TRUE
+CRS NG-13,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",2/15/2020,20:21:00,Antares 230+,22880000,TRUE
+OneWeb #2,Arianespace,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",2/6/2020,21:42:00,Soyuz 2.1b/Fregat,3030000,TRUE
+Birds of a Feather / NROL-151,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",1/31/2020,2:56:00,Electron/Curie,19740000,TRUE
+Starlink V1 L3,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",1/29/2020,14:06:00,Falcon 9 Block 5,12200000,TRUE
+Crew Dragon Inflight Abort Test,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",1/19/2020,15:30:00,Falcon 9 Block 5,14620000,TRUE
+Eutelsat Konnect BB4A & GSAT-30,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",1/16/2020,21:05:00,Ariane 5 ECA,17850000,TRUE
+Starlink V1 L2,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",1/7/2020,2:19:00,Falcon 9 Block 5,12050000,TRUE
+Elektro-L n†­3,Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan",12/24/2019,12:03:00,Proton-M/DM-3,15470000,TRUE
+"CSG-1, CHEOPS & Others",Arianespace,"ELS, Guiana Space Centre, French Guiana, France",12/18/2019,8:54:00,Soyuz ST-A/Fregat-M,6750000,TRUE
+JCSAT-18 / Kacific-1,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",12/17/2019,0:10:00,Falcon 9 Block 5,15340000,TRUE
+RISAT 2BR1,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",12/11/2019,9:55:00,PSLV-QL,18310000,TRUE
+Progress MS-13 (74P),Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",12/6/2019,9:34:00,Soyuz 2.1a,16490000,TRUE
+Running Out Of Fingers,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",12/6/2019,8:18:00,Electron/Curie,22350000,TRUE
+CRS-19,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",12/5/2019,17:29:00,Falcon 9 Block 5,24610000,TRUE
+Cartosat-3 & Rideshares,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",11/27/2019,3:58:00,PSLV-XL,12610000,TRUE
+Inmarsat 5 F5 & TIBA-1,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",11/26/2019,21:23:00,Ariane 5 ECA,17420000,TRUE
+Starlink V1 L1,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",11/11/2019,14:56:00,Falcon 9 Block 5,9210000,TRUE
+CRS NG-12,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",11/2/2019,13:59:00,Antares 230+,21070000,TRUE
+As The Crow Flies,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",10/17/2019,1:22:00,Electron/Curie,3460000,TRUE
+ICON,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA",10/11/2019,1:59:00,Pegasus XL,18550000,TRUE
+Eutelsat 5 West B & MEV-1,ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan",10/9/2019,10:17:00,Proton-M/Briz-M,22140000,TRUE
+Soyuz MS-15 (61S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",9/25/2019,13:57:00,Soyuz FG,23680000,TRUE
+Soyuz MS-14 (60S),Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",8/22/2019,3:38:00,Soyuz 2.1a,8790000,TRUE
+"Look Ma, No Hands!",Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",8/19/2019,12:12:00,Electron/Curie,17680000,TRUE
+AMOS-17,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",8/6/2019,23:23:00,Falcon 9 Block 5,18220000,TRUE
+EDRS-C/HYLAS 3 & Intelsat 39,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/6/2019,19:30:00,Ariane 5 ECA,19710000,TRUE
+Cosmos 2539,Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan",8/5/2019,21:56:00,Proton-M/Briz-M,5730000,TRUE
+Progress MS-12,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",7/31/2019,12:10:00,Soyuz 2.1a,19390000,TRUE
+CRS-18,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",7/25/2019,22:01:00,Falcon 9 Block 5,17720000,TRUE
+Chandrayaan-2 lunar mission,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",7/22/2019,9:13:00,GSLV Mk III,21260000,TRUE
+Soyuz MS-13 (59S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",7/20/2019,16:28:00,Soyuz FG,13170000,TRUE
+Spektr-RG,Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan",7/13/2019,12:31:00,Proton-M/DM-3,23850000,TRUE
+Falcon Eye 1,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",7/11/2019,1:53:00,Vega,6460000,FALSE
+"Meteor-M No.2-2, Landmapper-BC 5 & 6, and Others",Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia",7/5/2019,5:41:00,Soyuz 2.1b/Fregat-M,7670000,TRUE
+Make it Rain,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",6/29/2019,4:30:00,Electron/Curie,16950000,TRUE
+STP-2,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",6/25/2019,6:30:00,Falcon Heavy,19200000,TRUE
+Eutelsat 7C &  AT&T T-16,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",6/20/2019,21:43:00,Ariane 5 ECA,5860000,TRUE
+RADARSAT Constellation,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",6/12/2019,14:17:00,Falcon 9 Block 5,12720000,TRUE
+Yamal-601,Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan",5/30/2019,17:42:00,Proton-M/Briz-M,4010000,TRUE
+Cosmos 2534,Roscosmos,"Site 43/4, Plesetsk Cosmodrome, Russia",5/27/2019,6:23:00,Soyuz 2.1b/Fregat-M,1850000,TRUE
+Starlink V0.9,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",5/24/2019,2:30:00,Falcon 9 Block 5,11630000,TRUE
+RISAT-2B,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",5/22/2019,0:00:00,PSLV-CA,18410000,TRUE
+That's a Funny Looking Cactus,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",5/5/2019,6:00:00,Electron/Curie,19190000,TRUE
+CRS-17,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",5/4/2019,6:48:00,Falcon 9 Block 5,14970000,TRUE
+CRS NG-11,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",4/17/2019,20:46:00,Antares 230,15660000,TRUE
+ArabSat 6A,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",4/11/2019,22:35:00,Falcon Heavy,16110000,TRUE
+O3b FM17-FM20,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",4/4/2019,17:04:00,Soyuz ST-B/Fregat-MT,5040000,TRUE
+Progress MS-11 (72P),Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",4/4/2019,11:01:00,Soyuz 2.1a,16090000,TRUE
+EMISAT & Rideshares,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",4/1/2019,3:57:00,PSLV-QL,5910000,TRUE
+Two Thumbs Up,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",3/28/2019,23:27:00,Electron/Curie,12900000,TRUE
+PRISMA,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",3/22/2019,1:50:00,Vega,9940000,TRUE
+Soyuz MS-12 (58S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",3/14/2019,19:14:00,Soyuz FG,7900000,TRUE
+SpaceX Demo-1,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",3/2/2019,7:49:00,Falcon 9 Block 5,23300000,TRUE
+OneWeb #1,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",2/27/2019,21:37:00,Soyuz ST-B/Fregat-M,17370000,TRUE
+Nusantara Satu & Beresheet,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2/22/2019,1:45:00,Falcon 9 Block 5,1340000,TRUE
+GSAT-31 & Hellas-Sat-4,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",2/5/2019,21:01:00,Ariane 5 ECA,21140000,TRUE
+Microsat-R,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",1/24/2019,18:07:00,PSLV-DL,22930000,TRUE
+Iridium-8,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",1/11/2019,15:31:00,Falcon 9 Block 5,10050000,TRUE
+Kanopus-V No. 5-6 & Rideshares,Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia",12/27/2018,2:07:00,Soyuz 2.1a/Fregat,3660000,TRUE
+GPS III SV01,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",12/23/2018,13:51:00,Falcon 9 Block 5,10560000,TRUE
+CSO 1,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",12/19/2018,16:37:00,Soyuz ST-A/Fregat-M,11440000,TRUE
+GSAT-7A,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",12/19/2018,10:40:00,GSLV Mk II,17940000,TRUE
+This one's for Pickering,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",12/16/2018,6:33:00,Electron/Curie,3580000,TRUE
+CRS-16,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",12/5/2018,18:16:00,Falcon 9 Block 5,9050000,TRUE
+GSAT-11 & GEO-KOMPSAT 2A,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/4/2018,20:37:00,Ariane 5 ECA,23560000,TRUE
+Spaceflight SSO-A,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",12/3/2018,18:34:00,Falcon 9 Block 5,8510000,TRUE
+Soyuz MS-11 (57S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",12/3/2018,11:31:00,Soyuz FG,24430000,TRUE
+HySIS,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",11/29/2018,4:27:00,PSLV-CA,18770000,TRUE
+Mohammed VI-B,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",11/21/2018,1:42:00,Vega,11970000,TRUE
+CRS NG-10,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",11/17/2018,9:01:00,Antares 230,2680000,TRUE
+Progress MS-10 (71P),Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",11/16/2018,18:14:00,Soyuz FG,20410000,TRUE
+Es'hail 2,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",11/15/2018,20:46:00,Falcon 9 Block 5,3310000,TRUE
+GSAT 29,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",11/14/2018,11:38:00,GSLV Mk III,13090000,TRUE
+It's Business Time,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",11/11/2018,3:50:00,Electron/Curie,23060000,TRUE
+MetOp C,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",11/7/2018,0:47:00,Soyuz ST-B/Fregat-M,14540000,TRUE
+Lotus-S No.4,Roscosmos,"Site 43/4, Plesetsk Cosmodrome, Russia",10/25/2018,0:15:00,Soyuz 2.1b,10630000,TRUE
+BepiColombo,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",10/20/2018,1:45:00,Ariane 5 ECA,3140000,TRUE
+Soyuz MS-10 (56S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",10/11/2018,8:40:00,Soyuz FG,19920000,FALSE
+SAOCOM 1A,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",10/8/2018,2:21:00,Falcon 9 Block 5,3720000,TRUE
+Horizons-3e & Azerspace 2/Intelsat 38,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",9/25/2018,22:38:00,Ariane 5 ECA,15700000,TRUE
+SSTL-1 & NovaSAR-S,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",9/16/2018,16:38:00,PSLV-CA,15700000,TRUE
+Telstar 18V / APStar 5C,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",9/10/2018,4:45:00,Falcon 9 Block 5,23740000,TRUE
+ADM-Aeolus,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",8/22/2018,21:20:00,Vega,13030000,TRUE
+Merah Putih (Telkom-4),SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",8/7/2018,5:18:00,Falcon 9 Block 5,8340000,TRUE
+Iridium-7,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",7/25/2018,11:39:00,Falcon 9 Block 5,11110000,TRUE
+Galileo FOC FM19-FM22,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/25/2018,11:25:00,Ariane 5 ES,5730000,TRUE
+Telstar 19V,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",7/22/2018,5:50:00,Falcon 9 Block 5,20850000,TRUE
+Progress MS-09 (70P),Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",7/9/2018,21:51:00,Soyuz 2.1a,24080000,TRUE
+CRS-15,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",6/29/2018,9:42:00,Falcon 9 Block 4,9230000,TRUE
+Soyuz MS-09 (55S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",6/6/2018,11:12:00,Soyuz FG,19810000,TRUE
+SES-12,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",6/4/2018,4:29:00,Falcon 9 Block 4,10550000,TRUE
+Iridium-6 & GRACE-FO,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",5/22/2018,19:47:00,Falcon 9 Block 4,14580000,TRUE
+CRS OA-9E,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",5/21/2018,4:44:00,Antares 230,11570000,TRUE
+Bangabandhu-1,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",5/11/2018,20:14:00,Falcon 9 Block 5,3480000,TRUE
+Transiting Exoplanet Survey Satellite (TESS),SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",4/18/2018,22:51:00,Falcon 9 Block 4,19290000,TRUE
+IRNSS-1I,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",4/11/2018,22:34:00,PSLV-XL,17550000,TRUE
+Superbird-B3/DSN-1 & HYLAS-4,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",4/5/2018,21:34:00,Ariane 5 ECA,14360000,TRUE
+CRS-14,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",4/2/2018,20:30:00,Falcon 9 Block 4,8120000,TRUE
+Iridium-5,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",3/30/2018,14:14:00,Falcon 9 Block 4,2050000,TRUE
+Cosmos 2525,Roscosmos,"Site 43/4, Plesetsk Cosmodrome, Russia",3/29/2018,17:38:00,Soyuz 2.1v,4170000,TRUE
+GSAT-6A,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",3/29/2018,11:26:00,GSLV Mk II,5350000,TRUE
+Soyuz MS-08 (54S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",3/21/2018,17:44:00,Soyuz FG,16870000,TRUE
+O3b FM13-FM16,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",3/9/2018,17:10:00,Soyuz ST-B/Fregat-MT,19780000,TRUE
+Hispasat 30W-6,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",3/6/2018,5:33:00,Falcon 9 Block 4,8140000,TRUE
+"PAZ & Tintin A, Tintin B",SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2/22/2018,14:17:00,Falcon 9 Block 3,10290000,TRUE
+Progress MS-08 (69P),Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",2/13/2018,8:13:00,Soyuz 2.1a,19160000,TRUE
+Test Flight,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2/6/2018,20:45:00,Falcon Heavy,1690000,TRUE
+Kanopus-V No. 3-4 & Rideshares,Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia",2/1/2018,2:07:00,Soyuz 2.1a/Fregat-M,20620000,TRUE
+GovSat-1 / SES-16,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",1/31/2018,21:25:00,Falcon 9 Block 3,15650000,TRUE
+SES-14/GOLD & Al Yah-3,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",1/25/2018,22:20:00,Ariane 5 ECA,11130000,FALSE
+Still Testing,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",1/21/2018,1:43:00,Electron/Curie,23610000,TRUE
+Cartosat-2F & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",1/12/2018,3:58:00,PSLV-XL,21850000,TRUE
+Zuma,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",1/8/2018,1:00:00,Falcon 9 Block 4,6750000,TRUE
+Iridium-4,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",12/23/2017,1:27:00,Falcon 9 Block 3,2380000,TRUE
+Soyuz MS-07 (53S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",12/17/2017,7:21:00,Soyuz FG,22750000,TRUE
+CRS-13,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",12/15/2017,15:36:00,Falcon 9 Block 3,11710000,TRUE
+Galileo FOC FM15-FM18,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/12/2017,18:36:00,Ariane 5 ES,23190000,TRUE
+Meteor-M No.2-1 & Rideshares,Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia",11/28/2017,5:41:00,Soyuz 2.1b/Fregat-M,18470000,FALSE
+CRS OA-8E,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",11/12/2017,12:19:00,Antares 230,2550000,TRUE
+Mohammed VI-A,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",11/8/2017,1:42:00,Vega,14280000,TRUE
+SkySat & Flock-3m,Northrop,"SLC-576E, Vandenberg AFB, California, USA",10/31/2017,21:37:00,Minotaur C (Taurus),19920000,TRUE
+Koreasat 5A,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",10/30/2017,19:34:00,Falcon 9 Block 4,8620000,TRUE
+Progress MS-07 (68P),Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",10/14/2017,8:46:00,Soyuz 2.1a,8200000,TRUE
+SES-11 / EchoStar 105,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",10/11/2017,22:53:00,Falcon 9 Block 3,5950000,TRUE
+Iridium-3,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",10/9/2017,12:37:00,Falcon 9 Block 4,13800000,TRUE
+"Intelsat 37e, BSAT-4a",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",9/29/2017,21:56:00,Ariane 5 ECA,17960000,TRUE
+Amazonas 5,ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan",9/11/2017,19:23:00,Proton-M/Briz-M,10620000,TRUE
+OTV-5,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",9/7/2017,14:00:00,Falcon 9 Block 4,1440000,TRUE
+IRNSS-1H,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",8/31/2017,13:30:00,PSLV-XL,3860000,FALSE
+ORS-5,Northrop,"SLC-46, Cape Canaveral AFS, Florida, USA",8/25/2017,6:04:00,Minotaur IV,21480000,TRUE
+Formosat-5,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",8/24/2017,18:51:00,Falcon 9 Block 3,18500000,TRUE
+CRS-12,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",8/14/2017,16:31:00,Falcon 9 Block 4,13000000,TRUE
+Soyuz MS-06 (52S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",8/12/2017,21:17:00,Soyuz FG,2270000,TRUE
+OPSAT 3000 & VEN†æS,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",8/2/2017,1:58:00,Vega,6730000,TRUE
+Soyuz MS-05 (51S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",7/28/2017,15:41:00,Soyuz FG,16620000,TRUE
+Kanopus-V IK & Rideshares,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",7/14/2017,6:36:00,Soyuz 2.1a/Fregat,19120000,FALSE
+Intelsat 35e,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",7/5/2017,20:25:00,Falcon 9 Block 3,21370000,TRUE
+"Hellas Sat 3-Inmarsat S EAN, GSAT-17",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",6/28/2017,21:15:00,Ariane 5 ECA,21320000,TRUE
+Iridium-2,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",6/25/2017,20:25:00,Falcon 9 Block 3,24950000,TRUE
+BulgariaSat-1,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",6/23/2017,19:10:00,Falcon 9 Block 3,3610000,TRUE
+Cartosat-2E & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",6/23/2017,3:59:00,PSLV-XL,22090000,TRUE
+Progress MS-06 (67P),Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",6/14/2017,9:20:00,Soyuz 2.1a,5980000,TRUE
+Echostar 21,ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan",6/8/2017,3:45:00,Proton-M/Briz-M,2740000,TRUE
+GSAT-19,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",6/5/2017,11:58:00,GSLV Mk III,24260000,TRUE
+CRS-11,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",6/3/2017,21:07:00,Falcon 9 Block 3,2300000,TRUE
+"ViaSat 2, Eutelsat 172B",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",6/1/2017,23:45:00,Ariane 5 ECA,15520000,TRUE
+It's a Test,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",5/25/2017,4:20:00,Electron,19200000,FALSE
+SES-15,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",5/18/2017,11:54:00,Soyuz ST-A/Fregat-M,16030000,TRUE
+Inmarsat-5 F4,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",5/15/2017,23:21:00,Falcon 9 Block 3,11400000,TRUE
+GSAT-9,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",5/5/2017,11:27:00,GSLV Mk II,15400000,TRUE
+"Koreasat 7, SGDC-1",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",5/4/2017,21:50:00,Ariane 5 ECA,16910000,TRUE
+NROL-76,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",5/1/2017,11:15:00,Falcon 9 Block 3,17050000,TRUE
+Soyuz MS-04 (50S),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",4/20/2017,7:13:00,Soyuz FG,13770000,TRUE
+SES-10,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",3/30/2017,22:27:00,Falcon 9 Block 3,8360000,TRUE
+Echostar 23,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",3/16/2017,6:00:00,Falcon 9 Block 3,23280000,TRUE
+Sentinel 2B,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",3/7/2017,1:49:00,Vega,9800000,TRUE
+Progress MS-05 (66P),Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",2/22/2017,5:58:00,Soyuz U,10030000,TRUE
+CRS-10,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2/19/2017,14:39:00,Falcon 9 Block 3,15500000,TRUE
+Cartosat-2D & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",2/15/2017,3:58:00,PSLV-XL,11820000,TRUE
+Intelsat 32e/SkyBrasil-1 & Telkom-3S,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",2/14/2017,21:39:00,Ariane 5 ECA,22720000,TRUE
+Hispasat AG1,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",1/28/2017,1:03:00,Soyuz ST-B/Fregat-MT,1050000,TRUE
+Iridium-1,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",1/14/2017,17:54:00,Falcon 9 Block 3,11640000,TRUE
+"Star One D1, JCSAT-15",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/21/2016,20:30:00,Ariane 5 ECA,6590000,TRUE
+CYGNSS,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA",12/15/2016,13:37:00,Pegasus XL,6550000,TRUE
+Resourcesat-2A,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",12/7/2016,4:54:00,PSLV-XL,3480000,TRUE
+G??kt??rk-1A,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",12/5/2016,13:51:00,Vega,7790000,TRUE
+Progress MS-04,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",12/1/2016,14:52:00,Soyuz U,24900000,FALSE
+Soyuz MS-03,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",11/17/2016,20:20:00,Soyuz FG,10020000,TRUE
+Galileo FOC FM7/FM12-FM14,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",11/17/2016,13:06:00,Ariane 5 ES,1620000,TRUE
+Soyuz MS-02,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",10/19/2016,8:05:00,Soyuz FG,4150000,TRUE
+CRS OA-5,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",10/17/2016,23:45:00,Antares 230,13770000,TRUE
+"Sky Muster II, GSAT-18",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",10/5/2016,20:30:00,Ariane 5 ECA,10020000,TRUE
+ScatSat-1 & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",9/26/2016,3:42:00,PSLV-G,8360000,TRUE
+PeruSat-1 and SkySats 4-7,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",9/16/2016,1:43:00,Vega,2380000,TRUE
+INSAT-3DR,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",9/8/2016,11:20:00,GSLV Mk II,23640000,TRUE
+AMOS-6,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",9/1/2016,13:07:00,Falcon 9 Block 3,11300000,FALSE
+"Intelsat 33e, Intelsat 36",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/24/2016,22:16:00,Ariane 5 ECA,16680000,TRUE
+JCSAT-16,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",8/14/2016,5:26:00,Falcon 9 Block 3,19300000,TRUE
+CRS-9,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",7/18/2016,4:45:00,Falcon 9 Block 3,17800000,TRUE
+Progress MS-03,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",7/16/2016,21:41:00,Soyuz U,21890000,TRUE
+Soyuz MS-01,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",7/7/2016,1:36:00,Soyuz FG,2700000,TRUE
+Cartosat-2C & Rideshares,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",6/22/2016,3:56:00,PSLV-XL,24870000,TRUE
+"EchoStar 18, BRISat",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",6/18/2016,5:20:00,Ariane 5 ECA,23340000,TRUE
+ABS-2A & Eutelsat 117 West B,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",6/15/2016,14:29:00,Falcon 9 Block 3,14090000,TRUE
+Intelsat 31 / DLA-2,ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan",6/9/2016,7:10:00,Proton-M/Briz-M,9110000,TRUE
+Thaicom 8,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",5/27/2016,21:39:00,Falcon 9 Block 3,5740000,TRUE
+Galileo FOC FM10/FM11,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",5/24/2016,8:48:00,Soyuz ST-B/Fregat-MT,22570000,TRUE
+JCSAT-14,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",5/6/2016,5:21:00,Falcon 9 Block 3,19400000,TRUE
+IRNSS-1G,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",4/28/2016,7:20:00,PSLV-XL,12630000,TRUE
+"Mikhailo Lomonosov, Aist-2D, & SamSat 218",Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia",4/28/2016,2:01:00,Soyuz 2.1a/Volga,7360000,TRUE
+"Sentinel 1B, MICROSCOPE & Others",Arianespace,"ELS, Guiana Space Centre, French Guiana, France",4/25/2016,21:02:00,Soyuz ST-A/Fregat-M,5020000,TRUE
+CRS-8,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",4/8/2016,20:43:00,Falcon 9 Block 3,9970000,TRUE
+Progress MS-02,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",3/31/2016,16:23:00,Soyuz 2.1a,19880000,TRUE
+Soyuz TMA-20M,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",3/18/2016,21:26:00,Soyuz FG,14930000,TRUE
+ExoMars Trace Gas Orbiter & Schiaparelli EDM,Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan",3/14/2016,9:31:00,Proton-M/Briz-M,11860000,TRUE
+Resurs-P No.3,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",3/13/2016,18:56:00,Soyuz 2.1b,22470000,TRUE
+IRNSS-1F,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",3/10/2016,10:31:00,PSLV-XL,16640000,TRUE
+Eutelsat 65 West A,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",3/9/2016,5:20:00,Ariane 5 ECA,19070000,TRUE
+SES-9,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",3/4/2016,23:35:00,Falcon 9 Block 3,3760000,TRUE
+Eutelsat 9B,ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan",1/29/2016,22:20:00,Proton-M/Briz-M,11240000,TRUE
+Intelsat 29e,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",1/27/2016,23:20:00,Ariane 5 ECA,15390000,TRUE
+IRNSS-1E,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",1/20/2016,4:01:00,PSLV-XL,14050000,TRUE
+Jason-3,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",1/17/2016,18:42:00,Falcon 9 v1.1,8910000,TRUE
+OG2 Mission 2,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",12/22/2015,1:29:00,Falcon 9 Block 3,23620000,TRUE
+Galileo FOC FM8-FM9,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",12/17/2015,11:51:00,Soyuz ST-B/Fregat-MT,22220000,TRUE
+TeLEOS-1 & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",12/16/2015,12:30:00,PSLV-CA,21900000,TRUE
+Elektro-L n†­2,Roscosmos,"Site 45/1, Baikonur Cosmodrome, Kazakhstan",12/11/2015,13:45:00,Zenit-3 SLBF,22850000,TRUE
+LISA Pathfinder,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",12/3/2015,4:04:00,Vega,2180000,TRUE
+"Arabsat 6B, GSAT-15",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",11/10/2015,21:34:00,Ariane 5 ECA,22000000,TRUE
+"NBN Co 1A, ARSAT-2",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",9/30/2015,20:30:00,Ariane 5 ECA,19340000,TRUE
+Astrosat & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",9/28/2015,4:30:00,PSLV-XL,18700000,TRUE
+Galileo FOC FM05-FM06,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",9/11/2015,2:08:00,Soyuz ST-B/Fregat-MT,20160000,TRUE
+GSAT-6,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",8/27/2015,11:22:00,GSLV Mk II,23060000,TRUE
+"Eutelsat 8 West B, Intelsat 34",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/20/2015,20:34:00,Ariane 5 ECA,13630000,TRUE
+"Star One C4, MSG-4",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/15/2015,21:42:00,Ariane 5 ECA,9100000,TRUE
+UK-DMC3A/B/C & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",7/10/2015,16:28:00,PSLV-XL,22600000,TRUE
+CRS-7,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",6/28/2015,14:21:00,Falcon 9 v1.1,7890000,FALSE
+Sentinel-2A,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",6/23/2015,1:51:00,Vega,5880000,TRUE
+"DirecTV-15, Sky Mexico 1",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",5/27/2015,21:16:00,Ariane 5 ECA,18120000,TRUE
+Turkmen??lem52E/MonacoSat,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",4/27/2015,23:03:00,Falcon 9 v1.1,5080000,TRUE
+"Thor 7, SICRAL-2",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",4/26/2015,20:00:00,Ariane 5 ECA,19620000,TRUE
+CRS-6,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",4/15/2015,20:10:00,Falcon 9 v1.1,20610000,TRUE
+IRNSS-1D,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",3/28/2015,11:49:00,PSLV-XL,12340000,TRUE
+Galileo FOC FM03-FM04,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",3/27/2015,21:46:00,Soyuz ST-B/Fregat-MT,22860000,TRUE
+ABS-3A & EUTELSAT 115 West B,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",3/2/2015,3:50:00,Falcon 9 v1.1,16790000,TRUE
+DSCOVR,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2/11/2015,23:03:00,Falcon 9 v1.1,7310000,TRUE
+IXV,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",2/11/2015,13:40:00,Vega,22140000,TRUE
+CRS-5,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",1/10/2015,9:47:00,Falcon 9 v1.1,9230000,TRUE
+O3b FM09-FM12,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",12/18/2014,18:37:00,Soyuz ST-B/Fregat-MT,7570000,TRUE
+Demo Flight (CARE),ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",12/18/2014,4:00:00,GSLV Mk III,22510000,TRUE
+"DirecTV-14, GSAT-16",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/6/2014,20:40:00,Ariane 5 ECA,9530000,TRUE
+CRS Orb-3,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",10/28/2014,22:22:00,Antares 130,17800000,FALSE
+"Intelsat 30, ARSAT-1",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",10/16/2014,21:43:00,Ariane 5 ECA,17310000,TRUE
+IRNSS-1C,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",10/16/2014,20:02:00,PSLV-XL,8690000,TRUE
+CRS-4,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",9/21/2014,5:52:00,Falcon 9 v1.1,16620000,TRUE
+"MEASAT 3b, Optus 10",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",9/11/2014,22:05:00,Ariane 5 ECA,1370000,TRUE
+AsiaSat 6,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",9/7/2014,5:00:00,Falcon 9 v1.1,13010000,TRUE
+Galileo FOC FM01-FM02,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",8/22/2014,12:27:00,Soyuz ST-B/Fregat-MT,12080000,FALSE
+AsiaSat 8,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",8/5/2014,8:00:00,Falcon 9 v1.1,18770000,TRUE
+Georges Lema??tre ATV,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/29/2014,23:47:00,Ariane 5 ES,6540000,TRUE
+OG2 Mission 1,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",7/14/2014,15:15:00,Falcon 9 v1.1,21620000,TRUE
+CRS Orb-2,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",7/13/2014,16:52:00,Antares 120,3500000,TRUE
+O3b FM03/FM06-FM08,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",7/10/2014,18:55:00,Soyuz ST-B/Fregat-MT,12510000,TRUE
+SPOT-7 & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",6/30/2014,4:22:00,PSLV-CA,16620000,TRUE
+KazEOSat-1,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",4/30/2014,1:35:00,Vega,2460000,TRUE
+CRS-3,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",4/18/2014,19:25:00,Falcon 9 v1.1,3260000,TRUE
+IRNSS-1B,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",4/4/2014,11:44:00,PSLV-XL,2470000,TRUE
+Sentinel 1A,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",4/3/2014,21:02:00,Soyuz ST-A/Fregat-M,9110000,TRUE
+"Astra 5B, Amazonas 4A",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",3/22/2014,22:04:00,Ariane 5 ECA,10900000,TRUE
+"ABS-2, Athena-Fidus",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",2/6/2014,21:30:00,Ariane 5 ECA,3860000,TRUE
+CRS Orb-1,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",1/9/2014,18:07:00,Antares 120,19800000,TRUE
+Thaicom 6,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",1/6/2014,22:06:00,Falcon 9 v1.1,23810000,TRUE
+GSAT-14,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",1/5/2014,10:48:00,GSLV Mk II,9840000,TRUE
+Gaia,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",12/19/2013,9:12:00,Soyuz ST-B/Fregat-MT,22770000,TRUE
+SES-8,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",12/3/2013,22:41:00,Falcon 9 v1.1,10400000,TRUE
+ORS-3,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA",11/20/2013,1:15:00,Minotaur I,19660000,TRUE
+Mars Orbiter Mission,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",11/5/2013,9:08:00,PSLV-XL,8660000,TRUE
+CASSIOPE,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",9/29/2013,16:00:00,Falcon 9 v1.1,21380000,TRUE
+CRS Orb-D1,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",9/13/2013,14:58:00,Antares 110,15020000,TRUE
+LADEE,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA",9/7/2013,3:27:00,Minotaur V,6530000,TRUE
+"Eutelsat 25B/Es'hail 1, GSAT-7",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/29/2013,20:30:00,Ariane 5 ECA,17660000,TRUE
+"Alphasat I-XL, INSAT-3D",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/25/2013,19:54:00,Ariane 5 ECA,23340000,TRUE
+IRNSS-1A,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",7/1/2013,18:11:00,PSLV-XL,11650000,TRUE
+IRIS,Northrop,"Stargazer, Vandenberg AFB, California, USA",6/28/2013,2:27:00,Pegasus XL,10990000,TRUE
+O3b FM01-FM02/FM04-FM05,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",6/25/2013,19:27:00,Soyuz ST-B/Fregat-MT,18760000,TRUE
+Albert Einstein ATV,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",6/5/2013,21:52:00,Ariane 5 ES,10110000,TRUE
+"Proba-V, VNREDSat-1A & ESTCube-1",Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",5/7/2013,2:06:00,Vega,21270000,TRUE
+Antares A-ONE,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA",4/21/2013,21:00:00,Antares 110,16720000,TRUE
+CRS-2,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",3/1/2013,15:10:00,Falcon 9 v1.0,2530000,TRUE
+SARAL & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",2/25/2013,12:31:00,PSLV-CA,14540000,TRUE
+"Amazonas-3, Azerspace-1 (Africasat-1A)",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",2/7/2013,21:36:00,Ariane 5 ECA,12760000,TRUE
+"Skynet 5D, Mexsat-3",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/19/2012,21:49:00,Ariane 5 ECA,4420000,TRUE
+Pl??iades 1B,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",12/2/2012,2:02:00,Soyuz ST-A/Fregat,4040000,TRUE
+"Eutelsat 21B, Star One C3",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",11/10/2012,21:05:00,Ariane 5 ECA,22350000,TRUE
+Galileo IOV FM03-FM04,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",10/12/2012,15:15:00,Soyuz ST-B/Fregat-MT,6480000,TRUE
+CRS-1,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",10/8/2012,0:35:00,Falcon 9 v1.0,21520000,FALSE
+"Astra 2F, GSAT-10",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",9/28/2012,21:18:00,Ariane 5 ECA,5690000,TRUE
+SPOT-6 & mRESINS & PROITERES,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",9/9/2012,4:23:00,PSLV-CA,18620000,TRUE
+"Intelsat 20, HYLAS 2",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/2/2012,20:54:00,Ariane 5 ECA,5860000,TRUE
+"EchoStar XVII, MSG-3",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/5/2012,21:36:00,Ariane 5 ECA,13520000,TRUE
+NuSTAR,Northrop,"Stargazer, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",6/13/2012,16:00:00,Pegasus XL,18080000,TRUE
+COTS-2+,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",5/22/2012,7:44:00,Falcon 9 v1.0,1050000,TRUE
+"JCSAT-13, Vinasat-2",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",5/15/2012,22:13:00,Ariane 5 ECA,18690000,TRUE
+PSLV- C19 RISAT-1,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",4/26/2012,22:00:00,PSLV-XL,22850000,TRUE
+RISAT-1,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",4/26/2012,0:17:00,PSLV-XL,1930000,TRUE
+Edoardo Amaldi ATV,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",3/23/2012,4:34:00,Ariane 5 ES,23750000,TRUE
+"Lares, AlmaSat-1 & 7 cubesats",ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",2/13/2012,10:00:00,Vega,16070000,TRUE
+"Pl??iades 1A, SSOT, Elisa",Arianespace,"ELS, Guiana Space Centre, French Guiana, France",12/17/2011,2:03:00,Soyuz ST-A/Fregat,7330000,TRUE
+Fobos-Grunt & Yinghuo 1,Roscosmos,"Site 45/1, Baikonur Cosmodrome, Kazakhstan",11/8/2011,20:16:00,Zenit-2 FG,24390000,TRUE
+Galileo IOV FM01-FM02,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",10/21/2011,7:30:00,Soyuz ST-B/Fregat-MT,3910000,TRUE
+Megha-Tropiques & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",10/12/2011,5:31:00,PSLV-CA,18130000,TRUE
+TacSat-4,Northrop,"LP-1, Pacific Spaceport Complex, Alaska, USA",9/27/2011,15:49:00,Minotaur IV,14510000,TRUE
+"Arabsat-5C, SES-2",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",9/21/2011,21:38:00,Ariane 5 ECA,6480000,TRUE
+"Astra 1N, BSAT-3C (JCSAT-110R)",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/6/2011,22:52:00,Ariane 5 ECA,9930000,TRUE
+Spektr-R,Roscosmos,"Site 45/1, Baikonur Cosmodrome, Kazakhstan",7/18/2011,2:31:00,Zenit-3 SLBF,20600000,TRUE
+GSAT-12,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",7/15/2011,11:18:00,PSLV-XL,10080000,TRUE
+STS-135,NASA,"LC-39A, Kennedy Space Center, Florida, USA",7/8/2011,15:29:00,Space Shuttle Atlantis,3880000,TRUE
+ORS-1,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA",6/30/2011,3:09:00,Minotaur I,5250000,TRUE
+"ST-2, GSAT-8",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",5/20/2011,20:38:00,Ariane 5 ECA,23030000,TRUE
+STS-134,NASA,"LC-39A, Kennedy Space Center, Florida, USA",5/16/2011,12:56:00,Space Shuttle Endeavour,3090000,TRUE
+"Yahsat 1A, Intelsat 28 (New Dawn)",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",4/22/2011,21:37:00,Ariane 5 ECA,17580000,TRUE
+ResourceSat-2 & X-Sat & YouthSat,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",4/20/2011,4:42:00,PSLV-G,12370000,TRUE
+"Glory, KySat-1, Hermes, and Explorer-1 [PRIME]",Northrop,"SLC-576E, Vandenberg AFB, California, USA",3/4/2011,10:09:00,Minotaur C (Taurus),23110000,FALSE
+STS-133,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2/24/2011,21:53:00,Space Shuttle Discovery,5920000,TRUE
+Johannes Kepler ATV,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",2/15/2011,22:13:00,Ariane 5 ES,5770000,TRUE
+NROL-66,Northrop,"SLC-8, Vandenberg AFB, California, USA",2/6/2011,12:26:00,Minotaur I,18260000,TRUE
+Elektro-L n†­1,Roscosmos,"Site 45/1, Baikonur Cosmodrome, Kazakhstan",1/20/2011,12:29:00,Zenit-3 SLBF,1430000,TRUE
+"Koreasat 6, Hispasat-1E",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/29/2010,21:27:00,Ariane 5 ECA,2770000,TRUE
+GSAT-5P,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",12/25/2010,10:34:00,GSLV Mk I,17850000,FALSE
+COTS-1,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",12/8/2010,15:43:00,Falcon 9 v1.0,8190000,TRUE
+"Intelsat 17, HYLAS-1",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",11/26/2010,18:39:00,Ariane 5 ECA,5500000,TRUE
+STP-S26,Northrop,"LP-1, Pacific Spaceport Complex, Alaska, USA",11/20/2010,1:25:00,Minotaur IV,10140000,TRUE
+"Eutelsat W3B, BSAT-3B",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",10/28/2010,23:51:00,Ariane 5 ECA,2180000,TRUE
+SBSS,Northrop,"SLC-8, Vandenberg AFB, California, USA",9/26/2010,4:41:00,Minotaur IV,5900000,TRUE
+"Nilesat-201, Rascom-QAF 1R",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/4/2010,20:45:00,Ariane 5 ECA,22850000,TRUE
+Cartosat-2B & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",7/12/2010,3:52:00,PSLV-CA,10090000,TRUE
+"Arabsat-5A, COMS-1",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",6/26/2010,21:41:00,Ariane 5 ECA,13080000,TRUE
+Flight 1,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",6/4/2010,18:45:00,Falcon 9 v1.0,7060000,TRUE
+Astra 3B  & COMSATBw-2,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",5/21/2010,22:01:00,Ariane 5 ECA,6200000,TRUE
+STS-132,NASA,"LC-39A, Kennedy Space Center, Florida, USA",5/14/2010,18:20:00,Space Shuttle Atlantis,4170000,TRUE
+Progress M-05M,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",4/28/2010,17:15:00,Soyuz U,2530000,TRUE
+GSAT-4,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",4/15/2010,10:57:00,GSLV Mk II,10110000,FALSE
+STS-131,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/5/2010,10:21:00,Space Shuttle Discovery,9320000,TRUE
+Soyuz TMA-18,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",4/2/2010,4:04:00,Soyuz FG,9770000,TRUE
+STS-130,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2/8/2010,9:14:00,Space Shuttle Endeavour,5960000,TRUE
+Soyuz-U,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",2/3/2010,3:45:00,Soyuz U,6660000,TRUE
+Helios 2B,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/18/2009,16:26:00,Ariane 5 GS,1060000,TRUE
+STS-129,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/16/2009,19:28:00,Space Shuttle Atlantis,7930000,TRUE
+NSS-12 & Thor-6,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",10/29/2009,20:00:00,Ariane 5 ECA,12500000,TRUE
+Ares 1-X Test Flight,NASA,"LC-39B, Kennedy Space Center, Florida, USA",10/28/2009,15:30:00,Ares 1-X,17790000,TRUE
+Amazonas 2 & COMSATBw-1,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",10/1/2009,21:59:00,Ariane 5 ECA,24990000,TRUE
+Oceansat-2 & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",9/23/2009,6:21:00,PSLV-CA,21280000,TRUE
+STS-128,NASA,"LC-39A, Kennedy Space Center, Florida, USA",8/28/2009,3:59:00,Space Shuttle Discovery,21820000,TRUE
+JCSAT-12 & Optus D3,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/21/2009,22:09:00,Ariane 5 ECA,20630000,TRUE
+STS-127,NASA,"LC-39A, Kennedy Space Center, Florida, USA",7/15/2009,22:03:00,Space Shuttle Endeavour,4270000,TRUE
+RazakSat,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",7/14/2009,3:35:00,Falcon 1,24630000,TRUE
+TerreStar-1,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/1/2009,19:52:00,Ariane 5 ECA,14470000,TRUE
+TacSat-3 / PharmaSat / AeroCube 3 / HawkSat I / CP6,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA",5/19/2009,23:55:00,Minotaur I,2510000,TRUE
+Herschel Space Observatory & Planck,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",5/14/2009,13:12:00,Ariane 5 ECA,22370000,TRUE
+STS-125,NASA,"LC-39A, Kennedy Space Center, Florida, USA",5/11/2009,18:01:00,Space Shuttle Atlantis,15590000,TRUE
+RISAT-2 & ANUSAT,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",4/20/2009,1:15:00,PSLV-CA,23120000,TRUE
+STS-119,NASA,"LC-39A, Kennedy Space Center, Florida, USA",3/15/2009,23:43:00,Space Shuttle Discovery,7340000,TRUE
+Orbiting Carbon Observatory,Northrop,"SLC-576E, Vandenberg AFB, California, USA",2/24/2009,9:55:00,Minotaur C (Taurus),3390000,FALSE
+"Hot Bird 10, NSS-9, Spirale-A & B",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",2/12/2009,22:09:00,Ariane 5 ECA,14340000,TRUE
+Hot Bird 9 & Eutelsat W2M,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/20/2008,22:35:00,Ariane 5 ECA,11890000,TRUE
+STS-126,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/15/2008,0:55:00,Space Shuttle Endeavour,23370000,TRUE
+Chandrayaan-1,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",10/22/2008,0:52:00,PSLV-XL,3110000,TRUE
+IBEX,Northrop,"Stargazer, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",10/19/2008,17:47:00,Pegasus XL,13130000,TRUE
+RatSat,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",9/28/2008,23:15:00,Falcon 1,4740000,TRUE
+Superbird-7 & AMC-21,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/14/2008,20:44:00,Ariane 5 ECA,14950000,TRUE
+Flight 3,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",8/3/2008,3:34:00,Falcon 1,22950000,FALSE
+ProtoStar-1 & Badr-6,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/7/2008,21:47:00,Ariane 5 ECA,1990000,TRUE
+Skynet 5C & Turksat 3A,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",6/12/2008,22:05:00,Ariane 5 ECA,24540000,TRUE
+STS-124,NASA,"LC-39A, Kennedy Space Center, Florida, USA",5/31/2008,21:02:00,Space Shuttle Discovery,19420000,TRUE
+Cartosat-2A & Rideshares,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",4/28/2008,3:53:00,PSLV-CA,1640000,TRUE
+Star One C2 & Vinasat-1,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",4/18/2008,22:17:00,Ariane 5 ECA,23570000,TRUE
+C/NOFS,Northrop,"Stargazer, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",4/15/2008,17:01:00,Pegasus XL,9590000,TRUE
+STS-123,NASA,"LC-39A, Kennedy Space Center, Florida, USA",3/11/2008,6:28:00,Space Shuttle Endeavour,6380000,TRUE
+Jules Verne ATV,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",3/9/2008,4:03:00,Ariane 5 ES,4240000,TRUE
+STS-122,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2/7/2008,19:45:00,Space Shuttle Atlantis,6840000,TRUE
+TecSAR,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",1/21/2008,3:45:00,PSLV-CA,8700000,TRUE
+Rascom-QAF1 & Horizons-2,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/21/2007,21:41:00,Ariane 5 GS,13940000,TRUE
+Skynet 5B & Star One C1,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",11/14/2007,22:03:00,Ariane 5 ECA,4050000,TRUE
+STS-120,NASA,"LC-39A, Kennedy Space Center, Florida, USA",10/23/2007,3:38:00,Space Shuttle Discovery,14150000,TRUE
+Intelsat 11 & Optus D2,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",10/5/2007,22:02:00,Ariane 5 GS,7260000,TRUE
+INSAT-4CR,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",9/2/2007,12:51:00,GSLV Mk I,3550000,FALSE
+Spaceway-3 & BSat-3A,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/14/2007,23:44:00,Ariane 5 ECA,18140000,TRUE
+STS-118,NASA,"LC-39A, Kennedy Space Center, Florida, USA",8/8/2007,22:36:00,Space Shuttle Endeavour,22350000,TRUE
+STS-117,NASA,"LC-39A, Kennedy Space Center, Florida, USA",6/8/2007,23:38:00,Space Shuttle Atlantis,13230000,TRUE
+Astra 1L & Galaxy 17,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",5/4/2007,22:29:00,Ariane 5 ECA,12010000,TRUE
+AIM,Northrop,"Stargazer, Vandenberg AFB, California, USA",4/25/2007,20:26:00,Pegasus XL,18070000,TRUE
+NFIRE,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA",4/24/2007,6:48:00,Minotaur I,2130000,TRUE
+AGILE & AAM,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",4/23/2007,10:00:00,PSLV-CA,18470000,TRUE
+DemoSat,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",3/21/2007,1:10:00,Falcon 1,3880000,FALSE
+Skynet 5A & INSAT-4B,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",3/11/2007,22:03:00,Ariane 5 ECA,23830000,TRUE
+Cartosat-2 & SRE-1 & Rideshares,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",1/10/2007,3:54:00,PSLV-G,17530000,TRUE
+TacSat-2 & GeneSat-1,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA",12/16/2006,12:00:00,Minotaur I,11960000,TRUE
+STS-116,NASA,"LC-39B, Kennedy Space Center, Florida, USA",12/10/2006,0:47:00,Space Shuttle Discovery,12050000,TRUE
+WildBlue-1 & AMC-18,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/8/2006,22:08:00,Ariane 5 ECA,1030000,TRUE
+"DirecTV-9S, Optus D1, LDREX-2",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",10/13/2006,20:56:00,Ariane 5 ECA,2000000,TRUE
+STS-115,NASA,"LC-39B, Kennedy Space Center, Florida, USA",9/9/2006,15:14:00,Space Shuttle Atlantis,18020000,TRUE
+JCSAT-10 & Syracuse 3B,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/11/2006,22:15:00,Ariane 5 ECA,1440000,TRUE
+INSAT-4C,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",7/10/2006,12:08:00,GSLV Mk I,22770000,FALSE
+STS-121,NASA,"LC-39B, Kennedy Space Center, Florida, USA",7/4/2006,18:37:00,Space Shuttle Discovery,12690000,TRUE
+Satmex-6 & Thaicom-5,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",5/27/2006,21:09:00,Ariane 5 ECA,3810000,TRUE
+Astra 1KR,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA",4/20/2006,20:27:00,Atlas V 411,18420000,TRUE
+COSMIC (FORMOSAT-3),Northrop,"SLC-8, Vandenberg AFB, California, USA",4/15/2006,1:40:00,Minotaur I,15810000,TRUE
+ST-5,Northrop,"Stargazer, Vandenberg AFB, California, USA",3/28/2006,20:10:00,Pegasus XL,11020000,TRUE
+FalconSat-2,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",3/24/2006,21:30:00,Falcon 1,4510000,FALSE
+Spainsat & Hot Bird 7A,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",3/11/2006,22:33:00,Ariane 5 ECA,20340000,TRUE
+New Horizons,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA",1/19/2006,19:00:00,Atlas V 551,2490000,TRUE
+INSAT-4A & MSG-2,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/21/2005,23:33:00,Ariane 5 GS,21130000,TRUE
+Spaceway-2 & Telkom-2,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",11/16/2005,23:46:00,Ariane 5 ECA,12200000,TRUE
+Syracuse 3A & Galaxy 15,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",10/13/2005,22:32:00,Ariane 5 GS,11200000,TRUE
+Streak (STP-R1),Northrop,"SLC-8, Vandenberg AFB, California, USA",9/22/2005,19:24:00,Minotaur I,5210000,TRUE
+Mars Reconnaissance Orbiter,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA",8/12/2005,11:43:00,Atlas V 401,16050000,TRUE
+iPStar-1,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/11/2005,8:20:00,Ariane 5 GS,7550000,TRUE
+STS-114,NASA,"LC-39B, Kennedy Space Center, Florida, USA",7/26/2005,14:39:00,Space Shuttle Discovery,1880000,TRUE
+Cartosat-1 & HAMSAT,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",5/5/2005,4:45:00,PSLV-G,15760000,TRUE
+DART,Northrop,"Stargazer, Vandenberg AFB, California, USA",4/15/2005,17:27:00,Pegasus XL,14010000,TRUE
+XSS-11,Northrop,"SLC-8, Vandenberg AFB, California, USA",4/11/2005,13:35:00,Minotaur I,8780000,TRUE
+Inmarsat-4 F1,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA",3/11/2005,21:42:00,Atlas V 431,22480000,TRUE
+"XTAR-EUR, Maqsat-B2, Sloshsat-FLEVO",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",2/12/2005,21:03:00,Ariane 5 ECA,20950000,TRUE
+"Helios 2A, Essaim-1,2,3,4, PARASOL, Nanosat 01",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/18/2004,16:26:00,Ariane 5 G+,4700000,TRUE
+AMC-16,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA",12/17/2004,12:07:00,Atlas V 521,23010000,TRUE
+GSAT-3,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",9/20/2004,10:31:00,GSLV Mk I,23880000,TRUE
+Anik F2,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/18/2004,0:44:00,Ariane 5 G+,24600000,TRUE
+ROCSAT-2,Northrop,"SLC-576E, Vandenberg AFB, California, USA",5/20/2004,17:47:00,Minotaur C (Taurus),15630000,TRUE
+AMC-11,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",4/19/2004,22:22:00,Atlas IIAS,18500000,TRUE
+Superbird 6,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",4/16/2004,0:45:00,Atlas IIAS,8320000,TRUE
+MBSat,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",3/13/2004,5:40:00,Atlas IIIA,24960000,TRUE
+Rosetta & Philae,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",3/2/2004,7:17:00,Ariane 5 G+,17480000,TRUE
+AMC-10,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",2/5/2004,23:46:00,Atlas IIAS,7490000,TRUE
+RESOURCESAT-1 (IRS-P6),ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",10/17/2003,4:52:00,PSLV-G,1220000,TRUE
+"Insat 3E, eBird-1, SMART-1",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",9/27/2003,23:14:00,Ariane 5 G,5200000,TRUE
+SCISAT-1,Northrop,"Stargazer, Vandenberg AFB, California, USA",8/13/2003,2:09:00,Pegasus XL,1630000,TRUE
+Rainbow 1,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA",7/17/2003,23:45:00,Atlas V 521,23810000,TRUE
+OrbView-3,Northrop,"Stargazer, Vandenberg AFB, California, USA",6/26/2003,18:55:00,Pegasus XL,5280000,TRUE
+Optus C1 & BSAT-2c,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",6/11/2003,22:38:00,Ariane 5 G,23920000,TRUE
+HellasSat-2,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA",5/13/2003,22:10:00,Atlas V 401,14790000,TRUE
+GSAT-2,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",5/8/2003,11:28:00,GSLV Mk I,18210000,TRUE
+GALEX,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA",4/28/2003,12:00:00,Pegasus XL,17340000,TRUE
+AsiaSat 4,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",4/12/2003,0:47:00,Atlas IIIB,3520000,TRUE
+INSAT-3A & Galaxy 12,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",4/9/2003,22:52:00,Ariane 5 G,3800000,TRUE
+Intelsat 907,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",2/15/2003,7:00:00,Ariane 44L,16290000,TRUE
+SORCE,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA",1/25/2003,20:13:00,Pegasus XL,22370000,TRUE
+STS-107,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1/16/2003,15:39:00,Space Shuttle Columbia,18810000,FALSE
+NSS-6,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/17/2002,23:04:00,Ariane 44L,14330000,TRUE
+"Hot Bird 7, Stentor, MFD-A, MFD-B",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/11/2002,22:22:00,Ariane 5 ECA,19470000,FALSE
+STS-113,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/24/2002,0:49:00,Space Shuttle Endeavour,12560000,TRUE
+STS-112,NASA,"LC-39B, Kennedy Space Center, Florida, USA",10/7/2002,19:45:00,Space Shuttle Atlantis,8930000,TRUE
+Hispasat 1D,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",9/18/2002,22:04:00,Atlas IIAS,15230000,TRUE
+C4 - MetSat-1 (Kalpana-1),ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",9/12/2002,10:23:00,PSLV-G,3380000,TRUE
+Intelsat 906,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/6/2002,6:44:00,Ariane 44L,3890000,TRUE
+"Atlantic Bird 1, MSG-1, MFD",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",8/28/2002,22:45:00,Ariane 5 G,13240000,TRUE
+Hot Bird 6,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA",8/21/2002,22:05:00,Atlas V 401,23990000,TRUE
+"SPOT-5, IDEFIX",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",7/5/2002,23:02:00,Ariane 42P,7220000,TRUE
+Stellat-5 & NStar-C,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/2/2002,23:22:00,Ariane 5 G,19080000,TRUE
+STS-111,NASA,"LC-39A, Kennedy Space Center, Florida, USA",6/5/2002,21:22:00,Space Shuttle Endeavour,3700000,TRUE
+Intelsat 905,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",6/5/2002,6:44:00,Ariane 44L,22800000,TRUE
+NSS-7,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",4/16/2002,23:02:00,Ariane 44L,4050000,TRUE
+STS-110,NASA,"LC-39B, Kennedy Space Center, Florida, USA",4/8/2002,20:44:00,Space Shuttle Atlantis,10620000,TRUE
+"Astra 3A, JCSAT-8",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",3/29/2002,1:29:00,Ariane 44L,4380000,TRUE
+STS-109,NASA,"LC-39A, Kennedy Space Center, Florida, USA",3/1/2002,11:22:00,Space Shuttle Columbia,3230000,TRUE
+Envisat,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",3/1/2002,1:07:00,Ariane 5 G,21040000,TRUE
+Intelsat 904,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",2/23/2002,6:59:00,Ariane 44L,8440000,TRUE
+EchoStar VII,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",2/21/2002,12:43:00,Atlas IIIB,4480000,TRUE
+RHESSI,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA",2/5/2002,20:58:00,Pegasus XL,7100000,TRUE
+Insat 3C,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",1/23/2002,23:46:00,Ariane 42L,23860000,TRUE
+STS-108,NASA,"LC-39B, Kennedy Space Center, Florida, USA",12/5/2001,22:19:00,Space Shuttle Endeavour,18660000,TRUE
+DirecTV-4S,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",11/27/2001,5:59:00,Ariane 44LP,21020000,TRUE
+"TES, BIRD & PROBA",ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",10/22/2001,10:23:00,PSLV-G,4740000,TRUE
+Atlantic Bird 2,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/25/2001,23:21:00,Ariane 44P,3500000,TRUE
+Orbview-4/QuikTOMS,Northrop,"SLC-576E, Vandenberg AFB, California, USA",9/21/2001,18:49:00,Minotaur C (Taurus),20950000,FALSE
+Intelsat 902,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/30/2001,6:46:00,Ariane 44L,7500000,TRUE
+STS-105,NASA,"LC-39A, Kennedy Space Center, Florida, USA",8/10/2001,21:10:00,Space Shuttle Discovery,10400000,TRUE
+Artemis & BSAT-2b,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",7/12/2001,21:58:00,Ariane 5 G,24190000,FALSE
+STS-104,NASA,"LC-39B, Kennedy Space Center, Florida, USA",7/12/2001,9:03:00,Space Shuttle Atlantis,9830000,TRUE
+ICO F2,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",6/19/2001,4:41:00,Atlas IIAS,19320000,TRUE
+Intelsat 901,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",6/9/2001,6:45:00,Ariane 44L,24850000,TRUE
+STS-100,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/19/2001,18:40:00,Space Shuttle Endeavour,18490000,TRUE
+GSAT-1,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",4/18/2001,10:13:00,GSLV Mk I,18110000,FALSE
+Eurobird-1 & BSat-2a,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",3/8/2001,22:51:00,Ariane 5 G,15270000,TRUE
+STS-102,NASA,"LC-39B, Kennedy Space Center, Florida, USA",3/8/2001,11:42:00,Space Shuttle Discovery,2800000,TRUE
+STS-98,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2/7/2001,23:13:00,Space Shuttle Atlantis,4150000,TRUE
+"Sicral-1, Skynet 4F",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",2/7/2001,23:05:00,Ariane 44L,8560000,TRUE
+Turksat 2A,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",1/10/2001,22:09:00,Ariane 44P,7390000,TRUE
+"Astra 2D, GE-8, LDREX",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/20/2000,0:26:00,Ariane 5 G,24460000,TRUE
+STS-97,NASA,"LC-39B, Kennedy Space Center, Florida, USA",11/30/2000,3:06:00,Space Shuttle Endeavour,19080000,TRUE
+Anik F1,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",11/21/2000,23:56:00,Ariane 44L,17090000,TRUE
+"PanAmSat-1R, Amsat-P3D, STRV 1C, STRV 1D",Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",11/16/2000,1:07:00,Ariane 5 G,19690000,TRUE
+EuropeStar F1,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/29/2000,5:59:00,Ariane 44LP,8120000,TRUE
+STS-92,NASA,"LC-39A, Kennedy Space Center, Florida, USA",10/11/2000,23:17:00,Space Shuttle Discovery,10080000,TRUE
+HETE 2,Northrop,"Stargazer, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",10/9/2000,5:38:00,Pegasus,4840000,TRUE
+N-SAT 110,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/6/2000,23:00:00,Ariane 42L,14310000,TRUE
+Astra 2B & GE-7,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",9/14/2000,22:54:00,Ariane 5 G,11320000,TRUE
+STS-106,NASA,"LC-39B, Kennedy Space Center, Florida, USA",9/8/2000,12:45:00,Space Shuttle Atlantis,19170000,TRUE
+Eutelsat W1,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/6/2000,22:33:00,Ariane 44P,12210000,TRUE
+"Brasilsat B4, Nilesat 102",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/17/2000,23:16:00,Ariane 44LP,22910000,TRUE
+MightySat 2.1,Northrop,"SLC-8, Vandenberg AFB, California, USA",7/19/2000,20:09:00,Minotaur I,14860000,TRUE
+Echostar 6,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",7/14/2000,5:21:00,Atlas IIAS,2280000,TRUE
+TSX-5,Northrop,"Stargazer, Vandenberg AFB, California, USA",6/7/2000,13:19:00,Pegasus XL,15250000,TRUE
+Eutelsat W4,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",5/24/2000,23:10:00,Atlas IIIA,17900000,TRUE
+STS-101,NASA,"LC-39A, Kennedy Space Center, Florida, USA",5/19/2000,10:11:00,Space Shuttle Atlantis,23350000,TRUE
+Galaxy 4R,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",4/19/2000,0:29:00,Ariane 42L,4970000,TRUE
+INSAT-3B & AsiaStar,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",3/21/2000,23:28:00,Ariane 5 G,17540000,TRUE
+Multispectral Thermal Imager (MTI),Northrop,"SLC-576E, Vandenberg AFB, California, USA",3/12/2000,9:29:00,Minotaur C (Taurus),19200000,TRUE
+Superbird 4,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",2/18/2000,1:04:00,Ariane 44LP,13550000,TRUE
+STS-99,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2/11/2000,16:43:00,Space Shuttle Endeavour,17530000,TRUE
+Hispasat 1C,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",2/3/2000,23:30:00,Atlas IIAS,13920000,TRUE
+JAWSat,Northrop,"SLC-8, Vandenberg AFB, California, USA",1/27/2000,3:03:00,Minotaur I,2150000,TRUE
+Galaxy 10R,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",1/25/2000,1:04:00,Ariane 42L,12920000,TRUE
+KOMPSAT & ACRIMSAT,Northrop,"SLC-576E, Vandenberg AFB, California, USA",12/31/1999,7:13:00,Minotaur C (Taurus),24220000,TRUE
+Galaxy-11,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/22/1999,0:50:00,Ariane 44L,7850000,TRUE
+STS-103,NASA,"LC-39A, Kennedy Space Center, Florida, USA",12/20/1999,0:50:00,Space Shuttle Discovery,1780000,TRUE
+XMM-Newton,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",12/10/1999,14:32:00,Ariane 5 G,16800000,TRUE
+Orbcomm D1-D8,Northrop,"Stargazer, Vandenberg AFB, California, USA",12/4/1999,18:53:00,Pegasus XL/HAPS,10210000,TRUE
+Helios 1B & Cl??mentine,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/3/1999,16:22:00,Ariane 40,12290000,TRUE
+GE-4,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",11/13/1999,22:54:00,Ariane 44LP,20200000,TRUE
+Orion 2,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/19/1999,6:22:00,Ariane 44LP,21950000,TRUE
+Telstar 7,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/25/1999,6:29:00,Ariane 44LP,21820000,TRUE
+Echostar 5,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",9/23/1999,6:02:00,Atlas IIAS,16190000,TRUE
+Koreasat-3,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/4/1999,22:34:00,Ariane 42P,18020000,TRUE
+Telkom-1,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/12/1999,22:52:00,Ariane 42P,15110000,TRUE
+STS-93,NASA,"LC-39B, Kennedy Space Center, Florida, USA",7/23/1999,4:31:00,Space Shuttle Columbia,19870000,TRUE
+"IRS-P4, DLR-Tubsat, & Kitsat-3",ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",5/29/1999,11:52:00,PSLV-G,3990000,TRUE
+STS-96,NASA,"LC-39B, Kennedy Space Center, Florida, USA",5/27/1999,10:49:00,Space Shuttle Discovery,9130000,TRUE
+TERRIERS & MUBLCOM,Northrop,"Stargazer, Vandenberg AFB, California, USA",5/18/1999,5:09:00,Pegasus XL/HAPS,1050000,TRUE
+Eutelsat W3,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",4/12/1999,22:50:00,Atlas IIAS,10660000,TRUE
+Insat-2E,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",4/2/1999,22:03:00,Ariane 42P,16230000,TRUE
+WIRE,Northrop,"Stargazer, Vandenberg AFB, California, USA",3/5/1999,2:56:00,Pegasus XL,23250000,TRUE
+"Arabsat-3A, Skynet 4E",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",2/26/1999,22:44:00,Ariane 44L,17090000,TRUE
+JCSAT-6,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",2/16/1999,1:45:00,Atlas IIAS,23540000,TRUE
+Panamsat-6B,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/22/1998,1:08:00,Ariane 42L,7900000,TRUE
+SWAS,Northrop,"Stargazer, Vandenberg AFB, California, USA",12/6/1998,0:57:00,Pegasus XL,21290000,TRUE
+Satmex 5,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/6/1998,0:43:00,Ariane 42L,8610000,TRUE
+STS-88,NASA,"LC-39A, Kennedy Space Center, Florida, USA",12/4/1998,8:35:00,Space Shuttle Endeavour,4880000,TRUE
+STS-95,NASA,"LC-39B, Kennedy Space Center, Florida, USA",10/29/1998,19:19:00,Space Shuttle Discovery,21850000,TRUE
+"Afristar, GE-5",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/28/1998,22:15:00,Ariane 44L,11570000,TRUE
+SCD-2,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA",10/22/1998,0:02:00,Pegasus,24620000,TRUE
+MaqSat 3 & ARD,ESA,"ELA-3, Guiana Space Centre, French Guiana, France",10/21/1998,16:37:00,Ariane 5 G,4130000,TRUE
+Hot Bird 5,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",10/9/1998,22:50:00,Atlas IIA,8370000,TRUE
+"Eutelsat W2, Sirius-3",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/5/1998,22:51:00,Ariane 44L,2230000,TRUE
+STEX (NROL-8),Northrop,"SLC-576E, Vandenberg AFB, California, USA",10/3/1998,10:04:00,Minotaur C (Taurus),5410000,TRUE
+Orbcomm C1 - C8,Northrop,"Stargazer, Wallops Flight Facility, Virginia, USA",9/23/1998,5:06:00,Pegasus XL/HAPS,24850000,TRUE
+Panamsat-7,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/16/1998,6:31:00,Ariane 44LP,4270000,TRUE
+ST-1,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/25/1998,23:07:00,Ariane 44P,17530000,TRUE
+Orbcomm B1 - B8,Northrop,"Stargazer, Wallops Flight Facility, Virginia, USA",8/2/1998,16:24:00,Pegasus XL/HAPS,2160000,TRUE
+Intelsat 805,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",6/18/1998,22:48:00,Atlas IIAS,5430000,TRUE
+STS-91,NASA,"LC-39A, Kennedy Space Center, Florida, USA",6/2/1998,22:06:00,Space Shuttle Discovery,22120000,TRUE
+"Nilesat-101, BSAT-1B",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",4/28/1998,22:53:00,Ariane 44P,16490000,TRUE
+STS-90,NASA,"LC-39B, Kennedy Space Center, Florida, USA",4/17/1998,18:19:00,Space Shuttle Columbia,16920000,TRUE
+TRACE,Northrop,"Stargazer, Vandenberg AFB, California, USA",4/2/1998,16:24:00,Pegasus XL,4840000,TRUE
+SPOT-4,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",3/24/1998,1:46:00,Ariane 40,20440000,TRUE
+Intelsat 806,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",2/28/1998,0:21:00,Atlas IIAS,10680000,TRUE
+Hot Bird 4,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",2/27/1998,22:38:00,Ariane 42P,17720000,TRUE
+SNOE & BATSAT,Northrop,"Stargazer, Wallops Flight Facility, Virginia, USA",2/26/1998,7:07:00,Pegasus XL,13020000,TRUE
+GFO & Orbcomm 11 and 12,Northrop,"SLC-576E, Vandenberg AFB, California, USA",2/10/1998,13:20:00,Minotaur C (Taurus),23410000,TRUE
+"Brasilsat B3, Inmarsat-3 F5",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",2/4/1998,23:29:00,Ariane 44LP,24610000,TRUE
+STS-89,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1/22/1998,2:48:00,Space Shuttle Endeavour,5360000,TRUE
+PAS-22,ILS,"Site 81/23, Baikonur Cosmodrome, Kazakhstan",12/24/1997,23:19:00,Proton K/Block DM-3,19190000,FALSE
+Orbcomm A1-A8,Northrop,"Stargazer, Wallops Flight Facility, Virginia, USA",12/23/1997,19:11:00,Pegasus XL/HAPS,14640000,TRUE
+Intelsat 804,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/22/1997,0:16:00,Ariane 42L,2460000,TRUE
+"Sirius-2, Cakrawarta-1",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/12/1997,21:48:00,Ariane 44L,8920000,TRUE
+Galaxy 8i,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",12/8/1997,23:52:00,Atlas IIAS,5330000,TRUE
+"JCSAT-5, Equator S",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/2/1997,22:52:00,Ariane 44P,13140000,TRUE
+STS-87,NASA,"LC-39B, Kennedy Space Center, Florida, USA",11/19/1997,19:46:00,Space Shuttle Columbia,15730000,TRUE
+"MaqSat-H, TEAMSAT, MaqSat-B, YES",ESA,"ELA-3, Guiana Space Centre, French Guiana, France",10/30/1997,13:43:00,Ariane 5 G,6960000,FALSE
+STEP-4,Northrop,"Stargazer, Wallops Flight Facility, Virginia, USA",10/22/1997,13:13:00,Pegasus XL,3110000,TRUE
+Echostar 3,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",10/5/1997,21:01:00,Atlas IIAS,23020000,TRUE
+IRS-1D,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",9/29/1997,10:20:00,PSLV-G,9290000,FALSE
+STS-86,NASA,"LC-39A, Kennedy Space Center, Florida, USA",9/25/1997,14:34:00,Space Shuttle Atlantis,9860000,TRUE
+Intelsat 803,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/23/1997,23:58:00,Ariane 44LP,3840000,TRUE
+GE-3,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",9/4/1997,12:03:00,Atlas IIAS,12790000,TRUE
+"Hot Bird 3, Meteosat 7",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/2/1997,22:21:00,Ariane 44LP,5730000,TRUE
+FORTE,Northrop,"Stargazer, Vandenberg AFB, California, USA",8/29/1997,15:02:00,Pegasus XL,7650000,TRUE
+Panamsat-6,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/8/1997,6:46:00,Ariane 44P,13940000,TRUE
+STS-85,NASA,"LC-39A, Kennedy Space Center, Florida, USA",8/7/1997,14:41:00,Space Shuttle Discovery,6570000,TRUE
+OrbView-2,Northrop,"Stargazer, Base Aerea de Gando, Gran Canaria",8/1/1997,20:20:00,Pegasus XL,24500000,TRUE
+Superbird C,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",7/28/1997,1:15:00,Atlas IIAS,11130000,TRUE
+STS-94,NASA,"LC-39A, Kennedy Space Center, Florida, USA",7/1/1997,18:02:00,Space Shuttle Columbia,6840000,TRUE
+Intelsat 802,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",6/25/1997,23:44:00,Ariane 44P,6280000,TRUE
+"Inmarsat 3 F4, Insat 2D",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",6/3/1997,23:20:00,Ariane 44L,19660000,TRUE
+STS-84,NASA,"LC-39A, Kennedy Space Center, Florida, USA",5/15/1997,8:07:00,Space Shuttle Atlantis,2040000,TRUE
+MiniSat & Celestis space burial,Northrop,"Stargazer, Base Aerea de Gando, Gran Canaria",4/21/1997,11:59:00,Pegasus XL,3380000,TRUE
+"Thaicom 3, BSAT 1a",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",4/16/1997,23:08:00,Ariane 44LP,11660000,TRUE
+STS-83,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/4/1997,19:20:00,Space Shuttle Columbia,10450000,TRUE
+Tempo 2,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",3/8/1997,6:01:00,Atlas IIA,10090000,TRUE
+Intelsat 801,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",3/1/1997,1:07:00,Ariane 44P,24520000,TRUE
+JCSAT-4,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",2/17/1997,1:42:00,Atlas IIAS,15760000,TRUE
+STS-82,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2/11/1997,8:55:00,Space Shuttle Discovery,1320000,TRUE
+"GE-2, Nahuel 1A",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",1/30/1997,22:04:00,Ariane 44L,11460000,TRUE
+STS-81,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1/12/1997,9:27:00,Space Shuttle Atlantis,20300000,TRUE
+Inmarsat 3-F3,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",12/18/1996,1:57:00,Atlas IIA,10680000,TRUE
+STS-80,NASA,"LC-39B, Kennedy Space Center, Florida, USA",12/7/1996,11:49:00,Space Shuttle Columbia,16670000,TRUE
+Hot Bird 2,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",11/21/1996,20:47:00,Atlas IIA,20280000,TRUE
+"Arabsat-2B, Measat-2",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",11/13/1996,22:40:00,Ariane 44L,12160000,TRUE
+HETE & SAC-B,Northrop,"Stargazer, Vandenberg AFB, California, USA",11/4/1996,17:08:00,Pegasus XL,23330000,FALSE
+STS-79,NASA,"LC-39A, Kennedy Space Center, Florida, USA",9/16/1996,8:54:00,Space Shuttle Atlantis,5010000,TRUE
+Echostar-2,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/11/1996,0:00:00,Ariane 42P,22340000,TRUE
+GE-1,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",9/8/1996,21:49:00,Atlas IIA,14380000,TRUE
+FAST,Northrop,"Stargazer, Vandenberg AFB, California, USA",8/21/1996,9:47:00,Pegasus XL,22280000,TRUE
+"Italsat F2, Telecom 2D",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/8/1996,22:49:00,Ariane 44L,21730000,TRUE
+"Arabsat-2A, T??rksat 1C",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",7/9/1996,22:24:00,Ariane 44L,7000000,TRUE
+TOMS,Northrop,"Stargazer, Vandenberg AFB, California, USA",7/2/1996,7:48:00,Pegasus XL,24080000,TRUE
+STS-78,NASA,"LC-39B, Kennedy Space Center, Florida, USA",6/20/1996,14:49:00,Space Shuttle Columbia,4170000,TRUE
+Intelsat 709,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",6/15/1996,6:55:00,Ariane 44P,16270000,TRUE
+Cluster,ESA,"ELA-3, Guiana Space Centre, French Guiana, France",6/4/1996,12:34:00,Ariane 5 G,19800000,FALSE
+STS-77,NASA,"LC-39B, Kennedy Space Center, Florida, USA",5/19/1996,10:30:00,Space Shuttle Endeavour,24040000,TRUE
+MSTI-3,Northrop,"Stargazer, Vandenberg AFB, California, USA",5/17/1996,2:44:00,Pegasus,11110000,TRUE
+"Palapa C2, AMOS-1",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",5/16/1996,1:56:00,Ariane 44L,1900000,TRUE
+M-SAT-1,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",4/20/1996,22:36:00,Ariane 42P,3590000,TRUE
+Inmarsat 3-F1,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",4/3/1996,23:01:00,Atlas IIA,11290000,TRUE
+STS-76,NASA,"LC-39B, Kennedy Space Center, Florida, USA",3/22/1996,8:13:00,Space Shuttle Atlantis,11260000,TRUE
+IRS-P3,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",3/21/1996,4:53:00,PSLV-G,3800000,TRUE
+Intelsat 707,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",3/14/1996,7:11:00,Ariane 44LP,11880000,TRUE
+REX II,Northrop,"Stargazer, Vandenberg AFB, California, USA",3/9/1996,1:53:00,Pegasus XL,3780000,TRUE
+STS-75,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2/22/1996,20:18:00,Space Shuttle Columbia,20590000,TRUE
+N-Star B,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",2/5/1996,7:19:00,Ariane 44P,19720000,TRUE
+Palapa C1,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",2/1/1996,1:15:00,Atlas IIAS,20940000,TRUE
+"Panamsat-3R, Measat-1",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",1/12/1996,23:10:00,Ariane 44L,8060000,TRUE
+STS-72,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1/11/1996,9:41:00,Space Shuttle Endeavour,15530000,TRUE
+"Telecom 2C, Insat 2C",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/6/1995,23:23:00,Ariane 44L,4960000,TRUE
+Infrared Space Observatory,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",11/17/1995,1:20:00,Ariane 44P,13800000,TRUE
+STS-74,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/12/1995,12:30:00,Space Shuttle Atlantis,5360000,TRUE
+STS-73,NASA,"LC-39B, Kennedy Space Center, Florida, USA",10/20/1995,13:53:00,Space Shuttle Columbia,11550000,TRUE
+Astra 1E,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/19/1995,0:28:00,Ariane 42L,6270000,TRUE
+Telstar 402R,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/24/1995,0:06:00,Ariane 42L,2150000,TRUE
+STS-69,NASA,"LC-39A, Kennedy Space Center, Florida, USA",9/7/1995,15:09:00,Space Shuttle Endeavour,24370000,TRUE
+N-Star A,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/29/1995,6:41:00,Ariane 42P,21220000,TRUE
+JCSAT-3,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",8/29/1995,0:53:00,Atlas IIAS,13800000,TRUE
+Panamsat-4,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/3/1995,22:58:00,Ariane 42L,6150000,TRUE
+STS-70,NASA,"LC-39B, Kennedy Space Center, Florida, USA",7/13/1995,13:41:00,Space Shuttle Discovery,18680000,TRUE
+"Helios 1A, Cerise, LBSAT-1",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",7/7/1995,16:23:00,Ariane 40,6200000,TRUE
+STS-71,NASA,"LC-39A, Kennedy Space Center, Florida, USA",6/27/1995,19:32:00,Space Shuttle Atlantis,20490000,TRUE
+STEP-3,Northrop,"Stargazer, Vandenberg AFB, California, USA",6/22/1995,19:58:00,Pegasus XL,4530000,FALSE
+DBS-3,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",6/10/1995,0:24:00,Ariane 42P,4120000,TRUE
+Intelsat 706,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",5/17/1995,6:34:00,Ariane 44LP,5950000,TRUE
+ERS-2,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",4/21/1995,1:44:00,Ariane 40,11510000,TRUE
+AMSC-1,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",4/7/1995,23:47:00,Atlas IIA,15950000,TRUE
+Orbcomm F1 and F2 & OrbView-1,Northrop,"Stargazer, Vandenberg AFB, California, USA",4/3/1995,13:48:00,Pegasus,15580000,TRUE
+"Brasilsat B2, Hot Bird 1",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",3/28/1995,11:19:00,Ariane 44LP,11440000,TRUE
+DMSP F-13,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",3/24/1995,14:05:00,Atlas-E/F Star-37S-ISS,23740000,TRUE
+Intelsat 705,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",3/22/1995,6:18:00,Atlas IIAS,5180000,TRUE
+STS-67,NASA,"LC-39A, Kennedy Space Center, Florida, USA",3/2/1995,6:38:00,Space Shuttle Endeavour,4770000,TRUE
+STS-63,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2/3/1995,5:22:00,Space Shuttle Discovery,11030000,TRUE
+Intelsat 704,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",1/10/1995,6:18:00,Atlas IIAS,13300000,TRUE
+NOAA-J,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",12/30/1994,10:02:00,Atlas-E/F Star-37S-ISS,3230000,TRUE
+DSP,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",12/22/1994,22:19:00,Titan IV(402)A,10320000,TRUE
+Panamsat-3,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/1/1994,22:57:00,Ariane 42P,16850000,FALSE
+STS-66,NASA,"LC-39B, Kennedy Space Center, Florida, USA",11/3/1994,16:59:00,Space Shuttle Atlantis,5030000,TRUE
+Astra 1D,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",11/1/1994,0:37:00,Ariane 42P,11860000,TRUE
+IRS-P2,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",10/15/1994,5:05:00,PSLV-G,1600000,TRUE
+"Solidaridad-2, Thaicom-2",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/8/1994,1:07:00,Ariane 44L,20190000,TRUE
+STS-68,NASA,"LC-39A, Kennedy Space Center, Florida, USA",9/30/1994,11:16:00,Space Shuttle Endeavour,4880000,TRUE
+STS-64,NASA,"LC-39B, Kennedy Space Center, Florida, USA",9/9/1994,22:22:00,Space Shuttle Discovery,10740000,TRUE
+Telstar 402,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/9/1994,0:29:00,Ariane 42L,8070000,TRUE
+APEX,Northrop,"NB-52B Carrier, Edwards AFB, California, USA",9/3/1994,14:38:00,Pegasus,14810000,TRUE
+DMSP F-12,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",8/29/1994,17:38:00,Atlas-E/F Star-37S-ISS,8920000,TRUE
+Mercury,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",8/27/1994,8:58:00,Titan IV(401)A,19940000,TRUE
+"Brasilsat B1, Turksat 1B",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/10/1994,23:05:00,Ariane 44LP,16300000,TRUE
+"Panamsat-2, Yuri-3N",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",7/8/1994,23:05:00,Ariane 44L,13640000,TRUE
+STS-65,NASA,"LC-39A, Kennedy Space Center, Florida, USA",7/8/1994,4:43:00,Space Shuttle Columbia,4240000,TRUE
+STEP-1,Northrop,"Stargazer, Vandenberg AFB, California, USA",6/27/1994,21:15:00,Pegasus XL,16720000,FALSE
+"Intelsat 702, STRV 1A & 1B",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",6/17/1994,7:07:00,Ariane 44LP,20180000,TRUE
+STEP-2,Northrop,"NB-52B Carrier, Edwards AFB, California, USA",5/19/1994,17:03:00,Pegasus/HAPS,4950000,FALSE
+SROSS C2,ISRO,"SLV LP, Satish Dhawan Space Centre, India",5/4/1994,0:00:00,ASLV,23330000,TRUE
+Trumpet,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",5/3/1994,15:55:00,Titan IV(401)A,24390000,TRUE
+STS-59,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/9/1994,11:05:00,Space Shuttle Endeavour,7420000,TRUE
+STEP Mission 0 & DARPASAT,Northrop,"SLC-576E, Vandenberg AFB, California, USA",3/13/1994,22:32:00,Minotaur C (Taurus),9340000,TRUE
+STS-62,NASA,"LC-39B, Kennedy Space Center, Florida, USA",3/4/1994,13:53:00,Space Shuttle Columbia,1690000,TRUE
+Milstar DFS-1,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",2/7/1994,21:47:00,Titan IV(401)A,15390000,TRUE
+STS-60,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2/3/1994,12:10:00,Space Shuttle Discovery,21110000,TRUE
+Clementine,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",1/25/1994,16:34:00,Titan II(23)G,15940000,TRUE
+"Eutelsat 2F5, Turksat 1A",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",1/24/1994,21:37:00,Ariane 44LP,4410000,FALSE
+"DBS-1, Thaicom-1",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/18/1993,1:27:00,Ariane 44L,3150000,TRUE
+Telstar 401,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",12/16/1993,0:38:00,Atlas IIAS,15730000,TRUE
+STS-61,NASA,"LC-39B, Kennedy Space Center, Florida, USA",12/2/1993,9:27:00,Space Shuttle Endeavour,8950000,TRUE
+USA-97 (DSCS IIIB-10,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",11/28/1993,23:40:00,Atlas II,15620000,TRUE
+"Solidaridad 1, Meteosat 6",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",11/20/1993,1:17:00,Ariane 44LP,2610000,TRUE
+Intelsat 701,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/22/1993,6:46:00,Ariane 44LP,5360000,TRUE
+STS-58,NASA,"LC-39B, Kennedy Space Center, Florida, USA",10/18/1993,14:53:00,Space Shuttle Columbia,23710000,TRUE
+Landsat 6,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",10/5/1993,17:56:00,Titan II(23)G,6170000,FALSE
+"SPOT-3, Stella & Others",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/26/1993,1:45:00,Ariane 40,6190000,TRUE
+IRS-P1,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",9/20/1993,5:12:00,PSLV-G,15490000,FALSE
+STS-51,NASA,"LC-39B, Kennedy Space Center, Florida, USA",9/12/1993,11:45:00,Space Shuttle Discovery,12970000,TRUE
+UHF F2,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",9/3/1993,11:17:00,Atlas I,23800000,TRUE
+NOAA-I,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",8/9/1993,10:02:00,Atlas-E/F Star-37S-ISS,10830000,TRUE
+SLDCOM & 3x NOSS,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",8/2/1993,19:59:00,Titan IV(403)A,6990000,FALSE
+"Hispasat 1B, Insat-2B",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",7/22/1993,22:58:00,Ariane 44L,24810000,TRUE
+USA-93 (DSCS IIIB-9),General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",7/19/1993,22:04:00,Atlas II,20530000,TRUE
+Galaxy-4,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",6/25/1993,0:18:00,Ariane 44P,24480000,TRUE
+STS-57,NASA,"LC-39B, Kennedy Space Center, Florida, USA",6/21/1993,13:07:00,Space Shuttle Endeavour,9740000,TRUE
+"Astra 1C, Arsene",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",5/12/1993,0:56:00,Ariane 42L,19450000,TRUE
+STS-55,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/26/1993,14:50:00,Space Shuttle Columbia,19710000,TRUE
+ALEXIS,Northrop,"NB-52B Carrier, Edwards AFB, California, USA",4/25/1993,13:56:00,Pegasus,18870000,TRUE
+STS-56,NASA,"LC-39B, Kennedy Space Center, Florida, USA",4/8/1993,5:29:00,Space Shuttle Discovery,21130000,TRUE
+UHF F1,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",3/25/1993,21:38:00,Atlas I,12080000,FALSE
+SCD-1,Northrop,"NB-52B Carrier, Cape Canaveral AFS, Florida, USA",2/9/1993,14:30:00,Pegasus,24090000,TRUE
+STS-54,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1/13/1993,13:59:00,Space Shuttle Endeavour,18030000,TRUE
+STS-53,NASA,"LC-39A, Kennedy Space Center, Florida, USA",12/2/1992,13:24:00,Space Shuttle Discovery,15150000,TRUE
+Superbird A1,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/1/1992,22:48:00,Ariane 42P,14980000,TRUE
+KH-11 Kennen,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",11/28/1992,21:34:00,Titan IV(404)A,10320000,TRUE
+Galaxy-7,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/28/1992,0:15:00,Ariane 42P,10370000,TRUE
+STS-52,NASA,"LC-39B, Kennedy Space Center, Florida, USA",10/22/1992,17:09:00,Space Shuttle Columbia,6740000,TRUE
+Mars Observer,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",9/25/1992,17:05:00,Commercial Titan III,16290000,TRUE
+STS-47,NASA,"LC-39B, Kennedy Space Center, Florida, USA",9/12/1992,14:23:00,Space Shuttle Endeavour,2720000,TRUE
+"Hispasat 1A, Satcom C3",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/10/1992,23:04:00,Ariane 44LP,11510000,TRUE
+Galaxy 1R,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",8/22/1992,22:40:00,Atlas I,8770000,FALSE
+"TOPEX/Poseidon, Oscar 23, S80/T",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/10/1992,23:04:00,Ariane 42P,20700000,TRUE
+STS-46,NASA,"LC-39B, Kennedy Space Center, Florida, USA",7/31/1992,13:56:00,Space Shuttle Atlantis,18420000,TRUE
+"Insat-2A, Eutelsat 2F4",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",7/9/1992,22:42:00,Ariane 44L,13050000,TRUE
+USA-82 (DSCS IIIB-12),General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",7/2/1992,21:54:00,Atlas II,2220000,TRUE
+STS-50,NASA,"LC-39A, Kennedy Space Center, Florida, USA",6/25/1992,16:12:00,Space Shuttle Columbia,11420000,TRUE
+Intelsat K,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",6/10/1992,0:00:00,Atlas IIA,4330000,TRUE
+STS-49,NASA,"LC-39B, Kennedy Space Center, Florida, USA",5/7/1992,23:40:00,Space Shuttle Endeavour,23030000,TRUE
+USA-81,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",4/25/1992,8:53:00,Titan II(23)G,21390000,TRUE
+"Telecom 2B, Inmarsat-2F4",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",4/15/1992,23:25:00,Ariane 44L,5060000,TRUE
+STS-45,NASA,"LC-39A, Kennedy Space Center, Florida, USA",3/24/1992,13:13:00,Space Shuttle Atlantis,9210000,TRUE
+Galaxy 5,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",3/14/1992,0:00:00,Atlas I,4990000,TRUE
+"Superbird-B1, Arabsat-1C",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",2/26/1992,23:58:00,Ariane 44L,3780000,TRUE
+USA-78 (DSCS IIIB-14),General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",2/11/1992,0:41:00,Atlas II,19990000,TRUE
+STS-42,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1/22/1992,14:52:00,Space Shuttle Discovery,2260000,TRUE
+"Telecom 2A, Inmarsat 2F3",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/16/1991,22:19:00,Ariane 44L,23950000,TRUE
+Eutelsat 2F3,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",12/7/1991,22:47:00,Atlas II,4320000,TRUE
+DMSP F-11,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",11/28/1991,13:23:00,Atlas-E/F Star-37S-ISS,7780000,TRUE
+STS-44,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/24/1991,23:44:00,Space Shuttle Atlantis,20630000,TRUE
+SLDCOM & NOSS 3x,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",11/8/1991,7:07:00,Titan IV(403)A,17340000,TRUE
+Intelsat 6AF1,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/29/1991,23:08:00,Ariane 44L,3760000,TRUE
+Anik E1,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/26/1991,23:43:00,Ariane 44P,8880000,TRUE
+STS-48,NASA,"LC-39A, Kennedy Space Center, Florida, USA",9/12/1991,23:11:00,Space Shuttle Discovery,16910000,TRUE
+Intelsat 605,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/14/1991,23:15:00,Ariane 44L,3610000,TRUE
+STS-43,NASA,"LC-39A, Kennedy Space Center, Florida, USA",8/2/1991,15:02:00,Space Shuttle Atlantis,10120000,TRUE
+7 Microsats,Northrop,"NB-52B Carrier, Edwards AFB, California, USA",7/21/1991,17:33:00,Pegasus/HAPS,23810000,FALSE
+"ERS-1, Oscar 22, Orbcomm-X, Tubsat-A, SARA",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",7/17/1991,1:46:00,Ariane 40,4410000,TRUE
+STS-40,NASA,"LC-39B, Kennedy Space Center, Florida, USA",6/5/1991,13:24:00,Space Shuttle Columbia,3540000,TRUE
+NOAA-D,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",5/14/1991,15:52:00,Atlas-E/F Star-37S-ISS,16670000,TRUE
+STS-39,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/28/1991,11:33:00,Space Shuttle Discovery,16580000,TRUE
+Yuri 3H,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",4/18/1991,23:30:00,Atlas I,7190000,FALSE
+STS-37,NASA,"LC-39B, Kennedy Space Center, Florida, USA",4/5/1991,14:22:00,Space Shuttle Atlantis,10780000,TRUE
+Anik E2,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",4/4/1991,23:33:00,Ariane 44P,11840000,TRUE
+Lacrosse,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",3/8/1991,12:03:00,Titan IV(403)A,18340000,TRUE
+"Astra 1B, Meteosat 5",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",3/2/1991,23:36:00,Ariane 44LP,11160000,TRUE
+"Italsat-1, Eutelsat 2F2",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",1/15/1991,23:10:00,Ariane 44L,9460000,TRUE
+STS-35,NASA,"LC-39B, Kennedy Space Center, Florida, USA",12/2/1990,6:49:00,Space Shuttle Columbia,22040000,TRUE
+DMSP F-10,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",12/1/1990,15:57:00,Atlas-E/F Star-37S-ISS,10600000,TRUE
+"Satcom C1, GStar-4",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",11/20/1990,23:11:00,Ariane 42P,15120000,TRUE
+STS-38,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/15/1990,23:48:00,Space Shuttle Atlantis,22680000,TRUE
+DSP,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",11/13/1990,0:37:00,Titan IV(402)A,16700000,TRUE
+"SBS-6, Galaxy-6",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/12/1990,22:58:00,Ariane 44L,21100000,TRUE
+STS-41,NASA,"LC-39B, Kennedy Space Center, Florida, USA",10/6/1990,11:47:00,Space Shuttle Discovery,21420000,TRUE
+"Skynet 4C, Eutelsat 2F1",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/30/1990,22:46:00,Ariane 44L,3650000,TRUE
+CRRES,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",7/25/1990,19:21:00,Atlas I,4670000,TRUE
+"TDF-2, DFS-2",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",7/24/1990,22:25:00,Ariane 44L,7660000,TRUE
+Intelsat 604,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",6/23/1990,11:19:00,Commercial Titan III,13640000,TRUE
+SLDCOM & NOSS 3x,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",6/8/1990,5:22:00,Titan IV(405)A,5470000,TRUE
+STS-31,NASA,"LC-39B, Kennedy Space Center, Florida, USA",4/24/1990,12:33:00,Space Shuttle Discovery,2330000,TRUE
+Pegsat & NavySat,Northrop,"NB-52B Carrier, Edwards AFB, California, USA",4/5/1990,19:10:00,Pegasus,15870000,TRUE
+Intelsat 603,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",3/14/1990,11:52:00,Commercial Titan III,8420000,FALSE
+STS-36,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2/28/1990,7:50:00,Space Shuttle Atlantis,10460000,TRUE
+"Superbird-B, BS-2X",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",2/22/1990,23:17:00,Ariane 44L,7050000,FALSE
+"SPOT-2, Oscar 14-19",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",1/22/1990,1:35:00,Ariane 40,21160000,TRUE
+STS-32,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1/9/1990,12:35:00,Space Shuttle Columbia,19220000,TRUE
+Skynet 4A & JCSAT-2,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",1/1/1990,0:07:00,Commercial Titan III,8070000,TRUE
+STS-33R,NASA,"LC-39B, Kennedy Space Center, Florida, USA",11/23/1989,0:23:00,Space Shuttle Discovery,7540000,TRUE
+Intelsat 6AF2,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",10/27/1989,23:05:00,Ariane 44L,5150000,TRUE
+STS-34R,NASA,"LC-39B, Kennedy Space Center, Florida, USA",10/18/1989,16:53:00,Space Shuttle Atlantis,17100000,TRUE
+FLTSATCOM-8,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",9/25/1989,8:56:00,Atlas-G Centaur-D1AR,8170000,TRUE
+USA-45,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",9/6/1989,1:48:00,Titan II(23)G,9560000,TRUE
+DSCS-II-16 & DSCS-III-A2,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",9/4/1989,5:54:00,Titan 34D,19020000,TRUE
+"TVSAT-2, Hipparcos",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",8/8/1989,23:25:00,Ariane 44LP,24230000,TRUE
+STS-28R,NASA,"LC-39B, Kennedy Space Center, Florida, USA",8/8/1989,12:37:00,Space Shuttle Columbia,10410000,TRUE
+Olympus-1,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",7/12/1989,0:14:00,Ariane 3,18950000,TRUE
+DSP,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",6/14/1989,13:18:00,Titan IV(402)A,17000000,TRUE
+"Superbird-A, DFS-1",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",6/5/1989,22:37:00,Ariane 44L,5920000,TRUE
+SROSS C,ISRO,"SLV LP, Satish Dhawan Space Centre, India",5/22/1989,1:40:00,ASLV,18450000,FALSE
+USA-37 (Vortex),Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",5/10/1989,19:47:00,Titan 34D,22300000,TRUE
+STS-30R,NASA,"LC-39B, Kennedy Space Center, Florida, USA",5/4/1989,18:46:00,Space Shuttle Atlantis,20520000,TRUE
+TELE-X,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",4/2/1989,2:28:00,Ariane 2,23880000,TRUE
+STS-29R,NASA,"LC-39B, Kennedy Space Center, Florida, USA",3/13/1989,14:57:00,Space Shuttle Discovery,17860000,TRUE
+JCSAT-1 & Meteosat 4,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",3/6/1989,23:29:00,Ariane 44LP,20110000,TRUE
+Intelsat-5A 15,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",1/27/1989,1:21:00,Ariane 2,20130000,TRUE
+"Skynet 4B, Astra 1A",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",12/11/1988,0:33:00,Ariane 44LP,21850000,TRUE
+STS-27R,NASA,"LC-39B, Kennedy Space Center, Florida, USA",12/2/1988,14:30:00,Space Shuttle Atlantis,15860000,TRUE
+USA-33 (KH-11),Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",11/6/1988,18:03:00,Titan 34D,14770000,TRUE
+TDF-1,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",10/28/1988,2:17:00,Ariane 2,13380000,TRUE
+STS-26R,NASA,"LC-39A, Kennedy Space Center, Florida, USA",9/29/1988,15:37:00,Space Shuttle Discovery,20320000,TRUE
+NOAA-H,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",9/24/1988,10:02:00,Atlas-E/F Star-37S-ISS,2140000,TRUE
+"GStar 5, SBS 5",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",9/8/1988,23:00:00,Ariane 3,14850000,TRUE
+USA-32,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",9/5/1988,9:25:00,Titan II(23)G,15720000,TRUE
+USA-31 (Vortex),Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",9/2/1988,12:05:00,Titan 34D,9060000,FALSE
+SROSS-B,ISRO,"SLV LP, Satish Dhawan Space Centre, India",7/31/1988,9:18:00,ASLV,20930000,FALSE
+"Insat 1C, Eutelsat-1 F5",Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",7/21/1988,23:12:00,Ariane 3,10100000,TRUE
+"Meteosat 3, Panamsat-1, Oscar 13",ESA,"ELA-2, Guiana Space Centre, French Guiana, France",6/15/1988,11:19:00,Ariane 44LP,15240000,TRUE
+Intelsat 3AF13,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",5/17/1988,23:58:00,Ariane 2,7190000,TRUE
+"Spacenet 3R, Telecom 1C",Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",3/11/1988,23:28:00,Ariane 3,19000000,TRUE
+DMSP 5D-2/F9,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",2/3/1988,5:53:00,Atlas-E/F Star-37S-ISS,14090000,TRUE
+DSP-13,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",11/29/1987,3:27:00,Titan 34D,13080000,TRUE
+TVSAT-1,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",11/21/1987,2:19:00,Ariane 2,16910000,TRUE
+USA-27 (KH-11),Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",10/26/1987,21:32:00,Titan 34D,16030000,TRUE
+"Aussat-A3, Eutelsat 1-F4",Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",9/16/1987,0:45:00,Ariane 3,6680000,TRUE
+DMSP 5D-2/F8,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",6/20/1987,2:34:00,Atlas-E/F Star-37S-ISS,13390000,TRUE
+NOSS-9,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",5/15/1987,15:45:00,Atlas-H MSD,24320000,TRUE
+FLTSATCOM-6,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",3/26/1987,21:22:00,Atlas-G Centaur-D1AR,3160000,FALSE
+SROSS-A,ISRO,"SLV LP, Satish Dhawan Space Centre, India",3/24/1987,6:39:00,ASLV,7480000,FALSE
+Quasar 7,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",2/12/1987,0:00:00,Titan III(34)B Agena-D,20470000,TRUE
+FLTSATCOM-7,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",12/5/1986,2:30:00,Atlas-G Centaur-D1AR,15120000,TRUE
+NOAA-G,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",9/17/1986,15:52:00,Atlas-E/F Star-37S-ISS,9880000,TRUE
+Intelsat-5A 14,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",5/31/1986,0:53:00,Ariane 2,14200000,FALSE
+KH-9,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",4/18/1986,18:45:00,Titan 34D,6780000,FALSE
+"GStar-2, Brasilsat-A2",Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",3/28/1986,23:30:00,Ariane 3,12980000,TRUE
+SPOT-1 & Viking,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",2/22/1986,1:44:00,Ariane 1,14980000,TRUE
+NOSS-8,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",2/9/1986,10:06:00,Atlas-H MSD,10020000,TRUE
+STS-51-L,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1/28/1986,16:38:00,Space Shuttle Challenger,16130000,FALSE
+STS-61-C,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1/12/1986,11:55:00,Space Shuttle Columbia,7090000,TRUE
+STS-61-B,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/27/1985,0:29:00,Space Shuttle Atlantis,23140000,TRUE
+STS-61-A,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/6/1985,17:00:00,Space Shuttle Challenger,16950000,TRUE
+GPS-11,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",10/9/1985,2:53:00,Atlas-E/F SGS-2,3210000,TRUE
+STS-51-J,NASA,"LC-39A, Kennedy Space Center, Florida, USA",10/3/1985,15:15:00,Space Shuttle Atlantis,2750000,TRUE
+Intelsat V -512,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",9/28/1985,23:17:00,Atlas-G Centaur-D1AR,11470000,TRUE
+"ECS 3, Spacenet 3",Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",9/12/1985,23:26:00,Ariane 3,6260000,FALSE
+KH-11,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",8/28/1985,21:20:00,Titan 34D,16280000,FALSE
+STS-51-I,NASA,"LC-39A, Kennedy Space Center, Florida, USA",8/27/1985,10:58:00,Space Shuttle Discovery,14500000,TRUE
+STS-51-F,NASA,"LC-39A, Kennedy Space Center, Florida, USA",7/25/1985,21:00:00,Space Shuttle Challenger,19430000,TRUE
+Giotto,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",7/2/1985,11:23:00,Ariane 1,13220000,TRUE
+Intelsat V -511,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",6/30/1985,0:44:00,Atlas-G Centaur-D1AR,7990000,TRUE
+STS-51-G,NASA,"LC-39A, Kennedy Space Center, Florida, USA",6/17/1985,11:33:00,Space Shuttle Discovery,14850000,TRUE
+"GStar-1, Telecom 1B",Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",5/8/1985,1:15:00,Ariane 3,1730000,TRUE
+STS-51-B,NASA,"LC-39A, Kennedy Space Center, Florida, USA",5/6/1985,16:02:00,Space Shuttle Challenger,6070000,TRUE
+STS-51-D,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/12/1985,13:59:00,Space Shuttle Discovery,3300000,TRUE
+Intelsat V -510,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",3/22/1985,23:55:00,Atlas-G Centaur-D1AR,3450000,TRUE
+Geosat,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",3/13/1985,2:00:00,Atlas-E/F OIS,23990000,TRUE
+Quasar 6,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",2/8/1985,6:00:00,Titan III(34)B Agena-D,9310000,TRUE
+"Arabsat-1A, Brasilsat-A1",Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",2/8/1985,23:22:00,Ariane 3,3910000,TRUE
+STS-51-C,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1/24/1985,19:50:00,Space Shuttle Discovery,7560000,TRUE
+DSP-12,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",12/22/1984,0:02:00,Titan 34D,10740000,TRUE
+NOAA-F,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",12/12/1984,10:42:00,Atlas-E/F Star-37S-ISS,19730000,TRUE
+USA-6 (KH-11),Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",12/4/1984,18:03:00,Titan 34D,7540000,TRUE
+"Spacenet 2, MARECS-2",Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",11/10/1984,1:14:00,Ariane 3,8640000,TRUE
+STS-51-A,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/8/1984,12:15:00,Space Shuttle Discovery,1540000,TRUE
+STS-41-G,NASA,"LC-39A, Kennedy Space Center, Florida, USA",10/5/1984,11:03:00,Space Shuttle Challenger,15330000,TRUE
+GPS-10,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",9/8/1984,21:41:00,Atlas-E/F SGS-2,7030000,TRUE
+STS-41-D,NASA,"LC-39A, Kennedy Space Center, Florida, USA",8/30/1984,12:41:00,Space Shuttle Discovery,9080000,TRUE
+Quasar 5,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",8/28/1984,0:00:00,Titan III(34)B Agena-D,9080000,TRUE
+"Eutelsat-1 F2, Telecom 1A",Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",8/4/1984,13:32:00,Ariane 3,2020000,TRUE
+USA-2 (KH-9),Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",6/25/1984,18:47:00,Titan 34D,23910000,TRUE
+GPS-9,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",6/13/1984,11:37:00,Atlas-E/F SGS-2,5650000,TRUE
+Intelsat V -509,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",6/9/1984,23:03:00,Atlas-G Centaur-D1AR,10040000,FALSE
+Spacenet F1,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",5/23/1984,1:33:00,Ariane 1,11510000,TRUE
+DSP-11,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",4/14/1984,16:52:00,Titan 34D,18440000,TRUE
+STS-41-C,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/6/1984,13:58:00,Space Shuttle Challenger,2370000,TRUE
+Intelsat 508,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",3/5/1984,0:50:00,Ariane 1,14360000,TRUE
+NOSS-7,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",2/5/1984,18:44:00,Atlas-H MSD,14590000,TRUE
+STS-41-B,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2/3/1984,13:00:00,Space Shuttle Challenger,14620000,TRUE
+OPS-0441 (Vortex),Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",1/31/1984,3:08:00,Titan 34D,13460000,TRUE
+STS-9,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/28/1983,16:00:00,Space Shuttle Columbia,4290000,TRUE
+DMSP 5D-2/F7,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",11/18/1983,6:32:00,Atlas-E/F Star-37S-ISS,11740000,TRUE
+Intelsat 507,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",10/19/1983,0:45:00,Ariane 1,20540000,TRUE
+STS-8,NASA,"LC-39A, Kennedy Space Center, Florida, USA",9/5/1983,7:40:00,Space Shuttle Challenger,15330000,TRUE
+Jumpseat 7,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",7/31/1983,15:41:00,Titan III(34)B Agena-D,11000000,TRUE
+GPS-8,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",7/14/1983,10:21:00,Atlas-E/F SGS-2,2330000,TRUE
+OPS-0721 (KH-9),Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",6/20/1983,18:45:00,Titan 34D,8130000,TRUE
+STS-7,NASA,"LC-39A, Kennedy Space Center, Florida, USA",6/18/1983,11:33:00,Space Shuttle Challenger,10380000,TRUE
+ECS 1 & Oscar-10,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",6/16/1983,11:59:00,Ariane 1,14530000,TRUE
+NOSS-6,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",6/9/1983,23:23:00,Atlas-H MSD,14430000,TRUE
+Intelsat V -506,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",5/19/1983,22:26:00,Atlas-SLV3D Centaur-D1AR,8310000,TRUE
+Rohini RS-D2,ISRO,"SLV LP, Satish Dhawan Space Centre, India",4/17/1983,5:44:00,SLV-3,3140000,TRUE
+STS-6,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/4/1983,18:30:00,Space Shuttle Challenger,3580000,TRUE
+NOAA-E,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",3/28/1983,15:52:00,Atlas-E/F Star-37S-ISS,1110000,TRUE
+NOSS-5,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",2/9/1983,13:47:00,Atlas-H MSD,22980000,TRUE
+DMSP 5D-2/F6,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",12/21/1982,2:38:00,Atlas-E/F Star-37S-ISS,9610000,TRUE
+KH-11,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",11/17/1982,21:22:00,Titan IIID,20520000,TRUE
+STS-5,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/11/1982,12:19:00,Space Shuttle Columbia,19590000,TRUE
+DSCS-II-15 + DSCS-III-A1,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",10/30/1982,1:00:00,Titan 34D,7430000,TRUE
+Intelsat V -505,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",9/28/1982,23:17:00,Atlas-SLV3D Centaur-D1AR,10530000,TRUE
+MARCES-B & Sirio-2,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",9/9/1982,2:12:00,Ariane 1,18860000,FALSE
+STS-4,NASA,"LC-39A, Kennedy Space Center, Florida, USA",6/27/1982,16:09:00,Space Shuttle Columbia,5970000,TRUE
+KH-9 & SSF-D-4,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",5/11/1982,18:45:00,Titan IIID,13550000,TRUE
+STS-3,NASA,"LC-39A, Kennedy Space Center, Florida, USA",3/22/1982,16:00:00,Space Shuttle Columbia,11020000,TRUE
+DSP-10,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",3/6/1982,19:25:00,Titan III(23)C,18230000,TRUE
+Intelsat V -504,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",3/5/1982,0:23:00,Atlas-SLV3D Centaur-D1AR,15600000,TRUE
+MARCES-1 & CAT-4,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",12/20/1981,1:29:00,Ariane 1,1920000,TRUE
+GPS-7,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",12/19/1981,1:10:00,Atlas-E/F SGS-1,7270000,FALSE
+Intelsat V -503,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",12/15/1981,23:35:00,Atlas-SLV3D Centaur-D1AR,15120000,TRUE
+STS-2,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/12/1981,15:09:00,Space Shuttle Columbia,2550000,TRUE
+OPS-4029 (Vortex),Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",10/31/1981,9:22:00,Titan III(23)C,14990000,TRUE
+KH-11,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",9/3/1981,18:29:00,Titan IIID,14100000,TRUE
+FLTSATCOM-5,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",8/6/1981,8:16:00,Atlas-SLV3D Centaur-D1AR,21630000,FALSE
+NOAA-C,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",6/23/1981,10:52:00,Atlas-E/F Star-37S-ISS,9380000,TRUE
+CAT-3 & Others,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",6/19/1981,12:33:00,Ariane 1,3200000,TRUE
+Rohini RS-D1,ISRO,"SLV LP, Satish Dhawan Space Centre, India",5/31/1981,5:00:00,SLV-3,18840000,FALSE
+Intelsat V -501,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",5/23/1981,22:42:00,Atlas-SLV3D Centaur-D1AR,14800000,TRUE
+Jumpseat 6,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",4/24/1981,21:32:00,Titan III(34)B Agena-D,23750000,TRUE
+STS-1,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/12/1981,12:00:00,Space Shuttle Columbia,20600000,TRUE
+DSP-9,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",3/16/1981,13:30:00,Titan III(23)C,15590000,TRUE
+Comstar D4,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",2/21/1981,23:23:00,Atlas-SLV3D Centaur-D1AR,9340000,TRUE
+Quasar 4,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",12/13/1980,18:00:00,Titan III(34)B Agena-D,10700000,TRUE
+NOSS-4,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",12/9/1980,7:18:00,Atlas-E/F MSD,10850000,FALSE
+Intelsat V -502,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",12/6/1980,23:31:00,Atlas-SLV3D Centaur-D1AR,8150000,TRUE
+FLTSATCOM-4,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",10/31/1980,3:54:00,Atlas-SLV3D Centaur-D1AR,10800000,TRUE
+Rohini RS-1,ISRO,"SLV LP, Satish Dhawan Space Centre, India",7/18/1980,2:33:00,SLV-3,15550000,TRUE
+KH-9),Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",6/18/1980,18:29:00,Titan IIID,3950000,TRUE
+NOAA-B,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",5/29/1980,10:53:00,Atlas-E/F Star-37S-ISS,14710000,FALSE
+CAT-2 & Others,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",5/23/1980,14:29:00,Ariane 1,23150000,FALSE
+GPS-6,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",4/26/1980,22:00:00,Atlas-E/F SGS-1,10210000,TRUE
+NOSS-3,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",3/3/1980,9:27:00,Atlas-E/F MSD,24700000,TRUE
+GPS-5,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",2/9/1980,23:08:00,Atlas-E/F SGS-1,8390000,TRUE
+KH-11,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",2/7/1980,21:10:00,Titan IIID,1990000,TRUE
+FLTSATCOM-3,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",1/18/1980,1:26:00,Atlas-SLV3D Centaur-D1AR,20650000,TRUE
+CAT-1,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",12/24/1979,17:14:00,Ariane 1,7460000,TRUE
+DSCS-II 13&14,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",11/21/1979,2:09:00,Titan III(23)C,1240000,TRUE
+OPS-1948 (Vortex),Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",10/1/1979,11:22:00,Titan III(23)C,22870000,TRUE
+HEAO-3,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",9/20/1979,5:28:00,Atlas-SLV3D Centaur-D1AR,10500000,TRUE
+Rohini Technology Payload,ISRO,"SLV LP, Satish Dhawan Space Centre, India",8/10/1979,2:28:00,SLV-3,8860000,FALSE
+NOAA-A,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",6/27/1979,15:51:00,Atlas-E/F Star-37S-ISS,15910000,TRUE
+DSP-8,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",6/10/1979,13:30:00,Titan III(23)C,10850000,TRUE
+FLTSATCOM-2,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",5/4/1979,18:57:00,Atlas-SLV3D Centaur-D1AR,14420000,TRUE
+KH-9 & SSF-D-3,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",3/16/1979,18:30:00,Titan IIID,13490000,TRUE
+Solwind,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",2/24/1979,8:20:00,Atlas-E/F OIS,5700000,TRUE
+DSCS-II 11&12,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",12/14/1978,0:40:00,Titan III(23)C,15020000,TRUE
+GPS-4,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",12/11/1978,3:59:00,Atlas-E/F SGS-1,10160000,TRUE
+HEAO-2,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",11/13/1978,5:24:00,Atlas-SLV3D Centaur-D1AR,7520000,TRUE
+Tiros-N,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",10/13/1978,11:23:00,Atlas-E/F Star-37S-ISS,2680000,TRUE
+GPS-3,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",10/7/1978,0:28:00,Atlas-E/F SGS-1,4840000,TRUE
+Pioneer Venus Multiprobe,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",8/8/1978,7:33:00,Atlas-SLV3D Centaur-D1AR,4620000,TRUE
+Quasar 3,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",8/5/1978,10:00:00,Titan III(34)B Agena-D,16300000,TRUE
+Comstar D3,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",6/29/1978,22:24:00,Atlas-SLV3D Centaur-D1AR,22920000,TRUE
+Seasat,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",6/27/1978,1:12:00,Atlas-E/F Agena D,4300000,TRUE
+KH-11,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",6/14/1978,18:28:00,Titan IIID,4250000,TRUE
+OPS-9454 (vortex),Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",6/10/1978,19:08:00,Titan III(23)C,16690000,TRUE
+Pioneer Venus Orbiter,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",5/20/1978,13:13:00,Atlas-SLV3D Centaur-D1AR,23510000,TRUE
+GPS-2,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",5/13/1978,10:34:00,Atlas-E/F SGS-1,9470000,TRUE
+OPS-8790 (Aquacade-4),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",4/7/1978,0:45:00,Atlas-SLV3A Agena-D,24800000,TRUE
+Intelsat 4A F6,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",3/31/1978,23:36:00,Atlas-SLV3D Centaur-D1AR,13090000,TRUE
+DSCS-II 9&10,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",3/25/1978,18:09:00,Titan III(23)C,19840000,FALSE
+KH-9 & SSF-D-2,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",3/16/1978,18:43:00,Titan IIID,11110000,TRUE
+Jumpseat 5,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",2/25/1978,5:00:00,Titan III(34)B Agena-D,6520000,TRUE
+GPS-1,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",2/22/1978,23:44:00,Atlas-E/F SGS-1,5140000,TRUE
+FLTSATCOM-1,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",2/9/1978,21:17:00,Atlas-SLV3D Centaur-D1AR,7430000,TRUE
+Intelsat 4A F3,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",1/7/1978,0:15:00,Atlas-SLV3D Centaur-D1AR,5320000,TRUE
+OPS-4258 (Aquacade-3),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",12/11/1977,22:45:00,Atlas-SLV3A Agena-D,11000000,TRUE
+NOSS-2,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",12/8/1977,17:45:00,Atlas-E/F MSD,6310000,TRUE
+Intelsat 4A F5,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",9/30/1977,1:02:00,Atlas-SLV3D Centaur-D1AR,14500000,FALSE
+Voyager 1,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",9/5/1977,12:56:00,Titan IIIE,11890000,TRUE
+Voyager 2,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",8/20/1977,14:29:00,Titan IIIE,2770000,TRUE
+HEAO-1,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",8/12/1977,6:29:00,Atlas-SLV3D Centaur-D1AR,11320000,TRUE
+KH-9,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",6/27/1977,18:30:00,Titan IIID,24460000,TRUE
+NTS-2,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",6/23/1977,9:16:00,Atlas-E/F SGS-1,11550000,TRUE
+Intelsat 4A F4,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",5/26/1977,21:47:00,Atlas-SLV3D Centaur-D1AR,3280000,TRUE
+AFP-827 (Canyon-7),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",5/23/1977,18:13:00,Atlas-SLV3A Agena-D,23480000,TRUE
+DSCS-II 7&8,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",5/12/1977,14:27:00,Titan III(23)C,14690000,TRUE
+DSP-7,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",2/6/1977,6:00:00,Titan III(23)C,7890000,TRUE
+KH-11,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",12/19/1976,18:19:00,Titan IIID,21270000,TRUE
+Quasar 2,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",8/6/1976,3:00:00,Titan III(34)B Agena-D,9100000,TRUE
+Comstar D2,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",7/22/1976,22:04:00,Atlas-SLV3D Centaur-D1AR,16280000,TRUE
+"KH-9, S3 & SSF-D-1",Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",7/8/1976,18:30:00,Titan IIID,11260000,TRUE
+DSP-6,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",6/26/1976,3:00:00,Titan III(23)C,12350000,TRUE
+Quasar 1,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",6/2/1976,1:00:00,Titan III(34)B Agena-D,9480000,TRUE
+Comstar D1,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",5/13/1976,22:28:00,Atlas-SLV3D Centaur-D1AR,19870000,TRUE
+NOSS-1,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",4/30/1976,19:12:00,Atlas-E/F MSD,16190000,TRUE
+"LES-8, LES-9, Solrad-11a, Solrad-11b",Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",3/14/1976,1:25:00,Titan III(23)C,8710000,TRUE
+Intelsat 4A F2,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",1/29/1976,23:56:00,Atlas-SLV3D Centaur-D1AR,10890000,TRUE
+Helios-2,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",1/15/1976,5:34:00,Titan IIIE,16690000,TRUE
+DSP-5,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",12/14/1975,5:15:00,Titan III(23)C,16500000,TRUE
+KH-9 & S3,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",12/4/1975,20:38:00,Titan IIID,16160000,TRUE
+Intelsat 4A F1,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",9/26/1975,0:17:00,Atlas-SLV3D Centaur-D1AR,15660000,TRUE
+Viking 2,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",9/9/1975,18:39:00,Titan IIIE,3330000,TRUE
+Viking 1,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",8/20/1975,21:22:00,Titan IIIE,22760000,TRUE
+ASTP (Apollo???Soyuz Test Project),NASA,"LC-39B, Kennedy Space Center, Florida, USA",7/15/1975,19:50:00,Saturn IB,23790000,TRUE
+AFP-827 (Canyon-6),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",6/18/1975,9:00:00,Atlas-SLV3A Agena-D,10180000,TRUE
+KH-9 & SSF-C-5,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",6/8/1975,18:30:00,Titan IIID,6160000,TRUE
+Intelsat 4 F1,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",5/22/1975,22:04:00,Atlas-SLV3D Centaur-D1A,14320000,TRUE
+DSCS-II 5&6,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",5/20/1975,14:03:00,Titan III(23)C,10850000,FALSE
+P72-2,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",4/13/1975,0:51:00,Atlas-E/F Star-17A,22910000,FALSE
+Jumpseat 4,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",3/10/1975,4:41:00,Titan III(34)B Agena-D,3700000,TRUE
+Intelsat 4 F6,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",2/20/1975,23:35:00,Atlas-SLV3D Centaur-D1A,22940000,FALSE
+Helios-1,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",12/10/1974,7:11:00,Titan IIIE,16690000,TRUE
+Intelsat 4 F8,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",11/21/1974,23:43:00,Atlas-SLV3D Centaur-D1A,12170000,TRUE
+"KH-9, S3 & SSF-B-26",Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",10/29/1974,19:30:00,Titan IIID,3880000,TRUE
+P73-3,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",7/14/1974,5:17:00,Atlas-E/F PTS,1800000,TRUE
+ATS-6,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",5/30/1974,13:00:00,Titan III(23)C,12720000,TRUE
+"KH-9, SSF-B-25, IRCB",Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",4/10/1974,20:20:00,Titan IIID,21600000,TRUE
+Sphinx & Viking-DS,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",2/11/1974,13:48:00,Titan IIIE,21670000,FALSE
+DSCS-II 3&4,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",12/13/1973,23:57:00,Titan III(23)C,18600000,TRUE
+Skylab 4,NASA,"LC-39B, Kennedy Space Center, Florida, USA",11/16/1973,14:01:00,Saturn IB,21540000,TRUE
+"KH-9, SSF-B-24 & SSF-C-4",Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",11/10/1973,20:09:00,Titan IIID,20330000,TRUE
+Mariner 10,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",11/3/1973,5:45:00,Atlas-SLV3D Centaur-D1A,13770000,TRUE
+Intelsat 4 F7,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",8/23/1973,22:57:00,Atlas-SLV3D Centaur-D1A,22350000,TRUE
+Jumpseat 3,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",8/21/1973,16:07:00,Titan-III(33)B Agena-D,14630000,TRUE
+Skylab 3,NASA,"LC-39B, Kennedy Space Center, Florida, USA",7/28/1973,11:10:00,Saturn IB,15840000,TRUE
+KH-9,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",7/13/1973,20:24:00,Titan IIID,23050000,TRUE
+DSP-4,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",6/12/1973,7:14:00,Titan III(23)C,8750000,TRUE
+Skylab 2,NASA,"LC-39B, Kennedy Space Center, Florida, USA",5/25/1973,13:00:00,Saturn IB,23000000,TRUE
+Skylab 1,NASA,"LC-39A, Kennedy Space Center, Florida, USA",5/14/1973,17:30:00,Saturn V,8190000,TRUE
+Pioneer 11,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",4/6/1973,2:11:00,Atlas-SLV3D Centaur-D1A,24770000,TRUE
+KH-9,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",3/9/1973,21:00:00,Titan IIID,15290000,TRUE
+AFP-720 (Rhyolite-2),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",3/6/1973,9:30:00,Atlas-SLV3A Agena-D,7370000,TRUE
+AFP-827 (Canyon-5),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",12/20/1972,22:20:00,Atlas-SLV3A Agena-D,17720000,TRUE
+Apollo 17,NASA,"LC-39A, Kennedy Space Center, Florida, USA",12/19/1972,19:24:00,Saturn V,9950000,TRUE
+KH-9 & SSF-C-3,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",10/10/1972,18:03:00,Titan IIID,5040000,TRUE
+P72-1,General Dynamics,"LC-576A1, Vandenberg AFB, California, USA",10/2/1972,20:10:00,Atlas-E/F Burner,12660000,TRUE
+OAO-3,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",8/21/1972,10:28:00,Atlas-SLV3C Centaur-D,23620000,TRUE
+KH-9 & SSF-B-23,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",7/7/1972,17:46:00,Titan IIID,5970000,TRUE
+Intelsat 4 F5,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",6/13/1972,21:53:00,Atlas-SLV3C Centaur-D,1510000,TRUE
+Apollo 16,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/16/1972,17:54:00,Saturn V,20160000,TRUE
+Pioneer 10,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",3/3/1972,1:49:00,Atlas-SLV3C Centaur-D,5160000,TRUE
+DSP-3,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",3/1/1972,9:39:00,Titan III(23)C,2420000,TRUE
+Jumpseat 2,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",2/16/1972,9:59:00,Titan-III(33)B Agena-D,7870000,FALSE
+Intelsat 4 F4,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",1/23/1972,0:12:00,Atlas-SLV3C Centaur-D,15400000,TRUE
+KH-9 & SSF-B-22,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",1/20/1972,18:36:00,Titan IIID,11180000,TRUE
+Intelsat 4 F3,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",12/20/1971,1:10:00,Atlas-SLV3C Centaur-D,8210000,TRUE
+AFP-827 (Canyon-4),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",12/4/1971,22:33:00,Atlas-SLV3A Agena-D,2530000,FALSE
+DSCS-II 1&2,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",11/3/1971,3:09:00,Titan III(23)C,23900000,TRUE
+OV1-20 OV1-21,General Dynamics,"LC-576A2, Vandenberg AFB, California, USA",8/7/1971,0:11:00,Atlas-E/F OV1,14780000,TRUE
+Apollo 15,NASA,"LC-39A, Kennedy Space Center, Florida, USA",7/26/1971,13:34:00,Saturn V,2470000,TRUE
+KH-9,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",6/15/1971,18:41:00,Titan IIID,1190000,TRUE
+Mariner 9,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",5/30/1971,22:23:00,Atlas-SLV3C Centaur-D,2020000,TRUE
+Mariner 8,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",5/9/1971,1:11:00,Atlas-SLV3C Centaur-D,14680000,FALSE
+DSP-2,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",5/5/1971,7:43:00,Titan III(23)C,15470000,TRUE
+Jumpseat 1,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA",3/21/1971,3:45:00,Titan-III(33)B Agena-D,23330000,TRUE
+Apollo 14,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1/31/1971,21:03:00,Saturn V,1800000,TRUE
+Intelsat 4 F2,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",1/26/1971,0:36:00,Atlas-SLV3C Centaur-D,5110000,TRUE
+OAO-B,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",11/30/1970,22:40:00,Atlas-SLV3C Centaur-D,22550000,FALSE
+OPS-5960 (IMEWS-1/DSP-1),Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",11/6/1970,10:35:00,Titan III(23)C,12720000,FALSE
+AFP-827 (Canyon-3),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",9/1/1970,1:00:00,Atlas-SLV3A Agena-D,21840000,TRUE
+AFP-720 (Rhyolite-1),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",6/19/1970,11:37:00,Atlas-SLV3A Agena-D,19070000,TRUE
+Soyuz 9,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",6/1/1970,19:00:00,Soyuz,5120000,TRUE
+Apollo 13,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/11/1970,19:13:00,Saturn V,15760000,TRUE
+Vela 11 & 12,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",4/8/1970,10:50:00,Titan IIIC,20310000,TRUE
+Apollo 12,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/14/1969,16:22:00,Saturn V,1500000,TRUE
+ATS-5,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",8/12/1969,11:01:00,Atlas-SLV3C Centaur-D,20090000,TRUE
+Apollo 11,NASA,"LC-39A, Kennedy Space Center, Florida, USA",7/16/1969,13:32:00,Saturn V,7690000,TRUE
+"OPS-6909, OPS-6911, OV5-5, OV5-6, OV5-9",Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",5/23/1969,7:57:00,Titan IIIC,18540000,TRUE
+Apollo 10,NASA,"LC-39B, Kennedy Space Center, Florida, USA",5/18/1969,16:49:00,Saturn V,22030000,TRUE
+Canyon 2 (AFP-827),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",4/13/1969,2:30:00,Atlas-SLV3A Agena-D,12670000,TRUE
+Mariner 7,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",3/27/1969,22:22:00,Atlas-SLV3C Centaur-D,9110000,TRUE
+OV1-17/OV1-18/OV1-19,General Dynamics,"LC-576A2, Vandenberg AFB, California, USA",3/18/1969,7:47:00,Atlas-E/F OV1,12660000,TRUE
+Apollo 9,NASA,"LC-39A, Kennedy Space Center, Florida, USA",3/3/1969,16:00:00,Saturn V,1070000,TRUE
+Mariner 6,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",2/25/1969,1:29:00,Atlas-SLV3C Centaur-D,23790000,TRUE
+OPS-0757 (Tacsat),Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",2/9/1969,21:09:00,Titan IIIC,19290000,TRUE
+Apollo 8,NASA,"LC-39A, Kennedy Space Center, Florida, USA",12/21/1968,12:51:00,Saturn V,20520000,TRUE
+OAO-2,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",12/7/1968,8:40:00,Atlas-SLV3C Centaur-D,4440000,TRUE
+Apollo 7,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",10/11/1968,15:02:00,Saturn IB,4160000,TRUE
+"LES-6, OV2-5, OV5-2, OV5-4",Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",9/26/1968,7:37:00,Titan IIIC,1450000,TRUE
+STP P68-1,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",8/16/1968,20:57:00,Atlas-SLV3 Burner-2,13750000,FALSE
+ATS-4,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",8/10/1968,22:33:00,Atlas-SLV3C Centaur-D,8410000,FALSE
+Canyon 1 (AFP-827),General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",8/6/1968,11:08:00,Atlas-SLV3A Agena-D,15680000,TRUE
+OV1-15/OV1-16,General Dynamics,"LC-576A2, Vandenberg AFB, California, USA",7/11/1968,19:30:00,Atlas-E/F OV1,5760000,TRUE
+OPS 9341-9348,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",6/13/1968,14:03:00,Titan IIIC,2770000,TRUE
+OV1-13/OV1-14,General Dynamics,"LC-576A2, Vandenberg AFB, California, USA",4/6/1968,9:59:00,Atlas-E/F OV1,15560000,TRUE
+Apollo 6,NASA,"LC-39A, Kennedy Space Center, Florida, USA",4/4/1968,12:00:00,Saturn V,12320000,FALSE
+OGO-5,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",3/4/1968,13:06:00,Atlas-SLV3A Agena-D,4660000,TRUE
+Apollo 5,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",1/22/1968,22:48:00,Saturn IB,19230000,TRUE
+Surveyor 7,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",1/7/1968,6:30:00,Atlas-SLV3C Centaur-D,23070000,TRUE
+Apollo 4,NASA,"LC-39A, Kennedy Space Center, Florida, USA",11/9/1967,12:00:00,Saturn V,23080000,TRUE
+Surveyor 6,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",11/7/1967,7:39:00,Atlas-SLV3C Centaur-D,4850000,TRUE
+ATS-3,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",11/5/1967,23:37:00,Atlas-SLV3 Agena-D,2380000,TRUE
+Surveyor 5,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",9/8/1967,7:57:00,Atlas-SLV3C Centaur-D,8130000,TRUE
+Lunar Orbiter 5,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",8/1/1967,22:33:00,Atlas-SLV3 Agena-D,1040000,TRUE
+OV1-11/OV1-12/OV1-86,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA",7/27/1967,19:00:00,Atlas-D OV1,3580000,FALSE
+Surveyor 4,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",7/14/1967,11:53:00,Atlas-LV3C Centaur-D,18800000,TRUE
+"OPS 9331-9334, LES-5 & DODGE",Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",7/1/1967,13:15:00,Titan IIIC,21990000,TRUE
+Mariner 5,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",6/14/1967,6:01:00,Atlas-SLV3 Agena-D,12650000,TRUE
+KH-7 Gambit 4038,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",6/4/1967,18:07:00,Atlas-SLV3 Agena-D,18910000,TRUE
+KH-7 Gambit 4037,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",5/22/1967,18:30:00,Atlas-SLV3 Agena-D,15580000,TRUE
+Lunar Orbiter 4,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",5/4/1967,22:25:00,Atlas-SLV3 Agena-D,2690000,TRUE
+"OPS-6638, OPS-6679, ORS-4, OV5-1, OV5-3",Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",4/28/1967,10:01:00,Titan IIIC,10740000,TRUE
+Surveyor 3,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",4/17/1967,7:05:00,Atlas-LV3C Centaur-D,8620000,TRUE
+ATS-2,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",4/6/1967,3:23:00,Atlas-SLV3 Agena-D,19020000,FALSE
+Lunar Orbiter 3,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",2/5/1967,1:17:00,Atlas-SLV3 Agena-D,4840000,TRUE
+KH-7 Gambit 4036,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",2/2/1967,20:00:00,Atlas-SLV3 Agena-D,7030000,TRUE
+Apollo 1,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",1/27/1967,23:31:00,Saturn IB,19510000,FALSE
+OPS 9321-9328,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",1/18/1967,14:19:00,Titan IIIC,1200000,TRUE
+OV1-9/OV1-10,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA",12/11/1966,21:10:00,Atlas-D OV1,8080000,TRUE
+ATS-1,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",12/7/1966,2:12:00,Atlas-SLV3 Agena-D,8940000,TRUE
+KH-7 Gambit 4035,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",12/5/1966,21:09:00,Atlas-SLV3 Agena-D,7030000,TRUE
+Gemini XII,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",11/11/1966,20:46:00,Titan II GLV,7780000,TRUE
+GATV 5001,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",11/11/1966,19:08:00,Atlas-SLV3 Agena-D,1120000,TRUE
+Lunar Orbiter 2,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",11/6/1966,23:21:00,Atlas-SLV3 Agena-D,3040000,TRUE
+"Gemini B, OV4-3, &  OV4-1R/T",Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",11/3/1966,13:50:00,Titan IIIC,19470000,TRUE
+KH-7 Gambit 4034,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",11/2/1966,20:23:00,Atlas-SLV3 Agena-D,12560000,TRUE
+Surveyor SD-4,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",10/26/1966,11:12:00,Atlas-LV3C Centaur-D,14900000,TRUE
+KH-7 Gambit 4033,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",10/12/1966,19:15:00,Atlas-SLV3 Agena-D,20270000,TRUE
+Midas 12,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",10/5/1966,22:00:00,Atlas-SLV3 Agena-D,4100000,TRUE
+Surveyor 2,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",9/20/1966,12:32:00,Atlas-LV3C Centaur-D,2050000,TRUE
+KH-7 Gambit 4032,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",9/16/1966,17:59:00,Atlas-SLV3 Agena-D,11720000,TRUE
+Gemini XI,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",9/12/1966,14:42:00,Titan II GLV,15400000,TRUE
+GATV 5006,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",9/12/1966,13:05:00,Atlas-SLV3 Agena-D,9850000,TRUE
+"IDCSP-1 8-14, GGTS-2",Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",8/26/1966,13:59:00,Titan IIIC,14910000,FALSE
+AS-202,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",8/25/1966,17:15:00,Saturn IB,11340000,TRUE
+Midas 11,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",8/19/1966,19:30:00,Atlas-SLV3 Agena-D,22550000,TRUE
+KH-7 Gambit 4031,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",8/16/1966,18:30:00,Atlas-SLV3 Agena-D,21520000,TRUE
+Lunar Orbiter 1,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",8/10/1966,19:26:00,Atlas-SLV3 Agena-D,3790000,TRUE
+Gemini X,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",7/18/1966,22:20:00,Titan II GLV,10030000,TRUE
+GATV 5005,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",7/18/1966,20:39:00,Atlas-SLV3 Agena-D,8160000,TRUE
+OV1-7/OV1-8,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA",7/14/1966,2:10:00,Atlas-D OV1,4480000,FALSE
+KH-7 Gambit 4030,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",7/12/1966,17:57:00,Atlas-SLV3 Agena-D,24460000,TRUE
+AS-203,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",7/5/1966,14:53:00,Saturn IB,6530000,TRUE
+OPS 9311-9317 & GGTS-1,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",6/16/1966,14:00:00,Titan IIIC,23410000,TRUE
+Midas 10,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",6/9/1966,20:15:00,Atlas-SLV3 Agena-D,18640000,FALSE
+OGO-3,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",6/7/1966,2:48:00,Atlas-SLV3 Agena-B,9590000,TRUE
+KH-7 Gambit 4029,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",6/3/1966,19:25:00,Atlas-SLV3 Agena-D,16400000,TRUE
+Gemini IX-A,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",6/3/1966,13:39:00,Titan II GLV,10210000,FALSE
+ATDA,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",6/1/1966,15:00:00,Atlas SLV-3,3310000,TRUE
+Surveyor 1,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",5/30/1966,14:41:00,Atlas-LV3C Centaur-D,10960000,TRUE
+GATV 5004,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",5/17/1966,15:15:00,Atlas-SLV3 Agena-D,18800000,FALSE
+Gemini VIII,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",5/16/1966,16:41:00,Titan II GLV,10370000,FALSE
+KH-7 Gambit 4028,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",5/14/1966,18:30:00,Atlas-SLV3 Agena-D,24200000,TRUE
+KH-7 Gambit 4027,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",4/19/1966,19:12:00,Atlas-SLV3 Agena-D,22500000,TRUE
+OAO-1,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",4/8/1966,19:35:00,Atlas-SLV3B Agena-D,24880000,TRUE
+Surveyor Model-3,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",4/8/1966,1:00:00,Atlas-LV3C Centaur-D,5760000,FALSE
+OV1-4/OV1-5,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA",3/30/1966,9:20:00,Atlas-D OV1,14340000,TRUE
+KH-7 Gambit 4026,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",3/18/1966,20:30:00,Atlas-SLV3 Agena-D,12200000,TRUE
+GATV 5003,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",3/16/1966,15:00:00,Atlas-SLV3 Agena-D,18490000,TRUE
+AS-201,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",2/26/1966,16:12:00,Saturn IB,12490000,TRUE
+KH-7 Gambit 4025,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",2/15/1966,13:04:00,Atlas-SLV3 Agena-D,21580000,TRUE
+KH-7 Gambit 4024,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",1/19/1966,20:10:00,Atlas-SLV3 Agena-D,2440000,TRUE
+"LES 3 & 4, OV2-3, OSCAR-4",Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",12/21/1965,14:00:00,Titan IIIC,16750000,FALSE
+Gemini VI-A,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",12/15/1965,13:37:00,Titan II GLV,24230000,TRUE
+Gemini VII,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",12/4/1965,19:30:00,Titan II GLV,2920000,TRUE
+KH-7 Gambit 4023,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",11/8/1965,19:26:00,Atlas-SLV3 Agena-D,23180000,TRUE
+GATV 5002,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",10/25/1965,15:00:00,Atlas-SLV3 Agena-D,11940000,FALSE
+LCS-2 & OV2-1,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",10/15/1965,17:23:00,Titan IIIC,21100000,FALSE
+OV1-2,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA",10/5/1965,9:07:00,Atlas-D OV1,19470000,TRUE
+KH-7 Gambit 4022,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",9/30/1965,19:20:00,Atlas-SLV3 Agena-D,19200000,TRUE
+Gemini V,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",8/21/1965,13:59:00,Titan II GLV,9400000,TRUE
+Surveyor SD-2,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",8/11/1965,14:31:00,Atlas-LV3C Centaur-D,17010000,TRUE
+KH-7 Gambit 4021,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",8/3/1965,19:12:00,Atlas-SLV3 Agena-D,23560000,TRUE
+A-105,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",7/30/1965,13:00:00,Saturn I,23660000,TRUE
+Vela 3A/3B,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",7/20/1965,8:27:00,Atlas-LV3 Agena-D,12770000,TRUE
+KH-7 Gambit 4020,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",7/12/1965,19:00:00,Atlas-SLV3 Agena-D,6990000,FALSE
+KH-7 Gambit 4019,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",6/25/1965,19:30:00,Atlas-SLV3 Agena-D,1780000,TRUE
+Transtage 5,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",6/18/1965,14:00:00,Titan IIIC,4130000,TRUE
+Gemini IV,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",6/3/1965,15:15:00,Titan II GLV,5750000,TRUE
+OV1-3,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA",5/28/1965,2:54:00,Atlas-D OV1,21370000,FALSE
+KH-7 Gambit 4018,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",5/27/1965,19:30:00,Atlas-SLV3 Agena-D,2180000,TRUE
+A-104,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",5/25/1965,7:35:00,Saturn I,9060000,TRUE
+KH-7 Gambit 4017,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",4/28/1965,20:17:00,Atlas-SLV3 Agena-D,11010000,TRUE
+SNAPSHOT,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",4/3/1965,21:25:00,Atlas-SLV3 Agena-D,22190000,TRUE
+Gemini 3,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",3/23/1965,14:24:00,Titan II GLV,5220000,TRUE
+Ranger 9,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",3/21/1965,21:37:00,Atlas-LV3 Agena-B,17720000,TRUE
+KH-7 Gambit 4016,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",3/12/1965,19:25:00,Atlas-SLV3 Agena-D,14260000,TRUE
+Surveyor-SD 1,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",3/2/1965,13:25:00,Atlas-LV3C Centaur-C,5730000,FALSE
+Ranger 8,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",2/17/1965,17:05:00,Atlas-LV3 Agena-B,10400000,TRUE
+A-103,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2/16/1965,14:37:00,Saturn I,23090000,TRUE
+KH-7 Gambit 4015,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",1/23/1965,20:09:00,Atlas-SLV3 Agena-D,23930000,TRUE
+OV1-1,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA",1/21/1965,20:09:00,Atlas-D OV1,8050000,FALSE
+Gemini 2,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1/19/1965,14:04:00,Titan II GLV,10730000,TRUE
+Surveyor-Model 1,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",12/11/1964,14:25:00,Atlas-LV3C Centaur-C,8790000,FALSE
+KH-7 Gambit 4014,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",12/4/1964,18:57:00,Atlas-SLV3 Agena-D,15260000,TRUE
+Mariner 4,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",11/28/1964,14:22:00,Atlas-LV3 Agena-D,11670000,TRUE
+Mariner 3,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",11/5/1964,19:22:00,Atlas-LV3 Agena-D,12500000,FALSE
+KH-7 Gambit 4013,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",10/23/1964,18:30:00,Atlas-LV3 Agena-D,3910000,TRUE
+KH-7 Gambit 4012,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",10/8/1964,20:00:00,Atlas-SLV3 Agena-D,24340000,FALSE
+KH-7 Gambit 4011,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",9/23/1964,13:10:00,Atlas-SLV3 Agena-D,2320000,TRUE
+A-102,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",9/18/1964,16:22:00,Saturn I,7480000,TRUE
+OGO 1,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",9/5/1964,1:23:00,Atlas-LV3 Agena-B,18430000,TRUE
+KH-7 Gambit 4010,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",8/14/1964,22:00:00,Atlas-SLV3 Agena-D,16800000,TRUE
+Ranger 7,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",7/28/1964,16:50:00,Atlas-LV3 Agena-B,13050000,TRUE
+Vela 2A/2B,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",7/17/1964,2:37:00,Atlas-LV3 Agena-D,5340000,TRUE
+KH-7 Gambit 4009,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",7/6/1964,18:51:00,Atlas-LV3 Agena-D,23790000,TRUE
+AC-3 (Test Vehicle),General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",6/30/1964,14:04:00,Atlas-LV3C Centaur-C,18350000,FALSE
+A-101,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",5/28/1964,17:07:00,Saturn I,19050000,TRUE
+KH-7 Gambit 4008,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",5/19/1964,19:21:00,Atlas-LV3 Agena-D,5140000,TRUE
+KH-7 Gambit 4007,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",4/23/1964,16:19:00,Atlas-LV3 Agena-D,17300000,TRUE
+Gemini 1,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",4/8/1964,16:01:00,Titan II GLV,4450000,TRUE
+KH-7 Gambit 4006,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",3/11/1964,20:14:00,Atlas-LV3 Agena-D,14290000,TRUE
+KH-7 Gambit 4005,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",2/25/1964,18:59:00,Atlas-LV3 Agena-D,6580000,TRUE
+Ranger 6,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",1/30/1964,15:49:00,Atlas-LV3 Agena-B,15720000,TRUE
+SA-5,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",1/29/1964,16:25:00,Saturn I,13480000,TRUE
+Explorer 19 (AD-A),NASA,"SLC-5, Vandenberg AFB, California, USA",12/19/1963,18:49:00,Scout X-4,16720000,TRUE
+KH-7 Gambit 4004,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",12/18/1963,21:45:00,Atlas-LV3 Agena-D,17530000,TRUE
+AC-2 (Test Vehicle),General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",11/27/1963,19:03:00,Atlas-LV3C Centaur-B,18640000,TRUE
+KH-7 Gambit 4003,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",10/25/1963,18:59:00,Atlas-LV3 Agena-D,1300000,TRUE
+Vela 1A/1B,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",10/17/1963,2:37:00,Atlas-LV3 Agena-D,16960000,TRUE
+KH-7 Gambit 4002,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",9/6/1963,19:30:00,Atlas-LV3 Agena-D,4650000,TRUE
+Midas 9,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",7/19/1963,3:51:00,Atlas-LV3 Agena-B,10880000,TRUE
+KH-7 Gambit 4001,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",7/12/1963,20:46:00,Atlas-LV3 Agena-D,3480000,TRUE
+Midas 8,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",6/12/1963,18:00:00,Atlas-LV3 Agena-B,3660000,FALSE
+Faith 7 (MA-9),NASA,"LC-14, Cape Canaveral AFS, Florida, USA",5/15/1963,13:04:00,Atlas-D Mercury,1550000,TRUE
+Midas 7,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",5/9/1963,20:06:00,Atlas-LV3 Agena-B,12870000,TRUE
+Midas 6,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",12/17/1962,20:36:00,Atlas-LV3 Agena-B,11150000,FALSE
+Explorer 16 (S-55B),NASA,"LA-3, Wallops Flight Facility, Virginia, USA",12/16/1962,14:33:00,Scout X-3,4620000,TRUE
+Samos 11,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",11/11/1962,20:17:00,Atlas-LV3 Agena-B,12260000,TRUE
+Ranger 5,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",10/18/1962,16:59:00,Atlas-LV3 Agena-B,3610000,TRUE
+Sigma 7 (MA-8),NASA,"LC-14, Cape Canaveral AFS, Florida, USA",10/3/1962,9:13:00,Atlas-D Mercury,18440000,TRUE
+Mariner 2,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",8/27/1962,6:53:00,Atlas-LV3 Agena-B,19900000,TRUE
+Samos 10,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",8/5/1962,17:59:00,Atlas-LV3 Agena-B,15800000,TRUE
+Mariner 1,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",7/22/1962,9:21:00,Atlas-LV3 Agena-B,20760000,FALSE
+Samos 9,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",7/18/1962,20:15:00,Atlas-LV3 Agena-B,7820000,TRUE
+Samos 8,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",6/17/1962,18:14:00,Atlas-LV3 Agena-B,2180000,TRUE
+Aurora 7 (MA-7),NASA,"LC-14, Cape Canaveral AFS, Florida, USA",5/24/1962,12:45:00,Atlas-D Mercury,17790000,TRUE
+AC-1 (Test Vehicle),General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",5/8/1962,19:49:00,Atlas-LV3C Centaur-A,15930000,FALSE
+Samos 7,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",4/26/1962,18:56:00,Atlas-LV3 Agena-B,11880000,TRUE
+Solrad 4B,NASA,"LA-3, Wallops Flight Facility, Virginia, USA",4/26/1962,10:49:00,Scout X-2,18240000,FALSE
+Ranger 4,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",4/23/1962,20:50:00,Atlas-LV3 Agena-B,12700000,TRUE
+Midas 5,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",4/9/1962,15:04:00,Atlas-LV3 Agena-B,5350000,TRUE
+Samos 6,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",3/7/1962,22:10:00,Atlas-LV3 Agena-B,3980000,TRUE
+Friendship 7 (MA-6),NASA,"LC-14, Cape Canaveral AFS, Florida, USA",2/20/1962,14:47:00,Atlas-D Mercury,10980000,TRUE
+Ranger 3,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",1/26/1962,20:30:00,Atlas-LV3 Agena-B,12770000,FALSE
+Samos 5,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",12/22/1961,19:12:00,Atlas-LV3 Agena-B,23400000,FALSE
+Mercury-Atlas 5 (MA-5),NASA,"LC-14, Cape Canaveral AFS, Florida, USA",11/29/1961,15:08:00,Atlas-D Mercury,4240000,TRUE
+Samos 4,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",11/22/1961,20:45:00,Atlas-LV3 Agena-B,1240000,FALSE
+Ranger 2,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",11/18/1961,8:12:00,Atlas-LV3 Agena-B,16910000,FALSE
+Mercury-Scout 1 (MS-1),NASA,"LC-18B, Cape Canaveral AFS, Florida, USA",11/1/1961,15:32:00,Blue Scout II,9140000,FALSE
+Midas 4,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",10/21/1961,13:53:00,Atlas-LV3 Agena-B,12520000,FALSE
+Mercury-Atlas 4 (MA-4),NASA,"LC-14, Cape Canaveral AFS, Florida, USA",9/13/1961,14:04:00,Atlas-D Mercury,6390000,TRUE
+Samos 3,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",9/9/1961,19:28:00,Atlas-LV3 Agena-B,6250000,FALSE
+Explorer 13,NASA,"LA-3, Wallops Flight Facility, Virginia, USA",8/25/1961,18:29:00,Scout X-1,15100000,FALSE
+Ranger 1,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",8/23/1961,10:04:00,Atlas-LV3 Agena-B,11790000,FALSE
+Liberty Bell 7 (MR-4),NASA,"LC-5, Cape Canaveral AFS, Florida, USA",7/21/1961,12:36:00,Mercury-Redstone,3150000,TRUE
+Midas 3,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",7/12/1961,15:11:00,Atlas-LV3 Agena-B,16820000,TRUE
+Explorer (S-55),NASA,"LA-3, Wallops Flight Facility, Virginia, USA",6/30/1961,17:09:00,Scout X-1,17240000,FALSE
+Freedom 7 (MR-3),NASA,"LC-5, Cape Canaveral AFS, Florida, USA",5/5/1961,14:34:00,Mercury-Redstone,6780000,TRUE
+Mercury-Atlas 3 (MA-3),NASA,"LC-14, Cape Canaveral AFS, Florida, USA",4/25/1961,16:15:00,Atlas-D Mercury,6040000,FALSE
+Mercury-Redstone BD (MR-BD),NASA,"LC-5, Cape Canaveral AFS, Florida, USA",3/24/1961,17:30:00,Mercury-Redstone,18290000,TRUE
+Mercury-Atlas 2 (MA-2),NASA,"LC-14, Cape Canaveral AFS, Florida, USA",2/21/1961,14:12:00,Atlas-D Mercury,6830000,TRUE
+Explorer 9 (S-56A),NASA,"LA-3, Wallops Flight Facility, Virginia, USA",2/16/1961,13:05:00,Scout X-1,11110000,TRUE
+Samos 2,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",1/31/1961,20:21:00,Atlas-LV3 Agena-A,19890000,TRUE
+Mercury-Redstone 2 (MR-2),NASA,"LC-5, Cape Canaveral AFS, Florida, USA",1/31/1961,16:55:00,Mercury-Redstone,12200000,TRUE
+Mercury-Redstone 1A (MR-1A),NASA,"LC-5, Cape Canaveral AFS, Florida, USA",12/19/1960,16:15:00,Mercury-Redstone,11180000,TRUE
+Pioneer P-31,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",12/15/1960,9:10:00,Atlas-D Able,3940000,FALSE
+Explorer (S-56),NASA,"LA-3, Wallops Flight Facility, Virginia, USA",12/4/1960,21:14:00,Scout X-1,12190000,FALSE
+Mercury-Redstone 1 (MR-1),NASA,"LC-5, Cape Canaveral AFS, Florida, USA",11/21/1960,14:00:00,Mercury-Redstone,19790000,FALSE
+Samos 1,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",10/11/1960,20:33:00,Atlas-LV3 Agena-A,21590000,FALSE
+Pioneer P-30,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",9/25/1960,15:13:00,Atlas-D Able,7960000,FALSE
+Mercury-Atlas 1 (MA-1),NASA,"LC-14, Cape Canaveral AFS, Florida, USA",7/29/1960,13:13:00,Atlas-D Mercury,24740000,FALSE
+Midas 2,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",5/24/1960,17:36:00,Atlas-LV3 Agena-A,15410000,TRUE
+Midas 1,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",2/26/1960,17:25:00,Atlas-LV3 Agena-A,22990000,FALSE
+Pioneer P-3,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",11/26/1959,7:26:00,Atlas-D Able,7140000,FALSE
+Big Joe 1,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",9/9/1959,8:19:00,Atlas-D Mercury,12210000,FALSE
+Pioneer 2,NASA,"SLC-17A, Cape Canaveral AFS, Florida, USA",11/8/1958,7:30:00,Thor-DM 18 Able I,22820000,FALSE
+Pioneer 1,NASA,"SLC-17A, Cape Canaveral AFS, Florida, USA",10/11/1958,8:42:00,Thor-DM 18 Able I,5160000,FALSE
