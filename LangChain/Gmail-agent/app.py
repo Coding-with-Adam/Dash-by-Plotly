@@ -28,7 +28,6 @@ api_resource = build_resource_service(credentials=credentials)
 toolkit = GmailToolkit(api_resource=api_resource)
 
 tools = toolkit.get_tools()
-print(tools)
 
 # Use the LLM -------------------------------------------------------------
 instructions = """You are an assistant that creates email drafts."""
