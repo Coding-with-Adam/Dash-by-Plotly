@@ -10,7 +10,7 @@ import os
 dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # Create a .env file and write: OPENAI_API_KEY="insert-your-openai-token"
-llm = ChatOpenAI(model_name="gpt-4o", openai_api_key=OPENAI_API_KEY)
+llm = ChatOpenAI(model_name="gpt-4o", openai_api_key='OPENAI_API_KEY')
 
 # data from https://www.kaggle.com/datasets/nelgiriyewithana/world-stock-prices-daily-updating
 df_stocks = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/LangChain/Agents/Pandas-Agent/World-Stock-Prices-Data-small.csv")
