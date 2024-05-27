@@ -13,7 +13,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # Create a .env file and write: OP
 llm = ChatOpenAI(model_name="gpt-4o", openai_api_key=OPENAI_API_KEY)
 
 # data from https://www.kaggle.com/datasets/nelgiriyewithana/world-stock-prices-daily-updating
-df_stocks = pd.read_csv("")
+df_stocks = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/LangChain/Agents/Pandas-Agent/World-Stock-Prices-Data-small.csv")
 df_stocks['Date'] = pd.to_datetime(df_stocks['Date'], utc=True)
 df_stocks['Date'] = df_stocks['Date'].dt.date
 
