@@ -4,18 +4,18 @@ from dash import Dash, html, dcc, callback, Input, Output
 import dash_bootstrap_components as dbc
 import plotly.express as px
 import pandas as pd
-from dotenv import find_dotenv, load_dotenv
+from dotenv import load_dotenv
 import os
-
 dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # Create a .env file and write: OPENAI_API_KEY="insert-your-openai-token"
-llm = ChatOpenAI(model_name="gpt-4o", openai_api_key='OPENAI_API_KEY')
+llm = ChatOpenAI(model_name="gpt-4o", openai_api_key=OPENAI_API_KEY)
 
 # data from https://www.kaggle.com/datasets/nelgiriyewithana/world-stock-prices-daily-updating
 df_stocks = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/LangChain/Agents/Pandas-Agent/World-Stock-Prices-Data-small.csv")
 df_stocks['Date'] = pd.to_datetime(df_stocks['Date'], utc=True)
 df_stocks['Date'] = df_stocks['Date'].dt.date
+
 
 app = Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = [
@@ -51,7 +51,8 @@ def activate_agent(stocks_chosen):
 def activate_agent(stocks_chosen):
     # Use pandas agent to analyze the dataset
     df = df_stocks[df_stocks['Ticker'].isin(stocks_chosen)]
-    agent = create_pandas_dataframe_agent(llm, df,
+    agent = create_pandas_dataframe_agent(llm=llm, 
+                                          df=df,
                                           max_iterations=2,
                                           verbose=True,
                                           agent_type="tool-calling",
