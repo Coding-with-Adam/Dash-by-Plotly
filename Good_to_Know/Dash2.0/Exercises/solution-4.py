@@ -18,7 +18,7 @@ dropdown = dcc.Dropdown(options=['Bar Plot', 'Scatter Plot'],
                         clearable=False)
 myalert = dmc.Alert(children="Scatter plot is not the best graph for these data!")
 
-app.layout = dbc.Container([mytitle, myalert, mygraph, dropdown])
+app.layout = dmc.MantineProvider([mytitle, myalert, mygraph, dropdown])
 
 # Callback allows components to interact
 @app.callback(
